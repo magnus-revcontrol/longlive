@@ -30,7 +30,7 @@ url: "magnus-opus.xyz" # the base hostname & protocol for your site, e.g. http:/
 github_username:  magnus-opus
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 

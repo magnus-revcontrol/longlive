@@ -24,7 +24,7 @@ repository: magnus-revcontrol/longlive
 email: magnus@magnus-opus.xyz
 description: >- # this means to ignore newlines until "baseurl:"
   THE CONSTITUTION IS FALLEN! LONG LIVE THE CONSTITUTION!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "magnus-opus.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  magnus-opus

@@ -28,7 +28,7 @@ url: "magnus-opus.xyz" # the base hostname & protocol for your site, e.g. http:/
 github_username:  magnus-opus
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 

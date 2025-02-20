@@ -21,5 +21,5 @@ To help spread the word, contact your state legislature and tell them, THE CONST
 
 _Coming soon:_ Scripts, templates, and **swag**!
 
-THE CONSTITUTION IS FALLEN
+THE CONSTITUTION IS FALLEN  
 LONG LIVE THE CONSTITUTION

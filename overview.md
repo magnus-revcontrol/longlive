@@ -1,14 +1,14 @@
 Project Magnus Opus
 
-The encouraging the citizens of the State of Washington (and all other states and US Territories) to contact their state legislatures and governors to encourage them to vote to agree to a Declaration of Independence from the usurped and unconstitutional Trump Presidency; and the joining into a new nation with constitution being the US Constitution and Amendments thereto existing prior to Trump's inauguration and to propose a Constitution to be adopted upon ratification (vote to maintain old US Constitution or adapt modified new Constitution.)
+The encouraging the citizens of the State of Washington (and all other states and US Territories) to contact their state legislatures and governors to encourage them to vote to agree to a Declaration of Independence ([example](../docs/declaration)) from the _usurped and unconstitutional_ Trump Presidency; and the joining into a new nation with constitution being the US Constitution and Amendments thereto existing prior to Trump's inauguration and to propose a Constitution to be adopted upon ratification (vote to maintain old US Constitution or adapt modified new Constitution.)
 
-The reasons given including that Trumps inauguration was unconstitutional, and that he has used undo  and illegal influence to corrupt both the Judicial and Legislative branches of the US Government leading to the fall of the rule of law under the conditions of the US Constitution.
+The reasons given including that Trumps inauguration was unconstitutional, and that he has used undo  and illegal influence to corrupt both the Judicial and Legislative branches of the US Government leading to the fall of the rule of law under the conditions of the US Constitution. The Constitution is fallen. **LONG LIVE THE CONSTITUTION.**
 
 Proper action by the US government would have been the immediate impeachment and removal of Mr Trump from office, and as his entire second presidency is in violation of the constitution the voiding of all Trump executive orders, nominations, appointments, terminations, etc.
 
-That this is not likely to occur under current circumstances necessitates the secession of states from the US in an effort to induce the existing US Legislature to take right and proper action, and to return to the citizens those freedoms and that rule of law rightfully guaranteed under the Constitution.
+Right and proper action from the citizenry is readily apparent from this nation's own historical founding. That right action by the federal judiciary and houses of congress is not likely to occur under current circumstances necessitates the secession of states from the US in an effort to induce the existing US Legislature to take right and proper action, and to return to the citizens those freedoms and that rule of law rightfully guaranteed under the Constitution. It is encumbant upon the state legislatures and governors to take action.
 
-The mission of this would be rendered non requisite and the project will be considered successfully completed if:  
+The mission of this project would be rendered non requisite and the project will be considered successfully completed if:  
 A.  
   1. The US Legislature impeaches Trump, and removes him from the office of the Presidency.
   2. The Trump second presidency is ruled unconstitutional and all actions taken since inauguration rolled back, including the termination and hiring of all positions at any level, the striking of all Executive Orders since Trump's second inauguration.

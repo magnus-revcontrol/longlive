@@ -1,6 +1,11 @@
+---
+layout: page
+title: Overview
+permalink: /overview/
+---
 Project Magnus Opus
 
-The encouraging the citizens of the State of Washington (and all other states and US Territories) to contact their state legislatures and governors to encourage them to vote to agree to a Declaration of Independence ([example](../docs/declaration)) from the _usurped and unconstitutional_ Trump Presidency; and the joining into a new nation with constitution being the US Constitution and Amendments thereto existing prior to Trump's inauguration and to propose a Constitution to be adopted upon ratification (vote to maintain old US Constitution or adapt modified new Constitution.)
+Magnus-Opus.xyz is encouraging the citizens of the State of Washington (and all other states and US Territories) to contact their state legislatures and governors to encourage them to vote to agree to a Declaration of Independence ([example](../docs/declaration)) from the _usurped and unconstitutional_ Trump Presidency; and the joining into a new nation with constitution being the US Constitution and Amendments thereto existing prior to Trump's inauguration and to propose a Constitution to be adopted upon ratification (vote to maintain old US Constitution or adapt modified new Constitution.)
 
 The reasons given including that Trumps inauguration was unconstitutional, and that he has used undo  and illegal influence to corrupt both the Judicial and Legislative branches of the US Government leading to the fall of the rule of law under the conditions of the US Constitution. The Constitution is fallen. **LONG LIVE THE CONSTITUTION.**
 

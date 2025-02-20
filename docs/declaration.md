@@ -1,3 +1,9 @@
+---
+layout: page
+title: Declaration
+permalink: /declaration/
+---
+
 > Magnus-Opus.xyz provides the following as a template for what a declaration of independence might be based upon. As seems appropriate, this document is largely based upon the US Declaration of Independence (1776). It is meant to provide a template for 'The Cascade Coalition' (or whatever it will end up being referred to as) states: California, Oregon, and Washington; however it should function as a template for all states and territories formerly of the United States of America.
 
 In State Legislative Assembly, dated:  

@@ -2,6 +2,8 @@
 layout: home
 title: Home
 ---
+* TOC
+{:toc}
 THE CONSTITUTION IS FALLEN  
 LONG LIVE THE CONSTITUTION  
 

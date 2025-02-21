@@ -1,3 +1,5 @@
+_Additional formating in progress_
+
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
@@ -46,49 +48,49 @@ Párrafo reformado DOF 30-09-2024
 Se reconoce a los pueblos y comunidades indígenas como sujetos de derecho público con personalidad jurídica y patrimonio propio.
 Párrafo adicionado DOF 30-09-2024
 
-A. 	Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía para:
+A.   Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía para:
 
-I.	Decidir, conforme a sus sistemas normativos y de acuerdo con esta Constitución, sus formas internas de gobierno, de convivencia y de organización social, económica, política y cultural.
+I.  Decidir, conforme a sus sistemas normativos y de acuerdo con esta Constitución, sus formas internas de gobierno, de convivencia y de organización social, económica, política y cultural.
 Fracción reformada DOF 30-09-2024
 
-II.	Aplicar y desarrollar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de esta Constitución, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres. La ley establecerá los casos y procedimientos de validación por los jueces o tribunales correspondientes.
+II.  Aplicar y desarrollar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de esta Constitución, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres. La ley establecerá los casos y procedimientos de validación por los jueces o tribunales correspondientes.
 
 La jurisdicción indígena se ejercerá por las autoridades comunitarias de acuerdo con los sistemas normativos de los pueblos y comunidades indígenas, dentro del marco del orden jurídico vigente, en los términos de esta Constitución y leyes aplicables.
 Fracción reformada DOF 30-09-2024
 
-III.	Elegir de acuerdo con sus sistemas normativos a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas disfrutarán y ejercerán su derecho de votar y ser votados en condiciones de igualdad; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal, la soberanía de los Estados y la autonomía de la Ciudad de México. En ningún caso, sus sistemas normativos limitarán los derechos político-electorales de los y las ciudadanas en la elección de sus autoridades municipales.
+III.  Elegir de acuerdo con sus sistemas normativos a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas disfrutarán y ejercerán su derecho de votar y ser votados en condiciones de igualdad; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal, la soberanía de los Estados y la autonomía de la Ciudad de México. En ningún caso, sus sistemas normativos limitarán los derechos político-electorales de los y las ciudadanas en la elección de sus autoridades municipales.
 Fracción reformada DOF 22-05-2015, 29-01-2016, 30-09-2024
 
-IV.	Preservar, proteger y desarrollar su patrimonio cultural, material e inmaterial, que comprende todos los elementos que constituyen su cultura e identidad. Se reconoce la propiedad intelectual colectiva respecto de dicho patrimonio, en los términos que dispongan las leyes.
+IV.  Preservar, proteger y desarrollar su patrimonio cultural, material e inmaterial, que comprende todos los elementos que constituyen su cultura e identidad. Se reconoce la propiedad intelectual colectiva respecto de dicho patrimonio, en los términos que dispongan las leyes.
 Fracción reformada DOF 30-09-2024
 
-V.	Promover el uso, desarrollo, preservación, estudio y difusión de las lenguas indígenas como un elemento constitutivo de la diversidad cultural de la Nación, así como una política lingüística multilingüe que permita su uso en los espacios públicos y en los privados que correspondan.
+V.  Promover el uso, desarrollo, preservación, estudio y difusión de las lenguas indígenas como un elemento constitutivo de la diversidad cultural de la Nación, así como una política lingüística multilingüe que permita su uso en los espacios públicos y en los privados que correspondan.
 Fracción adicionada DOF 30-09-2024
 
-VI.	Participar, en términos del artículo 3o. constitucional, en la construcción de los modelos educativos para reconocer la composición pluricultural de la Nación con base en sus culturas, lenguas y métodos de enseñanza y aprendizaje.
+VI.  Participar, en términos del artículo 3o. constitucional, en la construcción de los modelos educativos para reconocer la composición pluricultural de la Nación con base en sus culturas, lenguas y métodos de enseñanza y aprendizaje.
 Fracción adicionada DOF 30-09-2024
 
-VII.	Desarrollar, practicar, fortalecer y promover la medicina tradicional, así como la partería para la atención del embarazo, parto y puerperio. Se reconoce a las personas que las ejercen, incluidos sus saberes y prácticas de salud.
+VII.  Desarrollar, practicar, fortalecer y promover la medicina tradicional, así como la partería para la atención del embarazo, parto y puerperio. Se reconoce a las personas que las ejercen, incluidos sus saberes y prácticas de salud.
 Fracción adicionada DOF 30-09-2024
 
-VIII.	Conservar y mejorar el hábitat, y preservar la bioculturalidad y la integridad de sus tierras, incluidos sus lugares sagrados declarados por la autoridad competente, de conformidad con las disposiciones jurídicas aplicables en la materia.
+VIII.  Conservar y mejorar el hábitat, y preservar la bioculturalidad y la integridad de sus tierras, incluidos sus lugares sagrados declarados por la autoridad competente, de conformidad con las disposiciones jurídicas aplicables en la materia.
 Fracción reformada y recorrida (antes fracción V) DOF 30-09-2024
 
-IX.	Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en esta Constitución y a las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquellos que corresponden a las áreas estratégicas, en términos de esta Constitución. Para estos efectos las comunidades podrán asociarse en términos de ley.
+IX.  Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en esta Constitución y a las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquellos que corresponden a las áreas estratégicas, en términos de esta Constitución. Para estos efectos las comunidades podrán asociarse en términos de ley.
 Fracción recorrida (antes fracción VI) DOF 30-09-2024
 
-X.	Elegir, en los municipios con población indígena, representantes en los ayuntamientos, de acuerdo con los principios de paridad de género y pluriculturalidad conforme a las normas aplicables. Las constituciones y leyes de las entidades federativas reconocerán y regularán estos derechos, con el propósito de fortalecer su participación y representación política.
+X.  Elegir, en los municipios con población indígena, representantes en los ayuntamientos, de acuerdo con los principios de paridad de género y pluriculturalidad conforme a las normas aplicables. Las constituciones y leyes de las entidades federativas reconocerán y regularán estos derechos, con el propósito de fortalecer su participación y representación política.
 Fracción reformada DOF 06-06-2019. Reformada y recorrida (antes fracción VII) DOF 30-09-2024
 
-XI.	Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus sistemas normativos y especificidades culturales con respeto a los preceptos de esta Constitución.
+XI.  Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus sistemas normativos y especificidades culturales con respeto a los preceptos de esta Constitución.
 
 Las personas indígenas tienen, en todo tiempo, el derecho a ser asistidas y asesoradas por personas intérpretes, traductoras, defensoras y peritas especializadas en derechos indígenas, pluralismo jurídico, perspectiva de género, y diversidad cultural y lingüística.
 Fracción reformada y recorrida (antes fracción VIII) DOF 30-09-2024
 
-XII.	Ejercer su derecho al desarrollo integral con base en sus formas de organización económica, social y cultural, con respeto a la integridad del medio ambiente y recursos naturales en términos de las disposiciones jurídicas aplicables.
+XII.  Ejercer su derecho al desarrollo integral con base en sus formas de organización económica, social y cultural, con respeto a la integridad del medio ambiente y recursos naturales en términos de las disposiciones jurídicas aplicables.
 Fracción adicionada DOF 30-09-2024
 
-XIII.	Ser consultados sobre las medidas legislativas o administrativas que se pretendan adoptar, cuando estas puedan causar afectaciones o impactos significativos en su vida o entorno, con la finalidad de obtener su consentimiento o, en su caso, llegar a un acuerdo sobre tales medidas.
+XIII.  Ser consultados sobre las medidas legislativas o administrativas que se pretendan adoptar, cuando estas puedan causar afectaciones o impactos significativos en su vida o entorno, con la finalidad de obtener su consentimiento o, en su caso, llegar a un acuerdo sobre tales medidas.
 
 Las consultas indígenas se realizarán de conformidad con principios y normas que garanticen el respeto y el ejercicio efectivo de los derechos sustantivos de los pueblos indígenas reconocidos en esta Constitución.
 
@@ -100,79 +102,79 @@ Los pueblos y comunidades indígenas son los únicos legitimados para impugnar, 
 Fracción adicionada DOF 30-09-2024
 Reforma DOF 30-09-2024: Derogó del Apartado A el entonces párrafo segundo
 
-B. 	La Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, deberán establecer las instituciones y determinar las políticas públicas que garanticen el ejercicio efectivo de los derechos de los pueblos indígenas y su desarrollo integral, intercultural y sostenible, las cuales deben ser diseñadas y operadas conjuntamente con ellos.
+B.   La Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, deberán establecer las instituciones y determinar las políticas públicas que garanticen el ejercicio efectivo de los derechos de los pueblos indígenas y su desarrollo integral, intercultural y sostenible, las cuales deben ser diseñadas y operadas conjuntamente con ellos.
 Párrafo reformado DOF 29-01-2016, 30-09-2024
 
 Para tal efecto, dichas autoridades tienen la obligación de:
 Párrafo reformado DOF 30-09-2024
 
-I.	Impulsar el desarrollo comunitario y regional de los pueblos y comunidades indígenas, para mejorar sus condiciones de vida y bienestar común, mediante planes de desarrollo que fortalezcan sus economías y fomenten la agroecología, los cultivos tradicionales, en especial el sistema milpa, las semillas nativas, los recursos agroalimentarios y el óptimo uso de la tierra, libres del uso de sustancias peligrosas y productos químicos tóxicos.
+I.  Impulsar el desarrollo comunitario y regional de los pueblos y comunidades indígenas, para mejorar sus condiciones de vida y bienestar común, mediante planes de desarrollo que fortalezcan sus economías y fomenten la agroecología, los cultivos tradicionales, en especial el sistema milpa, las semillas nativas, los recursos agroalimentarios y el óptimo uso de la tierra, libres del uso de sustancias peligrosas y productos químicos tóxicos.
 
 La ley establecerá los mecanismos que faciliten la organización y desarrollo de las economías de los pueblos y comunidades indígenas, y reconocerá el trabajo comunitario como parte de su organización social y cultural.
 Fracción reformada DOF 30-09-2024
 
-II.	Determinar, mediante normas y criterios compensatorios, equitativos, justos y proporcionales, asignaciones presupuestales para los pueblos y comunidades indígenas, que serán administradas directamente por estos.
+II.  Determinar, mediante normas y criterios compensatorios, equitativos, justos y proporcionales, asignaciones presupuestales para los pueblos y comunidades indígenas, que serán administradas directamente por estos.
 Fracción adicionada DOF 30-09-2024
 
-III.	Adoptar las medidas necesarias para reconocer y proteger el patrimonio cultural, la propiedad intelectual colectiva, los conocimientos y las expresiones culturales tradicionales de los pueblos y comunidades indígenas, en los términos que establezca la ley.
+III.  Adoptar las medidas necesarias para reconocer y proteger el patrimonio cultural, la propiedad intelectual colectiva, los conocimientos y las expresiones culturales tradicionales de los pueblos y comunidades indígenas, en los términos que establezca la ley.
 Fracción adicionada DOF 30-09-2024
 
-IV.	Garantizar y fortalecer la educación indígena intercultural y plurilingüe, mediante:
+IV.  Garantizar y fortalecer la educación indígena intercultural y plurilingüe, mediante:
 
-a)	La alfabetización y la educación en todos los niveles, gratuita, integral y con pertinencia cultural y lingüística;
+a)  La alfabetización y la educación en todos los niveles, gratuita, integral y con pertinencia cultural y lingüística;
 
-b)	La formación de profesionales indígenas y la implementación de la educación comunitaria;
+b)  La formación de profesionales indígenas y la implementación de la educación comunitaria;
 
-c)	El establecimiento de un sistema de becas para las personas indígenas que cursen cualquier nivel educativo;
+c)  El establecimiento de un sistema de becas para las personas indígenas que cursen cualquier nivel educativo;
 
-d)	La promoción de programas educativos bilingües, en concordancia con los métodos de enseñanza y aprendizaje de los pueblos y comunidades indígenas, y
+d)  La promoción de programas educativos bilingües, en concordancia con los métodos de enseñanza y aprendizaje de los pueblos y comunidades indígenas, y
 
-e)	La definición y desarrollo de programas educativos que reconozcan e impulsen la herencia cultural de los pueblos y comunidades indígenas y su importancia para la Nación; así como, la promoción de una relación intercultural, de no discriminación y libre de racismo.
+e)  La definición y desarrollo de programas educativos que reconozcan e impulsen la herencia cultural de los pueblos y comunidades indígenas y su importancia para la Nación; así como, la promoción de una relación intercultural, de no discriminación y libre de racismo.
 Fracción reformada con incisos y recorrida (antes fracción II) DOF 30-09-2024
 
-V.	Asegurar el acceso efectivo a los servicios de salud mediante la ampliación de la cobertura del sistema nacional con perspectiva intercultural, así como reconocer las prácticas de la medicina tradicional.
+V.  Asegurar el acceso efectivo a los servicios de salud mediante la ampliación de la cobertura del sistema nacional con perspectiva intercultural, así como reconocer las prácticas de la medicina tradicional.
 Fracción reformada y recorrida (antes fracción III) DOF 30-09-2024
 
-VI.	Garantizar el derecho a la alimentación nutritiva, suficiente y de calidad con pertinencia cultural, en especial para la población infantil.
+VI.  Garantizar el derecho a la alimentación nutritiva, suficiente y de calidad con pertinencia cultural, en especial para la población infantil.
 Fracción adicionada DOF 30-09-2024
 
-VII.	Mejorar las condiciones de vida de los pueblos y comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que garanticen el acceso al financiamiento para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos, en armonía con su entorno natural y cultural, sus conocimientos y tecnologías tradicionales.
+VII.  Mejorar las condiciones de vida de los pueblos y comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que garanticen el acceso al financiamiento para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos, en armonía con su entorno natural y cultural, sus conocimientos y tecnologías tradicionales.
 Fracción reformada y recorrida (antes fracción IV) DOF 30-09-2024
 
-VIII.	Garantizar la participación efectiva de las mujeres indígenas, en condiciones de igualdad, en los procesos de desarrollo integral de los pueblos y comunidades indígenas; su acceso a la educación, así como a la propiedad y posesión de la tierra; su participación en la toma de decisiones de carácter público, y la promoción y respeto de sus derechos humanos.
+VIII.  Garantizar la participación efectiva de las mujeres indígenas, en condiciones de igualdad, en los procesos de desarrollo integral de los pueblos y comunidades indígenas; su acceso a la educación, así como a la propiedad y posesión de la tierra; su participación en la toma de decisiones de carácter público, y la promoción y respeto de sus derechos humanos.
 Fracción reformada y recorrida (antes fracción V) DOF 30-09-2024
 
-IX. 	Garantizar y extender la red de comunicaciones que permita la articulación de los pueblos y comunidades indígenas, mediante la construcción y ampliación de vías de comunicación, caminos artesanales, radiodifusión, telecomunicación e Internet de banda ancha.
+IX.   Garantizar y extender la red de comunicaciones que permita la articulación de los pueblos y comunidades indígenas, mediante la construcción y ampliación de vías de comunicación, caminos artesanales, radiodifusión, telecomunicación e Internet de banda ancha.
 Fracción reformada y recorrida (antes fracción VI) DOF 30-09-2024
 
-X.	Establecer y garantizar las condiciones para que los pueblos y comunidades indígenas puedan adquirir, operar, promover, desarrollar y administrar sus medios de comunicación, telecomunicaciones y nuevas tecnologías de la información, garantizando espacios óptimos del espectro radioeléctrico y de las redes e infraestructura, haciendo uso de sus lenguas y otros elementos culturales.
+X.  Establecer y garantizar las condiciones para que los pueblos y comunidades indígenas puedan adquirir, operar, promover, desarrollar y administrar sus medios de comunicación, telecomunicaciones y nuevas tecnologías de la información, garantizando espacios óptimos del espectro radioeléctrico y de las redes e infraestructura, haciendo uso de sus lenguas y otros elementos culturales.
 Fracción adicionada DOF 30-09-2024
 
-XI.	Adoptar medidas para que los pueblos y comunidades indígenas accedan a los medios de comunicación e información en condiciones de dignidad, equidad e interculturalidad, sin discriminación alguna para que reflejen la diversidad cultural indígena.
+XI.  Adoptar medidas para que los pueblos y comunidades indígenas accedan a los medios de comunicación e información en condiciones de dignidad, equidad e interculturalidad, sin discriminación alguna para que reflejen la diversidad cultural indígena.
 Fracción adicionada DOF 30-09-2024
 
-XII.	Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la creación de empleos, la incorporación de tecnologías y sus sistemas tradicionales de producción, para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización.
+XII.  Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la creación de empleos, la incorporación de tecnologías y sus sistemas tradicionales de producción, para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización.
 Fracción reformada y recorrida (antes fracción VII) DOF 30-09-2024
 
-XIII.	Establecer políticas públicas para proteger a las comunidades y personas indígenas migrantes, tanto en el territorio nacional como en el extranjero, en especial, mediante acciones destinadas a:
+XIII.  Establecer políticas públicas para proteger a las comunidades y personas indígenas migrantes, tanto en el territorio nacional como en el extranjero, en especial, mediante acciones destinadas a:
 
-a)	Reconocer las formas organizativas de las comunidades indígenas residentes y de las personas indígenas migrantes en sus contextos de destino en el territorio nacional;
+a)  Reconocer las formas organizativas de las comunidades indígenas residentes y de las personas indígenas migrantes en sus contextos de destino en el territorio nacional;
 
-b)	Garantizar los derechos laborales de las personas jornaleras agrícolas, trabajadoras del hogar y con discapacidad;
+b)  Garantizar los derechos laborales de las personas jornaleras agrícolas, trabajadoras del hogar y con discapacidad;
 
-c)	Mejorar las condiciones de salud de las mujeres, así como apoyar con programas especiales de educación y nutrición a niñas, niños, adolescentes y jóvenes de familias migrantes;
+c)  Mejorar las condiciones de salud de las mujeres, así como apoyar con programas especiales de educación y nutrición a niñas, niños, adolescentes y jóvenes de familias migrantes;
 
-d)	Velar permanentemente por el respeto de sus derechos humanos, y
+d)  Velar permanentemente por el respeto de sus derechos humanos, y
 
-e)	Promover, con pleno respeto a su identidad, la difusión de sus culturas y la inclusión social en los lugares de destino que propicien acciones de fortalecimiento del vínculo familiar y comunitario.
+e)  Promover, con pleno respeto a su identidad, la difusión de sus culturas y la inclusión social en los lugares de destino que propicien acciones de fortalecimiento del vínculo familiar y comunitario.
 
 La ley establecerá los mecanismos para que las personas indígenas residentes y las migrantes, puedan mantener la ciudadanía mexicana y el vínculo con sus comunidades de origen.
 Fracción reformada con incisos y recorrida (antes fracción VIII) DOF 30-09-2024
 
-XIV.	Consultar a los pueblos indígenas en la elaboración del Plan Nacional de Desarrollo y de los planes de las entidades federativas, de los Municipios y, cuando proceda, de las demarcaciones territoriales de la Ciudad de México y, en su caso, incorporar las recomendaciones y propuestas que realicen.
+XIV.  Consultar a los pueblos indígenas en la elaboración del Plan Nacional de Desarrollo y de los planes de las entidades federativas, de los Municipios y, cuando proceda, de las demarcaciones territoriales de la Ciudad de México y, en su caso, incorporar las recomendaciones y propuestas que realicen.
 Fracción reformada DOF 29-01-2016. Recorrida (antes fracción IX) DOF 30-09-2024
 
-XV.	Celebrar consultas y cooperar de buena fe con los pueblos y comunidades indígenas, por medio de sus instituciones representativas, antes de adoptar y aplicar medidas legislativas o administrativas que puedan causar afectaciones o impactos significativos en su vida o entorno, en los términos de la fracción XIII del Apartado A del presente artículo.
+XV.  Celebrar consultas y cooperar de buena fe con los pueblos y comunidades indígenas, por medio de sus instituciones representativas, antes de adoptar y aplicar medidas legislativas o administrativas que puedan causar afectaciones o impactos significativos en su vida o entorno, en los términos de la fracción XIII del Apartado A del presente artículo.
 Fracción adicionada DOF 30-09-2024
 
 La Cámara de Diputados del Congreso de la Unión, las legislaturas de las entidades federativas y los ayuntamientos, en el ámbito de sus respectivas competencias, deberán establecer las partidas específicas en los presupuestos de egresos que aprueben, así como las formas y procedimientos, para que los pueblos y comunidades indígenas las administren y ejerzan conforme a las leyes de la materia.
@@ -180,20 +182,20 @@ Párrafo reformado DOF 30-09-2024
 
 Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la ley.
 
-C. 	Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural de la Nación. Tendrán en lo conducente los derechos señalados en los apartados anteriores de este artículo, a fin de garantizar su desarrollo e inclusión social, en los términos que establezca esta Constitución, así como su libre determinación que se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional.
+C.   Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural de la Nación. Tendrán en lo conducente los derechos señalados en los apartados anteriores de este artículo, a fin de garantizar su desarrollo e inclusión social, en los términos que establezca esta Constitución, así como su libre determinación que se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional.
 
 Los pueblos y comunidades afromexicanas se integran por descendientes de personas originarias de poblaciones del continente africano trasladadas y asentadas en el territorio nacional desde la época colonial, con formas propias de organización social, económica, política y cultural, o parte de ellas, y afirman su existencia como colectividades culturalmente diferenciadas.
 
 Los pueblos y comunidades afromexicanas tienen el carácter de sujetos de derecho público, con personalidad jurídica y patrimonio propio. Tienen además derecho a:
 
-I. 	La protección de su identidad cultural, modos de vida, expresiones espirituales y de todos los elementos que integran su patrimonio cultural, material e inmaterial y su propiedad intelectual colectiva, en los términos que establezca la ley;
+I.   La protección de su identidad cultural, modos de vida, expresiones espirituales y de todos los elementos que integran su patrimonio cultural, material e inmaterial y su propiedad intelectual colectiva, en los términos que establezca la ley;
 
-II.	La promoción, reconocimiento y protección de sus conocimientos, aportes y contribuciones en la historia nacional y a la diversidad cultural de la Nación, debiendo quedar insertas en las modalidades y niveles del Sistema Educativo Nacional, y
+II.  La promoción, reconocimiento y protección de sus conocimientos, aportes y contribuciones en la historia nacional y a la diversidad cultural de la Nación, debiendo quedar insertas en las modalidades y niveles del Sistema Educativo Nacional, y
 
-III.	Ser incluidos en la producción y registros de datos, información, estadísticas, censos y encuestas oficiales, para lo cual las instituciones competentes establecerán los procedimientos, métodos y criterios para inscribir su identidad y autoadscripción.
+III.  Ser incluidos en la producción y registros de datos, información, estadísticas, censos y encuestas oficiales, para lo cual las instituciones competentes establecerán los procedimientos, métodos y criterios para inscribir su identidad y autoadscripción.
 Apartado C adicionado DOF 09-08-2019. Reformado DOF 30-09-2024
 
-D. 	Esta Constitución reconoce y el Estado garantiza el derecho de las mujeres indígenas y afromexicanas a participar de manera efectiva y en condiciones de igualdad sustantiva en los procesos de desarrollo integral de sus pueblos y comunidades; en la toma de decisiones de carácter público; en la promoción y respeto de sus derechos de acceso a la educación, a la salud, a la propiedad y a la posesión de la tierra y demás derechos humanos.
+D.   Esta Constitución reconoce y el Estado garantiza el derecho de las mujeres indígenas y afromexicanas a participar de manera efectiva y en condiciones de igualdad sustantiva en los procesos de desarrollo integral de sus pueblos y comunidades; en la toma de decisiones de carácter público; en la promoción y respeto de sus derechos de acceso a la educación, a la salud, a la propiedad y a la posesión de la tierra y demás derechos humanos.
 
 Se reconoce y garantiza el derecho de la niñez, adolescencia y juventud indígena y afromexicana a una atención adecuada, en sus propias lenguas, para hacer efectivo el conocimiento y ejercicio pleno de sus derechos de acceso a la educación, a la salud, a la tecnología, al arte, la cultura, el deporte y la capacitación para el trabajo, entre otros. Asimismo, para garantizar una vida libre de exclusión, discriminación y violencia, en especial de la violencia sexual y de género, y para establecer políticas dirigidas a prevenir y atender las adicciones, con visión de respeto a sus identidades culturales.
 
@@ -241,70 +243,70 @@ Párrafo adicionado DOF 15-05-2019
 Los planes y programas de estudio tendrán perspectiva de género y una orientación integral, por lo que se incluirá el conocimiento de las ciencias y humanidades: la enseñanza de las matemáticas, la lecto-escritura, la literacidad, la historia, la geografía, el civismo, la filosofía, la tecnología, la innovación, las lenguas indígenas de nuestro país, las lenguas extranjeras, la educación física, el deporte, las artes, en especial la música, la promoción de estilos de vida saludables, la educación sexual y reproductiva, el cuidado al medio ambiente, la protección de los animales, entre otras.
 Párrafo adicionado DOF 15-05-2019. Reformado DOF 02-12-2024
 
-I. 	Garantizada por el artículo 24 la libertad de creencias, dicha educación será laica y, por tanto, se mantendrá por completo ajena a cualquier doctrina religiosa;
+I.   Garantizada por el artículo 24 la libertad de creencias, dicha educación será laica y, por tanto, se mantendrá por completo ajena a cualquier doctrina religiosa;
 
-II. 	El criterio que orientará a esa educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios.
+II.   El criterio que orientará a esa educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios.
 
 Además:
 
-a) 	Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
+a)   Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
-b) 	Será nacional, en cuanto –sin hostilidades ni exclusivismos– atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura;
+b)   Será nacional, en cuanto –sin hostilidades ni exclusivismos– atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura;
 Inciso reformado DOF 26-02-2013
 
-c)	Contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la naturaleza, la diversidad cultural, la dignidad de la persona, la integridad de las familias, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
+c)  Contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la naturaleza, la diversidad cultural, la dignidad de la persona, la integridad de las familias, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
 Inciso reformado DOF 09-02-2012, 26-02-2013, 15-05-2019
 
-d)	Se deroga.
+d)  Se deroga.
 Inciso adicionado DOF 26-02-2013. Derogado DOF 15-05-2019
 
-e)	Será equitativo, para lo cual el Estado implementará medidas que favorezcan el ejercicio pleno del derecho a la educación de las personas y combatan las desigualdades socioeconómicas, regionales y de género en el acceso, tránsito y permanencia en los servicios educativos.
+e)  Será equitativo, para lo cual el Estado implementará medidas que favorezcan el ejercicio pleno del derecho a la educación de las personas y combatan las desigualdades socioeconómicas, regionales y de género en el acceso, tránsito y permanencia en los servicios educativos.
 
-	En las escuelas de educación básica de alta marginación, se impulsarán acciones que mejoren las condiciones de vida de los educandos, con énfasis en las de carácter alimentario. Asimismo, se respaldará a estudiantes en vulnerabilidad social, mediante el establecimiento de políticas incluyentes y transversales.
+  En las escuelas de educación básica de alta marginación, se impulsarán acciones que mejoren las condiciones de vida de los educandos, con énfasis en las de carácter alimentario. Asimismo, se respaldará a estudiantes en vulnerabilidad social, mediante el establecimiento de políticas incluyentes y transversales.
 
-	En educación para personas adultas, se aplicarán estrategias que aseguren su derecho a ingresar a las instituciones educativas en sus distintos tipos y modalidades.
+  En educación para personas adultas, se aplicarán estrategias que aseguren su derecho a ingresar a las instituciones educativas en sus distintos tipos y modalidades.
 
-	En los pueblos y comunidades indígenas se impartirá educación plurilingüe e intercultural basada en el respeto, promoción y preservación del patrimonio histórico y cultural;
+  En los pueblos y comunidades indígenas se impartirá educación plurilingüe e intercultural basada en el respeto, promoción y preservación del patrimonio histórico y cultural;
 Inciso adicionado DOF 15-05-2019
 
-f)	Será inclusivo, al tomar en cuenta las diversas capacidades, circunstancias y necesidades de los educandos. Con base en el principio de accesibilidad se realizarán ajustes razonables y se implementarán medidas específicas con el objetivo de eliminar las barreras para el aprendizaje y la participación;
+f)  Será inclusivo, al tomar en cuenta las diversas capacidades, circunstancias y necesidades de los educandos. Con base en el principio de accesibilidad se realizarán ajustes razonables y se implementarán medidas específicas con el objetivo de eliminar las barreras para el aprendizaje y la participación;
 Inciso adicionado DOF 15-05-2019
 
-g)	Será intercultural, al promover la convivencia armónica entre personas y comunidades para el respeto y reconocimiento de sus diferencias y derechos, en un marco de inclusión social;
+g)  Será intercultural, al promover la convivencia armónica entre personas y comunidades para el respeto y reconocimiento de sus diferencias y derechos, en un marco de inclusión social;
 Inciso adicionado DOF 15-05-2019
 
-h)	Será integral, educará para la vida, con el objeto de desarrollar en las personas capacidades cognitivas, socioemocionales y físicas que les permitan alcanzar su bienestar, e
+h)  Será integral, educará para la vida, con el objeto de desarrollar en las personas capacidades cognitivas, socioemocionales y físicas que les permitan alcanzar su bienestar, e
 Inciso adicionado DOF 15-05-2019
 
-i)	Será de excelencia, entendida como el mejoramiento integral constante que promueve el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico y el fortalecimiento de los lazos entre escuela y comunidad;
+i)  Será de excelencia, entendida como el mejoramiento integral constante que promueve el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico y el fortalecimiento de los lazos entre escuela y comunidad;
 Inciso adicionado DOF 15-05-2019
 
-III.	Se deroga.
+III.  Se deroga.
 Fracción reformada DOF 12-11-2002, 26-02-2013, 29-01-2016. Derogada DOF 15-05-2019
 
-IV. 	Toda la educación que el Estado imparta será gratuita;
+IV.   Toda la educación que el Estado imparta será gratuita;
 
-V.	Toda persona tiene derecho a gozar de los beneficios del desarrollo de la ciencia y la innovación tecnológica. El Estado apoyará la investigación e innovación científica, humanística y tecnológica, y garantizará el acceso abierto a la información que derive de ella, para lo cual deberá proveer recursos y estímulos suficientes, conforme a las bases de coordinación, vinculación y participación que establezcan las leyes en la materia; además alentará el fortalecimiento y difusión de nuestra cultura;
+V.  Toda persona tiene derecho a gozar de los beneficios del desarrollo de la ciencia y la innovación tecnológica. El Estado apoyará la investigación e innovación científica, humanística y tecnológica, y garantizará el acceso abierto a la información que derive de ella, para lo cual deberá proveer recursos y estímulos suficientes, conforme a las bases de coordinación, vinculación y participación que establezcan las leyes en la materia; además alentará el fortalecimiento y difusión de nuestra cultura;
 Fracción reformada DOF 12-11-2002, 09-02-2012, 15-05-2019
 
-VI.	Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares. En el caso de la educación inicial, preescolar, primaria, secundaria y normal, los particulares deberán:
+VI.  Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares. En el caso de la educación inicial, preescolar, primaria, secundaria y normal, los particulares deberán:
 Párrafo reformado DOF 12-11-2002, 15-05-2019
 
-a)	Impartir la educación con apego a los mismos fines y criterios que establece el párrafo cuarto, y la fracción II, así como cumplir los planes y programas a que se refieren los párrafos décimo primero y décimo segundo, y
+a)  Impartir la educación con apego a los mismos fines y criterios que establece el párrafo cuarto, y la fracción II, así como cumplir los planes y programas a que se refieren los párrafos décimo primero y décimo segundo, y
 Inciso reformado DOF 15-05-2019
 
-b) 	Obtener previamente, en cada caso, la autorización expresa del poder público, en los términos que establezca la ley;
+b)   Obtener previamente, en cada caso, la autorización expresa del poder público, en los términos que establezca la ley;
 
-VII. 	Las universidades y las demás instituciones de educación superior a las que la ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas; realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios de este artículo, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinarán sus planes y programas; fijarán los términos de ingreso, promoción y permanencia de su personal académico; y administrarán su patrimonio. Las relaciones laborales, tanto del personal académico como del administrativo, se normarán por el apartado A del artículo 123 de esta Constitución, en los términos y con las modalidades que establezca la Ley Federal del Trabajo conforme a las características propias de un trabajo especial, de manera que concuerden con la autonomía, la libertad de cátedra e investigación y los fines de las instituciones a que esta fracción se refiere;
+VII.   Las universidades y las demás instituciones de educación superior a las que la ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas; realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios de este artículo, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinarán sus planes y programas; fijarán los términos de ingreso, promoción y permanencia de su personal académico; y administrarán su patrimonio. Las relaciones laborales, tanto del personal académico como del administrativo, se normarán por el apartado A del artículo 123 de esta Constitución, en los términos y con las modalidades que establezca la Ley Federal del Trabajo conforme a las características propias de un trabajo especial, de manera que concuerden con la autonomía, la libertad de cátedra e investigación y los fines de las instituciones a que esta fracción se refiere;
 Fracción reformada DOF 26-02-2013
 
-VIII.	El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, las entidades federativas y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan;
+VIII.  El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, las entidades federativas y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan;
 Fracción reformada DOF 26-02-2013, 29-01-2016, 15-05-2019
 
-IX. 	Se deroga
+IX.   Se deroga
 Fracción adicionada DOF 26-02-2013. Reformada DOF 15-05-2019. Derogada DOF 20-12-2024
 
-X.	La obligatoriedad de la educación superior corresponde al Estado. Las autoridades federal y locales establecerán políticas para fomentar la inclusión, permanencia y continuidad, en términos que la ley señale. Asimismo, proporcionarán medios de acceso a este tipo educativo para las personas que cumplan con los requisitos dispuestos por las instituciones públicas.
+X.  La obligatoriedad de la educación superior corresponde al Estado. Las autoridades federal y locales establecerán políticas para fomentar la inclusión, permanencia y continuidad, en términos que la ley señale. Asimismo, proporcionarán medios de acceso a este tipo educativo para las personas que cumplan con los requisitos dispuestos por las instituciones públicas.
 Fracción adicionada DOF 15-05-2019
 Artículo reformado DOF 13-12-1934, 30-12-1946, 09-06-1980, 28-01-1992, 05-03-1993
 
@@ -413,28 +415,28 @@ Párrafo adicionado DOF 11-06-2013
 A. Para el ejercicio del derecho de acceso a la información, la Federación y las entidades federativas, en el ámbito de sus respectivas competencias, se regirán por los siguientes principios y bases:
 Párrafo reformado (para quedar como apartado A) DOF 11-06-2013. Reformado DOF 29-01-2016
 
-I. 	Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito federal, estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
+I.   Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito federal, estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
 Fracción reformada DOF 07-02-2014
 
-II. 	La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los sujetos obligados contarán con las facultades suficientes para su atención.
+II.   La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los sujetos obligados contarán con las facultades suficientes para su atención.
 
 Por lo que hace a la información relacionada con los datos personales en posesión de particulares, la ley a la que se refiere el artículo 90 de esta Constitución determinará la competencia para conocer de los procedimientos relativos a su protección, verificación e imposición de sanciones.
 Fracción reformada DOF 20-12-2024
 
-III. 	Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
+III.   Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
 
-IV. 	Se establecerán mecanismos de acceso a la información pública y procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos que fija esta Constitución y las leyes.
+IV.   Se establecerán mecanismos de acceso a la información pública y procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos que fija esta Constitución y las leyes.
 Fracción reformada DOF 07-02-2014, 20-12-2024
 
-V. 	Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
+V.   Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
 Fracción reformada DOF 07-02-2014
 
-VI. 	Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
+VI.   Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
 
-VII. 	La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
+VII.   La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
 Párrafo con fracciones adicionado DOF 20-07-2007
 
-VIII. 	Los sujetos obligados deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales. Las leyes en la materia determinarán las bases, principios generales y procedimientos del ejercicio de estos derechos, así como la competencia de las autoridades de control interno y vigilancia u homólogos en el ámbito federal y local para conocer de los procedimientos de revisión contra los actos que emitan los sujetos obligados.
+VIII.   Los sujetos obligados deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales. Las leyes en la materia determinarán las bases, principios generales y procedimientos del ejercicio de estos derechos, así como la competencia de las autoridades de control interno y vigilancia u homólogos en el ámbito federal y local para conocer de los procedimientos de revisión contra los actos que emitan los sujetos obligados.
 Párrafo reformado DOF 20-12-2024
 
 Los sujetos obligados se regirán por la ley general en materia de transparencia y acceso a la información pública y protección de datos personales, en los términos que ésta se emita por el Congreso de la Unión para establecer las bases, principios generales y procedimientos del ejercicio de este derecho.
@@ -450,15 +452,15 @@ Fracción adicionada DOF 07-02-2014
 
 B. En materia de radiodifusión y telecomunicaciones:
 
-I. 	El Estado garantizará a la población su integración a la sociedad de la información y el conocimiento, mediante una política de inclusión digital universal con metas anuales y sexenales.
+I.   El Estado garantizará a la población su integración a la sociedad de la información y el conocimiento, mediante una política de inclusión digital universal con metas anuales y sexenales.
 
-II. 	Las telecomunicaciones son servicios públicos de interés general, por lo que el Estado garantizará que sean prestados en condiciones de competencia, calidad, pluralidad, cobertura universal, interconexión, convergencia, continuidad, acceso libre y sin injerencias arbitrarias.
+II.   Las telecomunicaciones son servicios públicos de interés general, por lo que el Estado garantizará que sean prestados en condiciones de competencia, calidad, pluralidad, cobertura universal, interconexión, convergencia, continuidad, acceso libre y sin injerencias arbitrarias.
 
-III. 	La radiodifusión es un servicio público de interés general, por lo que el Estado garantizará que sea prestado en condiciones de competencia y calidad y brinde los beneficios de la cultura a toda la población, preservando la pluralidad y la veracidad de la información, así como el fomento de los valores de la identidad nacional, contribuyendo a los fines establecidos en el artículo 3o. de esta Constitución.
+III.   La radiodifusión es un servicio público de interés general, por lo que el Estado garantizará que sea prestado en condiciones de competencia y calidad y brinde los beneficios de la cultura a toda la población, preservando la pluralidad y la veracidad de la información, así como el fomento de los valores de la identidad nacional, contribuyendo a los fines establecidos en el artículo 3o. de esta Constitución.
 
-IV. 	Se prohíbe la transmisión de publicidad o propaganda presentada como información periodística o noticiosa; se establecerán las condiciones que deben regir los contenidos y la contratación de los servicios para su transmisión al público, incluidas aquellas relativas a la responsabilidad de los concesionarios respecto de la información transmitida por cuenta de terceros, sin afectar la libertad de expresión y de difusión.
+IV.   Se prohíbe la transmisión de publicidad o propaganda presentada como información periodística o noticiosa; se establecerán las condiciones que deben regir los contenidos y la contratación de los servicios para su transmisión al público, incluidas aquellas relativas a la responsabilidad de los concesionarios respecto de la información transmitida por cuenta de terceros, sin afectar la libertad de expresión y de difusión.
 
-V. 	La ley establecerá un organismo público descentralizado con autonomía técnica, operativa, de decisión y de gestión, que tendrá por objeto proveer el servicio de radiodifusión sin fines de lucro, a efecto de asegurar el acceso al mayor número de personas en cada una de las entidades de la Federación, a contenidos que promuevan la integración nacional, la formación educativa, cultural y cívica, la igualdad entre mujeres y hombres, la difusión de información imparcial, objetiva, oportuna y veraz del acontecer nacional e internacional, y dar espacio a las obras de producción independiente, así como a la expresión de la diversidad y pluralidad de ideas y opiniones que fortalezcan la vida democrática de la sociedad.
+V.   La ley establecerá un organismo público descentralizado con autonomía técnica, operativa, de decisión y de gestión, que tendrá por objeto proveer el servicio de radiodifusión sin fines de lucro, a efecto de asegurar el acceso al mayor número de personas en cada una de las entidades de la Federación, a contenidos que promuevan la integración nacional, la formación educativa, cultural y cívica, la igualdad entre mujeres y hombres, la difusión de información imparcial, objetiva, oportuna y veraz del acontecer nacional e internacional, y dar espacio a las obras de producción independiente, así como a la expresión de la diversidad y pluralidad de ideas y opiniones que fortalezcan la vida democrática de la sociedad.
 
 El organismo público contará con un Consejo Ciudadano con el objeto de asegurar su independencia y una política editorial imparcial y objetiva. Será integrado por nueve consejeros honorarios que serán elegidos mediante una amplia consulta pública por el voto de dos terceras partes de los miembros presentes de la Cámara de Senadores o, en sus recesos, de la Comisión Permanente. Los consejeros desempeñarán su encargo en forma escalonada, por lo que anualmente serán sustituidos los dos de mayor antigüedad en el cargo, salvo que fuesen ratificados por el Senado para un segundo periodo.
 
@@ -466,7 +468,7 @@ El Presidente del organismo público será designado, a propuesta del Ejecutivo 
 
 El Presidente del organismo presentará anualmente a los Poderes Ejecutivo y Legislativo de la Unión un informe de actividades; al efecto comparecerá ante las Cámaras del Congreso en los términos que dispongan las leyes.
 
-VI. 	La ley establecerá los derechos de los usuarios de telecomunicaciones, de las audiencias, así como los mecanismos para su protección.
+VI.   La ley establecerá los derechos de los usuarios de telecomunicaciones, de las audiencias, así como los mecanismos para su protección.
 Apartado con fracciones adicionado DOF 11-06-2013
 Artículo reformado DOF 06-12-1977
 
@@ -617,88 +619,88 @@ Artículo reformado DOF 03-09-1993, 08-03-1999, 18-06-2008
 
 Artículo 20. El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación.
 
-A. 	De los principios generales:
+A.   De los principios generales:
 
-I. 	El proceso penal tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen;
+I.   El proceso penal tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen;
 
-II. 	Toda audiencia se desarrollará en presencia del juez, sin que pueda delegar en ninguna persona el desahogo y la valoración de las pruebas, la cual deberá realizarse de manera libre y lógica;
+II.   Toda audiencia se desarrollará en presencia del juez, sin que pueda delegar en ninguna persona el desahogo y la valoración de las pruebas, la cual deberá realizarse de manera libre y lógica;
 
-III. 	Para los efectos de la sentencia sólo se considerarán como prueba aquellas que hayan sido desahogadas en la audiencia de juicio. La ley establecerá las excepciones y los requisitos para admitir en juicio la prueba anticipada, que por su naturaleza requiera desahogo previo;
+III.   Para los efectos de la sentencia sólo se considerarán como prueba aquellas que hayan sido desahogadas en la audiencia de juicio. La ley establecerá las excepciones y los requisitos para admitir en juicio la prueba anticipada, que por su naturaleza requiera desahogo previo;
 
-IV. 	El juicio se celebrará ante un juez que no haya conocido del caso previamente. La presentación de los argumentos y los elementos probatorios se desarrollará de manera pública, contradictoria y oral;
+IV.   El juicio se celebrará ante un juez que no haya conocido del caso previamente. La presentación de los argumentos y los elementos probatorios se desarrollará de manera pública, contradictoria y oral;
 
-V. 	La carga de la prueba para demostrar la culpabilidad corresponde a la parte acusadora, conforme lo establezca el tipo penal. Las partes tendrán igualdad procesal para sostener la acusación o la defensa, respectivamente;
+V.   La carga de la prueba para demostrar la culpabilidad corresponde a la parte acusadora, conforme lo establezca el tipo penal. Las partes tendrán igualdad procesal para sostener la acusación o la defensa, respectivamente;
 
-VI. 	Ningún juzgador podrá tratar asuntos que estén sujetos a proceso con cualquiera de las partes sin que esté presente la otra, respetando en todo momento el principio de contradicción, salvo las excepciones que establece esta Constitución;
+VI.   Ningún juzgador podrá tratar asuntos que estén sujetos a proceso con cualquiera de las partes sin que esté presente la otra, respetando en todo momento el principio de contradicción, salvo las excepciones que establece esta Constitución;
 
-VII. 	Una vez iniciado el proceso penal, siempre y cuando no exista oposición del inculpado, se podrá decretar su terminación anticipada en los supuestos y bajo las modalidades que determine la ley. Si el imputado reconoce ante la autoridad judicial, voluntariamente y con conocimiento de las consecuencias, su participación en el delito y existen medios de convicción suficientes para corroborar la imputación, el juez citará a audiencia de sentencia. La ley establecerá los beneficios que se podrán otorgar al inculpado cuando acepte su responsabilidad;
+VII.   Una vez iniciado el proceso penal, siempre y cuando no exista oposición del inculpado, se podrá decretar su terminación anticipada en los supuestos y bajo las modalidades que determine la ley. Si el imputado reconoce ante la autoridad judicial, voluntariamente y con conocimiento de las consecuencias, su participación en el delito y existen medios de convicción suficientes para corroborar la imputación, el juez citará a audiencia de sentencia. La ley establecerá los beneficios que se podrán otorgar al inculpado cuando acepte su responsabilidad;
 
-VIII. 	El juez sólo condenará cuando exista convicción de la culpabilidad del procesado;
+VIII.   El juez sólo condenará cuando exista convicción de la culpabilidad del procesado;
 
-IX. 	Cualquier prueba obtenida con violación de derechos fundamentales será nula;
+IX.   Cualquier prueba obtenida con violación de derechos fundamentales será nula;
 Fracción reformada DOF 15-09-2024
 
-X. 	Tratándose de delincuencia organizada, el órgano de administración judicial podrá disponer las medidas necesarias para preservar la seguridad y resguardar la identidad de las personas juzgadoras, conforme al procedimiento que establezca la ley, y
+X.   Tratándose de delincuencia organizada, el órgano de administración judicial podrá disponer las medidas necesarias para preservar la seguridad y resguardar la identidad de las personas juzgadoras, conforme al procedimiento que establezca la ley, y
 Fracción adicionada DOF 15-09-2024
 
-XI. 	Los principios previstos en este artículo, se observarán también en las audiencias preliminares al juicio.
+XI.   Los principios previstos en este artículo, se observarán también en las audiencias preliminares al juicio.
 Fracción recorrida DOF 15-09-2024
 
-B. 	De los derechos de toda persona imputada:
+B.   De los derechos de toda persona imputada:
 
-I. 	A que se presuma su inocencia mientras no se declare su responsabilidad mediante sentencia emitida por el juez de la causa;
+I.   A que se presuma su inocencia mientras no se declare su responsabilidad mediante sentencia emitida por el juez de la causa;
 
-II. 	A declarar o a guardar silencio. Desde el momento de su detención se le harán saber los motivos de la misma y su derecho a guardar silencio, el cual no podrá ser utilizado en su perjuicio. Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación o tortura. La confesión rendida sin la asistencia del defensor carecerá de todo valor probatorio;
+II.   A declarar o a guardar silencio. Desde el momento de su detención se le harán saber los motivos de la misma y su derecho a guardar silencio, el cual no podrá ser utilizado en su perjuicio. Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación o tortura. La confesión rendida sin la asistencia del defensor carecerá de todo valor probatorio;
 
-III. 	A que se le informe, tanto en el momento de su detención como en su comparecencia ante el Ministerio Público o el juez, los hechos que se le imputan y los derechos que le asisten. Tratándose de delincuencia organizada, la autoridad judicial podrá autorizar que se mantenga en reserva el nombre y datos del acusador.
+III.   A que se le informe, tanto en el momento de su detención como en su comparecencia ante el Ministerio Público o el juez, los hechos que se le imputan y los derechos que le asisten. Tratándose de delincuencia organizada, la autoridad judicial podrá autorizar que se mantenga en reserva el nombre y datos del acusador.
 
 La ley establecerá beneficios a favor del inculpado, procesado o sentenciado que preste ayuda eficaz para la investigación y persecución de delitos en materia de delincuencia organizada;
 
-IV. 	Se le recibirán los testigos y demás pruebas pertinentes que ofrezca, concediéndosele el tiempo que la ley estime necesario al efecto y auxiliándosele para obtener la comparecencia de las personas cuyo testimonio solicite, en los términos que señale la ley;
+IV.   Se le recibirán los testigos y demás pruebas pertinentes que ofrezca, concediéndosele el tiempo que la ley estime necesario al efecto y auxiliándosele para obtener la comparecencia de las personas cuyo testimonio solicite, en los términos que señale la ley;
 
-V. 	Será juzgado en audiencia pública por un juez o tribunal. La publicidad sólo podrá restringirse en los casos de excepción que determine la ley, por razones de seguridad nacional, seguridad pública, protección de las víctimas, testigos y menores, cuando se ponga en riesgo la revelación de datos legalmente protegidos, o cuando el tribunal estime que existen razones fundadas para justificarlo.
+V.   Será juzgado en audiencia pública por un juez o tribunal. La publicidad sólo podrá restringirse en los casos de excepción que determine la ley, por razones de seguridad nacional, seguridad pública, protección de las víctimas, testigos y menores, cuando se ponga en riesgo la revelación de datos legalmente protegidos, o cuando el tribunal estime que existen razones fundadas para justificarlo.
 
 En delincuencia organizada, las actuaciones realizadas en la fase de investigación podrán tener valor probatorio, cuando no puedan ser reproducidas en juicio o exista riesgo para testigos o víctimas. Lo anterior sin perjuicio del derecho del inculpado de objetarlas o impugnarlas y aportar pruebas en contra;
 
-VI. 	Le serán facilitados todos los datos que solicite para su defensa y que consten en el proceso.
+VI.   Le serán facilitados todos los datos que solicite para su defensa y que consten en el proceso.
 
 El imputado y su defensor tendrán acceso a los registros de la investigación cuando el primero se encuentre detenido y cuando pretenda recibírsele declaración o entrevistarlo. Asimismo, antes de su primera comparecencia ante juez podrán consultar dichos registros, con la oportunidad debida para preparar la defensa. A partir de este momento no podrán mantenerse en reserva las actuaciones de la investigación, salvo los casos excepcionales expresamente señalados en la ley cuando ello sea imprescindible para salvaguardar el éxito de la investigación y siempre que sean oportunamente revelados para no afectar el derecho de defensa;
 
-VII. 	Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediere de ese tiempo, salvo que solicite mayor plazo para su defensa;
+VII.   Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediere de ese tiempo, salvo que solicite mayor plazo para su defensa;
 
 En caso de cumplirse con el plazo señalado en el párrafo que antecede y que no se haya dictado sentencia, el órgano jurisdiccional que conozca del asunto deberá dar aviso inmediato al Tribunal de Disciplina Judicial y justificar las razones de dicha demora, en los términos que establezca la ley;
 Párrafo adicionado DOF 15-09-2024
 
-VIII. 	Tendrá derecho a una defensa adecuada por abogado, al cual elegirá libremente incluso desde el momento de su detención. Si no quiere o no puede nombrar un abogado, después de haber sido requerido para hacerlo, el juez le designará un defensor público. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera, y
+VIII.   Tendrá derecho a una defensa adecuada por abogado, al cual elegirá libremente incluso desde el momento de su detención. Si no quiere o no puede nombrar un abogado, después de haber sido requerido para hacerlo, el juez le designará un defensor público. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera, y
 
-IX. 	En ningún caso podrá prolongarse la prisión o detención, por falta de pago de honorarios de defensores o por cualquiera otra prestación de dinero, por causa de responsabilidad civil o algún otro motivo análogo.
+IX.   En ningún caso podrá prolongarse la prisión o detención, por falta de pago de honorarios de defensores o por cualquiera otra prestación de dinero, por causa de responsabilidad civil o algún otro motivo análogo.
 
 La prisión preventiva no podrá exceder del tiempo que como máximo de pena fije la ley al delito que motivare el proceso y en ningún caso será superior a dos años, salvo que su prolongación se deba al ejercicio del derecho de defensa del imputado. Si cumplido este término no se ha pronunciado sentencia, el imputado será puesto en libertad de inmediato mientras se sigue el proceso, sin que ello obste para imponer otras medidas cautelares.
 
 En toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención.
 
-C. 	De los derechos de la víctima o del ofendido:
+C.   De los derechos de la víctima o del ofendido:
 
-I. 	Recibir asesoría jurídica; ser informado de los derechos que en su favor establece la Constitución y, cuando lo solicite, ser informado del desarrollo del procedimiento penal;
+I.   Recibir asesoría jurídica; ser informado de los derechos que en su favor establece la Constitución y, cuando lo solicite, ser informado del desarrollo del procedimiento penal;
 
-II. 	Coadyuvar con el Ministerio Público; a que se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la investigación como en el proceso, a que se desahoguen las diligencias correspondientes, y a intervenir en el juicio e interponer los recursos en los términos que prevea la ley.
+II.   Coadyuvar con el Ministerio Público; a que se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la investigación como en el proceso, a que se desahoguen las diligencias correspondientes, y a intervenir en el juicio e interponer los recursos en los términos que prevea la ley.
 
 Cuando el Ministerio Público considere que no es necesario el desahogo de la diligencia, deberá fundar y motivar su negativa;
 
-III. 	Recibir, desde la comisión del delito, atención médica y psicológica de urgencia;
+III.   Recibir, desde la comisión del delito, atención médica y psicológica de urgencia;
 
-IV. 	Que se le repare el daño. En los casos en que sea procedente, el Ministerio Público estará obligado a solicitar la reparación del daño, sin menoscabo de que la víctima u ofendido lo pueda solicitar directamente, y el juzgador no podrá absolver al sentenciado de dicha reparación si ha emitido una sentencia condenatoria.
+IV.   Que se le repare el daño. En los casos en que sea procedente, el Ministerio Público estará obligado a solicitar la reparación del daño, sin menoscabo de que la víctima u ofendido lo pueda solicitar directamente, y el juzgador no podrá absolver al sentenciado de dicha reparación si ha emitido una sentencia condenatoria.
 
 La ley fijará procedimientos ágiles para ejecutar las sentencias en materia de reparación del daño;
 
-V. 	Al resguardo de su identidad y otros datos personales en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos de violación, trata de personas, secuestro o delincuencia organizada; y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
+V.   Al resguardo de su identidad y otros datos personales en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos de violación, trata de personas, secuestro o delincuencia organizada; y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
 Párrafo reformado DOF 14-07-2011
 
 El Ministerio Público deberá garantizar la protección de víctimas, ofendidos, testigos y en general todas los sujetos que intervengan en el proceso. Los jueces deberán vigilar el buen cumplimiento de esta obligación;
 
-VI. 	Solicitar las medidas cautelares y providencias necesarias para la protección y restitución de sus derechos, y
+VI.   Solicitar las medidas cautelares y providencias necesarias para la protección y restitución de sus derechos, y
 
-VII. 	Impugnar ante autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño.
+VII.   Impugnar ante autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño.
 Fe de erratas al artículo DOF 06-02-1917. Artículo reformado DOF 02-12-1948, 14-01-1985, 03-09-1993, 03-07-1996, 21-09-2000, 18-06-2008
 
 Artículo 21. La investigación de los delitos corresponde al Ministerio Público, a las policías y a la Guardia Nacional, en el ámbito de su competencia, las cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función.
@@ -727,17 +729,17 @@ Párrafo adicionado DOF 30-09-2024
 El Ministerio Público y las instituciones policiales de los tres órdenes de gobierno, incluida la Guardia Nacional, deben coordinarse entre sí para cumplir los fines de la seguridad pública y conformarán el Sistema Nacional de Seguridad Pública, que estará sujeto a las siguientes bases mínimas: 
 Párrafo reformado DOF 26-03-2019, 30-09-2024
 
-a) 	La regulación de la selección, ingreso, formación, permanencia, evaluación, reconocimiento y certificación de los integrantes de las instituciones de seguridad pública. La operación y desarrollo de estas acciones será competencia de la Federación, las entidades federativas y los Municipios en el ámbito de sus respectivas atribuciones.
+a)   La regulación de la selección, ingreso, formación, permanencia, evaluación, reconocimiento y certificación de los integrantes de las instituciones de seguridad pública. La operación y desarrollo de estas acciones será competencia de la Federación, las entidades federativas y los Municipios en el ámbito de sus respectivas atribuciones.
 Inciso reformado DOF 29-01-2016
 
-b) 	El establecimiento de un sistema nacional de información en seguridad pública a cargo de la Federación al que ésta, las entidades federativas y los Municipios, a través de las dependencias responsables de la seguridad pública, proporcionarán la información de que dispongan en la materia, conforme a la ley. El sistema contendrá también las bases de datos criminalísticos y de personal para las instituciones de seguridad pública. Ninguna persona podrá ingresar a las instituciones de seguridad pública si no ha sido debidamente certificada y registrada en el sistema.
+b)   El establecimiento de un sistema nacional de información en seguridad pública a cargo de la Federación al que ésta, las entidades federativas y los Municipios, a través de las dependencias responsables de la seguridad pública, proporcionarán la información de que dispongan en la materia, conforme a la ley. El sistema contendrá también las bases de datos criminalísticos y de personal para las instituciones de seguridad pública. Ninguna persona podrá ingresar a las instituciones de seguridad pública si no ha sido debidamente certificada y registrada en el sistema.
 Inciso reformado DOF 26-03-2019
 
-c) 	La formulación de políticas públicas tendientes a prevenir la comisión de delitos.
+c)   La formulación de políticas públicas tendientes a prevenir la comisión de delitos.
 
-d) 	Se determinará la participación de la comunidad que coadyuvará, entre otros, en los procesos de evaluación de las políticas de prevención del delito así como de las instituciones de seguridad pública.
+d)   Se determinará la participación de la comunidad que coadyuvará, entre otros, en los procesos de evaluación de las políticas de prevención del delito así como de las instituciones de seguridad pública.
 
-e) 	Los fondos de ayuda federal para la seguridad pública, a nivel nacional serán aportados a las entidades federativas y municipios para ser destinados exclusivamente a estos fines.
+e)   Los fondos de ayuda federal para la seguridad pública, a nivel nacional serán aportados a las entidades federativas y municipios para ser destinados exclusivamente a estos fines.
 
 La Federación contará con la Guardia Nacional, fuerza de seguridad pública, profesional, de carácter permanente e integrada por personal militar con formación policial, dependiente de la secretaría del ramo de defensa nacional, para ejecutar la Estrategia Nacional de Seguridad Pública en el ámbito de su competencia. Los fines de la Guardia Nacional son los señalados en el párrafo noveno de este artículo, la coordinación y colaboración con las entidades federativas y Municipios, así como la salvaguarda de los bienes y recursos de la Nación. La ley determinará la estructura orgánica y de dirección de la Guardia Nacional.
 Párrafo adicionado DOF 26-03-2019. Reformado DOF 30-09-2024
@@ -803,7 +805,7 @@ Párrafo adicionado DOF 05-02-2017
 Artículo reformado DOF 03-02-1983
 
 Artículo 26.
-A. 	El Estado organizará un sistema de planeación democrática del desarrollo nacional que imprima solidez, dinamismo, competitividad, permanencia y equidad al crecimiento de la economía para la independencia y la democratización política, social y cultural de la nación.
+A.   El Estado organizará un sistema de planeación democrática del desarrollo nacional que imprima solidez, dinamismo, competitividad, permanencia y equidad al crecimiento de la economía para la independencia y la democratización política, social y cultural de la nación.
 Párrafo reformado DOF 05-06-2013
 
 Los fines del proyecto nacional contenidos en esta Constitución determinarán los objetivos de la planeación. La planeación será democrática y deliberativa. Mediante los mecanismos de participación que establezca la ley, recogerá las aspiraciones y demandas de la sociedad para incorporarlas al plan y los programas de desarrollo. Habrá un plan nacional de desarrollo al que se sujetarán obligatoriamente los programas de la Administración Pública Federal.
@@ -815,7 +817,7 @@ Párrafo reformado DOF 05-06-2013
 En el sistema de planeación democrática y deliberativa, el Congreso de la Unión tendrá la intervención que señale la ley.
 Párrafo reformado DOF 10-02-2014
 
-B. 	El Estado contará con un Sistema Nacional de Información Estadística y Geográfica cuyos datos serán considerados oficiales. Para la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, los datos contenidos en el Sistema serán de uso obligatorio en los términos que establezca la ley.
+B.   El Estado contará con un Sistema Nacional de Información Estadística y Geográfica cuyos datos serán considerados oficiales. Para la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, los datos contenidos en el Sistema serán de uso obligatorio en los términos que establezca la ley.
 Párrafo reformado DOF 29-01-2016
 
 La responsabilidad de normar y coordinar dicho Sistema estará a cargo de un organismo con autonomía técnica y de gestión, personalidad jurídica y patrimonio propios, con las facultades necesarias para regular la captación, procesamiento y publicación de la información que se genere y proveer a su observancia.
@@ -835,7 +837,7 @@ Párrafo adicionado DOF 27-01-2016
 Las obligaciones y supuestos denominados en Unidades de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en las citadas unidades, por el valor de dicha unidad a la fecha correspondiente.
 Párrafo adicionado DOF 27-01-2016
 
-C. 	Se deroga
+C.   Se deroga
 Apartado adicionado DOF 10-02-2014. Derogado DOF 20-12-2024
 Artículo reformado DOF 03-02-1983, 07-04-2006
 
@@ -867,27 +869,27 @@ Párrafo adicionado DOF 06-02-1976
 La capacidad para adquirir el dominio de las tierras y aguas de la Nación, se regirá por las siguientes prescripciones:
 Párrafo reformado DOF 02-12-1948, 20-01-1960
 
-I. 	Sólo los mexicanos por nacimiento o por naturalización y las sociedades mexicanas tienen derecho para adquirir el dominio de las tierras, aguas y sus accesiones o para obtener concesiones de explotación de minas o aguas. El Estado podrá conceder el mismo derecho a los extranjeros, siempre que convengan ante la Secretaría de Relaciones en considerarse como nacionales respecto de dichos bienes y en no invocar por lo mismo la protección de sus gobiernos por lo que se refiere a aquéllos; bajo la pena, en caso de faltar al convenio, de perder en beneficio de la Nación, los bienes que hubieren adquirido en virtud del mismo. En una faja de cien kilómetros a lo largo de las fronteras y de cincuenta en las playas, por ningún motivo podrán los extranjeros adquirir el dominio directo sobre tierras y aguas.
+I.   Sólo los mexicanos por nacimiento o por naturalización y las sociedades mexicanas tienen derecho para adquirir el dominio de las tierras, aguas y sus accesiones o para obtener concesiones de explotación de minas o aguas. El Estado podrá conceder el mismo derecho a los extranjeros, siempre que convengan ante la Secretaría de Relaciones en considerarse como nacionales respecto de dichos bienes y en no invocar por lo mismo la protección de sus gobiernos por lo que se refiere a aquéllos; bajo la pena, en caso de faltar al convenio, de perder en beneficio de la Nación, los bienes que hubieren adquirido en virtud del mismo. En una faja de cien kilómetros a lo largo de las fronteras y de cincuenta en las playas, por ningún motivo podrán los extranjeros adquirir el dominio directo sobre tierras y aguas.
 
 El Estado de acuerdo con los intereses públicos internos y los principios de reciprocidad, podrá, a juicio de la Secretaría de Relaciones, conceder autorización a los Estados extranjeros para que adquieran, en el lugar permanente de la residencia de los Poderes Federales, la propiedad privada de bienes inmuebles necesarios para el servicio directo de sus embajadas o legaciones.
 Fracción reformada DOF 02-12-1948, 20-01-1960
 
-II. 	Las asociaciones religiosas que se constituyan en los términos del artículo 130 y su ley reglamentaria tendrán capacidad para adquirir, poseer o administrar, exclusivamente, los bienes que sean indispensables para su objeto, con los requisitos y limitaciones que establezca la ley reglamentaria;
+II.   Las asociaciones religiosas que se constituyan en los términos del artículo 130 y su ley reglamentaria tendrán capacidad para adquirir, poseer o administrar, exclusivamente, los bienes que sean indispensables para su objeto, con los requisitos y limitaciones que establezca la ley reglamentaria;
 Fracción reformada DOF 28-01-1992
 
-III. 	Las instituciones de beneficencia, pública o privada, que tengan por objeto el auxilio de los necesitados, la investigación científica, la difusión de la enseñanza, la ayuda recíproca de los asociados, o cualquier otro objeto lícito, no podrán adquirir más bienes raíces que los indispensables para su objeto, inmediata o directamente destinados a él, con sujeción a lo que determine la ley reglamentaria;
+III.   Las instituciones de beneficencia, pública o privada, que tengan por objeto el auxilio de los necesitados, la investigación científica, la difusión de la enseñanza, la ayuda recíproca de los asociados, o cualquier otro objeto lícito, no podrán adquirir más bienes raíces que los indispensables para su objeto, inmediata o directamente destinados a él, con sujeción a lo que determine la ley reglamentaria;
 Fracción reformada DOF 28-01-1992
 
-IV. 	Las sociedades mercantiles por acciones podrán ser propietarias de terrenos rústicos pero únicamente en la extensión que sea necesaria para el cumplimiento de su objeto.
+IV.   Las sociedades mercantiles por acciones podrán ser propietarias de terrenos rústicos pero únicamente en la extensión que sea necesaria para el cumplimiento de su objeto.
 
 En ningún caso las sociedades de esta clase podrán tener en propiedad tierras dedicadas a actividades agrícolas, ganaderas o forestales en mayor extensión que la respectiva equivalente a veinticinco veces los límites señalados en la fracción XV de este artículo. La ley reglamentaria regulará la estructura de capital y el número mínimo de socios de estas sociedades, a efecto de que las tierras propiedad de la sociedad no excedan en relación con cada socio los límites de la pequeña propiedad. En este caso, toda propiedad accionaria individual, correspondiente a terrenos rústicos, será acumulable para efectos de cómputo. Asimismo, la ley señalará las condiciones para la participación extranjera en dichas sociedades.
 
 La propia ley establecerá los medios de registro y control necesarios para el cumplimiento de lo dispuesto por esta fracción;
 Fracción reformada DOF 06-01-1992
 
-V. 	Los bancos debidamente autorizados, conforme a las leyes de instituciones de crédito, podrán tener capitales impuestos, sobre propiedades urbanas y rústicas de acuerdo con las prescripciones de dichas leyes, pero no podrán tener en propiedad o en administración más bienes raíces que los enteramente necesarios para su objeto directo.
+V.   Los bancos debidamente autorizados, conforme a las leyes de instituciones de crédito, podrán tener capitales impuestos, sobre propiedades urbanas y rústicas de acuerdo con las prescripciones de dichas leyes, pero no podrán tener en propiedad o en administración más bienes raíces que los enteramente necesarios para su objeto directo.
 
-VI. 	Las entidades federativas, lo mismo que los Municipios de toda la República, tendrán plena capacidad para adquirir y poseer todos los bienes raíces necesarios para los servicios públicos.
+VI.   Las entidades federativas, lo mismo que los Municipios de toda la República, tendrán plena capacidad para adquirir y poseer todos los bienes raíces necesarios para los servicios públicos.
 Párrafo reformado DOF 08-10-1974, 06-01-1992, 29-01-2016
 
 Las leyes de la Federación y de las entidades federativas en sus respectivas jurisdicciones, determinarán los casos en que sea de utilidad pública la ocupación de la propiedad privada, y de acuerdo con dichas leyes la autoridad administrativa hará la declaración correspondiente. El precio que se fijará como indemnización a la cosa expropiada, se basará en la cantidad que como valor fiscal de ella figure en las oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones con esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las oficinas rentísticas.
@@ -895,7 +897,7 @@ Párrafo reformado DOF 29-01-2016
 
 El ejercicio de las acciones que corresponden a la Nación, por virtud de las disposiciones del presente artículo, se hará efectivo por el procedimiento judicial; pero dentro de este procedimiento y por orden de los tribunales correspondientes, que se dictará en el plazo máximo de un mes, las autoridades administrativas procederán desde luego a la ocupación, administración, remate o venta de las tierras o aguas de que se trate y todas sus accesiones, sin que en ningún caso pueda revocarse lo hecho por las mismas autoridades antes que se dicte sentencia ejecutoriada.
 
-VII. 	Se reconoce la personalidad jurídica de los núcleos de población ejidales y comunales y se protege su propiedad sobre la tierra, tanto para el asentamiento humano como para actividades productivas.
+VII.   Se reconoce la personalidad jurídica de los núcleos de población ejidales y comunales y se protege su propiedad sobre la tierra, tanto para el asentamiento humano como para actividades productivas.
 
 La ley protegerá la integridad de las tierras de los grupos indígenas.
 
@@ -910,34 +912,34 @@ La asamblea general es el órgano supremo del núcleo de población ejidal o com
 La restitución de tierras, bosques y aguas a los núcleos de población se hará en los términos de la ley reglamentaria;
 Fracción reformada DOF 06-12-1937, 06-01-1992
 
-VIII. 	Se declaran nulas:
+VIII.   Se declaran nulas:
 
-a) 	Todas las enajenaciones de tierras, aguas y montes pertenecientes a los pueblos, rancherías, congregaciones o comunidades, hechas por los jefes políticos, Gobernadores de los Estados, o cualquiera otra autoridad local en contravención a lo dispuesto en la Ley de 25 de junio de 1856 y demás leyes y disposiciones relativas;
+a)   Todas las enajenaciones de tierras, aguas y montes pertenecientes a los pueblos, rancherías, congregaciones o comunidades, hechas por los jefes políticos, Gobernadores de los Estados, o cualquiera otra autoridad local en contravención a lo dispuesto en la Ley de 25 de junio de 1856 y demás leyes y disposiciones relativas;
 
-b) 	Todas las concesiones: composiciones o ventas de tierras, aguas y montes, hechas por las Secretarías de Fomento, Hacienda o cualquiera otra autoridad federal, desde el día primero de diciembre de 1876, hasta la fecha, con las cuales se hayan invadido y ocupado ilegalmente los ejidos, terrenos de común repartimiento o cualquiera otra clase, pertenecientes a los pueblos, rancherías, congregaciones o comunidades, y núcleos de población.
+b)   Todas las concesiones: composiciones o ventas de tierras, aguas y montes, hechas por las Secretarías de Fomento, Hacienda o cualquiera otra autoridad federal, desde el día primero de diciembre de 1876, hasta la fecha, con las cuales se hayan invadido y ocupado ilegalmente los ejidos, terrenos de común repartimiento o cualquiera otra clase, pertenecientes a los pueblos, rancherías, congregaciones o comunidades, y núcleos de población.
 
-c) 	Todas las diligencias de apeo o deslinde, transacciones, enajenaciones o remates practicados durante el período de tiempo a que se refiere la fracción anterior, por compañías, jueces u otras autoridades de los Estados o de la Federación, con los cuales se hayan invadido u ocupado ilegalmente tierras, aguas y montes de los ejidos, terrenos de común repartimiento, o de cualquiera otra clase, pertenecientes a núcleos de población.
+c)   Todas las diligencias de apeo o deslinde, transacciones, enajenaciones o remates practicados durante el período de tiempo a que se refiere la fracción anterior, por compañías, jueces u otras autoridades de los Estados o de la Federación, con los cuales se hayan invadido u ocupado ilegalmente tierras, aguas y montes de los ejidos, terrenos de común repartimiento, o de cualquiera otra clase, pertenecientes a núcleos de población.
 
 Quedan exceptuadas de la nulidad anterior, únicamente las tierras que hubieren sido tituladas en los repartimientos hechos con apego a la Ley de 25 de junio de 1856 y poseídas en nombre propio a título de dominio por más de diez años cuando su superficie no exceda de cincuenta hectáreas.
 
-IX. 	La división o reparto que se hubiere hecho con apariencia de legítima entre los vecinos de algún núcleo de población y en la que haya habido error o vicio, podrá ser nulificada cuando así lo soliciten las tres cuartas partes de los vecinos que estén en posesión de una cuarta parte de los terrenos, materia de la división, o una cuarta parte de los mismos vecinos cuando estén en posesión de las tres cuartas partes de los terrenos.
+IX.   La división o reparto que se hubiere hecho con apariencia de legítima entre los vecinos de algún núcleo de población y en la que haya habido error o vicio, podrá ser nulificada cuando así lo soliciten las tres cuartas partes de los vecinos que estén en posesión de una cuarta parte de los terrenos, materia de la división, o una cuarta parte de los mismos vecinos cuando estén en posesión de las tres cuartas partes de los terrenos.
 
-X. 	(Se deroga)
+X.   (Se deroga)
 Fe de erratas a la fracción DOF 03-03-1934. Reformada DOF 12-02-1947. Derogada DOF 06-01-1992
 
-XI. 	(Se deroga)
+XI.   (Se deroga)
 Fracción reformada DOF 08-10-1974. Derogada DOF 06-01-1992
 
-XII. 	(Se deroga)
+XII.   (Se deroga)
 Fracción reformada DOF 08-10-1974. Derogada DOF 06-01-1992
 
-XIII. 	(Se deroga)
+XIII.   (Se deroga)
 Fracción derogada DOF 06-01-1992
 
-XIV. 	(Se deroga)
+XIV.   (Se deroga)
 Fracción reformada DOF 12-02-1947. Derogada DOF 06-01-1992
 
-XV. 	En los Estados Unidos Mexicanos quedan prohibidos los latifundios.
+XV.   En los Estados Unidos Mexicanos quedan prohibidos los latifundios.
 
 Se considera pequeña propiedad agrícola la que no exceda por individuo de cien hectáreas de riego o humedad de primera o sus equivalentes en otras clases de tierras.
 
@@ -952,19 +954,19 @@ Cuando debido a obras de riego, drenaje o cualesquiera otras ejecutadas por los 
 Cuando dentro de una pequeña propiedad ganadera se realicen mejoras en sus tierras y éstas se destinen a usos agrícolas, la superficie utilizada para este fin no podrá exceder, según el caso, los límites a que se refieren los párrafos segundo y tercero de esta fracción que correspondan a la calidad que hubieren tenido dichas tierras antes de la mejora;
 Fracción reformada DOF 12-02-1947, 06-01-1992
 
-XVI. 	(Se deroga)
+XVI.   (Se deroga)
 Fracción derogada DOF 06-01-1992
 
-XVII. 	El Congreso de la Unión y las legislaturas de los estados, en sus respectivas jurisdicciones, expedirán leyes que establezcan los procedimientos para el fraccionamiento y enajenación de las extensiones que llegaren a exceder los límites señalados en las fracciones IV y XV de este artículo.
+XVII.   El Congreso de la Unión y las legislaturas de los estados, en sus respectivas jurisdicciones, expedirán leyes que establezcan los procedimientos para el fraccionamiento y enajenación de las extensiones que llegaren a exceder los límites señalados en las fracciones IV y XV de este artículo.
 
 El excedente deberá ser fraccionado y enajenado por el propietario dentro del plazo de un año contado a partir de la notificación correspondiente. Si transcurrido el plazo el excedente no se ha enajenado, la venta deberá hacerse mediante pública almoneda. En igualdad de condiciones, se respetará el derecho de preferencia que prevea la ley reglamentaria.
 
 Las leyes locales organizarán el patrimonio de familia, determinando los bienes que deben constituirlo, sobre la base de que será inalienable y no estará sujeto a embargo ni a gravamen ninguno;
 Fracción reformada DOF 08-10-1974, 06-01-1992
 
-XVIII. 	Se declaran revisables todos los contratos y concesiones hechas por los Gobiernos anteriores desde el año de 1876, que hayan traído por consecuencia el acaparamiento de tierras, aguas y riquezas naturales de la Nación, por una sola persona o sociedad, y se faculta al Ejecutivo de la Unión para declararlos nulos cuando impliquen perjuicios graves para el interés público.
+XVIII.   Se declaran revisables todos los contratos y concesiones hechas por los Gobiernos anteriores desde el año de 1876, que hayan traído por consecuencia el acaparamiento de tierras, aguas y riquezas naturales de la Nación, por una sola persona o sociedad, y se faculta al Ejecutivo de la Unión para declararlos nulos cuando impliquen perjuicios graves para el interés público.
 
-XIX. 	Con base en esta Constitución, el Estado dispondrá las medidas para la expedita y honesta impartición de la justicia agraria, con objeto de garantizar la seguridad jurídica en la tenencia de le (sic DOF 03-02-1983) tierra ejidal, comunal y de la pequeña propiedad, y apoyará la asesoría legal de los campesinos.
+XIX.   Con base en esta Constitución, el Estado dispondrá las medidas para la expedita y honesta impartición de la justicia agraria, con objeto de garantizar la seguridad jurídica en la tenencia de le (sic DOF 03-02-1983) tierra ejidal, comunal y de la pequeña propiedad, y apoyará la asesoría legal de los campesinos.
 
 Son de jurisdicción federal todas las cuestiones que por límites de terrenos ejidales y comunales, cualquiera que sea el origen de éstos, se hallen pendientes o se susciten entre dos o más núcleos de población; así como las relacionadas con la tenencia de la tierra de los ejidos y comunidades. Para estos efectos y, en general, para la administración de justicia agraria, la ley instituirá tribunales dotados de autonomía y plena jurisdicción, integrados por magistrados propuestos por el Ejecutivo Federal y designados por la Cámara de Senadores o, en los recesos de ésta, por la Comisión Permanente.
 Párrafo adicionado DOF 06-01-1992
@@ -973,18 +975,18 @@ La ley establecerá un órgano para la procuración de justicia agraria, y
 Párrafo adicionado DOF 06-01-1992
 Fracción adicionada DOF 03-02-1983
 
-XX. 	El Estado promoverá las condiciones para el desarrollo rural integral, con el propósito de generar empleo y garantizar a la población campesina el bienestar y su participación e incorporación en el desarrollo nacional, y fomentará la actividad agropecuaria y forestal para el óptimo uso de la tierra, con obras de infraestructura, insumos, créditos, servicios de capacitación y asistencia técnica. Asimismo expedirá la legislación reglamentaria para planear y organizar la producción agropecuaria, su industrialización y comercialización, considerándolas de interés público.
+XX.   El Estado promoverá las condiciones para el desarrollo rural integral, con el propósito de generar empleo y garantizar a la población campesina el bienestar y su participación e incorporación en el desarrollo nacional, y fomentará la actividad agropecuaria y forestal para el óptimo uso de la tierra, con obras de infraestructura, insumos, créditos, servicios de capacitación y asistencia técnica. Asimismo expedirá la legislación reglamentaria para planear y organizar la producción agropecuaria, su industrialización y comercialización, considerándolas de interés público.
 
 El desarrollo rural integral y sustentable a que se refiere el párrafo anterior, también tendrá entre sus fines que el Estado garantice el abasto suficiente y oportuno de los alimentos básicos que la ley establezca.
 Párrafo adicionado DOF 13-10-2011
 
 El Estado garantizará, en los términos que fije la ley, la entrega de:
 
-a)	Un jornal seguro, justo y permanente a campesinos que cultiven sus tierras con árboles frutales, maderables y especies que requieren ser procesadas;
+a)  Un jornal seguro, justo y permanente a campesinos que cultiven sus tierras con árboles frutales, maderables y especies que requieren ser procesadas;
 
-b)	Un apoyo anual directo y fertilizantes gratuitos a productores de pequeña escala, y
+b)  Un apoyo anual directo y fertilizantes gratuitos a productores de pequeña escala, y
 
-c)	Un apoyo anual directo a pescadores de pequeña escala.
+c)  Un apoyo anual directo a pescadores de pequeña escala.
 Párrafo con incisos adicionado DOF 02-12-2024
 
 El Estado mantendrá precios de garantía para el maíz, frijol, leche, arroz y trigo harinero o panificable, en los términos de las disposiciones aplicables.
@@ -1074,38 +1076,38 @@ De los Mexicanos
 
 Artículo 30. La nacionalidad mexicana se adquiere por nacimiento o por naturalización.
 
-A) 	Son mexicanos por nacimiento:
+A)   Son mexicanos por nacimiento:
 
-I. 	Los que nazcan en territorio de la República, sea cual fuere la nacionalidad de sus padres.
+I.   Los que nazcan en territorio de la República, sea cual fuere la nacionalidad de sus padres.
 
-II.	Los que nazcan en el extranjero, hijos de padres mexicanos, de madre mexicana o de padre mexicano;
+II.  Los que nazcan en el extranjero, hijos de padres mexicanos, de madre mexicana o de padre mexicano;
 Fracción reformada DOF 26-12-1969, 20-03-1997, 17-05-2021
 
-III. 	Los que nazcan en el extranjero, hijos de padres mexicanos por naturalización, de padre mexicano por naturalización, o de madre mexicana por naturalización, y
+III.   Los que nazcan en el extranjero, hijos de padres mexicanos por naturalización, de padre mexicano por naturalización, o de madre mexicana por naturalización, y
 Fracción adicionada DOF 20-03-1997
 
-IV. 	Los que nazcan a bordo de embarcaciones o aeronaves mexicanas, sean de guerra o mercantes.
+IV.   Los que nazcan a bordo de embarcaciones o aeronaves mexicanas, sean de guerra o mercantes.
 Fracción recorrida DOF 20-03-1997
 
-B) 	Son mexicanos por naturalización:
+B)   Son mexicanos por naturalización:
 
-I. 	Los extranjeros que obtengan de la Secretaría de Relaciones carta de naturalización.
+I.   Los extranjeros que obtengan de la Secretaría de Relaciones carta de naturalización.
 
-II. 	La mujer o el varón extranjeros que contraigan matrimonio con varón o con mujer mexicanos, que tengan o establezcan su domicilio dentro del territorio nacional y cumplan con los demás requisitos que al efecto señale la ley.
+II.   La mujer o el varón extranjeros que contraigan matrimonio con varón o con mujer mexicanos, que tengan o establezcan su domicilio dentro del territorio nacional y cumplan con los demás requisitos que al efecto señale la ley.
 Fracción reformada DOF 31-12-1974, 20-03-1997
 Artículo reformado DOF 18-01-1934
 
 Artículo 31. Son obligaciones de los mexicanos:
 
-I.	Ser responsables de que sus hijas, hijos o pupilos menores de dieciocho años concurran a las escuelas, para recibir la educación obligatoria y, en su caso, reciban la militar, en los términos que establezca la ley, así como participar en su proceso educativo, al revisar su progreso y desempeño, velando siempre por su bienestar y desarrollo;
+I.  Ser responsables de que sus hijas, hijos o pupilos menores de dieciocho años concurran a las escuelas, para recibir la educación obligatoria y, en su caso, reciban la militar, en los términos que establezca la ley, así como participar en su proceso educativo, al revisar su progreso y desempeño, velando siempre por su bienestar y desarrollo;
 Fracción reformada DOF 05-03-1993, 12-11-2002, 09-02-2012, 15-05-2019
 
-II. 	Asistir en los días y horas designados por el Ayuntamiento del lugar en que residan, para recibir instrucción cívica y militar que los mantenga aptos en el ejercicio de los derechos de ciudadano, diestros en el manejo de las armas, y conocedores de la disciplina militar.
+II.   Asistir en los días y horas designados por el Ayuntamiento del lugar en que residan, para recibir instrucción cívica y militar que los mantenga aptos en el ejercicio de los derechos de ciudadano, diestros en el manejo de las armas, y conocedores de la disciplina militar.
 
-III. 	Alistarse y servir en los cuerpos de reserva, conforme a la ley, para asegurar y defender la independencia, el territorio, el honor, los derechos e intereses de la Patria, y
+III.   Alistarse y servir en los cuerpos de reserva, conforme a la ley, para asegurar y defender la independencia, el territorio, el honor, los derechos e intereses de la Patria, y
 Fracción reformada DOF 26-03-2019
 
-IV. 	Contribuir para los gastos públicos, así de la Federación, como de los Estados, de la Ciudad de México y del Municipio en que residan, de la manera proporcional y equitativa que dispongan las leyes.
+IV.   Contribuir para los gastos públicos, así de la Federación, como de los Estados, de la Ciudad de México y del Municipio en que residan, de la manera proporcional y equitativa que dispongan las leyes.
 Fracción reformada DOF 25-10-1993, 29-01-2016
 
 Artículo 32. La Ley regulará el ejercicio de los derechos que la legislación mexicana otorga a los mexicanos que posean otra nacionalidad y establecerá normas para evitar conflictos por doble nacionalidad.
@@ -1136,169 +1138,169 @@ De los Ciudadanos Mexicanos
 
 Artículo 34. Son ciudadanos de la República los varones y mujeres que, teniendo la calidad de mexicanos, reúnan, además, los siguientes requisitos:
 
-I. 	Haber cumplido 18 años, y
+I.   Haber cumplido 18 años, y
 
-II. 	Tener un modo honesto de vivir.
+II.   Tener un modo honesto de vivir.
 Artículo reformado DOF 17-10-1953, 22-12-1969
 
 Artículo 35. Son derechos de la ciudadanía:
 Párrafo reformado DOF 09-08-2012, 06-06-2019
 
-I. 	Votar en las elecciones populares;
+I.   Votar en las elecciones populares;
 
-II. 	Poder ser votada en condiciones de paridad para todos los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos y candidatas ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos y las ciudadanas que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
+II.   Poder ser votada en condiciones de paridad para todos los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos y candidatas ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos y las ciudadanas que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
 Fracción reformada DOF 09-08-2012, 06-06-2019
 
-III. 	Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del país;
+III.   Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del país;
 Fracción reformada DOF 06-04-1990, 22-08-1996
 
-IV. 	Tomar las armas en la Fuerza Armada permanente o en los cuerpos de reserva, para la defensa de la República y de sus instituciones, en los términos que prescriben las leyes;
+IV.   Tomar las armas en la Fuerza Armada permanente o en los cuerpos de reserva, para la defensa de la República y de sus instituciones, en los términos que prescriben las leyes;
 Fracción reformada DOF 09-08-2012, 26-03-2019
 
-V. 	Ejercer en toda clase de negocios el derecho de petición.
+V.   Ejercer en toda clase de negocios el derecho de petición.
 
-VI. 	Poder ser nombrado para cualquier empleo o comisión del servicio público, teniendo las calidades que establezca la ley;
+VI.   Poder ser nombrado para cualquier empleo o comisión del servicio público, teniendo las calidades que establezca la ley;
 Fracción adicionada DOF 09-08-2012
 
-VII.	Iniciar leyes, en los términos y con los requisitos que señalen esta Constitución y la Ley del Congreso. El Instituto Nacional Electoral tendrá las facultades que en esta materia le otorgue la ley;
+VII.  Iniciar leyes, en los términos y con los requisitos que señalen esta Constitución y la Ley del Congreso. El Instituto Nacional Electoral tendrá las facultades que en esta materia le otorgue la ley;
 Fracción adicionada DOF 09-08-2012. Reformada DOF 10-02-2014, 20-12-2019
 
-VIII.	Votar en las consultas populares sobre temas de trascendencia nacional o regional, las que se sujetarán a lo siguiente:
+VIII.  Votar en las consultas populares sobre temas de trascendencia nacional o regional, las que se sujetarán a lo siguiente:
 Párrafo reformado DOF 20-12-2019
 
-1o. 	Serán convocadas por el Congreso de la Unión a petición de:
+1o.   Serán convocadas por el Congreso de la Unión a petición de:
 
-a) 	El Presidente de la República;
+a)   El Presidente de la República;
 
-b) 	El equivalente al treinta y tres por ciento de los integrantes de cualquiera de las Cámaras del Congreso de la Unión; o
+b)   El equivalente al treinta y tres por ciento de los integrantes de cualquiera de las Cámaras del Congreso de la Unión; o
 
-c)	Para el caso de las consultas populares de temas de trascendencia nacional, los ciudadanos, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores, en los términos que determine la ley.
+c)  Para el caso de las consultas populares de temas de trascendencia nacional, los ciudadanos, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores, en los términos que determine la ley.
 
-	Para el caso de las consultas populares de temas de trascendencia regional competencia de la Federación, los ciudadanos de una o más entidades federativas, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores de la entidad o entidades federativas que correspondan, en los términos que determine la ley.
+  Para el caso de las consultas populares de temas de trascendencia regional competencia de la Federación, los ciudadanos de una o más entidades federativas, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores de la entidad o entidades federativas que correspondan, en los términos que determine la ley.
 Inciso reformado DOF 20-12-2019
 
-	Con excepción de las hipótesis previstas en el inciso c) anterior, la petición deberá ser aprobada por la mayoría de cada Cámara del Congreso de la Unión;
+  Con excepción de las hipótesis previstas en el inciso c) anterior, la petición deberá ser aprobada por la mayoría de cada Cámara del Congreso de la Unión;
 Párrafo reformado DOF 20-12-2019
 
-2o. 	Cuando la participación total corresponda, al menos, al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores, el resultado será vinculatorio para los poderes Ejecutivo y Legislativo federales y para las autoridades competentes;
+2o.   Cuando la participación total corresponda, al menos, al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores, el resultado será vinculatorio para los poderes Ejecutivo y Legislativo federales y para las autoridades competentes;
 
-3o.	No podrán ser objeto de consulta popular la restricción de los derechos humanos reconocidos por esta Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte, ni las garantías para su protección; los principios consagrados en el artículo 40 de la misma; la permanencia o continuidad en el cargo de los servidores públicos de elección popular; la materia electoral; el sistema financiero, ingresos, gastos y el Presupuesto de Egresos de la Federación; las obras de infraestructura en ejecución; la seguridad nacional y la organización, funcionamiento y disciplina de la Fuerza Armada permanente. La Suprema Corte de Justicia de la Nación resolverá, previo a la convocatoria que realice el Congreso de la Unión, sobre la constitucionalidad de la materia de la consulta;
+3o.  No podrán ser objeto de consulta popular la restricción de los derechos humanos reconocidos por esta Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte, ni las garantías para su protección; los principios consagrados en el artículo 40 de la misma; la permanencia o continuidad en el cargo de los servidores públicos de elección popular; la materia electoral; el sistema financiero, ingresos, gastos y el Presupuesto de Egresos de la Federación; las obras de infraestructura en ejecución; la seguridad nacional y la organización, funcionamiento y disciplina de la Fuerza Armada permanente. La Suprema Corte de Justicia de la Nación resolverá, previo a la convocatoria que realice el Congreso de la Unión, sobre la constitucionalidad de la materia de la consulta;
 Apartado reformado DOF 20-12-2019
 
-4o.	El Instituto Nacional Electoral tendrá a su cargo, en forma directa, la verificación del requisito establecido en el inciso c) del apartado 1o. de la presente fracción, así como la organización, difusión, desarrollo, cómputo y declaración de resultados.
+4o.  El Instituto Nacional Electoral tendrá a su cargo, en forma directa, la verificación del requisito establecido en el inciso c) del apartado 1o. de la presente fracción, así como la organización, difusión, desarrollo, cómputo y declaración de resultados.
 
-	El Instituto promoverá la participación de los ciudadanos en las consultas populares y será la única instancia a cargo de la difusión de las mismas. La promoción deberá ser imparcial y de ninguna manera podrá estar dirigida a influir en las preferencias de la ciudadanía, sino que deberá enfocarse en promover la discusión informada y la reflexión de los ciudadanos. Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en la opinión de los ciudadanos sobre las consultas populares.
+  El Instituto promoverá la participación de los ciudadanos en las consultas populares y será la única instancia a cargo de la difusión de las mismas. La promoción deberá ser imparcial y de ninguna manera podrá estar dirigida a influir en las preferencias de la ciudadanía, sino que deberá enfocarse en promover la discusión informada y la reflexión de los ciudadanos. Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en la opinión de los ciudadanos sobre las consultas populares.
 
-	Durante el tiempo que comprende el proceso de consulta popular, desde la convocatoria y hasta la conclusión de la jornada, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de cualquier orden de gobierno, salvo aquellas que tengan como fin difundir campañas de información de las autoridades electorales, las relativas a los servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia;
+  Durante el tiempo que comprende el proceso de consulta popular, desde la convocatoria y hasta la conclusión de la jornada, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de cualquier orden de gobierno, salvo aquellas que tengan como fin difundir campañas de información de las autoridades electorales, las relativas a los servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia;
 Apartado reformado DOF 10-02-2014, 20-12-2019
 
-5o.	Las consultas populares convocadas conforme a la presente fracción, se realizarán el primer domingo de agosto;
+5o.  Las consultas populares convocadas conforme a la presente fracción, se realizarán el primer domingo de agosto;
 Apartado reformado DOF 20-12-2019
 
-6o. 	Las resoluciones del Instituto Nacional Electoral podrán ser impugnadas en los términos de lo dispuesto en la fracción VI del artículo 41, así como de la fracción III del artículo 99 de esta Constitución; y
+6o.   Las resoluciones del Instituto Nacional Electoral podrán ser impugnadas en los términos de lo dispuesto en la fracción VI del artículo 41, así como de la fracción III del artículo 99 de esta Constitución; y
 Apartado reformado DOF 10-02-2014
 
-7o. 	Las leyes establecerán lo conducente para hacer efectivo lo dispuesto en la presente fracción.
+7o.   Las leyes establecerán lo conducente para hacer efectivo lo dispuesto en la presente fracción.
 Fracción adicionada DOF 09-08-2012
 
-IX.	Participar en los procesos de revocación de mandato.
+IX.  Participar en los procesos de revocación de mandato.
 
-	El que se refiere a la revocación de mandato del Presidente de la República, se llevará a cabo conforme a lo siguiente:
+  El que se refiere a la revocación de mandato del Presidente de la República, se llevará a cabo conforme a lo siguiente:
 
-1o.	Será convocado por el Instituto Nacional Electoral a petición de los ciudadanos y ciudadanas, en un número equivalente, al menos, al tres por ciento de los inscritos en la lista nominal de electores, siempre y cuando en la solicitud correspondan a por lo menos diecisiete entidades federativas y que representen, como mínimo, el tres por ciento de la lista nominal de electores de cada una de ellas.
+1o.  Será convocado por el Instituto Nacional Electoral a petición de los ciudadanos y ciudadanas, en un número equivalente, al menos, al tres por ciento de los inscritos en la lista nominal de electores, siempre y cuando en la solicitud correspondan a por lo menos diecisiete entidades federativas y que representen, como mínimo, el tres por ciento de la lista nominal de electores de cada una de ellas.
 
-	El Instituto, dentro de los siguientes treinta días a que se reciba la solicitud, verificará el requisito establecido en el párrafo anterior y emitirá inmediatamente la convocatoria al proceso para la revocación de mandato.
+  El Instituto, dentro de los siguientes treinta días a que se reciba la solicitud, verificará el requisito establecido en el párrafo anterior y emitirá inmediatamente la convocatoria al proceso para la revocación de mandato.
 
-2o.	Se podrá solicitar en una sola ocasión y durante los tres meses posteriores a la conclusión del tercer año del periodo constitucional.
+2o.  Se podrá solicitar en una sola ocasión y durante los tres meses posteriores a la conclusión del tercer año del periodo constitucional.
 
-	Los ciudadanos y ciudadanas podrán recabar firmas para la solicitud de revocación de mandato durante el mes previo a la fecha prevista en el párrafo anterior. El Instituto emitirá, a partir de esta fecha, los formatos y medios para la recopilación de firmas, así como los lineamientos para las actividades relacionadas.
+  Los ciudadanos y ciudadanas podrán recabar firmas para la solicitud de revocación de mandato durante el mes previo a la fecha prevista en el párrafo anterior. El Instituto emitirá, a partir de esta fecha, los formatos y medios para la recopilación de firmas, así como los lineamientos para las actividades relacionadas.
 
-3o.	Se realizará mediante votación libre, directa y secreta de ciudadanos y ciudadanas inscritos en la lista nominal, el domingo siguiente a los noventa días posteriores a la convocatoria y en fecha no coincidente con las jornadas electorales, federal o locales.
+3o.  Se realizará mediante votación libre, directa y secreta de ciudadanos y ciudadanas inscritos en la lista nominal, el domingo siguiente a los noventa días posteriores a la convocatoria y en fecha no coincidente con las jornadas electorales, federal o locales.
 
-4o.	Para que el proceso de revocación de mandato sea válido deberá haber una participación de, por lo menos, el cuarenta por ciento de las personas inscritas en la lista nominal de electores. La revocación de mandato sólo procederá por mayoría absoluta.
+4o.  Para que el proceso de revocación de mandato sea válido deberá haber una participación de, por lo menos, el cuarenta por ciento de las personas inscritas en la lista nominal de electores. La revocación de mandato sólo procederá por mayoría absoluta.
 
-5o.	El Instituto Nacional Electoral tendrá a su cargo, en forma directa, la organización, desarrollo y cómputo de la votación. Emitirá los resultados de los procesos de revocación de mandato del titular del Poder Ejecutivo Federal, los cuales podrán ser impugnados ante la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, en los términos de lo dispuesto en la fracción VI del artículo 41, así como en la fracción III del artículo 99.
+5o.  El Instituto Nacional Electoral tendrá a su cargo, en forma directa, la organización, desarrollo y cómputo de la votación. Emitirá los resultados de los procesos de revocación de mandato del titular del Poder Ejecutivo Federal, los cuales podrán ser impugnados ante la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, en los términos de lo dispuesto en la fracción VI del artículo 41, así como en la fracción III del artículo 99.
 
-6o.	La Sala Superior del Tribunal Electoral del Poder Judicial de la Federación realizará el cómputo final del proceso de revocación de mandato, una vez resueltas las impugnaciones que se hubieren interpuesto. En su caso, emitirá la declaratoria de revocación y se estará a lo dispuesto en el artículo 84.
+6o.  La Sala Superior del Tribunal Electoral del Poder Judicial de la Federación realizará el cómputo final del proceso de revocación de mandato, una vez resueltas las impugnaciones que se hubieren interpuesto. En su caso, emitirá la declaratoria de revocación y se estará a lo dispuesto en el artículo 84.
 
-7o.	Queda prohibido el uso de recursos públicos para la recolección de firmas, así como con fines de promoción y propaganda relacionados con los procesos de revocación de mandato.
+7o.  Queda prohibido el uso de recursos públicos para la recolección de firmas, así como con fines de promoción y propaganda relacionados con los procesos de revocación de mandato.
 
-	El Instituto y los organismos públicos locales, según corresponda, promoverán la participación ciudadana y serán la única instancia a cargo de la difusión de los mismos. La promoción será objetiva, imparcial y con fines informativos.
+  El Instituto y los organismos públicos locales, según corresponda, promoverán la participación ciudadana y serán la única instancia a cargo de la difusión de los mismos. La promoción será objetiva, imparcial y con fines informativos.
 
-	Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en la opinión de los ciudadanos y ciudadanas.
+  Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en la opinión de los ciudadanos y ciudadanas.
 
-	Durante el tiempo que comprende el proceso de revocación de mandato, desde la convocatoria y hasta la conclusión de la jornada, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de cualquier orden de gobierno.
+  Durante el tiempo que comprende el proceso de revocación de mandato, desde la convocatoria y hasta la conclusión de la jornada, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de cualquier orden de gobierno.
 
-	Los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, sólo podrán difundir las campañas de información relativas a los servicios educativos y de salud o las necesarias para la protección civil.
+  Los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, sólo podrán difundir las campañas de información relativas a los servicios educativos y de salud o las necesarias para la protección civil.
 
-8o.	El Congreso de la Unión emitirá la ley reglamentaria.
+8o.  El Congreso de la Unión emitirá la ley reglamentaria.
 Fracción con apartados adicionada DOF 20-12-2019
 
 Artículo 36. Son obligaciones del ciudadano de la República:
 
-I. 	Inscribirse en el catastro de la municipalidad, manifestando la propiedad que el mismo ciudadano tenga, la industria, profesión o trabajo de que subsista; así como también inscribirse en el Registro Nacional de Ciudadanos, en los términos que determinen las leyes.
+I.   Inscribirse en el catastro de la municipalidad, manifestando la propiedad que el mismo ciudadano tenga, la industria, profesión o trabajo de que subsista; así como también inscribirse en el Registro Nacional de Ciudadanos, en los términos que determinen las leyes.
 
 La organización y el funcionamiento permanente del Registro Nacional de Ciudadanos y la expedición del documento que acredite la ciudadanía mexicana son servicios de interés público, y por tanto, responsabilidad que corresponde al Estado y a los ciudadanos en los términos que establezca la ley,
 Fracción reformada DOF 06-04-1990
 
-II. 	Formar parte de los cuerpos de reserva en términos de ley;
+II.   Formar parte de los cuerpos de reserva en términos de ley;
 Fracción reformada DOF 26-03-2019
 
-III.	Votar en las elecciones, las consultas populares y los procesos de revocación de mandato, en los términos que señale la ley;
+III.  Votar en las elecciones, las consultas populares y los procesos de revocación de mandato, en los términos que señale la ley;
 Fracción reformada DOF 22-08-1996, 09-08-2012, 20-12-2019
 
-IV. 	Desempeñar los cargos de elección popular de la Federación o de las entidades federativas, que en ningún caso serán gratuitos; y
+IV.   Desempeñar los cargos de elección popular de la Federación o de las entidades federativas, que en ningún caso serán gratuitos; y
 Fracción reformada DOF 29-01-2016
 
-V. 	Desempeñar los cargos concejiles del municipio donde resida, las funciones electorales y las de jurado.
+V.   Desempeñar los cargos concejiles del municipio donde resida, las funciones electorales y las de jurado.
 
 Artículo 37.
-A) 	Ningún mexicano por nacimiento podrá ser privado de su nacionalidad.
+A)   Ningún mexicano por nacimiento podrá ser privado de su nacionalidad.
 
-B) 	La nacionalidad mexicana por naturalización se perderá en los siguientes casos:
+B)   La nacionalidad mexicana por naturalización se perderá en los siguientes casos:
 
-I. 	Por adquisición voluntaria de una nacionalidad extranjera, por hacerse pasar en cualquier instrumento público como extranjero, por usar un pasaporte extranjero, o por aceptar o usar títulos nobiliarios que impliquen sumisión a un Estado extranjero, y
+I.   Por adquisición voluntaria de una nacionalidad extranjera, por hacerse pasar en cualquier instrumento público como extranjero, por usar un pasaporte extranjero, o por aceptar o usar títulos nobiliarios que impliquen sumisión a un Estado extranjero, y
 
-II. 	Por residir durante cinco años continuos en el extranjero.
+II.   Por residir durante cinco años continuos en el extranjero.
 
-C) 	La ciudadanía mexicana se pierde:
+C)   La ciudadanía mexicana se pierde:
 
-I. 	Por aceptar o usar títulos nobiliarios de gobiernos extranjeros;
+I.   Por aceptar o usar títulos nobiliarios de gobiernos extranjeros;
 
-II. 	Por prestar voluntariamente servicios o funciones oficiales a un gobierno extranjero, sin permiso del Ejecutivo Federal;
+II.   Por prestar voluntariamente servicios o funciones oficiales a un gobierno extranjero, sin permiso del Ejecutivo Federal;
 Fracción reformada DOF 30-09-2013
 
-III. 	Por aceptar o usar condecoraciones extranjeras sin permiso del Ejecutivo Federal.
+III.   Por aceptar o usar condecoraciones extranjeras sin permiso del Ejecutivo Federal.
 
 El Presidente de la República, los senadores y diputados al Congreso de la Unión y los ministros de la Suprema Corte de Justicia de la Nación podrán libremente aceptar y usar condecoraciones extranjeras;
 Fracción reformada DOF 30-09-2013
 
-IV. 	Por admitir del gobierno de otro país títulos o funciones sin previo permiso del Ejecutivo Federal, exceptuando los títulos literarios, científicos o humanitarios que pueden aceptarse libremente;
+IV.   Por admitir del gobierno de otro país títulos o funciones sin previo permiso del Ejecutivo Federal, exceptuando los títulos literarios, científicos o humanitarios que pueden aceptarse libremente;
 Fracción reformada DOF 30-09-2013
 
-V. 	Por ayudar, en contra de la Nación, a un extranjero, o a un gobierno extranjero, en cualquier reclamación diplomática o ante un tribunal internacional, y
+V.   Por ayudar, en contra de la Nación, a un extranjero, o a un gobierno extranjero, en cualquier reclamación diplomática o ante un tribunal internacional, y
 
-VI. 	En los demás casos que fijan las leyes.
+VI.   En los demás casos que fijan las leyes.
 Reforma DOF 30-09-2013: Derogó del Apartado C el entonces último párrafo
 Fe de erratas al artículo DOF 06-02-1917. Artículo reformado DOF 18-01-1934, 20-03-1997
 
 Artículo 38. Los derechos o prerrogativas de los ciudadanos se suspenden:
 
-I. 	Por falta de cumplimiento, sin causa justificada, de cualquiera de las obligaciones que impone el artículo 36. Esta suspensión durará un año y se impondrá además de las otras penas que por el mismo hecho señalare la ley;
+I.   Por falta de cumplimiento, sin causa justificada, de cualquiera de las obligaciones que impone el artículo 36. Esta suspensión durará un año y se impondrá además de las otras penas que por el mismo hecho señalare la ley;
 
-II. 	Por estar sujeto a un proceso criminal por delito que merezca pena corporal, a contar desde la fecha del auto de formal prisión;
+II.   Por estar sujeto a un proceso criminal por delito que merezca pena corporal, a contar desde la fecha del auto de formal prisión;
 
-III. 	Durante la extinción de una pena corporal;
+III.   Durante la extinción de una pena corporal;
 
-IV. 	Por vagancia o ebriedad consuetudinaria, declarada en los términos que prevengan las leyes;
+IV.   Por vagancia o ebriedad consuetudinaria, declarada en los términos que prevengan las leyes;
 
-V. 	Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión hasta que prescriba la acción penal;
+V.   Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión hasta que prescriba la acción penal;
 Fracción reformada DOF 29-05-2023
 
-VI. 	Por sentencia ejecutoria que imponga como pena esa suspensión, y
+VI.   Por sentencia ejecutoria que imponga como pena esa suspensión, y
 Fracción reformada DOF 29-05-2023
 
-VII.	Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos.
+VII.  Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos.
 
 Por ser declarada como persona deudora alimentaria morosa.
 
@@ -1326,7 +1328,7 @@ Párrafo adicionado DOF 06-06-2019. Reformado DOF 15-11-2024
 
 La renovación de los poderes Legislativo y Ejecutivo se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
-I. 	Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal, las formas específicas de su intervención en el proceso electoral y los derechos, obligaciones y prerrogativas que les corresponden. En la postulación de sus candidaturas, se observará el principio de paridad de género.
+I.   Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal, las formas específicas de su intervención en el proceso electoral y los derechos, obligaciones y prerrogativas que les corresponden. En la postulación de sus candidaturas, se observará el principio de paridad de género.
 Párrafo reformado DOF 10-02-2014, 06-06-2019
 
 Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, fomentar el principio de paridad de género, contribuir a la integración de los órganos de representación política, y como organizaciones ciudadanas, hacer posible su acceso al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como con las reglas que marque la ley electoral para garantizar la paridad de género, en las candidaturas a los distintos cargos de elección popular. Sólo los ciudadanos y ciudadanas podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, quedan prohibidas la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
@@ -1340,44 +1342,44 @@ Párrafo adicionado DOF 10-02-2014
 El Instituto Nacional Electoral tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales a cargo de los partidos políticos; también conocerá de los recursos de revisión que interpongan los particulares respecto de las resoluciones de los partidos políticos en los términos que establezca la ley.
 Párrafo adicionado DOF 20-12-2024
 
-II. 	La ley garantizará que los partidos políticos nacionales cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
+II.   La ley garantizará que los partidos políticos nacionales cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
 
 El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico. Se otorgará conforme a lo siguiente y a lo que disponga la ley:
 
-a)	El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
+a)  El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
 Inciso reformado DOF 27-01-2016, 29-01-2016
 
-b) 	El financiamiento público para las actividades tendientes a la obtención del voto durante el año en que se elijan Presidente de la República, senadores y diputados federales, equivaldrá al cincuenta por ciento del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando sólo se elijan diputados federales, equivaldrá al treinta por ciento de dicho financiamiento por actividades ordinarias.
+b)   El financiamiento público para las actividades tendientes a la obtención del voto durante el año en que se elijan Presidente de la República, senadores y diputados federales, equivaldrá al cincuenta por ciento del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando sólo se elijan diputados federales, equivaldrá al treinta por ciento de dicho financiamiento por actividades ordinarias.
 
-c) 	El financiamiento público por actividades específicas, relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, equivaldrá al tres por ciento del monto total del financiamiento público que corresponda en cada año por actividades ordinarias. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
+c)   El financiamiento público por actividades específicas, relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, equivaldrá al tres por ciento del monto total del financiamiento público que corresponda en cada año por actividades ordinarias. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
 
 La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y en las campañas electorales. La propia ley establecerá el monto máximo que tendrán las aportaciones de sus militantes y simpatizantes; ordenará los procedimientos para el control, fiscalización oportuna y vigilancia, durante la campaña, del origen y uso de todos los recursos con que cuenten; asimismo, dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 Párrafo reformado DOF 10-02-2014
 
 De igual manera, la ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados a la Federación.
 
-III. 	Los partidos políticos nacionales tendrán derecho al uso de manera permanente de los medios de comunicación social. Los candidatos independientes tendrán derecho de acceso a prerrogativas para las campañas electorales en los términos que establezca la ley.
+III.   Los partidos políticos nacionales tendrán derecho al uso de manera permanente de los medios de comunicación social. Los candidatos independientes tendrán derecho de acceso a prerrogativas para las campañas electorales en los términos que establezca la ley.
 Párrafo reformado DOF 10-02-2014
 
 Apartado A. El Instituto Nacional Electoral será autoridad única para la administración del tiempo que corresponda al Estado en radio y televisión destinado a sus propios fines y al ejercicio del derecho de los partidos políticos nacionales, de acuerdo con lo siguiente y a lo que establezcan las leyes:
 Párrafo reformado DOF 10-02-2014
 
-a)	A partir del inicio de las precampañas y hasta el día de la jornada electoral quedarán a disposición del Instituto Nacional Electoral cuarenta y ocho minutos diarios, que serán distribuidos en dos y hasta tres minutos por cada hora de transmisión en cada estación de radio y canal de televisión, en el horario referido en el inciso d) de este apartado. En el período comprendido entre el fin de las precampañas y el inicio de las campañas, el cincuenta por ciento de los tiempos en radio y televisión se destinará a los fines propios de las autoridades electorales, y el resto a la difusión de mensajes genéricos de los partidos políticos, conforme a lo que establezca la ley;
+a)  A partir del inicio de las precampañas y hasta el día de la jornada electoral quedarán a disposición del Instituto Nacional Electoral cuarenta y ocho minutos diarios, que serán distribuidos en dos y hasta tres minutos por cada hora de transmisión en cada estación de radio y canal de televisión, en el horario referido en el inciso d) de este apartado. En el período comprendido entre el fin de las precampañas y el inicio de las campañas, el cincuenta por ciento de los tiempos en radio y televisión se destinará a los fines propios de las autoridades electorales, y el resto a la difusión de mensajes genéricos de los partidos políticos, conforme a lo que establezca la ley;
 Inciso reformado DOF 10-02-2014
 
-b)	Durante sus precampañas, los partidos políticos dispondrán en conjunto de un minuto por cada hora de transmisión en cada estación de radio y canal de televisión; el tiempo restante se utilizará conforme a lo que determine la ley;
+b)  Durante sus precampañas, los partidos políticos dispondrán en conjunto de un minuto por cada hora de transmisión en cada estación de radio y canal de televisión; el tiempo restante se utilizará conforme a lo que determine la ley;
 
-c)	Durante las campañas electorales deberá destinarse para cubrir el derecho de los partidos políticos y los candidatos al menos el ochenta y cinco por ciento del tiempo total disponible a que se refiere el inciso a) de este apartado;
+c)  Durante las campañas electorales deberá destinarse para cubrir el derecho de los partidos políticos y los candidatos al menos el ochenta y cinco por ciento del tiempo total disponible a que se refiere el inciso a) de este apartado;
 Inciso reformado DOF 10-02-2014
 
-d)	Las transmisiones en cada estación de radio y canal de televisión se distribuirán dentro del horario de programación comprendido entre las seis y las veinticuatro horas;
+d)  Las transmisiones en cada estación de radio y canal de televisión se distribuirán dentro del horario de programación comprendido entre las seis y las veinticuatro horas;
 
-e)	El tiempo establecido como derecho de los partidos políticos y, en su caso, de los candidatos independientes, se distribuirá entre los mismos conforme a lo siguiente: el setenta por ciento será distribuido entre los partidos políticos de acuerdo a los resultados de la elección para diputados federales inmediata anterior y el treinta por ciento restante será dividido en partes iguales, de las cuales, hasta una de ellas podrá ser asignada a los candidatos independientes en su conjunto;
+e)  El tiempo establecido como derecho de los partidos políticos y, en su caso, de los candidatos independientes, se distribuirá entre los mismos conforme a lo siguiente: el setenta por ciento será distribuido entre los partidos políticos de acuerdo a los resultados de la elección para diputados federales inmediata anterior y el treinta por ciento restante será dividido en partes iguales, de las cuales, hasta una de ellas podrá ser asignada a los candidatos independientes en su conjunto;
 Inciso reformado DOF 10-02-2014
 
-f)	A cada partido político nacional sin representación en el Congreso de la Unión se le asignará para radio y televisión solamente la parte correspondiente al porcentaje igualitario establecido en el inciso anterior, y
+f)  A cada partido político nacional sin representación en el Congreso de la Unión se le asignará para radio y televisión solamente la parte correspondiente al porcentaje igualitario establecido en el inciso anterior, y
 
-g)	Con independencia de lo dispuesto en los apartados A y B de esta base y fuera de los períodos de precampañas y campañas electorales federales, al Instituto Nacional Electoral le será asignado hasta el doce por ciento del tiempo total de que el Estado disponga en radio y televisión, conforme a las leyes y bajo cualquier modalidad; del total asignado, el Instituto distribuirá entre los partidos políticos nacionales en forma igualitaria un cincuenta por ciento; el tiempo restante lo utilizará para fines propios o de otras autoridades electorales, tanto federales como de las entidades federativas. Cada partido político nacional utilizará el tiempo que por este concepto le corresponda en los formatos que establezca la ley. En todo caso, las transmisiones a que se refiere este inciso se harán en el horario que determine el Instituto conforme a lo señalado en el inciso d) del presente Apartado. En situaciones especiales, el Instituto podrá disponer de los tiempos correspondientes a mensajes partidistas a favor de un partido político, cuando así se justifique.
+g)  Con independencia de lo dispuesto en los apartados A y B de esta base y fuera de los períodos de precampañas y campañas electorales federales, al Instituto Nacional Electoral le será asignado hasta el doce por ciento del tiempo total de que el Estado disponga en radio y televisión, conforme a las leyes y bajo cualquier modalidad; del total asignado, el Instituto distribuirá entre los partidos políticos nacionales en forma igualitaria un cincuenta por ciento; el tiempo restante lo utilizará para fines propios o de otras autoridades electorales, tanto federales como de las entidades federativas. Cada partido político nacional utilizará el tiempo que por este concepto le corresponda en los formatos que establezca la ley. En todo caso, las transmisiones a que se refiere este inciso se harán en el horario que determine el Instituto conforme a lo señalado en el inciso d) del presente Apartado. En situaciones especiales, el Instituto podrá disponer de los tiempos correspondientes a mensajes partidistas a favor de un partido político, cuando así se justifique.
 Inciso reformado DOF 10-02-2014
 
 Los partidos políticos y los candidatos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
@@ -1391,11 +1393,11 @@ Párrafo reformado DOF 29-01-2016
 Apartado B. Para fines electorales en las entidades federativas, el Instituto Nacional Electoral administrará los tiempos que correspondan al Estado en radio y televisión en las estaciones y canales de cobertura en la entidad de que se trate, conforme a lo siguiente y a lo que determine la ley:
 Párrafo reformado DOF 10-02-2014
 
-a)	Para los casos de los procesos electorales locales con jornadas comiciales coincidentes con la federal, el tiempo asignado en cada entidad federativa estará comprendido dentro del total disponible conforme a los incisos a), b) y c) del apartado A de esta base;
+a)  Para los casos de los procesos electorales locales con jornadas comiciales coincidentes con la federal, el tiempo asignado en cada entidad federativa estará comprendido dentro del total disponible conforme a los incisos a), b) y c) del apartado A de esta base;
 
-b)	Para los demás procesos electorales, la asignación se hará en los términos de la ley, conforme a los criterios de esta base constitucional, y
+b)  Para los demás procesos electorales, la asignación se hará en los términos de la ley, conforme a los criterios de esta base constitucional, y
 
-c) 	La distribución de los tiempos entre los partidos políticos, incluyendo a los de registro local, y los candidatos independientes se realizará de acuerdo con los criterios señalados en el apartado A de esta base y lo que determine la legislación aplicable.
+c)   La distribución de los tiempos entre los partidos políticos, incluyendo a los de registro local, y los candidatos independientes se realizará de acuerdo con los criterios señalados en el apartado A de esta base y lo que determine la legislación aplicable.
 Inciso reformado DOF 10-02-2014
 
 Cuando a juicio del Instituto Nacional Electoral el tiempo total en radio y televisión a que se refieren este apartado y el anterior fuese insuficiente para sus propios fines, los de otras autoridades electorales o para los candidatos independientes, determinará lo conducente para cubrir el tiempo faltante, conforme a las facultades que la ley le confiera.
@@ -1410,14 +1412,14 @@ Párrafo reformado DOF 29-01-2016
 Apartado D. El Instituto Nacional Electoral, mediante procedimientos expeditos en los términos de la ley, investigará las infracciones a lo dispuesto en esta base e integrará el expediente para someterlo al conocimiento y resolución del Tribunal Electoral del Poder Judicial de la Federación. En el procedimiento, el Instituto podrá imponer, entre otras medidas cautelares, la orden de suspender o cancelar de manera inmediata las transmisiones en radio y televisión, de conformidad con lo que disponga la ley.
 Apartado reformado DOF 10-02-2014
 
-IV. 	La ley establecerá los requisitos y las formas de realización de los procesos de selección y postulación de candidatos a cargos de elección popular, así como las reglas para las precampañas y las campañas electorales.
+IV.   La ley establecerá los requisitos y las formas de realización de los procesos de selección y postulación de candidatos a cargos de elección popular, así como las reglas para las precampañas y las campañas electorales.
 Párrafo reformado DOF 10-02-2014
 
 La duración de las campañas en el año de elecciones para Presidente de la República, senadores y diputados federales será de noventa días; en el año en que sólo se elijan diputados federales, las campañas durarán sesenta días. En ningún caso las precampañas excederán las dos terceras partes del tiempo previsto para las campañas electorales.
 
 La violación a estas disposiciones por los partidos o cualquier otra persona física o moral será sancionada conforme a la ley.
 
-V. 	La organización de las elecciones es una función estatal que se realiza a través del Instituto Nacional Electoral y de los organismos públicos locales, en los términos que establece esta Constitución.
+V.   La organización de las elecciones es una función estatal que se realiza a través del Instituto Nacional Electoral y de los organismos públicos locales, en los términos que establece esta Constitución.
 
 Apartado A. El Instituto Nacional Electoral es un organismo público autónomo dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Poder Legislativo de la Unión, los partidos políticos nacionales y los ciudadanos, en los términos que ordene la ley. En el ejercicio de esta función estatal, la certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad serán principios rectores.
 
@@ -1430,16 +1432,16 @@ El Instituto contará con una oficialía electoral investida de fé pública par
 
 El consejero Presidente y los consejeros electorales durarán en su cargo nueve años y no podrán ser reelectos. Serán electos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, mediante el siguiente procedimiento:
 
-a)	La Cámara de Diputados emitirá el acuerdo para la elección del consejero Presidente y los consejeros electorales, que contendrá la convocatoria pública, las etapas completas para el procedimiento, sus fechas límites y plazos improrrogables, así como el proceso para la designación de un comité técnico de evaluación, integrado por cinco personas de reconocido prestigio, de las cuales tres serán nombradas por el órgano de dirección política de la Cámara de Diputados y dos por la Comisión Nacional de los Derechos Humanos;
+a)  La Cámara de Diputados emitirá el acuerdo para la elección del consejero Presidente y los consejeros electorales, que contendrá la convocatoria pública, las etapas completas para el procedimiento, sus fechas límites y plazos improrrogables, así como el proceso para la designación de un comité técnico de evaluación, integrado por cinco personas de reconocido prestigio, de las cuales tres serán nombradas por el órgano de dirección política de la Cámara de Diputados y dos por la Comisión Nacional de los Derechos Humanos;
 Inciso reformado DOF 20-12-2024
 
-b)	El comité recibirá la lista completa de los aspirantes que concurran a la convocatoria pública, evaluará el cumplimiento de los requisitos constitucionales y legales, así como su idoneidad para desempeñar el cargo; seleccionará a los mejor evaluados en una proporción de cinco personas por cada cargo vacante, y remitirá la relación correspondiente al órgano de dirección política de la Cámara de Diputados;
+b)  El comité recibirá la lista completa de los aspirantes que concurran a la convocatoria pública, evaluará el cumplimiento de los requisitos constitucionales y legales, así como su idoneidad para desempeñar el cargo; seleccionará a los mejor evaluados en una proporción de cinco personas por cada cargo vacante, y remitirá la relación correspondiente al órgano de dirección política de la Cámara de Diputados;
 
-c)	El órgano de dirección política impulsará la construcción de los acuerdos para la elección del consejero Presidente y los consejeros electorales, a fin de que una vez realizada la votación por este órgano en los términos de la ley, se remita al Pleno de la Cámara la propuesta con las designaciones correspondientes;
+c)  El órgano de dirección política impulsará la construcción de los acuerdos para la elección del consejero Presidente y los consejeros electorales, a fin de que una vez realizada la votación por este órgano en los términos de la ley, se remita al Pleno de la Cámara la propuesta con las designaciones correspondientes;
 
-d)	Vencido el plazo que para el efecto se establezca en el acuerdo a que se refiere el inciso a), sin que el órgano de dirección política de la Cámara haya realizado la votación o remisión previstas en el inciso anterior, o habiéndolo hecho, no se alcance la votación requerida en el Pleno, se deberá convocar a éste a una sesión en la que se realizará la elección mediante insaculación de la lista conformada por el comité de evaluación;
+d)  Vencido el plazo que para el efecto se establezca en el acuerdo a que se refiere el inciso a), sin que el órgano de dirección política de la Cámara haya realizado la votación o remisión previstas en el inciso anterior, o habiéndolo hecho, no se alcance la votación requerida en el Pleno, se deberá convocar a éste a una sesión en la que se realizará la elección mediante insaculación de la lista conformada por el comité de evaluación;
 
-e)	Al vencimiento del plazo fijado en el acuerdo referido en el inciso a), sin que se hubiere concretado la elección en los términos de los incisos c) y d), el Pleno de la Suprema Corte de Justicia de la Nación realizará, en sesión pública, la designación mediante insaculación de la lista conformada por el comité de evaluación.
+e)  Al vencimiento del plazo fijado en el acuerdo referido en el inciso a), sin que se hubiere concretado la elección en los términos de los incisos c) y d), el Pleno de la Suprema Corte de Justicia de la Nación realizará, en sesión pública, la designación mediante insaculación de la lista conformada por el comité de evaluación.
 
 De darse la falta absoluta del consejero Presidente o de cualquiera de los consejeros electorales durante los primeros seis años de su encargo, se elegirá un sustituto para concluir el período de la vacante. Si la falta ocurriese dentro de los últimos tres años, se elegirá a un consejero para un nuevo periodo.
 
@@ -1457,39 +1459,39 @@ Los consejeros del Poder Legislativo serán propuestos por los grupos parlamenta
 
 Apartado B. Corresponde al Instituto Nacional Electoral en los términos que establecen esta Constitución y las leyes:
 
-a) 	Para los procesos electorales federales y locales:
+a)   Para los procesos electorales federales y locales:
 
-1.	La capacitación electoral;
+1.  La capacitación electoral;
 
-2.	La geografía electoral, así como el diseño y determinación de los distritos electorales y división del territorio en secciones electorales;
+2.  La geografía electoral, así como el diseño y determinación de los distritos electorales y división del territorio en secciones electorales;
 
-3.	El padrón y la lista de electores;
+3.  El padrón y la lista de electores;
 
-4.	La ubicación de las casillas y la designación de los funcionarios de sus mesas directivas;
+4.  La ubicación de las casillas y la designación de los funcionarios de sus mesas directivas;
 
-5.	Las reglas, lineamientos, criterios y formatos en materia de resultados preliminares; encuestas o sondeos de opinión; observación electoral; conteos rápidos; impresión de documentos y producción de materiales electorales;
+5.  Las reglas, lineamientos, criterios y formatos en materia de resultados preliminares; encuestas o sondeos de opinión; observación electoral; conteos rápidos; impresión de documentos y producción de materiales electorales;
 
-6.	La fiscalización de los ingresos y egresos de los partidos políticos y candidatos, y
+6.  La fiscalización de los ingresos y egresos de los partidos políticos y candidatos, y
 
-7.	Las demás que determine la ley.
+7.  Las demás que determine la ley.
 
-b) 	Para los procesos electorales federales:
+b)   Para los procesos electorales federales:
 
-1.	Los derechos y el acceso a las prerrogativas de los candidatos y partidos políticos;
+1.  Los derechos y el acceso a las prerrogativas de los candidatos y partidos políticos;
 
-2.	La preparación de la jornada electoral;
+2.  La preparación de la jornada electoral;
 
-3.	La impresión de documentos y la producción de materiales electorales;
+3.  La impresión de documentos y la producción de materiales electorales;
 
-4.	Los escrutinios y cómputos en los términos que señale la ley;
+4.  Los escrutinios y cómputos en los términos que señale la ley;
 
-5.	La declaración de validez y el otorgamiento de constancias en las elecciones de diputados y senadores;
+5.  La declaración de validez y el otorgamiento de constancias en las elecciones de diputados y senadores;
 
-6.	El cómputo de la elección de Presidente de los Estados Unidos Mexicanos en cada uno de los distritos electorales uninominales, y
+6.  El cómputo de la elección de Presidente de los Estados Unidos Mexicanos en cada uno de los distritos electorales uninominales, y
 
-7.	Las demás que determine la ley.
+7.  Las demás que determine la ley.
 
-c)	Para los procesos de revocación de mandato, en los términos del artículo 35, fracción IX, el Instituto Nacional Electoral deberá realizar aquellas funciones que correspondan para su debida implementación.
+c)  Para los procesos de revocación de mandato, en los términos del artículo 35, fracción IX, el Instituto Nacional Electoral deberá realizar aquellas funciones que correspondan para su debida implementación.
 Inciso adicionado DOF 20-12-2019
 
 El Instituto Nacional Electoral asumirá mediante convenio con las autoridades competentes de las entidades federativas que así lo soliciten la organización de procesos electorales, de consulta popular y de revocación de mandato en el ámbito de aquéllas, en los términos que disponga su Constitución y la legislación aplicable. A petición de los partidos políticos y con cargo a sus prerrogativas, en los términos que establezca la ley, podrá organizar las elecciones de sus dirigentes.
@@ -1502,54 +1504,54 @@ En caso de que el Instituto Nacional Electoral delegue la función de fiscalizac
 Apartado C. En las entidades federativas, las elecciones locales y, en su caso, las consultas populares y los procesos de revocación de mandato, estarán a cargo de organismos públicos locales en los términos de esta Constitución, que ejercerán funciones en las siguientes materias:
 Párrafo reformado DOF 20-12-2019
 
-1.	Derechos y el acceso a las prerrogativas de los candidatos y partidos políticos;
+1.  Derechos y el acceso a las prerrogativas de los candidatos y partidos políticos;
 
-2.	Educación cívica;
+2.  Educación cívica;
 
-3.	Preparación de la jornada electoral;
+3.  Preparación de la jornada electoral;
 
-4.	Impresión de documentos y la producción de materiales electorales;
+4.  Impresión de documentos y la producción de materiales electorales;
 
-5.	Escrutinios y cómputos en los términos que señale la ley;
+5.  Escrutinios y cómputos en los términos que señale la ley;
 
-6.	Declaración de validez y el otorgamiento de constancias en las elecciones locales;
+6.  Declaración de validez y el otorgamiento de constancias en las elecciones locales;
 
-7.	Cómputo de la elección del titular del poder ejecutivo;
+7.  Cómputo de la elección del titular del poder ejecutivo;
 
-8.	Resultados preliminares; encuestas o sondeos de opinión; observación electoral, y conteos rápidos, conforme a los lineamientos establecidos en el Apartado anterior;
+8.  Resultados preliminares; encuestas o sondeos de opinión; observación electoral, y conteos rápidos, conforme a los lineamientos establecidos en el Apartado anterior;
 
-9.	Organización, desarrollo, cómputo y declaración de resultados en los mecanismos de participación ciudadana que prevea la legislación local;
+9.  Organización, desarrollo, cómputo y declaración de resultados en los mecanismos de participación ciudadana que prevea la legislación local;
 
-10.	Todas las no reservadas al Instituto Nacional Electoral, y
+10.  Todas las no reservadas al Instituto Nacional Electoral, y
 
-11.	Las que determine la ley.
+11.  Las que determine la ley.
 
 En los supuestos que establezca la ley y con la aprobación de una mayoría de cuando menos ocho votos del Consejo General, el Instituto Nacional Electoral podrá:
 
-a)	Asumir directamente la realización de las actividades propias de la función electoral que corresponden a los órganos electorales locales;
+a)  Asumir directamente la realización de las actividades propias de la función electoral que corresponden a los órganos electorales locales;
 
-b)	Delegar en dichos órganos electorales las atribuciones a que se refiere el inciso a) del Apartado B de esta Base, sin perjuicio de reasumir su ejercicio directo en cualquier momento, o
+b)  Delegar en dichos órganos electorales las atribuciones a que se refiere el inciso a) del Apartado B de esta Base, sin perjuicio de reasumir su ejercicio directo en cualquier momento, o
 
-c)	Atraer a su conocimiento cualquier asunto de la competencia de los órganos electorales locales, cuando su trascendencia así lo amerite o para sentar un criterio de interpretación.
+c)  Atraer a su conocimiento cualquier asunto de la competencia de los órganos electorales locales, cuando su trascendencia así lo amerite o para sentar un criterio de interpretación.
 
 Corresponde al Instituto Nacional Electoral designar y remover a los integrantes del órgano superior de dirección de los organismos públicos locales, en los términos de esta Constitución.
 
 Apartado D. El Servicio Profesional Electoral Nacional comprende la selección, ingreso, capacitación, profesionalización, promoción, evaluación, rotación, permanencia y disciplina, de los servidores públicos de los órganos ejecutivos y técnicos del Instituto Nacional Electoral y de los organismos públicos locales de las entidades federativas en materia electoral. El Instituto Nacional Electoral regulará la organización y funcionamiento de este Servicio.
 Fracción reformada DOF 10-02-2014
 
-VI.	Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, incluidos los relativos a los procesos de consulta popular y de revocación de mandato, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales, de consulta popular y de revocación de mandato, y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votados y de asociación, en los términos del artículo 99 de esta Constitución.
+VI.  Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, incluidos los relativos a los procesos de consulta popular y de revocación de mandato, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales, de consulta popular y de revocación de mandato, y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votados y de asociación, en los términos del artículo 99 de esta Constitución.
 Párrafo reformado DOF 20-12-2019
 
 En materia electoral la interposición de los medios de impugnación, constitucionales o legales, no producirá efectos suspensivos sobre la resolución o el acto impugnado.
 
 La ley establecerá el sistema de nulidades de las elecciones federales o locales por violaciones graves, dolosas y determinantes en los siguientes casos:
 
-a)	Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
+a)  Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
 
-b)	Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley;
+b)  Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley;
 Inciso reformado DOF 07-07-2014
 
-c)	Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
+c)  Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
 Párrafo con incisos adicionado DOF 10-02-2014
 
 Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
@@ -1564,17 +1566,17 @@ De las Partes Integrantes de la Federación y del Territorio Nacional
 
 Artículo 42. El territorio nacional comprende:
 
-I. 	El de las partes integrantes de la Federación;
+I.   El de las partes integrantes de la Federación;
 
-II. 	El de las islas, incluyendo los arrecifes y cayos en los mares adyacentes;
+II.   El de las islas, incluyendo los arrecifes y cayos en los mares adyacentes;
 
-III. 	El de las islas de Guadalupe y las de Revillagigedo situadas en el Océano Pacífico;
+III.   El de las islas de Guadalupe y las de Revillagigedo situadas en el Océano Pacífico;
 
-IV. 	La plataforma continental y los zócalos submarinos de las islas, cayos y arrecifes;
+IV.   La plataforma continental y los zócalos submarinos de las islas, cayos y arrecifes;
 
-V. 	Las aguas de los mares territoriales en la extensión y términos que fija el Derecho Internacional y las marítimas interiores;
+V.   Las aguas de los mares territoriales en la extensión y términos que fija el Derecho Internacional y las marítimas interiores;
 
-VI. 	El espacio situado sobre el territorio nacional, con la extensión y modalidades que establezca el propio Derecho Internacional.
+VI.   El espacio situado sobre el territorio nacional, con la extensión y modalidades que establezca el propio Derecho Internacional.
 Artículo reformado DOF 18-01-1934, 20-01-1960
 
 Artículo 43. Las partes integrantes de la Federación son los Estados de Aguascalientes, Baja California, Baja California Sur, Campeche, Coahuila de Zaragoza, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán de Ocampo, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz de Ignacio de la Llave, Yucatán y Zacatecas; así como la Ciudad de México.
@@ -1630,21 +1632,21 @@ Artículo reformado DOF 06-12-1977, 15-12-1986, 29-01-2016, 06-06-2019
 Artículo 54. La elección de los 200 diputados según el principio de representación proporcional y el sistema de asignación por listas regionales, se sujetará a las siguientes bases y a lo que disponga la ley:
 Párrafo reformado DOF 03-09-1993
 
-I. 	Un partido político, para obtener el registro de sus listas regionales, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos doscientos distritos uninominales;
+I.   Un partido político, para obtener el registro de sus listas regionales, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos doscientos distritos uninominales;
 
-II. 	Todo partido político que alcance por lo menos el tres por ciento del total de la votación válida emitida para las listas regionales de las circunscripciones plurinominales, tendrá derecho a que le sean atribuidos diputados según el principio de representación proporcional;
+II.   Todo partido político que alcance por lo menos el tres por ciento del total de la votación válida emitida para las listas regionales de las circunscripciones plurinominales, tendrá derecho a que le sean atribuidos diputados según el principio de representación proporcional;
 Fracción reformada DOF 22-08-1996, 10-02-2014
 
-III. 	Al partido político que cumpla con las dos bases anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, le serán asignados por el principio de representación proporcional, de acuerdo con su votación nacional emitida, el número de diputados de su lista regional que le corresponda en cada circunscripción plurinominal. En la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
+III.   Al partido político que cumpla con las dos bases anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, le serán asignados por el principio de representación proporcional, de acuerdo con su votación nacional emitida, el número de diputados de su lista regional que le corresponda en cada circunscripción plurinominal. En la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
 Fracción reformada DOF 03-09-1993. Reformada DOF 22-08-1996
 
-IV. 	Ningún partido político podrá contar con más de 300 diputados por ambos principios.
+IV.   Ningún partido político podrá contar con más de 300 diputados por ambos principios.
 Fracción reformada DOF 03-09-1993. Reformada DOF 22-08-1996
 
-V. 	En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Cámara que exceda en ocho puntos a su porcentaje de votación nacional emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Cámara, superior a la suma del porcentaje de su votación nacional emitida más el ocho por ciento; y
+V.   En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Cámara que exceda en ocho puntos a su porcentaje de votación nacional emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Cámara, superior a la suma del porcentaje de su votación nacional emitida más el ocho por ciento; y
 Fracción adicionada DOF 03-09-1993. Reformada DOF 22-08-1996
 
-VI. 	En los términos de lo establecido en las fracciones III, IV y V anteriores, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos de las fracciones IV o V, se adjudicarán a los demás partidos políticos con derecho a ello en cada una de las circunscripciones plurinominales, en proporción directa con las respectivas votaciones nacionales efectivas de estos últimos. La ley desarrollará las reglas y fórmulas para estos efectos.
+VI.   En los términos de lo establecido en las fracciones III, IV y V anteriores, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos de las fracciones IV o V, se adjudicarán a los demás partidos políticos con derecho a ello en cada una de las circunscripciones plurinominales, en proporción directa con las respectivas votaciones nacionales efectivas de estos últimos. La ley desarrollará las reglas y fórmulas para estos efectos.
 Fracción adicionada DOF 03-09-1993. Reformada DOF 22-08-1996
 Reforma DOF 22-08-1996: Eliminó del artículo la entonces fracción VII (antes adicionada DOF 03-09-1993)
 Artículo reformado DOF 22-06-1963, 14-02-1972, 06-12-1977, 15-12-1986, 06-04-1990
@@ -1652,12 +1654,12 @@ Artículo reformado DOF 22-06-1963, 14-02-1972, 06-12-1977, 15-12-1986, 06-04-19
 Artículo 55. Para ser diputado se requiere:
 Párrafo reformado DOF 29-01-2016
 
-I. 	Ser ciudadano mexicano, por nacimiento, en el ejercicio de sus derechos.
+I.   Ser ciudadano mexicano, por nacimiento, en el ejercicio de sus derechos.
 
-II. 	Tener dieciocho años cumplidos el día de la elección;
+II.   Tener dieciocho años cumplidos el día de la elección;
 Fracción reformada DOF 14-02-1972, 06-06-2023
 
-III. 	Ser originario de la entidad federativa en que se haga la elección o vecino de esta con residencia efectiva de más de seis meses anteriores a la fecha de ella.
+III.   Ser originario de la entidad federativa en que se haga la elección o vecino de esta con residencia efectiva de más de seis meses anteriores a la fecha de ella.
 Párrafo reformado DOF 29-01-2016
 
 Para poder figurar en las listas de las circunscripciones electorales plurinominales como candidato a diputado, se requiere ser originario de alguna de las entidades federativas que comprenda la circunscripción en la que se realice la elección, o vecino de ella con residencia efectiva de más de seis meses anteriores a la fecha en que la misma se celebre.
@@ -1665,10 +1667,10 @@ Para poder figurar en las listas de las circunscripciones electorales plurinomin
 La vecindad no se pierde por ausencia en el desempeño de cargos públicos de elección popular.
 Fracción reformada DOF 08-10-1974, 06-12-1977
 
-IV. 	No estar en servicio activo en el Ejército, Fuerza Aérea, Armada o Guardia Nacional, ni tener mando en la policía o gendarmería rural en el Distrito donde se haga la elección, cuando menos noventa días antes de ella.
+IV.   No estar en servicio activo en el Ejército, Fuerza Aérea, Armada o Guardia Nacional, ni tener mando en la policía o gendarmería rural en el Distrito donde se haga la elección, cuando menos noventa días antes de ella.
 Fracción reformada DOF 30-09-2024
 
-V. 	No ser titular de alguno de los organismos a los que esta Constitución otorga autonomía, ni ser Secretario o Subsecretario de Estado, ni titular de alguno de los organismos descentralizados o desconcentrados de la administración pública federal, a menos que se separe definitivamente de sus funciones 90 días antes del día de la elección.
+V.   No ser titular de alguno de los organismos a los que esta Constitución otorga autonomía, ni ser Secretario o Subsecretario de Estado, ni titular de alguno de los organismos descentralizados o desconcentrados de la administración pública federal, a menos que se separe definitivamente de sus funciones 90 días antes del día de la elección.
 
 No ser Ministro de la Suprema Corte de Justicia de la Nación, ni Magistrado, ni Secretario del Tribunal Electoral del Poder Judicial de la Federación, ni Consejero Presidente o consejero electoral en los consejos General, locales o distritales del Instituto Nacional Electoral, ni Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo del propio Instituto, salvo que se hubiere separado de su encargo, de manera definitiva, tres años antes del día de la elección.
 Párrafo reformado DOF 10-02-2014
@@ -1680,10 +1682,10 @@ Los Secretarios del Gobierno de las entidades federativas, los Magistrados y Jue
 Párrafo reformado DOF 29-01-2016
 Fracción reformada DOF 29-04-1933, 31-12-1994, 19-06-2007
 
-VI. 	No ser Ministro de algún culto religioso, y
+VI.   No ser Ministro de algún culto religioso, y
 Fracción reformada DOF 29-04-1933
 
-VII. 	No estar comprendido en alguna de las incapacidades que señala el artículo 59.
+VII.   No estar comprendido en alguna de las incapacidades que señala el artículo 59.
 Fracción adicionada DOF 29-04-1933
 
 Artículo 56. La Cámara de Senadores se integrará por ciento veintiocho senadoras y senadores, de los cuales, en cada Estado y en la Ciudad de México, dos serán elegidos según el principio de votación mayoritaria relativa y uno será asignado a la primera minoría. Para estos efectos, los partidos políticos deberán registrar una lista con dos fórmulas de candidatos. La senaduría de primera minoría le será asignada a la fórmula de candidaturas que encabece la lista del partido político que, por sí mismo, haya ocupado el segundo lugar en número de votos en la entidad de que se trate.
@@ -1779,15 +1781,15 @@ De la Iniciativa y Formación de las Leyes
 
 Artículo 71. El derecho de iniciar leyes o decretos compete:
 
-I. 	Al Presidente de la República;
+I.   Al Presidente de la República;
 
-II. 	A los Diputados y Senadores al Congreso de la Unión;
+II.   A los Diputados y Senadores al Congreso de la Unión;
 Fracción reformada DOF 09-08-2012
 
-III. 	A las Legislaturas de los Estados y de la Ciudad de México; y
+III.   A las Legislaturas de los Estados y de la Ciudad de México; y
 Fracción reformada DOF 09-08-2012, 29-01-2016
 
-IV. 	A los ciudadanos en un número equivalente, por lo menos, al cero punto trece por ciento de la lista nominal de electores, en los términos que señalen las leyes.
+IV.   A los ciudadanos en un número equivalente, por lo menos, al cero punto trece por ciento de la lista nominal de electores, en los términos que señalen las leyes.
 Fracción adicionada DOF 09-08-2012
 
 La Ley del Congreso determinará el trámite que deba darse a las iniciativas.
@@ -1802,26 +1804,26 @@ Párrafo adicionado DOF 09-08-2012
 Artículo 72. Todo proyecto de ley o decreto, cuya resolución no sea exclusiva de alguna de las Cámaras, se discutirá sucesivamente en ambas, observándose la Ley del Congreso y sus reglamentos respectivos, sobre la forma, intervalos y modo de proceder en las discusiones y votaciones:
 Párrafo reformado DOF 17-08-2011
 
-A. 	Aprobado un proyecto en la Cámara de su origen, pasará para su discusión a la otra. Si ésta lo aprobare, se remitirá al Ejecutivo, quien, si no tuviere observaciones que hacer, lo publicará inmediatamente.
+A.   Aprobado un proyecto en la Cámara de su origen, pasará para su discusión a la otra. Si ésta lo aprobare, se remitirá al Ejecutivo, quien, si no tuviere observaciones que hacer, lo publicará inmediatamente.
 
-B. 	Se reputará aprobado por el Poder Ejecutivo todo proyecto no devuelto con observaciones a la Cámara de su origen dentro de los treinta días naturales siguientes a su recepción; vencido este plazo el Ejecutivo dispondrá de diez días naturales para promulgar y publicar la ley o decreto. Transcurrido este segundo plazo, la ley o decreto será considerado promulgado y el Presidente de la Cámara de origen ordenará dentro de los diez días naturales siguientes su publicación en el Diario Oficial de la Federación, sin que se requiera refrendo. Los plazos a que se refiere esta fracción no se interrumpirán si el Congreso cierra o suspende sus sesiones, en cuyo caso la devolución deberá hacerse a la Comisión Permanente.
+B.   Se reputará aprobado por el Poder Ejecutivo todo proyecto no devuelto con observaciones a la Cámara de su origen dentro de los treinta días naturales siguientes a su recepción; vencido este plazo el Ejecutivo dispondrá de diez días naturales para promulgar y publicar la ley o decreto. Transcurrido este segundo plazo, la ley o decreto será considerado promulgado y el Presidente de la Cámara de origen ordenará dentro de los diez días naturales siguientes su publicación en el Diario Oficial de la Federación, sin que se requiera refrendo. Los plazos a que se refiere esta fracción no se interrumpirán si el Congreso cierra o suspende sus sesiones, en cuyo caso la devolución deberá hacerse a la Comisión Permanente.
 Inciso reformado DOF 17-08-2011
 
-C. 	El proyecto de ley o decreto desechado en todo o en parte por el Ejecutivo, será devuelto, con sus observaciones, a la Cámara de su origen. Deberá ser discutido de nuevo por ésta,, (sic DOF 05-02-1917) y si fuese confirmado por las dos terceras partes del número total de votos, pasará otra vez a la Cámara revisora. Si por esta fuese sancionado por la misma mayoría, el proyecto será ley o decreto y volverá al Ejecutivo para su promulgación.
+C.   El proyecto de ley o decreto desechado en todo o en parte por el Ejecutivo, será devuelto, con sus observaciones, a la Cámara de su origen. Deberá ser discutido de nuevo por ésta,, (sic DOF 05-02-1917) y si fuese confirmado por las dos terceras partes del número total de votos, pasará otra vez a la Cámara revisora. Si por esta fuese sancionado por la misma mayoría, el proyecto será ley o decreto y volverá al Ejecutivo para su promulgación.
 
 Las votaciones de ley o decreto, serán nominales.
 
-D. 	Si algún proyecto de ley o decreto, fuese desechado en su totalidad por la Cámara de revisión, volverá a la de su origen con las observaciones que aquella le hubiese hecho. Si examinado de nuevo fuese aprobado por la mayoría absoluta de los miembros presentes, volverá a la Cámara que lo desechó, la cual lo tomará otra vez en consideración, y si lo aprobare por la misma mayoría, pasará al Ejecutivo para los efectos de la fracción A; pero si lo reprobase, no podrá volver a presentarse en el mismo período de sesiones.
+D.   Si algún proyecto de ley o decreto, fuese desechado en su totalidad por la Cámara de revisión, volverá a la de su origen con las observaciones que aquella le hubiese hecho. Si examinado de nuevo fuese aprobado por la mayoría absoluta de los miembros presentes, volverá a la Cámara que lo desechó, la cual lo tomará otra vez en consideración, y si lo aprobare por la misma mayoría, pasará al Ejecutivo para los efectos de la fracción A; pero si lo reprobase, no podrá volver a presentarse en el mismo período de sesiones.
 
-E. 	Si un proyecto de ley o decreto fuese desechado en parte, o modificado, o adicionado por la Cámara revisora, la nueva discusión de la Cámara de su origen versará únicamente sobre lo desechado o sobre las reformas o adiciones, sin poder alterarse en manera alguna los artículos aprobados. Si las adiciones o reformas hechas por la Cámara revisora fuesen aprobadas por la mayoría absoluta de los votos presentes en la Cámara de su origen, se pasará todo el proyecto al Ejecutivo, para los efectos de la fracción A. Si las adiciones o reformas hechas por la Cámara revisora fueren reprobadas por la mayoría de votos en la Cámara de su origen, volverán a aquella para que tome en consideración las razones de ésta, y si por mayoría absoluta de votos presentes se desecharen en esta segunda revisión dichas adiciones o reformas, el proyecto, en lo que haya sido aprobado por ambas Cámaras, se pasará al Ejecutivo para los efectos de la fracción A. Si la Cámara revisora insistiere, por la mayoría absoluta de votos presentes, en dichas adiciones o reformas, todo el proyecto no volverá a presentarse sino hasta el siguiente período de sesiones, a no ser que ambas Cámaras acuerden, por la mayoría absoluta de sus miembros presentes, que se expida la ley o decreto sólo con los artículos aprobados, y que se reserven los adicionados o reformados para su examen y votación en las sesiones siguientes.
+E.   Si un proyecto de ley o decreto fuese desechado en parte, o modificado, o adicionado por la Cámara revisora, la nueva discusión de la Cámara de su origen versará únicamente sobre lo desechado o sobre las reformas o adiciones, sin poder alterarse en manera alguna los artículos aprobados. Si las adiciones o reformas hechas por la Cámara revisora fuesen aprobadas por la mayoría absoluta de los votos presentes en la Cámara de su origen, se pasará todo el proyecto al Ejecutivo, para los efectos de la fracción A. Si las adiciones o reformas hechas por la Cámara revisora fueren reprobadas por la mayoría de votos en la Cámara de su origen, volverán a aquella para que tome en consideración las razones de ésta, y si por mayoría absoluta de votos presentes se desecharen en esta segunda revisión dichas adiciones o reformas, el proyecto, en lo que haya sido aprobado por ambas Cámaras, se pasará al Ejecutivo para los efectos de la fracción A. Si la Cámara revisora insistiere, por la mayoría absoluta de votos presentes, en dichas adiciones o reformas, todo el proyecto no volverá a presentarse sino hasta el siguiente período de sesiones, a no ser que ambas Cámaras acuerden, por la mayoría absoluta de sus miembros presentes, que se expida la ley o decreto sólo con los artículos aprobados, y que se reserven los adicionados o reformados para su examen y votación en las sesiones siguientes.
 
-F. 	En la interpretación, reforma o derogación de las leyes o decretos, se observarán los mismos trámites establecidos para su formación.
+F.   En la interpretación, reforma o derogación de las leyes o decretos, se observarán los mismos trámites establecidos para su formación.
 
-G. 	Todo proyecto de ley o decreto que fuere desechado en la Cámara de su origen, no podrá volver a presentarse en las sesiones del año.
+G.   Todo proyecto de ley o decreto que fuere desechado en la Cámara de su origen, no podrá volver a presentarse en las sesiones del año.
 
-H. 	La formación de las leyes o decretos puede comenzar indistintamente en cualquiera de las dos Cámaras, con excepción de los proyectos que versaren sobre empréstitos, contribuciones o impuestos, o sobre reclutamiento de tropas, todos los cuales deberán discutirse primero en la Cámara de Diputados.
+H.   La formación de las leyes o decretos puede comenzar indistintamente en cualquiera de las dos Cámaras, con excepción de los proyectos que versaren sobre empréstitos, contribuciones o impuestos, o sobre reclutamiento de tropas, todos los cuales deberán discutirse primero en la Cámara de Diputados.
 
-I. 	Las iniciativas de leyes o decretos se discutirán preferentemente en la Cámara en que se presenten, a menos que transcurra un mes desde que se pasen a la Comisión dictaminadora sin que ésta rinda dictamen, pues en tal caso el mismo proyecto de ley o decreto puede presentarse y discutirse en la otra Cámara.
+I.   Las iniciativas de leyes o decretos se discutirán preferentemente en la Cámara en que se presenten, a menos que transcurra un mes desde que se pasen a la Comisión dictaminadora sin que ésta rinda dictamen, pues en tal caso el mismo proyecto de ley o decreto puede presentarse y discutirse en la otra Cámara.
 
 I (sic DOF 24-11-1923). El Ejecutivo de la Unión no puede hacer observaciones a las resoluciones del Congreso o de alguna de las Cámaras, cuando ejerzan funciones de cuerpo electoral o de jurado, lo mismo que cuando la Cámara de Diputados declare que debe acusarse a uno de los altos funcionarios de la Federación por delitos oficiales.
 
@@ -1834,105 +1836,105 @@ De las Facultades del Congreso
 Artículo 73. El Congreso tiene facultad:
 Párrafo reformado DOF 24-10-1942, 10-02-1944
 
-I. 	Para admitir nuevos Estados a la Unión Federal;
+I.   Para admitir nuevos Estados a la Unión Federal;
 Fracción reformada DOF 08-10-1974
 
-II. 	Derogada.
+II.   Derogada.
 Fracción derogada DOF 08-10-1974
 
-III.	Para formar nuevos Estados dentro de los límites de los existentes, siendo necesario al efecto:
+III.  Para formar nuevos Estados dentro de los límites de los existentes, siendo necesario al efecto:
 
-1o. 	Que la fracción o fracciones que pidan erigirse en Estados, cuenten con una población de ciento veinte mil habitantes, por lo menos.
+1o.   Que la fracción o fracciones que pidan erigirse en Estados, cuenten con una población de ciento veinte mil habitantes, por lo menos.
 
-2o. 	Que se compruebe ante el Congreso que tiene los elementos bastantes para proveer a su existencia política.
+2o.   Que se compruebe ante el Congreso que tiene los elementos bastantes para proveer a su existencia política.
 
-3o. 	Que sean oídas las Legislaturas de las entidades federativas de cuyo territorio se trate, sobre la conveniencia o inconveniencia de la erección del nuevo Estado, quedando obligadas a dar su informe dentro de seis meses, contados desde el día en que se les remita la comunicación respectiva.
+3o.   Que sean oídas las Legislaturas de las entidades federativas de cuyo territorio se trate, sobre la conveniencia o inconveniencia de la erección del nuevo Estado, quedando obligadas a dar su informe dentro de seis meses, contados desde el día en que se les remita la comunicación respectiva.
 Numeral reformado DOF 29-01-2016
 
-4o. 	Que igualmente se oiga al Ejecutivo de la Federación, el cual enviará su informe dentro de siete días contados desde la fecha en que le sea pedido.
+4o.   Que igualmente se oiga al Ejecutivo de la Federación, el cual enviará su informe dentro de siete días contados desde la fecha en que le sea pedido.
 
-5o. 	Que sea votada la erección del nuevo Estado por dos terceras partes de los diputados y senadores presentes en sus respectivas Cámaras.
+5o.   Que sea votada la erección del nuevo Estado por dos terceras partes de los diputados y senadores presentes en sus respectivas Cámaras.
 
-6o. 	Que la resolución del Congreso sea ratificada por la mayoría de las Legislaturas de las entidades federativas, previo examen de la copia del expediente, siempre que hayan dado su consentimiento las Legislaturas de las entidades federativas de cuyo territorio se trate.
+6o.   Que la resolución del Congreso sea ratificada por la mayoría de las Legislaturas de las entidades federativas, previo examen de la copia del expediente, siempre que hayan dado su consentimiento las Legislaturas de las entidades federativas de cuyo territorio se trate.
 Numeral reformado DOF 29-01-2016
 
-7o. 	Si las Legislaturas de las entidades federativas de cuyo territorio se trate, no hubieren dado su consentimiento, la ratificación de que habla la fracción anterior, deberá ser hecha por las dos terceras partes del total de Legislaturas de las demás entidades federativas.
+7o.   Si las Legislaturas de las entidades federativas de cuyo territorio se trate, no hubieren dado su consentimiento, la ratificación de que habla la fracción anterior, deberá ser hecha por las dos terceras partes del total de Legislaturas de las demás entidades federativas.
 Numeral reformado DOF 29-01-2016
 
-IV. 	Derogada.
+IV.   Derogada.
 Fe de erratas a la fracción DOF 06-02-1917. Derogada DOF 08-12-2005
 
-V. 	Para cambiar la residencia de los Supremos Poderes de la Federación.
+V.   Para cambiar la residencia de los Supremos Poderes de la Federación.
 
-VI. 	Derogada;
+VI.   Derogada;
 Fracción reformada DOF 20-08-1928 (2 reformas), 15-12-1934, 14-12-1940, 21-09-1944, 19-02-1951. Fe de erratas DOF 14-03-1951. Reformada DOF 08-10-1974, 06-12-1977, 28-12-1982, 10-08-1987, 06-04-1990, 25-10-1993. Derogada DOF 22-08-1996
 
-VII. 	Para imponer las contribuciones necesarias a cubrir el Presupuesto.
+VII.   Para imponer las contribuciones necesarias a cubrir el Presupuesto.
 
-VIII. 	En materia de deuda pública, para:
+VIII.   En materia de deuda pública, para:
 
-1o. 	Dar bases sobre las cuales el Ejecutivo pueda celebrar empréstitos y otorgar garantías sobre el crédito de la Nación, para aprobar esos mismos empréstitos y para reconocer y mandar pagar la deuda nacional. Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan un incremento en los ingresos públicos o, en términos de la ley de la materia, los que se realicen con propósitos de regulación monetaria, las operaciones de refinanciamiento o reestructura de deuda que deberán realizarse bajo las mejores condiciones de mercado; así como los que se contraten durante alguna emergencia declarada por el Presidente de la República en los términos del artículo 29.
+1o.   Dar bases sobre las cuales el Ejecutivo pueda celebrar empréstitos y otorgar garantías sobre el crédito de la Nación, para aprobar esos mismos empréstitos y para reconocer y mandar pagar la deuda nacional. Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan un incremento en los ingresos públicos o, en términos de la ley de la materia, los que se realicen con propósitos de regulación monetaria, las operaciones de refinanciamiento o reestructura de deuda que deberán realizarse bajo las mejores condiciones de mercado; así como los que se contraten durante alguna emergencia declarada por el Presidente de la República en los términos del artículo 29.
 
-2o. 	Aprobar anualmente los montos de endeudamiento que deberán incluirse en la ley de ingresos, que en su caso requiera el Gobierno del Distrito Federal y las entidades de su sector público, conforme a las bases de la ley correspondiente. El Ejecutivo Federal informará anualmente al Congreso de la Unión sobre el ejercicio de dicha deuda a cuyo efecto el Jefe de Gobierno le hará llegar el informe que sobre el ejercicio de los recursos correspondientes hubiere realizado. El Jefe de Gobierno informará igualmente a la Asamblea Legislativa del Distrito Federal, al rendir la cuenta pública.
+2o.   Aprobar anualmente los montos de endeudamiento que deberán incluirse en la ley de ingresos, que en su caso requiera el Gobierno del Distrito Federal y las entidades de su sector público, conforme a las bases de la ley correspondiente. El Ejecutivo Federal informará anualmente al Congreso de la Unión sobre el ejercicio de dicha deuda a cuyo efecto el Jefe de Gobierno le hará llegar el informe que sobre el ejercicio de los recursos correspondientes hubiere realizado. El Jefe de Gobierno informará igualmente a la Asamblea Legislativa del Distrito Federal, al rendir la cuenta pública.
 
-3o. 	Establecer en las leyes las bases generales, para que los Estados, el Distrito Federal y los Municipios puedan incurrir en endeudamiento; los límites y modalidades bajo los cuales dichos órdenes de gobierno podrán afectar sus respectivas participaciones para cubrir los empréstitos y obligaciones de pago que contraigan; la obligación de dichos órdenes de gobierno de inscribir y publicar la totalidad de sus empréstitos y obligaciones de pago en un registro público único, de manera oportuna y transparente; un sistema de alertas sobre el manejo de la deuda; así como las sanciones aplicables a los servidores públicos que no cumplan sus disposiciones. Dichas leyes deberán discutirse primero en la Cámara de Diputados conforme a lo dispuesto por la fracción H del artículo 72 de esta Constitución.
+3o.   Establecer en las leyes las bases generales, para que los Estados, el Distrito Federal y los Municipios puedan incurrir en endeudamiento; los límites y modalidades bajo los cuales dichos órdenes de gobierno podrán afectar sus respectivas participaciones para cubrir los empréstitos y obligaciones de pago que contraigan; la obligación de dichos órdenes de gobierno de inscribir y publicar la totalidad de sus empréstitos y obligaciones de pago en un registro público único, de manera oportuna y transparente; un sistema de alertas sobre el manejo de la deuda; así como las sanciones aplicables a los servidores públicos que no cumplan sus disposiciones. Dichas leyes deberán discutirse primero en la Cámara de Diputados conforme a lo dispuesto por la fracción H del artículo 72 de esta Constitución.
 
-4o. 	El Congreso de la Unión, a través de la comisión legislativa bicameral competente, analizará la estrategia de ajuste para fortalecer las finanzas públicas de los Estados, planteada en los convenios que pretendan celebrar con el Gobierno Federal para obtener garantías y, en su caso, emitirá las observaciones que estime pertinentes en un plazo máximo de quince días hábiles, inclusive durante los períodos de receso del Congreso de la Unión. Lo anterior aplicará en el caso de los Estados que tengan niveles elevados de deuda en los términos de la ley. Asimismo, de manera inmediata a la suscripción del convenio correspondiente, será informado de la estrategia de ajuste para los Municipios que se encuentren en el mismo supuesto, así como de los convenios que, en su caso, celebren los Estados que no tengan un nivel elevado de deuda;
+4o.   El Congreso de la Unión, a través de la comisión legislativa bicameral competente, analizará la estrategia de ajuste para fortalecer las finanzas públicas de los Estados, planteada en los convenios que pretendan celebrar con el Gobierno Federal para obtener garantías y, en su caso, emitirá las observaciones que estime pertinentes en un plazo máximo de quince días hábiles, inclusive durante los períodos de receso del Congreso de la Unión. Lo anterior aplicará en el caso de los Estados que tengan niveles elevados de deuda en los términos de la ley. Asimismo, de manera inmediata a la suscripción del convenio correspondiente, será informado de la estrategia de ajuste para los Municipios que se encuentren en el mismo supuesto, así como de los convenios que, en su caso, celebren los Estados que no tengan un nivel elevado de deuda;
 Fracción reformada DOF 30-12-1946, 25-10-1993, 26-05-2015
 
-IX. 	Para impedir que en el comercio entre entidades federativas se establezcan restricciones.
+IX.   Para impedir que en el comercio entre entidades federativas se establezcan restricciones.
 Fracción reformada DOF 24-10-1942, 29-01-2016
 
-X. 	Para legislar en toda la República sobre hidrocarburos, minería, sustancias químicas, explosivos, pirotecnia, industria cinematográfica, comercio, juegos con apuestas y sorteos, intermediación y servicios financieros, energía eléctrica y nuclear y para expedir las leyes del trabajo reglamentarias del artículo 123;
+X.   Para legislar en toda la República sobre hidrocarburos, minería, sustancias químicas, explosivos, pirotecnia, industria cinematográfica, comercio, juegos con apuestas y sorteos, intermediación y servicios financieros, energía eléctrica y nuclear y para expedir las leyes del trabajo reglamentarias del artículo 123;
 Fracción reformada DOF 06-09-1929, 27-04-1933, 18-01-1934, 18-01-1935, 14-12-1940, 24-10-1942, 18-11-1942, 29-12-1947, 06-02-1975, 17-11-1982, 20-08-1993, 20-07-2007
 
-XI. 	Para crear y suprimir empleos públicos de la Federación y señalar, aumentar o disminuir sus dotaciones.
+XI.   Para crear y suprimir empleos públicos de la Federación y señalar, aumentar o disminuir sus dotaciones.
 
-XII. 	Para declarar la guerra, en vista de los datos que le presente el Ejecutivo.
+XII.   Para declarar la guerra, en vista de los datos que le presente el Ejecutivo.
 
-XIII. 	Para dictar leyes según las cuales deben declararse buenas o malas las presas de mar y tierra, y para expedir leyes relativas al derecho marítimo de paz y guerra.
+XIII.   Para dictar leyes según las cuales deben declararse buenas o malas las presas de mar y tierra, y para expedir leyes relativas al derecho marítimo de paz y guerra.
 Fracción reformada DOF 21-10-1966. Fe de erratas DOF 22-10-1966
 
-XIV. 	Para levantar y sostener a las instituciones armadas de la Unión, a saber: Ejército, Marina de Guerra y Fuerza Aérea Nacionales, y para reglamentar su organización y servicio.
+XIV.   Para levantar y sostener a las instituciones armadas de la Unión, a saber: Ejército, Marina de Guerra y Fuerza Aérea Nacionales, y para reglamentar su organización y servicio.
 Fracción reformada DOF 10-02-1944
 
-XV. 	Derogada.
+XV.   Derogada.
 Fracción reformada DOF 29-01-2016. Derogada DOF 26-03-2019
 
-XVI. 	Para dictar leyes sobre nacionalidad, condición jurídica de los extranjeros, ciudadanía, naturalización, colonización, emigración e inmigración y salubridad general de la República.
+XVI.   Para dictar leyes sobre nacionalidad, condición jurídica de los extranjeros, ciudadanía, naturalización, colonización, emigración e inmigración y salubridad general de la República.
 Párrafo reformado DOF 18-01-1934
 
-1a. 	El Consejo de Salubridad General dependerá directamente del Presidente de la República, sin intervención de ninguna Secretaría de Estado, y sus disposiciones generales serán obligatorias en el país.
+1a.   El Consejo de Salubridad General dependerá directamente del Presidente de la República, sin intervención de ninguna Secretaría de Estado, y sus disposiciones generales serán obligatorias en el país.
 
-2a. 	En caso de epidemias de carácter grave o peligro de invasión de enfermedades exóticas en el país, la Secretaría de Salud tendrá obligación de dictar inmediatamente las medidas preventivas indispensables, a reserva de ser después sancionadas por el Presidente de la República.
+2a.   En caso de epidemias de carácter grave o peligro de invasión de enfermedades exóticas en el país, la Secretaría de Salud tendrá obligación de dictar inmediatamente las medidas preventivas indispensables, a reserva de ser después sancionadas por el Presidente de la República.
 Base reformada DOF 02-08-2007
 
-3a. 	La autoridad sanitaria será ejecutiva y sus disposiciones serán obedecidas por las autoridades administrativas del País.
+3a.   La autoridad sanitaria será ejecutiva y sus disposiciones serán obedecidas por las autoridades administrativas del País.
 
-4a. 	Las medidas que el Consejo haya puesto en vigor en la Campaña contra el alcoholismo y la venta de sustancias que envenenan al individuo o degeneran la especie humana, así como las adoptadas para prevenir y combatir la contaminación ambiental, serán después revisadas por el Congreso de la Unión en los casos que le competan.
+4a.   Las medidas que el Consejo haya puesto en vigor en la Campaña contra el alcoholismo y la venta de sustancias que envenenan al individuo o degeneran la especie humana, así como las adoptadas para prevenir y combatir la contaminación ambiental, serán después revisadas por el Congreso de la Unión en los casos que le competan.
 Base reformada DOF 06-07-1971
 
-XVII. 	Para dictar leyes sobre vías generales de comunicación, tecnologías de la información y la comunicación, radiodifusión, telecomunicaciones, incluida la banda ancha e Internet, postas y correos, y sobre el uso y aprovechamiento de las aguas de jurisdicción federal.
+XVII.   Para dictar leyes sobre vías generales de comunicación, tecnologías de la información y la comunicación, radiodifusión, telecomunicaciones, incluida la banda ancha e Internet, postas y correos, y sobre el uso y aprovechamiento de las aguas de jurisdicción federal.
 Fracción reformada DOF 11-06-2013
 
-XVIII. 	Para establecer casas de moneda, fijar las condiciones que ésta deba tener, dictar reglas para determinar el valor relativo de la moneda extranjera y adoptar un sistema general de pesas y medidas;
+XVIII.   Para establecer casas de moneda, fijar las condiciones que ésta deba tener, dictar reglas para determinar el valor relativo de la moneda extranjera y adoptar un sistema general de pesas y medidas;
 Fracción reformada DOF 17-11-1982
 
-XIX. 	Para fijar las reglas a que debe sujetarse la ocupación y enajenación de terrenos baldíos y el precio de estos.
+XIX.   Para fijar las reglas a que debe sujetarse la ocupación y enajenación de terrenos baldíos y el precio de estos.
 
-XX. 	Para expedir las leyes de organización del Cuerpo Diplomático y del Cuerpo Consular mexicano.
+XX.   Para expedir las leyes de organización del Cuerpo Diplomático y del Cuerpo Consular mexicano.
 
-XXI.	Para expedir:
+XXI.  Para expedir:
 
-a) 	Las leyes generales que establezcan como mínimo, los tipos penales y sus sanciones en las materias de secuestro, desaparición forzada de personas, otras formas de privación de la libertad contrarias a la ley, trata de personas, tortura y otros tratos o penas crueles, inhumanos o degradantes, así como electoral.
+a)   Las leyes generales que establezcan como mínimo, los tipos penales y sus sanciones en las materias de secuestro, desaparición forzada de personas, otras formas de privación de la libertad contrarias a la ley, trata de personas, tortura y otros tratos o penas crueles, inhumanos o degradantes, así como electoral.
 Párrafo reformado DOF 10-02-2014, 10-07-2015
 
 Las leyes generales contemplarán también la distribución de competencias y las formas de coordinación entre la Federación, las entidades federativas y los Municipios;
 Párrafo reformado DOF 29-01-2016
 
-b) 	La legislación que establezca los delitos y las faltas contra la Federación y las penas y sanciones que por ellos deban imponerse; así como legislar en materia de delincuencia organizada;
+b)   La legislación que establezca los delitos y las faltas contra la Federación y las penas y sanciones que por ellos deban imponerse; así como legislar en materia de delincuencia organizada;
 
-c) 	La legislación única en materia procedimental penal, de mecanismos alternativos de solución de controversias en materia penal, de ejecución de penas y de justicia penal para adolescentes, que regirá en la República en el orden federal y en el fuero común.
+c)   La legislación única en materia procedimental penal, de mecanismos alternativos de solución de controversias en materia penal, de ejecución de penas y de justicia penal para adolescentes, que regirá en la República en el orden federal y en el fuero común.
 Inciso reformado DOF 02-07-2015, 05-02-2017
 
 Las autoridades federales podrán conocer de los delitos del fuero común, cuando éstos tengan conexidad con delitos federales o delitos contra periodistas, personas o instalaciones que afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta. También podrán conocer de las medidas u órdenes de protección que deriven de violencias de género en contra de las mujeres o de delitos del fuero común relacionados con las violencias de género contra las mujeres, en términos de las leyes correspondientes.
@@ -1941,89 +1943,89 @@ Párrafo reformado DOF 15-11-2024
 En las materias concurrentes previstas en esta Constitución, las leyes federales establecerán los supuestos en que las autoridades del fuero común podrán conocer y resolver sobre delitos federales;
 Fracción reformada DOF 03-07-1996, 28-11-2005, 18-06-2008, 04-05-2009, 14-07-2011, 25-06-2012, 08-10-2013
 
-XXII. 	Para conceder amnistías por delitos cuyo conocimiento pertenezca a los tribunales de la Federación.
+XXII.   Para conceder amnistías por delitos cuyo conocimiento pertenezca a los tribunales de la Federación.
 
-XXIII. 	Para expedir leyes que, con respeto a los derechos humanos, establezcan las bases de coordinación entre la Federación, las entidades federativas y los Municipios; organicen la Guardia Nacional y las demás instituciones de seguridad pública en materia federal, de conformidad con lo establecido en el artículo 21 de esta Constitución; así como la Ley Nacional sobre el Uso de la Fuerza, y la Ley Nacional del Registro de Detenciones;
+XXIII.   Para expedir leyes que, con respeto a los derechos humanos, establezcan las bases de coordinación entre la Federación, las entidades federativas y los Municipios; organicen la Guardia Nacional y las demás instituciones de seguridad pública en materia federal, de conformidad con lo establecido en el artículo 21 de esta Constitución; así como la Ley Nacional sobre el Uso de la Fuerza, y la Ley Nacional del Registro de Detenciones;
 Fracción derogada DOF 06-12-1977. Adicionada DOF 31-12-1994. Reformada DOF 18-06-2008, 29-01-2016, 26-03-2019
 
 XXIII Bis. Para expedir la ley general en materia de seguridad privada, que establezca:
 
-a)	Las reglas y la autoridad facultada para autorizar y regular a los prestadores de servicios de seguridad privada en todo el territorio nacional;
+a)  Las reglas y la autoridad facultada para autorizar y regular a los prestadores de servicios de seguridad privada en todo el territorio nacional;
 
-b)	Las reglas de coordinación entre las personas autorizadas a prestar los servicios de seguridad privada y las autoridades correspondientes de la Federación, las entidades federativas y los municipios, para la adecuada organización y funcionamiento como auxiliares de la seguridad pública;
+b)  Las reglas de coordinación entre las personas autorizadas a prestar los servicios de seguridad privada y las autoridades correspondientes de la Federación, las entidades federativas y los municipios, para la adecuada organización y funcionamiento como auxiliares de la seguridad pública;
 
-c)	La coordinación de esos prestadores con las instituciones de seguridad pública en situaciones de emergencia y desastre, y
+c)  La coordinación de esos prestadores con las instituciones de seguridad pública en situaciones de emergencia y desastre, y
 
-d)	Los aspectos vinculados a la coordinación y supervisión de las policías complementarias en el país;
+d)  Los aspectos vinculados a la coordinación y supervisión de las policías complementarias en el país;
 Fracción con incisos adicionada DOF 28-05-2021
 
-XXIV. 	Para expedir las leyes que regulen la organización y facultades de la Auditoría Superior de la Federación y las demás que normen la gestión, control y evaluación de los Poderes de la Unión y de los entes públicos federales; así como para expedir la ley general que establezca las bases de coordinación del Sistema Nacional Anticorrupción a que se refiere el artículo 113 de esta Constitución;
+XXIV.   Para expedir las leyes que regulen la organización y facultades de la Auditoría Superior de la Federación y las demás que normen la gestión, control y evaluación de los Poderes de la Unión y de los entes públicos federales; así como para expedir la ley general que establezca las bases de coordinación del Sistema Nacional Anticorrupción a que se refiere el artículo 113 de esta Constitución;
 Fracción reformada DOF 30-07-1999, 27-05-2015
 
-XXV. 	De establecer el Sistema para la Carrera de las Maestras y los Maestros, en términos del artículo 3o. de esta Constitución; establecer, organizar y sostener en toda la República escuelas rurales, elementales, media superiores, superiores, secundarias y profesionales; de investigación científica, de bellas artes y de enseñanza técnica, escuelas prácticas de agricultura y de minería, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura general de los habitantes de la nación y legislar en todo lo que se refiere a dichas instituciones; para legislar sobre vestigios o restos fósiles y sobre monumentos arqueológicos, artísticos e históricos, cuya conservación sea de interés nacional; así como para dictar las leyes encaminadas a distribuir convenientemente entre la Federación, las entidades federativas y los Municipios el ejercicio de la función educativa y las aportaciones económicas correspondientes a ese servicio público, buscando unificar y coordinar la educación en toda la República, y para asegurar el cumplimiento de los fines de la educación y su mejora continua en un marco de inclusión y diversidad. Los Títulos que se expidan por los establecimientos de que se trata surtirán sus efectos en toda la República. Para legislar en materia de derechos de autor y otras figuras de la propiedad intelectual relacionadas con la misma;
+XXV.   De establecer el Sistema para la Carrera de las Maestras y los Maestros, en términos del artículo 3o. de esta Constitución; establecer, organizar y sostener en toda la República escuelas rurales, elementales, media superiores, superiores, secundarias y profesionales; de investigación científica, de bellas artes y de enseñanza técnica, escuelas prácticas de agricultura y de minería, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura general de los habitantes de la nación y legislar en todo lo que se refiere a dichas instituciones; para legislar sobre vestigios o restos fósiles y sobre monumentos arqueológicos, artísticos e históricos, cuya conservación sea de interés nacional; así como para dictar las leyes encaminadas a distribuir convenientemente entre la Federación, las entidades federativas y los Municipios el ejercicio de la función educativa y las aportaciones económicas correspondientes a ese servicio público, buscando unificar y coordinar la educación en toda la República, y para asegurar el cumplimiento de los fines de la educación y su mejora continua en un marco de inclusión y diversidad. Los Títulos que se expidan por los establecimientos de que se trata surtirán sus efectos en toda la República. Para legislar en materia de derechos de autor y otras figuras de la propiedad intelectual relacionadas con la misma;
 Fracción reformada DOF 08-07-1921. Recorrida (antes fracción XXVII) por derogación de fracciones XXV y XXVI DOF 20-08-1928. Reformada DOF 13-12-1934, 13-01-1966, 21-09-2000, 30-04-2009, 26-02-2013, 29-01-2016, 15-05-2019
 
-XXVI. 	Para conceder licencia al Presidente de la República y para constituirse en Colegio Electoral y designar al ciudadano que deba substituir al Presidente de la República, ya sea con el carácter de interino o substituto, en los términos de los artículos 84 y 85 de esta Constitución;
+XXVI.   Para conceder licencia al Presidente de la República y para constituirse en Colegio Electoral y designar al ciudadano que deba substituir al Presidente de la República, ya sea con el carácter de interino o substituto, en los términos de los artículos 84 y 85 de esta Constitución;
 Fracción recorrida (antes fracción XXVIII) por derogación de fracciones XXV y XXVI DOF 20-08-1928. Reformada DOF 29-04-1933, 09-08-2012
 
-XXVII. 	Para aceptar la renuncia del cargo de Presidente de la República.
+XXVII.   Para aceptar la renuncia del cargo de Presidente de la República.
 Fracción recorrida (antes fracción XXIX) por derogación de fracciones XXV y XXVI DOF 20-08-1928
 
-XXVIII. 	Para expedir leyes en materia de contabilidad gubernamental que regirán la contabilidad pública y la presentación homogénea de información financiera, de ingresos y egresos, así como patrimonial, para la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, a fin de garantizar su armonización a nivel nacional;
+XXVIII.   Para expedir leyes en materia de contabilidad gubernamental que regirán la contabilidad pública y la presentación homogénea de información financiera, de ingresos y egresos, así como patrimonial, para la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, a fin de garantizar su armonización a nivel nacional;
 Fracción recorrida (antes fracción XXX) por derogación de fracciones XXV y XXVI DOF 20-08-1928. Derogada DOF 06-12-1977. Adicionada DOF 07-05-2008. Reformada DOF 29-01-2016
 
-XXIX. 	Para establecer contribuciones:
+XXIX.   Para establecer contribuciones:
 
-1o. 	Sobre el comercio exterior;
+1o.   Sobre el comercio exterior;
 
-2o. 	Sobre el aprovechamiento y explotación de los recursos naturales comprendidos en los párrafos 4º y 5º del artículo 27;
+2o.   Sobre el aprovechamiento y explotación de los recursos naturales comprendidos en los párrafos 4º y 5º del artículo 27;
 
-3o. 	Sobre instituciones de crédito y sociedades de seguros;
+3o.   Sobre instituciones de crédito y sociedades de seguros;
 
-4o. 	Sobre servicios públicos concesionados o explotados directamente por la Federación; y
+4o.   Sobre servicios públicos concesionados o explotados directamente por la Federación; y
 
-5o. 	Especiales sobre:
+5o.   Especiales sobre:
 
-a) 	Energía eléctrica;
+a)   Energía eléctrica;
 
-b) 	Producción y consumo de tabacos labrados;
+b)   Producción y consumo de tabacos labrados;
 
-c) 	Gasolina y otros productos derivados del petróleo;
+c)   Gasolina y otros productos derivados del petróleo;
 
-d) 	Cerillos y fósforos;
+d)   Cerillos y fósforos;
 
-e) 	Aguamiel y productos de su fermentación; y
+e)   Aguamiel y productos de su fermentación; y
 
-f) 	Explotación forestal.
+f)   Explotación forestal.
 
-g) 	Producción y consumo de cerveza.
+g)   Producción y consumo de cerveza.
 Inciso adicionado DOF 10-02-1949
 
 Las entidades federativas participarán en el rendimiento de estas contribuciones especiales, en la proporción que la ley secundaria federal determine. Las legislaturas locales fijarán el porcentaje correspondiente a los Municipios, en sus ingresos por concepto del impuesto sobre energía eléctrica.
 Fracción recorrida (antes fracción XXXI) por derogación de fracciones XXV y XXVI DOF 20-08-1928. Fracción reformada DOF 24-10-1942
 
-XXIX-A. 	Para expedir la ley general que establezca los principios y bases en materia de mecanismos alternativos de solución de controversias, con excepción de la materia penal;
+XXIX-A.   Para expedir la ley general que establezca los principios y bases en materia de mecanismos alternativos de solución de controversias, con excepción de la materia penal;
 Fracción adicionada DOF 05-02-2017
 
-XXIX-B. 	Para legislar sobre las características y uso de la Bandera, Escudo e Himno Nacionales.
+XXIX-B.   Para legislar sobre las características y uso de la Bandera, Escudo e Himno Nacionales.
 Fracción adicionada DOF 24-10-1967
 
-XXIX-C. 	Para expedir las leyes que establezcan la concurrencia del Gobierno Federal, de las entidades federativas, de los Municipios y, en su caso, de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de asentamientos humanos, con objeto de cumplir los fines previstos en el párrafo tercero del artículo 27 de esta Constitución, así como en materia de movilidad y seguridad vial;
+XXIX-C.   Para expedir las leyes que establezcan la concurrencia del Gobierno Federal, de las entidades federativas, de los Municipios y, en su caso, de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de asentamientos humanos, con objeto de cumplir los fines previstos en el párrafo tercero del artículo 27 de esta Constitución, así como en materia de movilidad y seguridad vial;
 Fracción adicionada DOF 06-02-1976. Reformada DOF 29-01-2016, 18-12-2020
 
-XXIX-D. 	Para expedir leyes sobre planeación nacional del desarrollo económico y social, así como en materia de información estadística y geográfica de interés nacional;
+XXIX-D.   Para expedir leyes sobre planeación nacional del desarrollo económico y social, así como en materia de información estadística y geográfica de interés nacional;
 Fracción adicionada DOF 03-02-1983. Reformada DOF 07-04-2006
 
-XXIX-E. 	Para expedir leyes para la programación, promoción, concertación y ejecución de acciones de orden económico, especialmente las referentes al abasto y otras que tengan como fin la producción suficiente y oportuna de bienes y servicios, social y nacionalmente necesarios.
+XXIX-E.   Para expedir leyes para la programación, promoción, concertación y ejecución de acciones de orden económico, especialmente las referentes al abasto y otras que tengan como fin la producción suficiente y oportuna de bienes y servicios, social y nacionalmente necesarios.
 Fracción adicionada DOF 03-02-1983
 
-XXIX-F. 	Para expedir leyes tendientes a la promoción de la inversión mexicana, la regulación de la inversión extranjera, la transferencia de tecnología y la generación, difusión y aplicación de los conocimientos científicos y tecnológicos que requiere el desarrollo nacional. Asimismo, para legislar en materia de ciencia, tecnología e innovación, estableciendo bases generales de coordinación entre la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, así como la participación de los sectores social y privado, con el objeto de consolidar el Sistema Nacional de Ciencia, Tecnología e Innovación;
+XXIX-F.   Para expedir leyes tendientes a la promoción de la inversión mexicana, la regulación de la inversión extranjera, la transferencia de tecnología y la generación, difusión y aplicación de los conocimientos científicos y tecnológicos que requiere el desarrollo nacional. Asimismo, para legislar en materia de ciencia, tecnología e innovación, estableciendo bases generales de coordinación entre la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, así como la participación de los sectores social y privado, con el objeto de consolidar el Sistema Nacional de Ciencia, Tecnología e Innovación;
 Fracción adicionada DOF 03-02-1983. Reformada DOF 15-05-2019
 
-XXIX-G.	Para expedir leyes que establezcan la concurrencia del Gobierno Federal, de los gobiernos de las entidades federativas, de los Municipios y, en su caso, de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de protección al ambiente, preservación y restauración del equilibrio ecológico; y de protección y bienestar de los animales;
+XXIX-G.  Para expedir leyes que establezcan la concurrencia del Gobierno Federal, de los gobiernos de las entidades federativas, de los Municipios y, en su caso, de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de protección al ambiente, preservación y restauración del equilibrio ecológico; y de protección y bienestar de los animales;
 Fracción adicionada DOF 10-08-1987. Reformada DOF 29-01-2016, 02-12-2024
 
-XXIX-H. 	Para expedir la ley que instituya el Tribunal Federal de Justicia Administrativa, dotado de plena autonomía para dictar sus fallos, y que establezca su organización, su funcionamiento y los recursos para impugnar sus resoluciones.
+XXIX-H.   Para expedir la ley que instituya el Tribunal Federal de Justicia Administrativa, dotado de plena autonomía para dictar sus fallos, y que establezca su organización, su funcionamiento y los recursos para impugnar sus resoluciones.
 
 El Tribunal tendrá a su cargo dirimir las controversias que se susciten entre la administración pública federal y los particulares.
 
@@ -2040,85 +2042,85 @@ Los Magistrados de Sala Regional serán designados por el Presidente de la Repú
 Los Magistrados sólo podrán ser removidos de sus cargos por las causas graves que señale la ley.
 Fracción adicionada DOF 10-08-1987. Reformada DOF 25-10-1993, 28-06-1999, 04-12-2006, 27-05-2015
 
-XXIX-I. 	Para expedir leyes que establezcan las bases sobre las cuales la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, coordinarán sus acciones en materia de protección civil;
+XXIX-I.   Para expedir leyes que establezcan las bases sobre las cuales la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, coordinarán sus acciones en materia de protección civil;
 Fracción adicionada DOF 28-06-1999. Reformada DOF 29-01-2016
 
-XXIX-J. 	Para legislar en materia de cultura física y deporte con objeto de cumplir lo previsto en el artículo 4o. de esta Constitución, estableciendo la concurrencia entre la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias; así como la participación de los sectores social y privado;
+XXIX-J.   Para legislar en materia de cultura física y deporte con objeto de cumplir lo previsto en el artículo 4o. de esta Constitución, estableciendo la concurrencia entre la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias; así como la participación de los sectores social y privado;
 Fracción adicionada DOF 28-06-1999. Reformada DOF 12-10-2011, 29-01-2016
 
-XXIX-K. 	Para expedir leyes en materia de turismo, estableciendo las bases generales de coordinación de las facultades concurrentes entre la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, así como la participación de los sectores social y privado;
+XXIX-K.   Para expedir leyes en materia de turismo, estableciendo las bases generales de coordinación de las facultades concurrentes entre la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, así como la participación de los sectores social y privado;
 Fracción adicionada DOF 29-09-2003. Reformada DOF 29-01-2016
 
-XXIX-L. 	Para expedir leyes que establezcan la concurrencia del gobierno federal, de los gobiernos de las entidades federativas y de los municipios, en el ámbito de sus respectivas competencias, en materia de pesca y acuacultura, así como la participación de los sectores social y privado, y
+XXIX-L.   Para expedir leyes que establezcan la concurrencia del gobierno federal, de los gobiernos de las entidades federativas y de los municipios, en el ámbito de sus respectivas competencias, en materia de pesca y acuacultura, así como la participación de los sectores social y privado, y
 Fracción adicionada DOF 27-09-2004
 
 XXIX-M. Para expedir leyes en materia de seguridad nacional, estableciendo los requisitos y límites a las investigaciones correspondientes.
 Fracción adicionada DOF 05-04-2004
 
-XXIX-N. 	Para expedir leyes en materia de constitución, organización, funcionamiento y extinción de las sociedades cooperativas. Estas leyes establecerán las bases para la concurrencia en materia de fomento y desarrollo sustentable de la actividad cooperativa de la Federación, entidades federativas, Municipios y, en su caso, demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias;
+XXIX-N.   Para expedir leyes en materia de constitución, organización, funcionamiento y extinción de las sociedades cooperativas. Estas leyes establecerán las bases para la concurrencia en materia de fomento y desarrollo sustentable de la actividad cooperativa de la Federación, entidades federativas, Municipios y, en su caso, demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias;
 Fracción adicionada DOF 15-08-2007. Reformada DOF 29-01-2016
 
-XXIX-Ñ. 	Para expedir leyes que establezcan las bases sobre las cuales la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, coordinarán sus acciones en materia de cultura, salvo lo dispuesto en la fracción XXV de este artículo. Asimismo, establecerán los mecanismos de participación de los sectores social y privado, con objeto de cumplir los fines previstos en el párrafo décimo segundo del artículo 4o. de esta Constitución.
+XXIX-Ñ.   Para expedir leyes que establezcan las bases sobre las cuales la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, coordinarán sus acciones en materia de cultura, salvo lo dispuesto en la fracción XXV de este artículo. Asimismo, establecerán los mecanismos de participación de los sectores social y privado, con objeto de cumplir los fines previstos en el párrafo décimo segundo del artículo 4o. de esta Constitución.
 Fracción adicionada DOF 30-04-2009. Reformada DOF 29-01-2016
 
-XXIX-O. 	Para legislar en materia de protección de datos personales en posesión de particulares.
+XXIX-O.   Para legislar en materia de protección de datos personales en posesión de particulares.
 Fracción adicionada DOF 30-04-2009
 
 XXIX-P. Expedir leyes que establezcan la concurrencia de la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de derechos de niñas, niños y adolescentes, velando en todo momento por el interés superior de los mismos, así como en materia de formación y desarrollo integral de la juventud, cumpliendo con los tratados internacionales de la materia de los que México sea parte;
 Fracción adicionada DOF 12-10-2011. Reformada DOF 29-01-2016, 24-12-2020
 
-XXIX-Q. 	Para legislar sobre iniciativa ciudadana y consultas populares.
+XXIX-Q.   Para legislar sobre iniciativa ciudadana y consultas populares.
 Fracción adicionada DOF 09-08-2012
 
-XXIX-R. 	Para expedir las leyes generales que armonicen y homologuen la organización y el funcionamiento de los registros civiles, los registros públicos inmobiliarios y de personas morales de las entidades federativas y los catastros municipales;
+XXIX-R.   Para expedir las leyes generales que armonicen y homologuen la organización y el funcionamiento de los registros civiles, los registros públicos inmobiliarios y de personas morales de las entidades federativas y los catastros municipales;
 Fracción adicionada DOF 27-12-2013. Reformada DOF 05-02-2017
 
-XXIX-S. 	Para expedir las leyes generales reglamentarias que desarrollen los principios y bases en materia de transparencia gubernamental, acceso a la información y protección de datos personales en posesión de las autoridades, entidades, órganos y organismos gubernamentales de todos los niveles de gobierno.
+XXIX-S.   Para expedir las leyes generales reglamentarias que desarrollen los principios y bases en materia de transparencia gubernamental, acceso a la información y protección de datos personales en posesión de las autoridades, entidades, órganos y organismos gubernamentales de todos los niveles de gobierno.
 Fracción adicionada DOF 07-02-2014
 
-XXIX-T. 	Para expedir la ley general que establezca la organización y administración homogénea de los archivos de la Federación, de las entidades federativas, de los Municipios y de las demarcaciones territoriales de la Ciudad de México, y determine las bases de organización y funcionamiento del Sistema Nacional de Archivos.
+XXIX-T.   Para expedir la ley general que establezca la organización y administración homogénea de los archivos de la Federación, de las entidades federativas, de los Municipios y de las demarcaciones territoriales de la Ciudad de México, y determine las bases de organización y funcionamiento del Sistema Nacional de Archivos.
 Fracción adicionada DOF 07-02-2014. Reformada DOF 29-01-2016
 
-XXIX-U. 	Para expedir las leyes generales que distribuyan competencias entre la Federación y las entidades federativas en materias de partidos políticos; organismos electorales, y procesos electorales, conforme a las bases previstas en esta Constitución.
+XXIX-U.   Para expedir las leyes generales que distribuyan competencias entre la Federación y las entidades federativas en materias de partidos políticos; organismos electorales, y procesos electorales, conforme a las bases previstas en esta Constitución.
 Fracción adicionada DOF 10-02-2014
 
-XXIX-V. 	Para expedir la ley general que distribuya competencias entre los órdenes de gobierno para establecer las responsabilidades administrativas de los servidores públicos, sus obligaciones, las sanciones aplicables por los actos u omisiones en que éstos incurran  y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevea, así como los procedimientos para su aplicación.
+XXIX-V.   Para expedir la ley general que distribuya competencias entre los órdenes de gobierno para establecer las responsabilidades administrativas de los servidores públicos, sus obligaciones, las sanciones aplicables por los actos u omisiones en que éstos incurran  y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevea, así como los procedimientos para su aplicación.
 Fracción adicionada DOF 27-05-2015
 
 XXIX-W. Para expedir leyes en materia de responsabilidad hacendaria que tengan por objeto el manejo sostenible de las finanzas públicas en la Federación, los Estados, Municipios y el Distrito Federal, con base en el principio establecido en el párrafo segundo del artículo 25;
 Fracción adicionada DOF 26-05-2015
 
-XXIX-X. 	Para expedir la ley general que establezca la concurrencia de la federación, las entidades federativas, los municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de derechos de las víctimas.
+XXIX-X.   Para expedir la ley general que establezca la concurrencia de la federación, las entidades federativas, los municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de derechos de las víctimas.
 Fracción adicionada DOF 25-07-2016
 
-XXIX-Y. 	Para expedir la ley general que establezca los principios y bases a los que deberán sujetarse los órdenes de gobierno, en el ámbito de sus respectivas competencias, en materia de mejora regulatoria;
+XXIX-Y.   Para expedir la ley general que establezca los principios y bases a los que deberán sujetarse los órdenes de gobierno, en el ámbito de sus respectivas competencias, en materia de mejora regulatoria;
 Fracción adicionada DOF 05-02-2017
 
-XXIX-Z. 	Para expedir la ley general que establezca los principios y bases a los que deberán sujetarse los órdenes de gobierno, en el ámbito de su respectiva competencia, en materia de justicia cívica e itinerante, y
+XXIX-Z.   Para expedir la ley general que establezca los principios y bases a los que deberán sujetarse los órdenes de gobierno, en el ámbito de su respectiva competencia, en materia de justicia cívica e itinerante, y
 Fracción adicionada DOF 05-02-2017
 
-XXX. 	Para expedir la legislación única en materia procesal civil y familiar, así como sobre extinción de dominio en los términos del artículo 22 de esta Constitución;
+XXX.   Para expedir la legislación única en materia procesal civil y familiar, así como sobre extinción de dominio en los términos del artículo 22 de esta Constitución;
 Fracción adicionada DOF 15-09-2017. Reformada DOF 14-03-2019, 30-09-2024
 
-XXXI. 	Para expedir leyes que regulen y establezcan requisitos y límites para la participación del Ejército, Armada y Fuerza Aérea en materia de seguridad interior y en tareas de apoyo a la seguridad pública, y
+XXXI.   Para expedir leyes que regulen y establezcan requisitos y límites para la participación del Ejército, Armada y Fuerza Aérea en materia de seguridad interior y en tareas de apoyo a la seguridad pública, y
 Fracción adicionada DOF 30-09-2024
 
-XXXII. 	Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
+XXXII.   Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
 Fracción adicionada DOF 24-10-1942. Recorrida DOF 15-09-2017, 30-09-2024
 Reforma DOF 20-08-1928: Eliminó del artículo las entonces fracciones XXV y XXVI
 
 Artículo 74. Son facultades exclusivas de la Cámara de Diputados:
 
-I. 	Expedir el Bando Solemne para dar a conocer en toda la República la declaración de Presidente Electo que hubiere hecho el Tribunal Electoral del Poder Judicial de la Federación;
+I.   Expedir el Bando Solemne para dar a conocer en toda la República la declaración de Presidente Electo que hubiere hecho el Tribunal Electoral del Poder Judicial de la Federación;
 Fracción reformada DOF 06-07-1971, 08-10-1974, 03-09-1993, 22-08-1996
 
-II. 	Coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones de la Auditoría Superior de la Federación, en los términos que disponga la ley;
+II.   Coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones de la Auditoría Superior de la Federación, en los términos que disponga la ley;
 Fracción reformada DOF 30-07-1999, 27-05-2015
 
-III. 	Ratificar el nombramiento que el Presidente de la República haga del Secretario del ramo en materia de Hacienda, salvo que se opte por un gobierno de coalición, en cuyo caso se estará a lo dispuesto en la fracción II del artículo 76 de esta Constitución; así como de los demás empleados superiores de Hacienda;
+III.   Ratificar el nombramiento que el Presidente de la República haga del Secretario del ramo en materia de Hacienda, salvo que se opte por un gobierno de coalición, en cuyo caso se estará a lo dispuesto en la fracción II del artículo 76 de esta Constitución; así como de los demás empleados superiores de Hacienda;
 Fracción derogada DOF 30-07-1999. Adicionada DOF 10-02-2014
 
-IV. 	Aprobar anualmente el Presupuesto de Egresos de la Federación, previo examen, discusión y, en su caso, modificación del Proyecto enviado por el Ejecutivo Federal, una vez aprobadas las contribuciones que, a su juicio, deben decretarse para cubrirlo. Asimismo, podrá autorizar en dicho Presupuesto las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos.
+IV.   Aprobar anualmente el Presupuesto de Egresos de la Federación, previo examen, discusión y, en su caso, modificación del Proyecto enviado por el Ejecutivo Federal, una vez aprobadas las contribuciones que, a su juicio, deben decretarse para cubrirlo. Asimismo, podrá autorizar en dicho Presupuesto las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos.
 Párrafo reformado DOF 25-10-1993, 30-07-2004, 07-05-2008
 
 El Ejecutivo Federal hará llegar a la Cámara la Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos de la Federación a más tardar el día 8 del mes de septiembre, debiendo comparecer el secretario de despacho correspondiente a dar cuenta de los mismos. La Cámara de Diputados deberá aprobar el Presupuesto de Egresos de la Federación a más tardar el día 15 del mes de noviembre.
@@ -2135,12 +2137,12 @@ Párrafo reformado DOF 25-10-1993, 07-05-2008
 Reforma DOF 07-05-2008: Derogó de la fracción los entonces párrafos quinto, sexto (antes reformado DOF 30-07-1999) y séptimo (antes reformado DOF 17-03-1987)
 Fracción reformada DOF 06-12-1977
 
-V. 	Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito en los términos del artículo 111 de esta Constitución.
+V.   Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito en los términos del artículo 111 de esta Constitución.
 
 Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el artículo 110 de esta Constitución y fungir como órgano de acusación en los juicios políticos que contra éstos se instauren.
 Fracción reformada DOF 28-12-1982
 
-VI. 	Revisar la Cuenta Pública del año anterior, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el Presupuesto y verificar el cumplimiento de los objetivos contenidos en los programas.
+VI.   Revisar la Cuenta Pública del año anterior, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el Presupuesto y verificar el cumplimiento de los objetivos contenidos en los programas.
 
 La revisión de la Cuenta Pública la realizará la Cámara de Diputados a través de la Auditoría Superior de la Federación. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicha autoridad sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley.
 Párrafo reformado DOF 27-05-2015
@@ -2155,13 +2157,13 @@ La Cámara de Diputados evaluará el desempeño de la Auditoría Superior de la 
 Párrafo reformado DOF 27-05-2015
 Fracción reformada DOF 20-08-1928, 08-10-1974. Derogada DOF 10-08-1987. Adicionada DOF 07-05-2008
 
-VII. 	Aprobar el Plan Nacional de Desarrollo en el plazo que disponga la ley. En caso de que la Cámara de Diputados no se pronuncie en dicho plazo, el Plan se entenderá aprobado;
+VII.   Aprobar el Plan Nacional de Desarrollo en el plazo que disponga la ley. En caso de que la Cámara de Diputados no se pronuncie en dicho plazo, el Plan se entenderá aprobado;
 Fracción adicionada DOF 20-08-1928. Derogada DOF 28-12-1982. Adicionada DOF 10-02-2014
 
-VIII. 	Designar, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos de la Federación, y
+VIII.   Designar, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos de la Federación, y
 Fracción adicionada DOF 27-05-2015
 
-IX. 	Las demás que le confiere expresamente esta Constitución.
+IX.   Las demás que le confiere expresamente esta Constitución.
 Fracción adicionada DOF 20-08-1928. Recorrida DOF 27-05-2015
 
 Artículo 75. La Cámara de Diputados, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la ley; y en caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el Presupuesto anterior o en la ley que estableció el empleo.
@@ -2174,61 +2176,61 @@ Párrafo adicionado DOF 24-08-2009
 
 Artículo 76. Son facultades exclusivas del Senado:
 
-I. 	Analizar la política exterior desarrollada por el Ejecutivo Federal con base en los informes anuales que el Presidente de la República y el Secretario del Despacho correspondiente rindan al Congreso.
+I.   Analizar la política exterior desarrollada por el Ejecutivo Federal con base en los informes anuales que el Presidente de la República y el Secretario del Despacho correspondiente rindan al Congreso.
 
 Además, aprobar los tratados internacionales y convenciones diplomáticas que el Ejecutivo Federal suscriba, así como su decisión de terminar, denunciar, suspender, modificar, enmendar, retirar reservas y formular declaraciones interpretativas sobre los mismos;
 Fracción reformada DOF 06-12-1977, 12-02-2007
 
-II. 	Ratificar los nombramientos que el mismo funcionario haga de los Secretarios de Estado, en caso de que éste opte por un gobierno de coalición, con excepción de los titulares de los ramos de Defensa Nacional y Marina; del Secretario responsable del control interno del Ejecutivo Federal; del Secretario de Relaciones Exteriores; de los embajadores y cónsules generales; de los empleados superiores del ramo de Relaciones Exteriores, y coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga;
+II.   Ratificar los nombramientos que el mismo funcionario haga de los Secretarios de Estado, en caso de que éste opte por un gobierno de coalición, con excepción de los titulares de los ramos de Defensa Nacional y Marina; del Secretario responsable del control interno del Ejecutivo Federal; del Secretario de Relaciones Exteriores; de los embajadores y cónsules generales; de los empleados superiores del ramo de Relaciones Exteriores, y coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga;
 Fracción reformada DOF 10-02-1944, 31-12-1994, 09-08-2012, 10-02-2014, 27-05-2015, 30-09-2024, 20-12-2024
 
-III. 	Autorizarlo también para que pueda permitir la salida de tropas nacionales fuera de los límites del País, el paso de tropas extranjeras por el territorio nacional y la estación de escuadras de otra potencia, por más de un mes, en aguas mexicanas.
+III.   Autorizarlo también para que pueda permitir la salida de tropas nacionales fuera de los límites del País, el paso de tropas extranjeras por el territorio nacional y la estación de escuadras de otra potencia, por más de un mes, en aguas mexicanas.
 
-IV. 	Analizar y aprobar el informe anual que el Ejecutivo Federal le presente sobre las actividades de la Guardia Nacional;
+IV.   Analizar y aprobar el informe anual que el Ejecutivo Federal le presente sobre las actividades de la Guardia Nacional;
 Fracción reformada DOF 08-10-1974, 29-01-2016, 26-03-2019
 
-V. 	Declarar, cuando hayan desaparecido todos los poderes constitucionales de una entidad federativa, que es llegado el caso de nombrarle un titular del poder ejecutivo provisional, quien convocará a elecciones conforme a las leyes constitucionales de la entidad federativa. El nombramiento del titular del poder ejecutivo local se hará por el Senado a propuesta en terna del Presidente de la República con aprobación de las dos terceras partes de los miembros presentes, y en los recesos, por la Comisión Permanente, conforme a las mismas reglas. El funcionario así nombrado, no podrá ser electo titular del poder ejecutivo en las elecciones que se verifiquen en virtud de la convocatoria que él expidiere. Esta disposición regirá siempre que las constituciones de las entidades federativas no prevean el caso.
+V.   Declarar, cuando hayan desaparecido todos los poderes constitucionales de una entidad federativa, que es llegado el caso de nombrarle un titular del poder ejecutivo provisional, quien convocará a elecciones conforme a las leyes constitucionales de la entidad federativa. El nombramiento del titular del poder ejecutivo local se hará por el Senado a propuesta en terna del Presidente de la República con aprobación de las dos terceras partes de los miembros presentes, y en los recesos, por la Comisión Permanente, conforme a las mismas reglas. El funcionario así nombrado, no podrá ser electo titular del poder ejecutivo en las elecciones que se verifiquen en virtud de la convocatoria que él expidiere. Esta disposición regirá siempre que las constituciones de las entidades federativas no prevean el caso.
 Fracción reformada DOF 29-01-2016
 
-VI. 	Resolver las cuestiones políticas que surjan entre los poderes de una entidad federativa cuando alguno de ellos ocurra con ese fin al Senado, o cuando con motivo de dichas cuestiones se haya interrumpido el orden constitucional, mediando un conflicto de armas. En este caso el Senado dictará su resolución, sujetándose a la Constitución General de la República y a la de la entidad federativa.
+VI.   Resolver las cuestiones políticas que surjan entre los poderes de una entidad federativa cuando alguno de ellos ocurra con ese fin al Senado, o cuando con motivo de dichas cuestiones se haya interrumpido el orden constitucional, mediando un conflicto de armas. En este caso el Senado dictará su resolución, sujetándose a la Constitución General de la República y a la de la entidad federativa.
 Párrafo reformado DOF 29-01-2016
 
 La ley reglamentará el ejercicio de esta facultad y el de la anterior.
 Fracción reubicada por aplicación de la reforma DOF 20-08-1928
 
-VII. 	Erigirse en Jurado de sentencia para conocer en juicio político de las faltas u omisiones que cometan los servidores públicos y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del artículo 110 de esta Constitución.
+VII.   Erigirse en Jurado de sentencia para conocer en juicio político de las faltas u omisiones que cometan los servidores públicos y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del artículo 110 de esta Constitución.
 Fracción reformada DOF 28-12-1982
 
-VIII.	Otorgar o negar las solicitudes de licencia o renuncia de las personas servidoras públicas del Poder Judicial de la Federación conforme al artículo 98 de esta Constitución y en los términos que establezcan las leyes;
+VIII.  Otorgar o negar las solicitudes de licencia o renuncia de las personas servidoras públicas del Poder Judicial de la Federación conforme al artículo 98 de esta Constitución y en los términos que establezcan las leyes;
 Fracción reformada DOF 20-08-1928, 31-12-1994, 15-09-2024
 
-IX. 	Se deroga.
+IX.   Se deroga.
 Fracción adicionada DOF 20-08-1928. Derogada DOF 28-12-1982. Adicionada DOF 25-10-1993. Derogada DOF 29-01-2016
 
-X. 	Autorizar mediante decreto aprobado por el voto de las dos terceras partes de los individuos presentes, los convenios amistosos que sobre sus respectivos límites celebren las entidades federativas;
+X.   Autorizar mediante decreto aprobado por el voto de las dos terceras partes de los individuos presentes, los convenios amistosos que sobre sus respectivos límites celebren las entidades federativas;
 Fracción adicionada DOF 08-12-2005
 
-XI. 	Analizar y aprobar la Estrategia Nacional de Seguridad Pública, en el plazo que disponga la ley, previa comparecencia del titular de la secretaría del ramo. En caso de que el Senado no se pronuncie en dicho plazo, ésta se entenderá aprobada;
+XI.   Analizar y aprobar la Estrategia Nacional de Seguridad Pública, en el plazo que disponga la ley, previa comparecencia del titular de la secretaría del ramo. En caso de que el Senado no se pronuncie en dicho plazo, ésta se entenderá aprobada;
 Fracción adicionada DOF 08-12-2005. Derogada DOF 15-10-2012. Adicionada DOF 10-02-2014. Reformada DOF 26-03-2019
 
-XII. 	Se deroga
+XII.   Se deroga
 Fracción adicionada DOF 07-02-2014. Derogada DOF 20-12-2024
 
-XIII. 	Integrar la lista de candidatos a Fiscal General de la República; nombrar a dicho servidor público, y formular objeción a la remoción que del mismo haga el Ejecutivo Federal, de conformidad con el artículo 102, Apartado A, de esta Constitución, y
+XIII.   Integrar la lista de candidatos a Fiscal General de la República; nombrar a dicho servidor público, y formular objeción a la remoción que del mismo haga el Ejecutivo Federal, de conformidad con el artículo 102, Apartado A, de esta Constitución, y
 Fracción adicionada DOF 10-02-2014
 
-XIV. 	Las demás que la misma Constitución le atribuya.
+XIV.   Las demás que la misma Constitución le atribuya.
 Fracción adicionada DOF 20-08-1928. Reformada y recorrida DOF 08-12-2005. Recorrida DOF 07-02-2014, 10-02-2014
 
 Artículo 77. Cada una de las Cámaras puede, sin intervención de la otra:
 
-I. 	Dictar resoluciones económicas relativas a su régimen interior.
+I.   Dictar resoluciones económicas relativas a su régimen interior.
 
-II. 	Comunicarse en la Cámara colegisladora y con el Ejecutivo de la Unión, por medio de comisiones de su seno.
+II.   Comunicarse en la Cámara colegisladora y con el Ejecutivo de la Unión, por medio de comisiones de su seno.
 
-III. 	Nombrar los empleados de su secretaría y hacer el reglamento interior de la misma.
+III.   Nombrar los empleados de su secretaría y hacer el reglamento interior de la misma.
 
-IV. 	Expedir convocatoria, dentro del término de 30 días a partir de que ocurra la vacante, para elecciones extraordinarias que deberán celebrarse dentro de los 90 días siguientes, con el fin de cubrir las vacantes de sus miembros a que se refiere el artículo 63 de esta Constitución, en el caso de vacantes de diputados y senadores del Congreso de la Unión por el principio de mayoría relativa, salvo que la vacante ocurra dentro del año final del ejercicio del legislador correspondiente.
+IV.   Expedir convocatoria, dentro del término de 30 días a partir de que ocurra la vacante, para elecciones extraordinarias que deberán celebrarse dentro de los 90 días siguientes, con el fin de cubrir las vacantes de sus miembros a que se refiere el artículo 63 de esta Constitución, en el caso de vacantes de diputados y senadores del Congreso de la Unión por el principio de mayoría relativa, salvo que la vacante ocurra dentro del año final del ejercicio del legislador correspondiente.
 Fracción reformada DOF 15-12-1986, 29-10-2003
 
 Sección IV
@@ -2238,27 +2240,27 @@ Artículo 78. Durante los recesos del Congreso de la Unión habrá una Comisión
 
 La Comisión Permanente, además de las atribuciones que expresamente le confiere esta Constitución, tendrá las siguientes:
 
-I. 	Derogada.
+I.   Derogada.
 Fracción derogada DOF 26-03-2019
 
-II. 	Recibir, en su caso, la protesta del Presidente de la República;
+II.   Recibir, en su caso, la protesta del Presidente de la República;
 
-III. 	Resolver los asuntos de su competencia; recibir durante el receso del Congreso de la Unión las iniciativas de ley, las observaciones a los proyectos de ley o decreto que envíe el Ejecutivo y proposiciones dirigidas a las Cámaras y turnarlas para dictamen a las comisiones de la Cámara a la que vayan dirigidas, a fin de que se despachen en el inmediato periodo de sesiones;
+III.   Resolver los asuntos de su competencia; recibir durante el receso del Congreso de la Unión las iniciativas de ley, las observaciones a los proyectos de ley o decreto que envíe el Ejecutivo y proposiciones dirigidas a las Cámaras y turnarlas para dictamen a las comisiones de la Cámara a la que vayan dirigidas, a fin de que se despachen en el inmediato periodo de sesiones;
 Fracción reformada DOF 17-08-2011
 
-IV. 	Acordar por sí o a propuesta del Ejecutivo, la convocatoria del Congreso o de una sola Cámara a sesiones extraordinarias, siendo necesario en ambos casos el voto de las dos terceras partes de los individuos presentes. La convocatoria señalará el objeto u objetos de las sesiones extraordinarias. Cuando la convocatoria sea al Congreso General para que se erija en Colegio Electoral y designe presidente interino o substituto, la aprobación de la convocatoria se hará por mayoría;
+IV.   Acordar por sí o a propuesta del Ejecutivo, la convocatoria del Congreso o de una sola Cámara a sesiones extraordinarias, siendo necesario en ambos casos el voto de las dos terceras partes de los individuos presentes. La convocatoria señalará el objeto u objetos de las sesiones extraordinarias. Cuando la convocatoria sea al Congreso General para que se erija en Colegio Electoral y designe presidente interino o substituto, la aprobación de la convocatoria se hará por mayoría;
 Fracción reformada DOF 09-08-2012
 
-V. 	Se deroga.
+V.   Se deroga.
 Fracción derogada DOF 10-02-2014
 
-VI. 	Conceder licencia hasta por sesenta días naturales al Presidente de la República;
+VI.   Conceder licencia hasta por sesenta días naturales al Presidente de la República;
 Fracción reformada DOF 09-08-2012
 
-VII. 	Ratificar los nombramientos que el Presidente haga de embajadores, cónsules generales, empleados superiores de Hacienda, coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga, y
+VII.   Ratificar los nombramientos que el Presidente haga de embajadores, cónsules generales, empleados superiores de Hacienda, coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga, y
 Fracción reformada DOF 09-08-2012, 11-06-2013, 30-09-2024, 20-12-2024
 
-VIII. 	Conocer y resolver sobre las solicitudes de licencia que le sean presentadas por los legisladores.
+VIII.   Conocer y resolver sobre las solicitudes de licencia que le sean presentadas por los legisladores.
 Párrafo con fracciones adicionado DOF 30-07-1999
 Artículo reformado DOF 29-12-1980, 10-08-1987
 
@@ -2281,7 +2283,7 @@ Párrafo adicionado DOF 27-05-2015
 La Auditoría Superior de la Federación tendrá a su cargo:
 Párrafo reformado DOF 27-05-2015
 
-I. 	Fiscalizar en forma posterior los ingresos, egresos y deuda; las garantías que, en su caso, otorgue el Gobierno Federal respecto a empréstitos de los Estados y Municipios; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes de la Unión y de los entes públicos federales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas federales, a través de los informes que se rendirán en los términos que disponga la Ley.
+I.   Fiscalizar en forma posterior los ingresos, egresos y deuda; las garantías que, en su caso, otorgue el Gobierno Federal respecto a empréstitos de los Estados y Municipios; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes de la Unión y de los entes públicos federales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas federales, a través de los informes que se rendirán en los términos que disponga la Ley.
 Párrafo reformado DOF 26-05-2015
 
 También fiscalizará directamente los recursos federales que administren o ejerzan las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México. En los términos que establezca la ley fiscalizará, en coordinación con las entidades locales de fiscalización o de manera directa, las participaciones federales. En el caso de los Estados y los Municipios cuyos empréstitos cuenten con la garantía de la Federación, fiscalizará el destino y ejercicio de los recursos correspondientes que hayan realizado los gobiernos locales. Asimismo, fiscalizará los recursos federales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, fondos y mandatos, públicos o privados, o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
@@ -2296,7 +2298,7 @@ Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que det
 Párrafo reformado DOF 27-05-2015
 Fracción reformada DOF 07-05-2008
 
-II. 	Entregar a la Cámara de Diputados, el último día hábil de los meses de junio y octubre, así como el 20 de febrero del año siguiente al de la presentación de la Cuenta Pública, los informes individuales de auditoría que concluya durante el periodo respectivo. Asimismo, en esta última fecha, entregar el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública, el cual se someterá a la consideración del Pleno de dicha Cámara. El Informe General Ejecutivo y los informes individuales serán de carácter público y tendrán el contenido que determine la ley; estos últimos incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoría Superior de la Federación, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
+II.   Entregar a la Cámara de Diputados, el último día hábil de los meses de junio y octubre, así como el 20 de febrero del año siguiente al de la presentación de la Cuenta Pública, los informes individuales de auditoría que concluya durante el periodo respectivo. Asimismo, en esta última fecha, entregar el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública, el cual se someterá a la consideración del Pleno de dicha Cámara. El Informe General Ejecutivo y los informes individuales serán de carácter público y tendrán el contenido que determine la ley; estos últimos incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoría Superior de la Federación, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
 
 Para tal efecto, de manera previa a la presentación del Informe General Ejecutivo y de los informes individuales de auditoría, se darán a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Auditoría Superior de la Federación para la elaboración de los informes individuales de auditoría.
 
@@ -2311,9 +2313,9 @@ La Auditoría Superior de la Federación deberá entregar a la Cámara de Diputa
 La Auditoría Superior de la Federación deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes individuales de auditoría y el Informe General Ejecutivo a la Cámara de Diputados a que se refiere esta fracción; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición;
 Fracción reformada DOF 07-05-2008, 27-05-2015
 
-III. 	Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos federales, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos, y
+III.   Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos federales, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos, y
 
-IV. 	Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal Federal de Justicia Administrativa y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos federales y, en el caso del párrafo segundo de la fracción I de este artículo, a los servidores públicos de los estados, municipios,  del Distrito Federal y sus demarcaciones territoriales, y a los particulares.
+IV.   Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal Federal de Justicia Administrativa y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos federales y, en el caso del párrafo segundo de la fracción I de este artículo, a los servidores públicos de los estados, municipios,  del Distrito Federal y sus demarcaciones territoriales, y a los particulares.
 Fracción reformada DOF 07-05-2008, 27-05-2015
 
 La Cámara de Diputados designará al titular de la Auditoría Superior de la Federación por el voto de las dos terceras partes de sus miembros presentes. La ley determinará el procedimiento para su designación. Dicho titular durará en su encargo ocho años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Cuarto de esta Constitución.
@@ -2339,23 +2341,23 @@ Artículo reformado DOF 20-12-2019
 
 Artículo 82. Para ser Presidente se requiere:
 
-I. 	Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos, hijo de padre o madre mexicanos y haber residido en el país al menos durante veinte años.
+I.   Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos, hijo de padre o madre mexicanos y haber residido en el país al menos durante veinte años.
 Fracción reformada DOF 01-07-1994
 
-II. 	Tener 35 años cumplidos al tiempo de la elección;
+II.   Tener 35 años cumplidos al tiempo de la elección;
 
-III. 	Haber residido en el país durante todo el año anterior al día de la elección. La ausencia del país hasta por treinta días, no interrumpe la residencia.
+III.   Haber residido en el país durante todo el año anterior al día de la elección. La ausencia del país hasta por treinta días, no interrumpe la residencia.
 Fracción reformada DOF 20-08-1993
 
-IV. 	No pertenecer al estado eclesiástico ni ser ministro de algún culto.
+IV.   No pertenecer al estado eclesiástico ni ser ministro de algún culto.
 
-V. 	No estar en servicio activo, en caso de pertenecer al Ejército, Fuerza Aérea, Armada y Guardia Nacional, seis meses antes del día de la elección. 
+V.   No estar en servicio activo, en caso de pertenecer al Ejército, Fuerza Aérea, Armada y Guardia Nacional, seis meses antes del día de la elección. 
 Fracción reformada DOF 08-01-1943, 30-09-2024
 
-VI. 	No ser Secretario o subsecretario de Estado, Fiscal General de la República, ni titular del poder ejecutivo de alguna entidad federativa, a menos de que se separe de su puesto seis meses antes del día de la elección; y
+VI.   No ser Secretario o subsecretario de Estado, Fiscal General de la República, ni titular del poder ejecutivo de alguna entidad federativa, a menos de que se separe de su puesto seis meses antes del día de la elección; y
 Fracción reformada DOF 08-01-1943, 08-10-1974, 19-06-2007, 10-02-2014, 29-01-2016
 
-VII. 	No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 83.
+VII.   No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 83.
 Artículo reformado DOF 22-01-1927
 
 Artículo 83. El Presidente entrará a ejercer su encargo el 1o. de octubre y durará en él seis años. El ciudadano que haya desempeñado el cargo de Presidente de la República, electo popularmente, o con el carácter de interino o sustituto, o asuma provisionalmente la titularidad del Ejecutivo Federal, en ningún caso y por ningún motivo podrá volver a desempeñar ese puesto.
@@ -2407,9 +2409,9 @@ Artículo reformado DOF 21-10-1966, 29-08-2008
 Artículo 89. Las facultades y obligaciones del Presidente, son las siguientes:
 Párrafo reformado DOF 10-08-1987, 25-10-1993, 12-02-2007
 
-I. 	Promulgar y ejecutar las leyes que expida el Congreso de la Unión, proveyendo en la esfera administrativa a su exacta observancia.
+I.   Promulgar y ejecutar las leyes que expida el Congreso de la Unión, proveyendo en la esfera administrativa a su exacta observancia.
 
-II. 	Nombrar y remover libremente a los Secretarios de Estado, remover a los embajadores, cónsules generales y empleados superiores de Hacienda, y nombrar y remover libremente a los demás empleados de la Unión, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las leyes;
+II.   Nombrar y remover libremente a los Secretarios de Estado, remover a los embajadores, cónsules generales y empleados superiores de Hacienda, y nombrar y remover libremente a los demás empleados de la Unión, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las leyes;
 
 Los Secretarios de Estado y los empleados superiores de Hacienda y de Relaciones entrarán en funciones el día de su nombramiento. Cuando no sean ratificados en los términos de esta Constitución, dejarán de ejercer su encargo.
 Párrafo adicionado DOF 10-02-2014
@@ -2418,45 +2420,45 @@ En los supuestos de la ratificación de los Secretarios de Relaciones y de Hacie
 Párrafo adicionado DOF 10-02-2014
 Fracción reformada DOF 08-10-1974, 10-08-1987, 25-10-1993, 31-12-1994, 09-08-2012
 
-III. 	Nombrar, con aprobación del Senado, a los embajadores, cónsules generales y empleados superiores de Hacienda;
+III.   Nombrar, con aprobación del Senado, a los embajadores, cónsules generales y empleados superiores de Hacienda;
 Fracción reformada DOF 09-08-2012, 20-12-2024
 
-IV. 	Nombrar, con aprobación del Senado, a los Coroneles y demás oficiales superiores del Ejército, Armada, Fuerza Aérea y Guardia Nacional; 
+IV.   Nombrar, con aprobación del Senado, a los Coroneles y demás oficiales superiores del Ejército, Armada, Fuerza Aérea y Guardia Nacional; 
 Fracción reformada DOF 10-02-1944, 09-08-2012, 30-09-2024
 
-V. 	Nombrar a los demás oficiales del Ejército, Armada, Fuerza Aérea y Guardia Nacional, con arreglo a las leyes; 
+V.   Nombrar a los demás oficiales del Ejército, Armada, Fuerza Aérea y Guardia Nacional, con arreglo a las leyes; 
 Fracción reformada DOF 10-02-1944, 30-09-2024
 
-VI. 	Preservar la seguridad nacional, en los términos de la ley respectiva, y disponer de la totalidad de la Fuerza Armada permanente, o sea del Ejército, de la Armada, de la Fuerza Aérea y de la Guardia Nacional para la seguridad interior y defensa exterior de la Federación;
+VI.   Preservar la seguridad nacional, en los términos de la ley respectiva, y disponer de la totalidad de la Fuerza Armada permanente, o sea del Ejército, de la Armada, de la Fuerza Aérea y de la Guardia Nacional para la seguridad interior y defensa exterior de la Federación;
 Fracción reformada DOF 10-02-1944, 05-04-2004, 30-09-2024
 
-VII. 	Disponer del Ejército, de la Armada y de la Fuerza Aérea, en tareas de apoyo a la seguridad pública, en los términos que señale la ley; 
+VII.   Disponer del Ejército, de la Armada y de la Fuerza Aérea, en tareas de apoyo a la seguridad pública, en los términos que señale la ley; 
 Fracción reformada DOF 26-03-2019, 30-09-2024
 
-VIII. 	Declarar la guerra en nombre de los Estados Unidos Mexicanos, previa ley del Congreso de la Unión.
+VIII.   Declarar la guerra en nombre de los Estados Unidos Mexicanos, previa ley del Congreso de la Unión.
 
-IX. 	Intervenir en la designación del Fiscal General de la República y removerlo, en términos de lo dispuesto en el artículo 102, Apartado A, de esta Constitución;
+IX.   Intervenir en la designación del Fiscal General de la República y removerlo, en términos de lo dispuesto en el artículo 102, Apartado A, de esta Constitución;
 Fracción derogada DOF 21-10-1966. Adicionada DOF 31-12-1994. Reformada DOF 10-02-2014
 
-X. 	Dirigir la política exterior y celebrar tratados internacionales, así como terminar, denunciar, suspender, modificar, enmendar, retirar reservas y formular declaraciones interpretativas sobre los mismos, sometiéndolos a la aprobación del Senado. En la conducción de tal política, el titular del Poder Ejecutivo observará los siguientes principios normativos: la autodeterminación de los pueblos; la no intervención; la solución pacífica de controversias; la proscripción de la amenaza o el uso de la fuerza en las relaciones internacionales; la igualdad jurídica de los Estados; la cooperación internacional para el desarrollo; el respeto, la protección y promoción de los derechos humanos y la lucha por la paz y la seguridad internacionales;
+X.   Dirigir la política exterior y celebrar tratados internacionales, así como terminar, denunciar, suspender, modificar, enmendar, retirar reservas y formular declaraciones interpretativas sobre los mismos, sometiéndolos a la aprobación del Senado. En la conducción de tal política, el titular del Poder Ejecutivo observará los siguientes principios normativos: la autodeterminación de los pueblos; la no intervención; la solución pacífica de controversias; la proscripción de la amenaza o el uso de la fuerza en las relaciones internacionales; la igualdad jurídica de los Estados; la cooperación internacional para el desarrollo; el respeto, la protección y promoción de los derechos humanos y la lucha por la paz y la seguridad internacionales;
 Fracción reformada DOF 11-05-1988, 12-02-2007, 10-06-2011
 
-XI. 	Convocar al Congreso a sesiones extraordinarias, cuando lo acuerde la Comisión Permanente.
+XI.   Convocar al Congreso a sesiones extraordinarias, cuando lo acuerde la Comisión Permanente.
 Fracción reformada DOF 24-11-1923
 
-XII. 	Facilitar al Poder Judicial los auxilios que necesite para el ejercicio expedito de sus funciones.
+XII.   Facilitar al Poder Judicial los auxilios que necesite para el ejercicio expedito de sus funciones.
 
-XIII. 	Habilitar toda clase de puertos, establecer aduanas marítimas y fronterizas, y designar su ubicación.
+XIII.   Habilitar toda clase de puertos, establecer aduanas marítimas y fronterizas, y designar su ubicación.
 
-XIV. 	Conceder, conforme a las leyes, indultos a los reos sentenciados por delitos de competencia de los tribunales federales;
+XIV.   Conceder, conforme a las leyes, indultos a los reos sentenciados por delitos de competencia de los tribunales federales;
 Fracción reformada DOF 08-10-1974, 29-01-2016
 
-XV. 	Conceder privilegios exclusivos por tiempo limitado, con arreglo a la ley respectiva, a los descubridores, inventores o perfeccionadores de algún ramo de la industria.
+XV.   Conceder privilegios exclusivos por tiempo limitado, con arreglo a la ley respectiva, a los descubridores, inventores o perfeccionadores de algún ramo de la industria.
 
-XVI. 	Cuando la Cámara de Senadores no esté en sesiones, el Presidente de la República podrá hacer los nombramientos de que hablan las fracciones III, IV y IX, con aprobación de la Comisión Permanente;
+XVI.   Cuando la Cámara de Senadores no esté en sesiones, el Presidente de la República podrá hacer los nombramientos de que hablan las fracciones III, IV y IX, con aprobación de la Comisión Permanente;
 Fracción reformada DOF 21-10-1966, 31-12-1994
 
-XVII. 	En cualquier momento, optar por un gobierno de coalición con uno o varios de los partidos políticos representados en el Congreso de la Unión.
+XVII.   En cualquier momento, optar por un gobierno de coalición con uno o varios de los partidos políticos representados en el Congreso de la Unión.
 
 El gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por mayoría de los miembros presentes de la Cámara de Senadores. El convenio establecerá las causas de la disolución del gobierno de coalición.
 Fracción reformada DOF 20-08-1928, 08-10-1974, 10-08-1987. Derogada DOF 25-10-1993. Adicionada DOF 10-02-2014
@@ -2464,10 +2466,10 @@ Fracción reformada DOF 20-08-1928, 08-10-1974, 10-08-1987. Derogada DOF 25-10-1
 XVIII. Se deroga
 Fracción adicionada DOF 20-08-1928. Reformada DOF 31-12-1994. Derogada DOF 15-09-2024
 
-XIX. 	Se deroga
+XIX.   Se deroga
 Fracción adicionada DOF 20-08-1928. Derogada DOF 28-12-1982. Adicionada DOF 07-02-2014. Derogada DOF 20-12-2024
 
-XX. 	Las demás que le confiere expresamente esta Constitución.
+XX.   Las demás que le confiere expresamente esta Constitución.
 Fracción adicionada DOF 20-08-1928
 
 Artículo 90. La Administración Pública Federal será centralizada y paraestatal conforme a la Ley Orgánica que expida el Congreso, que distribuirá los negocios del orden administrativo de la Federación que estarán a cargo de las Secretarías de Estado y definirá las bases generales de creación de las entidades paraestatales y la intervención del Ejecutivo Federal en su operación.
@@ -2555,40 +2557,40 @@ Artículo reformado DOF 20-08-1928, 15-12-1934, 21-09-1944, 19-02-1951. Fe de er
 Artículo 95. Para ser electo ministro de la Suprema Corte de Justicia de la Nación, se necesita:
 Párrafo reformado DOF 02-08-2007
 
-I. 	Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
+I.   Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
 
-II.	Se deroga
+II.  Se deroga
 Fracción reformada DOF 15-12-1934, 31-12-1994. Derogada DOF 15-09-2024
 
-III. 	Poseer el día de la publicación de la convocatoria señalada en la fracción I del artículo 96 de esta Constitución título profesional de licenciado en derecho expedido legalmente, un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o su equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado, y práctica profesional de cuando menos cinco años en el ejercicio de la actividad jurídica;
+III.   Poseer el día de la publicación de la convocatoria señalada en la fracción I del artículo 96 de esta Constitución título profesional de licenciado en derecho expedido legalmente, un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o su equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado, y práctica profesional de cuando menos cinco años en el ejercicio de la actividad jurídica;
 Fracción reformada DOF 15-12-1934, 31-12-1994, 15-09-2024
 
-IV. 	Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+IV.   Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-V. 	Haber residido en el país durante los dos años anteriores al día de la publicación de la convocatoria señalada en la fracción I del artículo 96 de esta Constitución; y
+V.   Haber residido en el país durante los dos años anteriores al día de la publicación de la convocatoria señalada en la fracción I del artículo 96 de esta Constitución; y
 Fracción reformada DOF 31-12-1994, 15-09-2024
 
-VI. 	No haber sido Secretario de Estado, Fiscal General de la República, senador, diputado federal, ni titular del poder ejecutivo de alguna entidad federativa, durante el año previo al día de la publicación de la convocatoria señalada en la fracción I del artículo 96 de esta Constitución.
+VI.   No haber sido Secretario de Estado, Fiscal General de la República, senador, diputado federal, ni titular del poder ejecutivo de alguna entidad federativa, durante el año previo al día de la publicación de la convocatoria señalada en la fracción I del artículo 96 de esta Constitución.
 Fracción adicionada DOF 31-12-1994. Reformada DOF 02-08-2007, 10-02-2014, 29-01-2016, 15-09-2024
 Reforma DOF 15-09-2024: Derogó del artículo el entonces párrafo segundo (antes adicionado DOF 31-12-1994)
 
 Artículo 96. Las Ministras y Ministros de la Suprema Corte de Justicia de la Nación, Magistradas y Magistrados de la Sala Superior y las salas regionales del Tribunal Electoral del Poder Judicial de la Federación, Magistradas y Magistrados del Tribunal de Disciplina Judicial, Magistradas y Magistrados de Circuito y Juezas y Jueces de Distrito, serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones federales ordinarias del año que corresponda conforme al siguiente procedimiento:
 
-I. 	El Senado de la República publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir. El órgano de administración judicial hará del conocimiento del Senado los cargos sujetos a elección, la especialización por materia, el circuito judicial respectivo y demás información que requiera;
+I.   El Senado de la República publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir. El órgano de administración judicial hará del conocimiento del Senado los cargos sujetos a elección, la especialización por materia, el circuito judicial respectivo y demás información que requiera;
 
-II.	Los Poderes de la Unión postularán el número de candidaturas que corresponda a cada cargo conforme a los párrafos segundo y tercero del presente artículo. Para la evaluación y selección de sus postulaciones, observarán lo siguiente:
+II.  Los Poderes de la Unión postularán el número de candidaturas que corresponda a cada cargo conforme a los párrafos segundo y tercero del presente artículo. Para la evaluación y selección de sus postulaciones, observarán lo siguiente:
 
-a)	Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes, presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo;
+a)  Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes, presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo;
 
-b)	Cada Poder integrará un Comité de Evaluación conformado por cinco personas reconocidas en la actividad jurídica, que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica, y
+b)  Cada Poder integrará un Comité de Evaluación conformado por cinco personas reconocidas en la actividad jurídica, que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica, y
 
-c) 	Los Comités de Evaluación integrarán un listado de las diez personas mejor evaluadas para cada cargo en los casos de Ministras y Ministros de la Suprema Corte de Justicia de la Nación, Magistradas y Magistrados de la Sala Superior y salas regionales del Tribunal Electoral e integrantes del Tribunal de Disciplina Judicial, y de las seis personas mejor evaluadas para cada cargo en los casos de Magistradas y Magistrados de Circuito y Juezas y Jueces de Distrito. Posteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo, observando la paridad de género. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder de la Unión para su aprobación y envío al Senado.
+c)   Los Comités de Evaluación integrarán un listado de las diez personas mejor evaluadas para cada cargo en los casos de Ministras y Ministros de la Suprema Corte de Justicia de la Nación, Magistradas y Magistrados de la Sala Superior y salas regionales del Tribunal Electoral e integrantes del Tribunal de Disciplina Judicial, y de las seis personas mejor evaluadas para cada cargo en los casos de Magistradas y Magistrados de Circuito y Juezas y Jueces de Distrito. Posteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo, observando la paridad de género. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder de la Unión para su aprobación y envío al Senado.
 
-III.	El Senado de la República recibirá las postulaciones y remitirá los listados al Instituto Nacional Electoral a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+III.  El Senado de la República recibirá las postulaciones y remitirá los listados al Instituto Nacional Electoral a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
 
 Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes de la Unión, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente, y
 
-IV. 	El Instituto Nacional Electoral efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección y enviará sus resultados a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación o al Pleno de la Suprema Corte de Justicia de la Nación para el caso de magistraturas electorales, quienes resolverán las impugnaciones antes de que el Senado de la República instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas aspirantes electas tomarán protesta de su encargo ante dicho órgano legislativo.
+IV.   El Instituto Nacional Electoral efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección y enviará sus resultados a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación o al Pleno de la Suprema Corte de Justicia de la Nación para el caso de magistraturas electorales, quienes resolverán las impugnaciones antes de que el Senado de la República instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas aspirantes electas tomarán protesta de su encargo ante dicho órgano legislativo.
 
 Para el caso de Ministras y Ministros de la Suprema Corte de Justicia de la Nación, Magistradas y Magistrados de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación e integrantes del Tribunal de Disciplina Judicial, la elección se realizará a nivel nacional conforme al procedimiento anterior y en los términos que dispongan las leyes. El Poder Ejecutivo postulará por conducto de la persona titular de la Presidencia de la República hasta tres personas aspirantes; el Poder Legislativo postulará hasta tres personas, una por la Cámara de Diputados y dos por el Senado, mediante votación calificada de dos tercios de sus integrantes presentes, y el Poder Judicial de la Federación, por conducto del Pleno de la Suprema Corte de Justicia de la Nación, postulará hasta tres personas por mayoría de seis votos.
 
@@ -2610,15 +2612,15 @@ Párrafo reformado DOF 11-03-2021, 15-09-2024
 
 Para ser electo Magistrada o Magistrado de Circuito, así como Jueza o Juez de Distrito, se necesita:
 
-I. 	Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+I.   Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
 
-II. 	Contar el día de la publicación de la convocatoria señalada en la fracción I del artículo 96 de esta Constitución con título de licenciatura en derecho expedido legalmente y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado. Para el caso de Magistrada y Magistrado de Circuito deberá contar además con práctica profesional de al menos tres años en un área jurídica afín a su candidatura;
+II.   Contar el día de la publicación de la convocatoria señalada en la fracción I del artículo 96 de esta Constitución con título de licenciatura en derecho expedido legalmente y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado. Para el caso de Magistrada y Magistrado de Circuito deberá contar además con práctica profesional de al menos tres años en un área jurídica afín a su candidatura;
 
-III.	Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad;
+III.  Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad;
 
-IV. 	Haber residido en el país durante el año anterior al día de la publicación de la convocatoria señalada en la fracción I del artículo 96 de esta Constitución, y
+IV.   Haber residido en el país durante el año anterior al día de la publicación de la convocatoria señalada en la fracción I del artículo 96 de esta Constitución, y
 
-V. 	No haber sido persona titular de una Secretaría de Estado, Fiscal General de la República, senadora o senador, diputada o diputado federal, ni persona titular del poder ejecutivo de alguna entidad federativa, durante el año previo al día de la publicación de la convocatoria señalada en la fracción I del artículo 96 de esta Constitución.
+V.   No haber sido persona titular de una Secretaría de Estado, Fiscal General de la República, senadora o senador, diputada o diputado federal, ni persona titular del poder ejecutivo de alguna entidad federativa, durante el año previo al día de la publicación de la convocatoria señalada en la fracción I del artículo 96 de esta Constitución.
 Párrafo con fracciones adicionado DOF 15-09-2024
 
 El ingreso, formación y permanencia del personal de la carrera judicial del Poder Judicial de la Federación se sujetará a la regulación establecida en las disposiciones aplicables.
@@ -2661,34 +2663,34 @@ Párrafo reformado DOF 15-09-2024
 
 Al Tribunal Electoral le corresponde resolver en forma definitiva e inatacable, en los términos de esta Constitución y según lo disponga la ley, sobre:
 
-I. 	Las impugnaciones en las elecciones federales de las diputadas y los diputados, las senadoras y los senadores, Ministras y Ministros de la Suprema Corte de Justicia de la Nación, Magistradas y Magistrados del Tribunal de Disciplina Judicial, Magistradas y Magistrados de Circuito y Juezas y Jueces de Distrito;
+I.   Las impugnaciones en las elecciones federales de las diputadas y los diputados, las senadoras y los senadores, Ministras y Ministros de la Suprema Corte de Justicia de la Nación, Magistradas y Magistrados del Tribunal de Disciplina Judicial, Magistradas y Magistrados de Circuito y Juezas y Jueces de Distrito;
 Fracción reformada DOF 15-09-2024
 
-II. 	Las impugnaciones que se presenten sobre la elección de Presidente de los Estados Unidos Mexicanos que serán resueltas en única instancia por la Sala Superior.
+II.   Las impugnaciones que se presenten sobre la elección de Presidente de los Estados Unidos Mexicanos que serán resueltas en única instancia por la Sala Superior.
 
 Las salas Superior y regionales del Tribunal sólo podrán declarar la nulidad de una elección por las causales que expresamente se establezcan en las leyes.
 
 La Sala Superior realizará el cómputo final de la elección de Presidente de los Estados Unidos Mexicanos, una vez resueltas las impugnaciones que se hubieren interpuesto sobre la misma, procediendo a formular, en su caso, la declaración de validez de la elección y la de Presidente Electo respecto del candidato que hubiese obtenido el mayor número de votos.
 
-III.	Las impugnaciones de actos y resoluciones de la autoridad electoral federal, distintas a las señaladas en las dos fracciones anteriores, que violen normas constitucionales o legales, así como en materia de revocación de mandato;
+III.  Las impugnaciones de actos y resoluciones de la autoridad electoral federal, distintas a las señaladas en las dos fracciones anteriores, que violen normas constitucionales o legales, así como en materia de revocación de mandato;
 Fracción reformada DOF 20-12-2019
 
-IV. 	Las impugnaciones de actos o resoluciones definitivos y firmes de las autoridades competentes de las entidades federativas para organizar y calificar los comicios o resolver las controversias que surjan durante los mismos, que puedan resultar determinantes para el desarrollo del proceso respectivo o el resultado final de las elecciones. Esta vía procederá solamente cuando la reparación solicitada sea material y jurídicamente posible dentro de los plazos electorales y sea factible antes de la fecha constitucional o legalmente fijada para la instalación de los órganos o la toma de posesión de los funcionarios elegidos;
+IV.   Las impugnaciones de actos o resoluciones definitivos y firmes de las autoridades competentes de las entidades federativas para organizar y calificar los comicios o resolver las controversias que surjan durante los mismos, que puedan resultar determinantes para el desarrollo del proceso respectivo o el resultado final de las elecciones. Esta vía procederá solamente cuando la reparación solicitada sea material y jurídicamente posible dentro de los plazos electorales y sea factible antes de la fecha constitucional o legalmente fijada para la instalación de los órganos o la toma de posesión de los funcionarios elegidos;
 
-V. 	Las impugnaciones de actos y resoluciones que violen los derechos político electorales de los ciudadanos de votar, ser votado y de afiliación libre y pacífica para tomar parte en los asuntos políticos del país, en los términos que señalen esta Constitución y las leyes. Para que un ciudadano pueda acudir a la jurisdicción del Tribunal por violaciones a sus derechos por el partido político al que se encuentre afiliado, deberá haber agotado previamente las instancias de solución de conflictos previstas en sus normas internas, la ley establecerá las reglas y plazos aplicables;
+V.   Las impugnaciones de actos y resoluciones que violen los derechos político electorales de los ciudadanos de votar, ser votado y de afiliación libre y pacífica para tomar parte en los asuntos políticos del país, en los términos que señalen esta Constitución y las leyes. Para que un ciudadano pueda acudir a la jurisdicción del Tribunal por violaciones a sus derechos por el partido político al que se encuentre afiliado, deberá haber agotado previamente las instancias de solución de conflictos previstas en sus normas internas, la ley establecerá las reglas y plazos aplicables;
 
-VI. 	Los conflictos o diferencias laborales entre el Tribunal y sus servidores;
+VI.   Los conflictos o diferencias laborales entre el Tribunal y sus servidores;
 
-VII. 	Los conflictos o diferencias laborales entre el Instituto Nacional Electoral y sus servidores;
+VII.   Los conflictos o diferencias laborales entre el Instituto Nacional Electoral y sus servidores;
 Fracción reformada DOF 10-02-2014
 
-VIII. 	La determinación e imposición de sanciones por parte del Instituto Nacional Electoral a partidos o agrupaciones políticas o personas físicas o morales, nacionales o extranjeras, que infrinjan las disposiciones de esta Constitución y las leyes;
+VIII.   La determinación e imposición de sanciones por parte del Instituto Nacional Electoral a partidos o agrupaciones políticas o personas físicas o morales, nacionales o extranjeras, que infrinjan las disposiciones de esta Constitución y las leyes;
 Fracción reformada DOF 10-02-2014
 
-IX. 	Los asuntos que el Instituto Nacional Electoral someta a su conocimiento por violaciones a lo previsto en la Base III del artículo 41 y párrafo octavo del artículo 134 de esta Constitución; a las normas sobre propaganda política y electoral, así como por la realización de actos anticipados de precampaña o de campaña, e imponer las sanciones que correspondan, y
+IX.   Los asuntos que el Instituto Nacional Electoral someta a su conocimiento por violaciones a lo previsto en la Base III del artículo 41 y párrafo octavo del artículo 134 de esta Constitución; a las normas sobre propaganda política y electoral, así como por la realización de actos anticipados de precampaña o de campaña, e imponer las sanciones que correspondan, y
 Fracción adicionada DOF 10-02-2014
 
-X. 	Las demás que señale la ley.
+X.   Las demás que señale la ley.
 Fracción recorrida DOF 10-02-2014
 
 Las salas del Tribunal Electoral harán uso de los medios de apremio necesarios para hacer cumplir de manera expedita sus sentencias y resoluciones, en los términos que fije la ley.
@@ -2739,9 +2741,9 @@ El Tribunal evaluará el desempeño de las Magistradas y Magistrados de Circuito
 
 La ley señalará las áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la imparcialidad y objetividad de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación resulte insatisfactoria:
 
-a)	Medidas de fortalecimiento, consistentes en actividades de capacitación y otras tendientes a reforzar los conocimientos o competencias de la persona evaluada, a cuyo término se aplicará una nueva evaluación, y
+a)  Medidas de fortalecimiento, consistentes en actividades de capacitación y otras tendientes a reforzar los conocimientos o competencias de la persona evaluada, a cuyo término se aplicará una nueva evaluación, y
 
-b)	Cuando la persona servidora pública no acredite favorablemente la evaluación que derive de las medidas correctivas ordenadas o se niegue a acatarlas, el Tribunal podrá ordenar su suspensión de hasta un año y determinar las acciones y condiciones para su restitución. Transcurrido el año de suspensión sin acreditar satisfactoriamente la evaluación, el Tribunal resolverá de manera fundada y motivada la destitución de la persona servidora pública, sin responsabilidad para el Poder Judicial.
+b)  Cuando la persona servidora pública no acredite favorablemente la evaluación que derive de las medidas correctivas ordenadas o se niegue a acatarlas, el Tribunal podrá ordenar su suspensión de hasta un año y determinar las acciones y condiciones para su restitución. Transcurrido el año de suspensión sin acreditar satisfactoriamente la evaluación, el Tribunal resolverá de manera fundada y motivada la destitución de la persona servidora pública, sin responsabilidad para el Poder Judicial.
 
 Las Magistradas y los Magistrados del Tribunal de Disciplina ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Cuarto de esta Constitución.
 
@@ -2781,7 +2783,7 @@ La infracción a lo previsto en los párrafos anteriores, será sancionada con l
 Artículo reformado DOF 10-08-1987, 31-12-1994
 
 Artículo 102.
-A. 	El Ministerio Público de la Federación se organizará en una Fiscalía General de la República como órgano público autónomo, dotado de personalidad jurídica y patrimonio propio.
+A.   El Ministerio Público de la Federación se organizará en una Fiscalía General de la República como órgano público autónomo, dotado de personalidad jurídica y patrimonio propio.
 Párrafo reformado DOF 29-01-2016
 
 Para que una persona pueda ser titular de la Fiscalía General de la República se requiere: ser ciudadana mexicana por nacimiento, en ejercicio de sus derechos; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar, con antigüedad mínima de diez años, con título profesional de licenciatura en derecho; gozar de buena reputación, y no haber sido condenada por la comisión de delito doloso.
@@ -2789,23 +2791,23 @@ Párrafo reformado DOF 29-05-2023
 
 El Fiscal General durará en su encargo nueve años, y será designado y removido conforme a lo siguiente:
 
-I. 	A partir de la ausencia definitiva del Fiscal General, el Senado de la República contará con veinte días para integrar una lista de al menos diez candidatos al cargo, aprobada por las dos terceras partes de los miembros presentes, la cual enviará al Ejecutivo Federal.
+I.   A partir de la ausencia definitiva del Fiscal General, el Senado de la República contará con veinte días para integrar una lista de al menos diez candidatos al cargo, aprobada por las dos terceras partes de los miembros presentes, la cual enviará al Ejecutivo Federal.
 
 Si el Ejecutivo no recibe la lista en el plazo antes señalado, enviará libremente al Senado una terna y designará provisionalmente al Fiscal General, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General designado podrá formar parte de la terna.
 
-II. 	Recibida la lista a que se refiere la fracción anterior, dentro de los diez días siguientes el Ejecutivo formulará una terna y la enviará a la consideración del Senado.
+II.   Recibida la lista a que se refiere la fracción anterior, dentro de los diez días siguientes el Ejecutivo formulará una terna y la enviará a la consideración del Senado.
 
-III. 	El Senado, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
+III.   El Senado, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
 
 En caso de que el Ejecutivo no envíe la terna a que se refiere la fracción anterior, el Senado tendrá diez días para designar al Fiscal General de entre los candidatos de la lista que señala la fracción I.
 
 Si el Senado no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará al Fiscal General de entre los candidatos que integren la lista o, en su caso, la terna respectiva.
 
-IV. 	El Fiscal General podrá ser removido por el Ejecutivo Federal por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes de la Cámara de Senadores dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si el Senado no se pronuncia al respecto, se entenderá que no existe objeción.
+IV.   El Fiscal General podrá ser removido por el Ejecutivo Federal por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes de la Cámara de Senadores dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si el Senado no se pronuncia al respecto, se entenderá que no existe objeción.
 
-V. 	En los recesos del Senado, la Comisión Permanente lo convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción del Fiscal General.
+V.   En los recesos del Senado, la Comisión Permanente lo convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción del Fiscal General.
 
-VI. 	Las ausencias del Fiscal General serán suplidas en los términos que determine la ley.
+VI.   Las ausencias del Fiscal General serán suplidas en los términos que determine la ley.
 
 Corresponde al Ministerio Público de la Federación la persecución, ante los tribunales, de todos los delitos del orden federal; y, por lo mismo, solicitará las medidas cautelares contra los imputados; buscará y presentará las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delito; procurará que los juicios federales en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
 Párrafo reformado DOF 29-01-2016
@@ -2819,7 +2821,7 @@ El Fiscal General presentará anualmente a los Poderes Legislativo y Ejecutivo d
 El Fiscal General de la República y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
 Apartado reformado DOF 28-01-1992, 31-12-1994, 10-02-2014
 
-B. 	El Congreso de la Unión y las legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, establecerán organismos de protección de los derechos humanos que ampara el orden jurídico mexicano, los que conocerán de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción de los del Poder Judicial de la Federación, que violen estos derechos.
+B.   El Congreso de la Unión y las legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, establecerán organismos de protección de los derechos humanos que ampara el orden jurídico mexicano, los que conocerán de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción de los del Poder Judicial de la Federación, que violen estos derechos.
 
 Los organismos a que se refiere el párrafo anterior, formularán recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que les presenten estos organismos. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, la Cámara de Senadores o en sus recesos la Comisión Permanente, o las legislaturas de las entidades federativas, según corresponda, podrán llamar, a solicitud de estos organismos, a las autoridades o servidores públicos responsables para que comparezcan ante dichos órganos legislativos, a efecto de que expliquen el motivo de su negativa.
 Párrafo reformado DOF 10-06-2011
@@ -2850,75 +2852,75 @@ Artículo reformado DOF 11-09-1940, 25-10-1967
 
 Artículo 103. Los Tribunales de la Federación resolverán toda controversia que se suscite
 
-I. 	Por normas generales, actos u omisiones de la autoridad que violen los derechos humanos reconocidos y las garantías otorgadas para su protección por esta Constitución, así como por los tratados internacionales de los que el Estado Mexicano sea parte;
+I.   Por normas generales, actos u omisiones de la autoridad que violen los derechos humanos reconocidos y las garantías otorgadas para su protección por esta Constitución, así como por los tratados internacionales de los que el Estado Mexicano sea parte;
 
-II. 	Por normas generales o actos de la autoridad federal que vulneren o restrinjan la soberanía de los Estados o la autonomía de la Ciudad de México, y
+II.   Por normas generales o actos de la autoridad federal que vulneren o restrinjan la soberanía de los Estados o la autonomía de la Ciudad de México, y
 Fracción reformada DOF 29-01-2016
 
-III. 	Por normas generales o actos de las autoridades de las entidades federativas que invadan la esfera de competencia de la autoridad federal.
+III.   Por normas generales o actos de las autoridades de las entidades federativas que invadan la esfera de competencia de la autoridad federal.
 Fracción reformada DOF 29-01-2016
 Artículo reformado DOF 31-12-1994, 06-06-2011
 
 Artículo 104. Los Tribunales de la Federación conocerán:
 
-I. 	De los procedimientos relacionados con delitos del orden federal;
+I.   De los procedimientos relacionados con delitos del orden federal;
 
-II. 	De todas las controversias del orden civil o mercantil que se susciten sobre el cumplimiento y aplicación de leyes federales o de los tratados internacionales celebrados por el Estado Mexicano. A elección del actor y cuando sólo se afecten intereses particulares, podrán conocer de ellas, los jueces y tribunales del orden común.
+II.   De todas las controversias del orden civil o mercantil que se susciten sobre el cumplimiento y aplicación de leyes federales o de los tratados internacionales celebrados por el Estado Mexicano. A elección del actor y cuando sólo se afecten intereses particulares, podrán conocer de ellas, los jueces y tribunales del orden común.
 
 Las sentencias de primera instancia podrán ser apelables ante el superior inmediato del juez que conozca del asunto en primer grado;
 
-III. 	De los recursos de revisión que se interpongan contra las resoluciones definitivas de los tribunales de justicia administrativa a que se refiere la fracción XXIX-H del artículo 73 de esta Constitución, sólo en los casos que señalen las leyes. Las revisiones, de las cuales conocerán los Tribunales Colegiados de Circuito, se sujetarán a los trámites que la ley reglamentaria de los artículos 103 y 107 de esta Constitución fije para la revisión en amparo indirecto, y en contra de las resoluciones que en ellas dicten los Tribunales Colegiados de Circuito no procederá juicio o recurso alguno;
+III.   De los recursos de revisión que se interpongan contra las resoluciones definitivas de los tribunales de justicia administrativa a que se refiere la fracción XXIX-H del artículo 73 de esta Constitución, sólo en los casos que señalen las leyes. Las revisiones, de las cuales conocerán los Tribunales Colegiados de Circuito, se sujetarán a los trámites que la ley reglamentaria de los artículos 103 y 107 de esta Constitución fije para la revisión en amparo indirecto, y en contra de las resoluciones que en ellas dicten los Tribunales Colegiados de Circuito no procederá juicio o recurso alguno;
 Fracción reformada DOF 27-05-2015, 29-01-2016
 
-IV. 	De todas las controversias que versen sobre derecho marítimo;
+IV.   De todas las controversias que versen sobre derecho marítimo;
 
-V. 	De aquellas en que la Federación fuese parte;
+V.   De aquellas en que la Federación fuese parte;
 
-VI. 	De las controversias y de las acciones a que se refiere el artículo 105, mismas que serán del conocimiento exclusivo de la Suprema Corte de Justicia de la Nación;
+VI.   De las controversias y de las acciones a que se refiere el artículo 105, mismas que serán del conocimiento exclusivo de la Suprema Corte de Justicia de la Nación;
 
-VII. 	De las que surjan entre una entidad federativa y uno o más vecinos de otra, y
+VII.   De las que surjan entre una entidad federativa y uno o más vecinos de otra, y
 Fracción reformada DOF 29-01-2016
 
-VIII. 	De los casos concernientes a miembros del Cuerpo Diplomático y Consular.
+VIII.   De los casos concernientes a miembros del Cuerpo Diplomático y Consular.
 Artículo reformado DOF 18-01-1934, 30-12-1946, 25-10-1967, 08-10-1974, 10-08-1987, 25-10-1993, 31-12-1994, 06-06-2011
 
 Artículo 105. La Suprema Corte de Justicia de la Nación conocerá, en los términos que señale la ley reglamentaria, de los asuntos siguientes:
 
-I. 	De las controversias constitucionales que, sobre la constitucionalidad de las normas generales, actos u omisiones, con excepción de las que se refieran a la materia electoral, se susciten entre:
+I.   De las controversias constitucionales que, sobre la constitucionalidad de las normas generales, actos u omisiones, con excepción de las que se refieran a la materia electoral, se susciten entre:
 Párrafo reformado DOF 08-12-2005, 15-10-2012, 11-03-2021
 
-a) 	La Federación y una entidad federativa;
+a)   La Federación y una entidad federativa;
 Inciso reformado DOF 29-01-2016
 
-b) 	La Federación y un municipio;
+b)   La Federación y un municipio;
 
-c) 	El Poder Ejecutivo y el Congreso de la Unión; aquél y cualquiera de las Cámaras de éste o, en su caso, la Comisión Permanente;
+c)   El Poder Ejecutivo y el Congreso de la Unión; aquél y cualquiera de las Cámaras de éste o, en su caso, la Comisión Permanente;
 Inciso reformado DOF 29-01-2016
 
-d) 	Una entidad federativa y otra;
+d)   Una entidad federativa y otra;
 Inciso reformado DOF 29-01-2016
 
-e) 	Se deroga.
+e)   Se deroga.
 Inciso derogado DOF 29-01-2016
 
-f) 	Se deroga.
+f)   Se deroga.
 Inciso derogado DOF 29-01-2016
 
-g) 	Dos municipios de diversos Estados;
+g)   Dos municipios de diversos Estados;
 
-h)	Dos Poderes de una misma entidad federativa;
+h)  Dos Poderes de una misma entidad federativa;
 Inciso reformado DOF 29-01-2016, 11-03-2021
 
-i)	Un Estado y uno de sus Municipios;
+i)  Un Estado y uno de sus Municipios;
 Inciso reformado DOF 11-03-2021
 
-j)	Una Entidad Federativa y un Municipio de otra o una demarcación territorial de la Ciudad de México;
+j)  Una Entidad Federativa y un Municipio de otra o una demarcación territorial de la Ciudad de México;
 Inciso reformado DOF 11-06-2013, 29-01-2016, 11-03-2021
 
-k)	Dos órganos constitucionales autónomos de una entidad federativa, y entre uno de éstos y el Poder Ejecutivo o el Poder Legislativo de esa entidad federativa, y
+k)  Dos órganos constitucionales autónomos de una entidad federativa, y entre uno de éstos y el Poder Ejecutivo o el Poder Legislativo de esa entidad federativa, y
 Inciso reformado DOF 11-06-2013. Derogado DOF 29-01-2016. Adicionado DOF 11-03-2021
 
-l)	Dos órganos constitucionales autónomos federales, y entre uno de éstos y el Poder Ejecutivo de la Unión o el Congreso de la Unión.
+l)  Dos órganos constitucionales autónomos federales, y entre uno de éstos y el Poder Ejecutivo de la Unión o el Congreso de la Unión.
 Inciso adicionado DOF 11-06-2013. Reformado DOF 07-02-2014, 11-03-2021
 
 Siempre que las controversias versen sobre disposiciones generales de las entidades federativas, de los Municipios o de las demarcaciones territoriales de la Ciudad de México impugnadas por la Federación; de los Municipios o de las demarcaciones territoriales de la Ciudad de México impugnadas por las entidades federativas, o en los casos a que se refieren los incisos c), h), k) y l) anteriores, y la resolución de la Suprema Corte de Justicia de la Nación las declare inválidas, dicha resolución tendrá efectos generales cuando hubiere sido aprobada por una mayoría de por lo menos seis votos.
@@ -2929,36 +2931,36 @@ En los demás casos, las resoluciones de la Suprema Corte de Justicia tendrán e
 En las controversias previstas en esta fracción únicamente podrán hacerse valer violaciones a esta Constitución, así como a los derechos humanos reconocidos en los tratados internacionales de los que el Estado Mexicano sea parte.
 Párrafo adicionado DOF 11-03-2021
 
-II. 	De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución.
+II.   De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución.
 Párrafo reformado DOF 22-08-1996
 
 Las acciones de inconstitucionalidad podrán ejercitarse, dentro de los treinta días naturales siguientes a la fecha de publicación de la norma, por:
 
-a) 	El equivalente al treinta y tres por ciento de los integrantes de la Cámara de Diputados del Congreso de la Unión, en contra de leyes federales;
+a)   El equivalente al treinta y tres por ciento de los integrantes de la Cámara de Diputados del Congreso de la Unión, en contra de leyes federales;
 Inciso reformado DOF 29-01-2016
 
-b) 	El equivalente al treinta y tres por ciento de los integrantes del Senado, en contra de las leyes federales o de tratados internacionales celebrados por el Estado Mexicano;
+b)   El equivalente al treinta y tres por ciento de los integrantes del Senado, en contra de las leyes federales o de tratados internacionales celebrados por el Estado Mexicano;
 Inciso reformado DOF 29-01-2016
 
-c)	El Ejecutivo Federal, por conducto del Consejero Jurídico del Gobierno, en contra de normas generales de carácter federal y de las entidades federativas;
+c)  El Ejecutivo Federal, por conducto del Consejero Jurídico del Gobierno, en contra de normas generales de carácter federal y de las entidades federativas;
 Inciso reformado DOF 10-02-2014
 
-d) 	El equivalente al treinta y tres por ciento de los integrantes de alguna de las Legislaturas de las entidades federativas en contra de las leyes expedidas por el propio órgano;
+d)   El equivalente al treinta y tres por ciento de los integrantes de alguna de las Legislaturas de las entidades federativas en contra de las leyes expedidas por el propio órgano;
 Inciso reformado DOF 22-08-1996, 29-01-2016
 
-e) 	Se deroga.
+e)   Se deroga.
 Inciso reformado DOF 22-08-1996. Derogado DOF 29-01-2016
 
-f) 	Los partidos políticos con registro ante el Instituto Nacional Electoral, por conducto de sus dirigencias nacionales, en contra de leyes electorales federales o locales; y los partidos políticos con registro en una entidad federativa, a través de sus dirigencias, exclusivamente en contra de leyes electorales expedidas por la Legislatura de la entidad federativa que les otorgó el registro;
+f)   Los partidos políticos con registro ante el Instituto Nacional Electoral, por conducto de sus dirigencias nacionales, en contra de leyes electorales federales o locales; y los partidos políticos con registro en una entidad federativa, a través de sus dirigencias, exclusivamente en contra de leyes electorales expedidas por la Legislatura de la entidad federativa que les otorgó el registro;
 Inciso adicionado DOF 22-08-1996. Reformado DOF 10-02-2014, 29-01-2016
 
-g) 	La Comisión Nacional de los Derechos Humanos, en contra de leyes de carácter federal o de las entidades federativas, así como de tratados internacionales celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que vulneren los derechos humanos consagrados en esta Constitución y en los tratados internacionales de los que México sea parte. Asimismo, los organismos de protección de los derechos humanos equivalentes en las entidades federativas, en contra de leyes expedidas por las Legislaturas;
+g)   La Comisión Nacional de los Derechos Humanos, en contra de leyes de carácter federal o de las entidades federativas, así como de tratados internacionales celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que vulneren los derechos humanos consagrados en esta Constitución y en los tratados internacionales de los que México sea parte. Asimismo, los organismos de protección de los derechos humanos equivalentes en las entidades federativas, en contra de leyes expedidas por las Legislaturas;
 Inciso adicionado DOF 14-09-2006. Reformado DOF 10-06-2011, 29-01-2016
 
-h) 	Se deroga
+h)   Se deroga
 Inciso adicionado DOF 07-02-2014. Reformado DOF 29-01-2016. Derogado DOF 20-12-2024
 
-i)	El Fiscal General de la República respecto de leyes federales y de las entidades federativas, en materia penal y procesal penal, así como las relacionadas con el ámbito de sus funciones;
+i)  El Fiscal General de la República respecto de leyes federales y de las entidades federativas, en materia penal y procesal penal, así como las relacionadas con el ámbito de sus funciones;
 Inciso adicionado DOF 10-02-2014
 
 La única vía para plantear la no conformidad de las leyes electorales a la Constitución es la prevista en este artículo.
@@ -2970,7 +2972,7 @@ Párrafo adicionado DOF 22-08-1996
 Las resoluciones de la Suprema Corte de Justicia sólo podrán declarar la invalidez de las normas impugnadas, siempre que fueren aprobadas por una mayoría de cuando menos seis votos.
 Párrafo reformado DOF 15-09-2024
 
-III.	De oficio o a petición fundada del correspondiente Tribunal Colegiado de Apelación o del Ejecutivo Federal, por conducto de la Consejera o Consejero Jurídico del Gobierno, así como de la o el Fiscal General de la República en los asuntos en que intervenga el Ministerio Público, podrá conocer de los recursos de apelación en contra de sentencias de los Juzgados de Distrito dictadas en aquellos procesos en que la Federación sea parte y que por su interés y trascendencia así lo ameriten.
+III.  De oficio o a petición fundada del correspondiente Tribunal Colegiado de Apelación o del Ejecutivo Federal, por conducto de la Consejera o Consejero Jurídico del Gobierno, así como de la o el Fiscal General de la República en los asuntos en que intervenga el Ministerio Público, podrá conocer de los recursos de apelación en contra de sentencias de los Juzgados de Distrito dictadas en aquellos procesos en que la Federación sea parte y que por su interés y trascendencia así lo ameriten.
 Fracción reformada DOF 10-02-2014, 11-03-2021
 
 La declaración de invalidez de las resoluciones a que se refieren las fracciones I y II de este artículo no tendrá efectos retroactivos, salvo en materia penal, en la que regirán los principios generales y disposiciones legales aplicables de esta materia.
@@ -2990,12 +2992,12 @@ Artículo reformado DOF 07-04-1986, 31-12-1994, 29-01-2016
 Artículo 107. Las controversias de que habla el artículo 103 de esta Constitución, con excepción de aquellas en materia electoral, se sujetarán a los procedimientos que determine la ley reglamentaria, de acuerdo con las bases siguientes:
 Párrafo reformado DOF 25-10-1993, 06-06-2011
 
-I. 	El juicio de amparo se seguirá siempre a instancia de parte agraviada, teniendo tal carácter quien aduce ser titular de un derecho o de un interés legítimo individual o colectivo, siempre que alegue que el acto reclamado viola los derechos reconocidos por esta Constitución y con ello se afecte su esfera jurídica, ya sea de manera directa o en virtud de su especial situación frente al orden jurídico.
+I.   El juicio de amparo se seguirá siempre a instancia de parte agraviada, teniendo tal carácter quien aduce ser titular de un derecho o de un interés legítimo individual o colectivo, siempre que alegue que el acto reclamado viola los derechos reconocidos por esta Constitución y con ello se afecte su esfera jurídica, ya sea de manera directa o en virtud de su especial situación frente al orden jurídico.
 
 Tratándose de actos o resoluciones provenientes de tribunales judiciales, administrativos o del trabajo, el quejoso deberá aducir ser titular de un derecho subjetivo que se afecte de manera personal y directa;
 Fracción reformada DOF 06-06-2011
 
-II.	Las sentencias que se pronuncien en los juicios de amparo sólo se ocuparán de personas quejosas que lo hubieren solicitado, limitándose a ampararlas y protegerlas, si procediere, en el caso especial sobre el que verse la demanda. Tratándose de juicios de amparo que resuelvan la inconstitucionalidad de normas generales, en ningún caso las sentencias que se dicten fijarán efectos generales. No procederá el juicio de amparo contra adiciones o reformas a esta Constitución.
+II.  Las sentencias que se pronuncien en los juicios de amparo sólo se ocuparán de personas quejosas que lo hubieren solicitado, limitándose a ampararlas y protegerlas, si procediere, en el caso especial sobre el que verse la demanda. Tratándose de juicios de amparo que resuelvan la inconstitucionalidad de normas generales, en ningún caso las sentencias que se dicten fijarán efectos generales. No procederá el juicio de amparo contra adiciones o reformas a esta Constitución.
 Párrafo reformado DOF 15-09-2024, 31-10-2024
 
 Cuando en los juicios de amparo indirecto en revisión se resuelva la inconstitucionalidad de una norma general, la Suprema Corte de Justicia de la Nación lo informará a la autoridad emisora correspondiente.
@@ -3013,9 +3015,9 @@ Cuando se reclamen actos que tengan o puedan tener como consecuencia privar de l
 En los juicios a que se refiere el párrafo anterior no procederán, en perjuicio de los núcleos ejidales o comunales, o de los ejidatarios o comuneros, el sobreseimiento por inactividad procesal ni la caducidad de la instancia, pero uno y otra sí podrán decretarse en su beneficio. Cuando se reclamen actos que afecten los derechos colectivos del núcleo tampoco procederán desistimiento ni el consentimiento expreso de los propios actos, salvo que el primero sea acordado por la Asamblea General o el segundo emane de ésta;
 Fracción reformada DOF 02-11-1962, 25-10-1967, 20-03-1974, 07-04-1986, 06-06-2011
 
-III. 	Cuando se reclamen actos de tribunales judiciales, administrativos o del trabajo, el amparo sólo procederá en los casos siguientes:
+III.   Cuando se reclamen actos de tribunales judiciales, administrativos o del trabajo, el amparo sólo procederá en los casos siguientes:
 
-a) 	Contra sentencias definitivas, laudos y resoluciones que pongan fin al juicio, ya sea que la violación se cometa en ellos o que, cometida durante el procedimiento, afecte las defensas del quejoso trascendiendo al resultado del fallo. En relación con el amparo al que se refiere este inciso y la fracción V de este artículo, el Tribunal Colegiado de Circuito deberá decidir respecto de todas las violaciones procesales que se hicieron valer y aquéllas que, cuando proceda, advierta en suplencia de la queja, y fijará los términos precisos en que deberá pronunciarse la nueva resolución. Si las violaciones procesales no se invocaron en un primer amparo, ni el Tribunal Colegiado correspondiente las hizo valer de oficio en los casos en que proceda la suplencia de la queja, no podrán ser materia de concepto de violación, ni de estudio oficioso en juicio de amparo posterior.
+a)   Contra sentencias definitivas, laudos y resoluciones que pongan fin al juicio, ya sea que la violación se cometa en ellos o que, cometida durante el procedimiento, afecte las defensas del quejoso trascendiendo al resultado del fallo. En relación con el amparo al que se refiere este inciso y la fracción V de este artículo, el Tribunal Colegiado de Circuito deberá decidir respecto de todas las violaciones procesales que se hicieron valer y aquéllas que, cuando proceda, advierta en suplencia de la queja, y fijará los términos precisos en que deberá pronunciarse la nueva resolución. Si las violaciones procesales no se invocaron en un primer amparo, ni el Tribunal Colegiado correspondiente las hizo valer de oficio en los casos en que proceda la suplencia de la queja, no podrán ser materia de concepto de violación, ni de estudio oficioso en juicio de amparo posterior.
 
 La parte que haya obtenido sentencia favorable y la que tenga interés jurídico en que subsista el acto reclamado, podrá presentar amparo en forma adhesiva al que promueva cualquiera de las partes que intervinieron en el juicio del que emana el acto reclamado. La ley determinará la forma y términos en que deberá promoverse.
 
@@ -3024,48 +3026,48 @@ Para la procedencia del juicio deberán agotarse previamente los recursos ordina
 Al reclamarse la sentencia definitiva, laudo o resolución que ponga fin al juicio, deberán hacerse valer las violaciones a las leyes del procedimiento, siempre y cuando el quejoso las haya impugnado durante la tramitación del juicio mediante el recurso o medio de defensa que, en su caso, señale la ley ordinaria respectiva. Este requisito no será exigible en amparos contra actos que afecten derechos de menores o incapaces, al estado civil, o al orden o estabilidad de la familia, ni en los de naturaleza penal promovidos por el sentenciado;
 Inciso reformado DOF 10-08-1987, 06-06-2011
 
-b) 	Contra actos en juicio cuya ejecución sea de imposible reparación, fuera de juicio o después de concluido, una vez agotados los recursos que en su caso procedan, y
+b)   Contra actos en juicio cuya ejecución sea de imposible reparación, fuera de juicio o después de concluido, una vez agotados los recursos que en su caso procedan, y
 
-c) 	Contra actos que afecten a personas extrañas al juicio;
+c)   Contra actos que afecten a personas extrañas al juicio;
 Fracción reformada DOF 25-10-1967
 
-IV. 	En materia administrativa el amparo procede, además, contra actos u omisiones que provengan de autoridades distintas de los tribunales judiciales, administrativos o del trabajo, y que causen agravio no reparable mediante algún medio de defensa legal. Será necesario agotar estos medios de defensa siempre que conforme a las mismas leyes se suspendan los efectos de dichos actos de oficio o mediante la interposición del juicio, recurso o medio de defensa legal que haga valer el agraviado, con los mismos alcances que los que prevé la ley reglamentaria y sin exigir mayores requisitos que los que la misma consigna para conceder la suspensión definitiva, ni plazo mayor que el que establece para el otorgamiento de la suspensión provisional, independientemente de que el acto en sí mismo considerado sea o no susceptible de ser suspendido de acuerdo con dicha ley.
+IV.   En materia administrativa el amparo procede, además, contra actos u omisiones que provengan de autoridades distintas de los tribunales judiciales, administrativos o del trabajo, y que causen agravio no reparable mediante algún medio de defensa legal. Será necesario agotar estos medios de defensa siempre que conforme a las mismas leyes se suspendan los efectos de dichos actos de oficio o mediante la interposición del juicio, recurso o medio de defensa legal que haga valer el agraviado, con los mismos alcances que los que prevé la ley reglamentaria y sin exigir mayores requisitos que los que la misma consigna para conceder la suspensión definitiva, ni plazo mayor que el que establece para el otorgamiento de la suspensión provisional, independientemente de que el acto en sí mismo considerado sea o no susceptible de ser suspendido de acuerdo con dicha ley.
 
 No existe obligación de agotar tales recursos o medios de defensa si el acto reclamado carece de fundamentación o cuando sólo se aleguen violaciones directas a esta Constitución;
 Fe de erratas a la fracción DOF 14-03-1951. Fracción reformada DOF 25-10-1967, 06-06-2011
 
-V. 	El amparo contra sentencias definitivas, laudos o resoluciones que pongan fin al juicio se promoverá ante el Tribunal Colegiado de Circuito competente de conformidad con la ley, en los casos siguientes:
+V.   El amparo contra sentencias definitivas, laudos o resoluciones que pongan fin al juicio se promoverá ante el Tribunal Colegiado de Circuito competente de conformidad con la ley, en los casos siguientes:
 Párrafo reformado DOF 10-08-1987, 06-06-2011
 
-a) 	En materia penal, contra resoluciones definitivas dictadas por tribunales judiciales, sean éstos federales, del orden común o militares.
+a)   En materia penal, contra resoluciones definitivas dictadas por tribunales judiciales, sean éstos federales, del orden común o militares.
 
-b) 	En materia administrativa, cuando se reclamen por particulares sentencias definitivas y resoluciones que ponen fin al juicio dictadas por tribunales administrativos o judiciales, no reparables por algún recurso, juicio o medio ordinario de defensa legal;
+b)   En materia administrativa, cuando se reclamen por particulares sentencias definitivas y resoluciones que ponen fin al juicio dictadas por tribunales administrativos o judiciales, no reparables por algún recurso, juicio o medio ordinario de defensa legal;
 Inciso reformado DOF 10-08-1987
 
-c) 	En materia civil, cuando se reclamen sentencias definitivas dictadas en juicios del orden federal o en juicios mercantiles, sea federal o local la autoridad que dicte el fallo, o en juicios del orden común.
+c)   En materia civil, cuando se reclamen sentencias definitivas dictadas en juicios del orden federal o en juicios mercantiles, sea federal o local la autoridad que dicte el fallo, o en juicios del orden común.
 
 En los juicios civiles del orden federal las sentencias podrán ser reclamadas en amparo por cualquiera de las partes, incluso por la Federación, en defensa de sus intereses patrimoniales, y
 
-d) 	En materia laboral, cuando se reclamen resoluciones o sentencias definitivas que pongan fin al juicio dictadas por los tribunales laborales locales o federales o laudos del Tribunal Federal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y sus homólogos en las entidades federativas;
+d)   En materia laboral, cuando se reclamen resoluciones o sentencias definitivas que pongan fin al juicio dictadas por los tribunales laborales locales o federales o laudos del Tribunal Federal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y sus homólogos en las entidades federativas;
 Inciso reformado DOF 24-02-2017
 
 La Suprema Corte de Justicia, de oficio o a petición fundada del correspondiente Tribunal Colegiado de Circuito, del Fiscal General de la República, en los asuntos en que el Ministerio Público de la Federación sea parte, o del Ejecutivo Federal, por conducto del Consejero Jurídico del Gobierno, podrá conocer de los amparos directos que por su interés y trascendencia así lo ameriten.
 Párrafo adicionado DOF 10-08-1987. Reformado DOF 31-12-1994, 10-02-2014
 Fracción reformada DOF 25-10-1967, 06-08-1979
 
-VI. 	En los casos a que se refiere la fracción anterior, la ley reglamentaria señalará el procedimiento y los términos a que deberán someterse los Tribunales Colegiados de Circuito y, en su caso, la Suprema Corte de Justicia de la Nación para dictar sus resoluciones;
+VI.   En los casos a que se refiere la fracción anterior, la ley reglamentaria señalará el procedimiento y los términos a que deberán someterse los Tribunales Colegiados de Circuito y, en su caso, la Suprema Corte de Justicia de la Nación para dictar sus resoluciones;
 Fracción reformada DOF 25-10-1967, 06-08-1979, 10-08-1987, 06-06-2011
 
-VII. 	El amparo contra actos u omisiones en juicio, fuera de juicio o después de concluido, o que afecten a personas extrañas al juicio, contra normas generales o contra actos u omisiones de autoridad administrativa, se interpondrá ante el Juez de Distrito bajo cuya jurisdicción se encuentre el lugar en que el acto reclamado se ejecute o trate de ejecutarse, y su tramitación se limitará al informe de la autoridad, a una audiencia para la que se citará en el mismo auto en el que se mande pedir el informe y se recibirán las pruebas que las partes interesadas ofrezcan y oirán los alegatos, pronunciándose en la misma audiencia la sentencia;
+VII.   El amparo contra actos u omisiones en juicio, fuera de juicio o después de concluido, o que afecten a personas extrañas al juicio, contra normas generales o contra actos u omisiones de autoridad administrativa, se interpondrá ante el Juez de Distrito bajo cuya jurisdicción se encuentre el lugar en que el acto reclamado se ejecute o trate de ejecutarse, y su tramitación se limitará al informe de la autoridad, a una audiencia para la que se citará en el mismo auto en el que se mande pedir el informe y se recibirán las pruebas que las partes interesadas ofrezcan y oirán los alegatos, pronunciándose en la misma audiencia la sentencia;
 Fe de erratas a la fracción DOF 14-03-1951. Fracción reformada DOF 25-10-1967, 06-06-2011
 
-VIII.	Contra las sentencias que pronuncien en amparo las Juezas y los Jueces de Distrito o los Tribunales Colegiados de Apelación procede revisión. De ella conocerá la Suprema Corte de Justicia:
+VIII.  Contra las sentencias que pronuncien en amparo las Juezas y los Jueces de Distrito o los Tribunales Colegiados de Apelación procede revisión. De ella conocerá la Suprema Corte de Justicia:
 Párrafo reformado DOF 31-12-1994, 11-03-2021
 
-a) 	Cuando habiéndose impugnado en la demanda de amparo normas generales por estimarlas directamente violatorias de esta Constitución, subsista en el recurso el problema de constitucionalidad.
+a)   Cuando habiéndose impugnado en la demanda de amparo normas generales por estimarlas directamente violatorias de esta Constitución, subsista en el recurso el problema de constitucionalidad.
 Inciso reformado DOF 25-10-1993, 06-06-2011
 
-b) 	Cuando se trate de los casos comprendidos en las fracciones II y III del artículo 103 de esta Constitución.
+b)   Cuando se trate de los casos comprendidos en las fracciones II y III del artículo 103 de esta Constitución.
 
 La Suprema Corte de Justicia, de oficio o a petición fundada del correspondiente Tribunal Colegiado de Circuito, del Fiscal General de la República, en los asuntos en que el Ministerio Público de la Federación sea parte, o del Ejecutivo Federal, por conducto del Consejero Jurídico del Gobierno, podrá conocer de los amparos en revisión, que por su interés y trascendencia así lo ameriten.
 Párrafo reformado DOF 31-12-1994, 10-02-2014
@@ -3073,24 +3075,24 @@ Párrafo reformado DOF 31-12-1994, 10-02-2014
 En los casos no previstos en los párrafos anteriores, conocerán de la revisión los tribunales colegiados de circuito y sus sentencias no admitirán recurso alguno;
 Fe de erratas a la fracción DOF 14-03-1951. Fracción reformada DOF 25-10-1967, 08-10-1974, 10-08-1987
 
-IX.	En materia de amparo directo procede el recurso de revisión en contra de las sentencias que resuelvan sobre la constitucionalidad de normas generales, establezcan la interpretación directa de un precepto de esta Constitución u omitan decidir sobre tales cuestiones cuando hubieren sido planteadas, siempre que a juicio de la Suprema Corte de Justicia de la Nación el asunto revista un interés excepcional en materia constitucional o de derechos humanos. La materia del recurso se limitará a la decisión de las cuestiones propiamente constitucionales, sin poder comprender otras. En contra del auto que deseche el recurso no procederá medio de impugnación alguno;
+IX.  En materia de amparo directo procede el recurso de revisión en contra de las sentencias que resuelvan sobre la constitucionalidad de normas generales, establezcan la interpretación directa de un precepto de esta Constitución u omitan decidir sobre tales cuestiones cuando hubieren sido planteadas, siempre que a juicio de la Suprema Corte de Justicia de la Nación el asunto revista un interés excepcional en materia constitucional o de derechos humanos. La materia del recurso se limitará a la decisión de las cuestiones propiamente constitucionales, sin poder comprender otras. En contra del auto que deseche el recurso no procederá medio de impugnación alguno;
 Fracción reformada DOF 25-10-1967, 10-08-1987, 11-06-1999, 06-06-2011, 11-03-2021
 
-X. 	Los actos reclamados podrán ser objeto de suspensión en los casos y mediante las condiciones que determine la ley reglamentaria, para lo cual el órgano jurisdiccional de amparo, cuando la naturaleza del acto lo permita, deberá realizar un análisis ponderado de la apariencia del buen derecho y del interés social. Tratándose de juicios de amparo en los que se reclame la inconstitucionalidad de normas generales, en ningún caso la suspensión podrá concederse con efectos generales.
+X.   Los actos reclamados podrán ser objeto de suspensión en los casos y mediante las condiciones que determine la ley reglamentaria, para lo cual el órgano jurisdiccional de amparo, cuando la naturaleza del acto lo permita, deberá realizar un análisis ponderado de la apariencia del buen derecho y del interés social. Tratándose de juicios de amparo en los que se reclame la inconstitucionalidad de normas generales, en ningún caso la suspensión podrá concederse con efectos generales.
 Párrafo reformado DOF 15-09-2024
 
 Dicha suspensión deberá otorgarse respecto de las sentencias definitivas en materia penal al comunicarse la promoción del amparo, y en las materias civil, mercantil y administrativa, mediante garantía que dé el quejoso para responder de los daños y perjuicios que tal suspensión pudiere ocasionar al tercero interesado. La suspensión quedará sin efecto si éste último da contragarantía para asegurar la reposición de las cosas al estado que guardaban si se concediese el amparo y a pagar los daños y perjuicios consiguientes;
 Fe de erratas a la fracción DOF 14-03-1951. Fracción reformada DOF 25-10-1967, 06-06-2011
 
-XI. 	La demanda de amparo directo se presentará ante la autoridad responsable, la cual decidirá sobre la suspensión. En los demás casos, la demanda se presentará ante los Juzgados de Distrito o los Tribunales Colegiados de Apelación los cuales resolverán sobre la suspensión, o ante los tribunales de las entidades federativas en los casos que la ley lo autorice;
+XI.   La demanda de amparo directo se presentará ante la autoridad responsable, la cual decidirá sobre la suspensión. En los demás casos, la demanda se presentará ante los Juzgados de Distrito o los Tribunales Colegiados de Apelación los cuales resolverán sobre la suspensión, o ante los tribunales de las entidades federativas en los casos que la ley lo autorice;
 Fracción reformada DOF 25-10-1967, 10-08-1987, 31-12-1994, 06-06-2011, 29-01-2016, 11-03-2021
 
-XII.	La violación de las garantías de los artículos 16, en materia penal, 19 y 20 se reclamará ante el superior del tribunal que la cometa, o ante el Juzgado de Distrito o Tribunal Colegiado de Apelación que corresponda, pudiéndose recurrir, en uno y otro caso, las resoluciones que se pronuncien, en los términos prescritos por la fracción VIII.
+XII.  La violación de las garantías de los artículos 16, en materia penal, 19 y 20 se reclamará ante el superior del tribunal que la cometa, o ante el Juzgado de Distrito o Tribunal Colegiado de Apelación que corresponda, pudiéndose recurrir, en uno y otro caso, las resoluciones que se pronuncien, en los términos prescritos por la fracción VIII.
 
 Si el Juzgado de Distrito o el Tribunal Colegiado de Apelación no residieren en el mismo lugar en que reside la autoridad responsable, la ley determinará el juzgado o tribunal ante el que se ha de presentar el escrito de amparo, el que podrá suspender provisionalmente el acto reclamado, en los casos y términos que la misma ley establezca.
 Fe de erratas a la fracción DOF 14-03-1951. Fracción reformada DOF 25-10-1967, 31-12-1994, 11-03-2021
 
-XIII.	Cuando los Tribunales Colegiados de Circuito de la misma región sustenten criterios contradictorios en los juicios de amparo de su competencia, el o la Fiscal General de la República, en asuntos en materia penal y procesal penal, así como los relacionados con el ámbito de sus funciones, los mencionados tribunales y sus integrantes, las y los Jueces de Distrito, las partes en los asuntos que los motivaron o el Ejecutivo Federal, por conducto de la o el Consejero Jurídico del Gobierno podrán denunciar la contradicción ante el Pleno Regional correspondiente, a fin de que decida el criterio que debe prevalecer como precedente.
+XIII.  Cuando los Tribunales Colegiados de Circuito de la misma región sustenten criterios contradictorios en los juicios de amparo de su competencia, el o la Fiscal General de la República, en asuntos en materia penal y procesal penal, así como los relacionados con el ámbito de sus funciones, los mencionados tribunales y sus integrantes, las y los Jueces de Distrito, las partes en los asuntos que los motivaron o el Ejecutivo Federal, por conducto de la o el Consejero Jurídico del Gobierno podrán denunciar la contradicción ante el Pleno Regional correspondiente, a fin de que decida el criterio que debe prevalecer como precedente.
 
 Cuando los Plenos Regionales sustenten criterios contradictorios al resolver las contradicciones o los asuntos de su competencia, según corresponda, las Ministras y los Ministros de la Suprema Corte de Justicia de la Nación, los mismos Plenos Regionales, así como los órganos a que se refiere el párrafo anterior podrán denunciar la contradicción ante la Suprema Corte de Justicia, con el objeto de que el Pleno decida el criterio que deberá prevalecer.
 Párrafo reformado DOF 15-09-2024
@@ -3102,13 +3104,13 @@ Las resoluciones que pronuncie el Pleno de la Suprema Corte de Justicia así com
 Párrafo reformado DOF 15-09-2024
 Fe de erratas a la fracción DOF 14-03-1951. Reformada DOF 25-10-1967, 31-12-1994, 06-06-2011, 10-02-2014, 11-03-2021
 
-XIV. 	Se deroga;
+XIV.   Se deroga;
 Fracción reformada DOF 25-10-1967, 17-02-1975. Derogada DOF 06-06-2011
 
-XV. 	El Fiscal General de la República o el Agente del Ministerio Público de la Federación que al efecto designe, será parte en todos los juicios de amparo en los que el acto reclamado provenga de procedimientos del orden penal y aquéllos que determine la ley;
+XV.   El Fiscal General de la República o el Agente del Ministerio Público de la Federación que al efecto designe, será parte en todos los juicios de amparo en los que el acto reclamado provenga de procedimientos del orden penal y aquéllos que determine la ley;
 Fracción reformada DOF 10-02-2014
 
-XVI. 	Si la autoridad incumple la sentencia que concedió el amparo, pero dicho incumplimiento es justificado, la Suprema Corte de Justicia de la Nación, de acuerdo con el procedimiento previsto por la ley reglamentaria, otorgará un plazo razonable para que proceda a su cumplimiento, plazo que podrá ampliarse a solicitud de la autoridad. Cuando sea injustificado o hubiera transcurrido el plazo sin que se hubiese cumplido, procederá a separar de su cargo al titular de la autoridad responsable y a consignarlo ante el Juez de Distrito. Las mismas providencias se tomarán respecto del superior jerárquico de la autoridad responsable si hubiese incurrido en responsabilidad, así como de los titulares que, habiendo ocupado con anterioridad el cargo de la autoridad responsable, hubieran incumplido la ejecutoria.
+XVI.   Si la autoridad incumple la sentencia que concedió el amparo, pero dicho incumplimiento es justificado, la Suprema Corte de Justicia de la Nación, de acuerdo con el procedimiento previsto por la ley reglamentaria, otorgará un plazo razonable para que proceda a su cumplimiento, plazo que podrá ampliarse a solicitud de la autoridad. Cuando sea injustificado o hubiera transcurrido el plazo sin que se hubiese cumplido, procederá a separar de su cargo al titular de la autoridad responsable y a consignarlo ante el Juez de Distrito. Las mismas providencias se tomarán respecto del superior jerárquico de la autoridad responsable si hubiese incurrido en responsabilidad, así como de los titulares que, habiendo ocupado con anterioridad el cargo de la autoridad responsable, hubieran incumplido la ejecutoria.
 
 Si concedido el amparo, se repitiera el acto reclamado, la Suprema Corte de Justicia de la Nación, de acuerdo con el procedimiento establecido por la ley reglamentaria, procederá a separar de su cargo al titular de la autoridad responsable, y dará vista al Ministerio Público Federal, salvo que no hubiera actuado dolosamente y deje sin efectos el acto repetido antes de que sea emitida la resolución de la Suprema Corte de Justicia de la Nación.
 
@@ -3118,7 +3120,7 @@ Párrafo reformado DOF 11-03-2021
 No podrá archivarse juicio de amparo alguno, sin que se haya cumplido la sentencia que concedió la protección constitucional;
 Fracción reformada DOF 31-12-1994, 06-06-2011
 
-XVII. 	La autoridad responsable que desobedezca un auto de suspensión o que, ante tal medida, admita por mala fe o negligencia fianza o contrafianza que resulte ilusoria o insuficiente, será sancionada penalmente;
+XVII.   La autoridad responsable que desobedezca un auto de suspensión o que, ante tal medida, admita por mala fe o negligencia fianza o contrafianza que resulte ilusoria o insuficiente, será sancionada penalmente;
 Fracción reformada DOF 06-06-2011
 
 XVIII. Se deroga.
@@ -3147,15 +3149,15 @@ Artículo reformado DOF 28-12-1982
 
 Artículo 109. Los servidores públicos y particulares que incurran en responsabilidad frente al Estado, serán sancionados conforme a lo siguiente:
 
-I. 	Se impondrán, mediante juicio político, las sanciones indicadas en el artículo 110 a los servidores públicos señalados en el mismo precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+I.   Se impondrán, mediante juicio político, las sanciones indicadas en el artículo 110 a los servidores públicos señalados en el mismo precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
 No procede el juicio político por la mera expresión de ideas.
 
-II. 	La comisión de delitos por parte de cualquier servidor público o particulares que incurran en hechos de corrupción, será sancionada en los términos de la legislación penal aplicable.
+II.   La comisión de delitos por parte de cualquier servidor público o particulares que incurran en hechos de corrupción, será sancionada en los términos de la legislación penal aplicable.
 
 Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan;
 
-III. 	Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones. Dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones. La ley establecerá los procedimientos para la investigación y sanción de dichos actos u omisiones.
+III.   Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones. Dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones. La ley establecerá los procedimientos para la investigación y sanción de dichos actos u omisiones.
 
 Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior de la Federación y los órganos internos de control, o por sus homólogos en las entidades federativas, según corresponda, y serán resueltas por el Tribunal de Justicia Administrativa que resulte competente. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
 
@@ -3167,7 +3169,7 @@ Los entes públicos federales tendrán órganos internos de control con las facu
 
 Los entes públicos estatales y municipales, así como del Distrito Federal y sus demarcaciones territoriales, contarán con órganos internos de control, que tendrán, en su ámbito de competencia local, las atribuciones a que se refiere el párrafo anterior, y
 
-IV. 	Los tribunales de justicia administrativa impondrán a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos federales, locales o municipales. Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos, federales, locales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
+IV.   Los tribunales de justicia administrativa impondrán a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos federales, locales o municipales. Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos, federales, locales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
 
 Los procedimientos para la aplicación de las sanciones mencionadas en las fracciones anteriores se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
@@ -3226,24 +3228,24 @@ Artículo reformado DOF 28-12-1982
 
 Artículo 113. El Sistema Nacional Anticorrupción es la instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-I. 	El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior de la Federación; de la Fiscalía Especializada en Combate a la Corrupción; de la secretaría del Ejecutivo Federal responsable del control interno; por el presidente del Tribunal Federal de Justicia Administrativa; así como por un representante del Tribunal de Disciplina Judicial y otro del Comité de Participación Ciudadana;
+I.   El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior de la Federación; de la Fiscalía Especializada en Combate a la Corrupción; de la secretaría del Ejecutivo Federal responsable del control interno; por el presidente del Tribunal Federal de Justicia Administrativa; así como por un representante del Tribunal de Disciplina Judicial y otro del Comité de Participación Ciudadana;
 Fracción reformada DOF 15-09-2024, 20-12-2024
 
-II. 	El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley, y
+II.   El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley, y
 
-III. 	Corresponderá al Comité Coordinador del Sistema, en los términos que determine la Ley:
+III.   Corresponderá al Comité Coordinador del Sistema, en los términos que determine la Ley:
 
-a)	El establecimiento de mecanismos de coordinación con los sistemas locales;
+a)  El establecimiento de mecanismos de coordinación con los sistemas locales;
 
-b)	El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
+b)  El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
 
-c)	La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes de los órdenes de gobierno;
+c)  La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes de los órdenes de gobierno;
 
-d)	El establecimiento de bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos;
+d)  El establecimiento de bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos;
 
-e)	La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+e)  La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
 
-	Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
+  Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
 
 Las entidades federativas establecerán sistemas locales anticorrupción con el objeto de coordinar a las autoridades locales competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción.
 Artículo reformado DOF 28-12-1982, 14-06-2002, 27-05-2015
@@ -3263,7 +3265,7 @@ Denominación del Título reformada DOF 25-10-1993, 29-01-2016
 Artículo 115. Los estados adoptarán, para su régimen interior, la forma de gobierno republicano, representativo, democrático, laico y popular, teniendo como base de su división territorial y de su organización política y administrativa, el municipio libre, conforme a las bases siguientes:
 Párrafo reformado DOF 10-02-2014
 
-I. 	Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal y el número de regidurías y sindicaturas que la ley determine, de conformidad con el principio de paridad. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
+I.   Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal y el número de regidurías y sindicaturas que la ley determine, de conformidad con el principio de paridad. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
 Párrafo reformado DOF 23-12-1999, 06-06-2019
 
 Las Constituciones de los estados deberán establecer la elección consecutiva para el mismo cargo de presidentes municipales, regidores y síndicos, por un período adicional, siempre y cuando el periodo del mandato de los ayuntamientos no sea superior a tres años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
@@ -3277,51 +3279,51 @@ Párrafo reformado DOF 23-12-1999
 En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, las legislaturas de los Estados designarán de entre los vecinos a los Concejos Municipales que concluirán los períodos respectivos; estos Concejos estarán integrados por el número de miembros que determine la ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores;
 Párrafo reformado DOF 23-12-1999
 
-II. 	Los municipios estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la ley.
+II.   Los municipios estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la ley.
 
 Los ayuntamientos tendrán facultades para aprobar, de acuerdo con las leyes en materia municipal que deberán expedir las legislaturas de los Estados, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
 Párrafo reformado DOF 23-12-1999
 
 El objeto de las leyes a que se refiere el párrafo anterior será establecer:
 
-a) 	Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;
+a)   Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;
 
-b) 	Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento;
+b)   Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento;
 
-c) 	Las normas de aplicación general para celebrar los convenios a que se refieren tanto las fracciones III y IV de este artículo, como el segundo párrafo de la fracción VII del artículo 116 de esta Constitución;
+c)   Las normas de aplicación general para celebrar los convenios a que se refieren tanto las fracciones III y IV de este artículo, como el segundo párrafo de la fracción VII del artículo 116 de esta Constitución;
 
-d) 	El procedimiento y condiciones para que el gobierno estatal asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, la legislatura estatal considere que el municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes; y
+d)   El procedimiento y condiciones para que el gobierno estatal asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, la legislatura estatal considere que el municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes; y
 
-e) 	Las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes.
+e)   Las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes.
 Párrafo con incisos adicionado DOF 23-12-1999
 
 Las legislaturas estatales emitirán las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los municipios y el gobierno del estado, o entre aquéllos, con motivo de los actos derivados de los incisos c) y d) anteriores;
 Párrafo adicionado DOF 23-12-1999
 
-III. 	Los Municipios tendrán a su cargo las funciones y servicios públicos siguientes:
+III.   Los Municipios tendrán a su cargo las funciones y servicios públicos siguientes:
 Párrafo reformado DOF 23-12-1999
 
-a) 	Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
+a)   Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
 Inciso reformado DOF 23-12-1999
 
-b) 	Alumbrado público.
+b)   Alumbrado público.
 
-c) 	Limpia, recolección, traslado, tratamiento y disposición final de residuos;
+c)   Limpia, recolección, traslado, tratamiento y disposición final de residuos;
 Inciso reformado DOF 23-12-1999
 
-d) 	Mercados y centrales de abasto.
+d)   Mercados y centrales de abasto.
 
-e) 	Panteones.
+e)   Panteones.
 
-f) 	Rastro.
+f)   Rastro.
 
-g) 	Calles, parques y jardines y su equipamiento;
+g)   Calles, parques y jardines y su equipamiento;
 Inciso reformado DOF 23-12-1999
 
-h) 	Seguridad pública, en los términos del artículo 21 de esta Constitución, policía preventiva municipal y tránsito; e
+h)   Seguridad pública, en los términos del artículo 21 de esta Constitución, policía preventiva municipal y tránsito; e
 Inciso reformado DOF 23-12-1999
 
-i) 	Los demás que las Legislaturas locales determinen según las condiciones territoriales y socio-económicas de los Municipios, así como su capacidad administrativa y financiera.
+i)   Los demás que las Legislaturas locales determinen según las condiciones territoriales y socio-económicas de los Municipios, así como su capacidad administrativa y financiera.
 
 Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios a su cargo, los municipios observarán lo dispuesto por las leyes federales y estatales.
 Párrafo reformado DOF 23-12-1999
@@ -3332,15 +3334,15 @@ Párrafo adicionado DOF 23-12-1999
 Las comunidades indígenas, dentro del ámbito municipal, podrán coordinarse y asociarse en los términos y para los efectos que prevenga la ley.
 Párrafo adicionado DOF 14-08-2001
 
-IV. 	Los municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que las legislaturas establezcan a su favor, y en todo caso:
+IV.   Los municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que las legislaturas establezcan a su favor, y en todo caso:
 
-a) 	Percibirán las contribuciones, incluyendo tasas adicionales, que establezcan los Estados sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora así como las que tengan por base el cambio de valor de los inmuebles.
+a)   Percibirán las contribuciones, incluyendo tasas adicionales, que establezcan los Estados sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora así como las que tengan por base el cambio de valor de los inmuebles.
 
 Los municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
 
-b) 	Las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determinen por las Legislaturas de los Estados.
+b)   Las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determinen por las Legislaturas de los Estados.
 
-c) 	Los ingresos derivados de la prestación de servicios públicos a su cargo.
+c)   Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
 Las leyes federales no limitarán la facultad de los Estados para establecer las contribuciones a que se refieren los incisos a) y c), ni concederán exenciones en relación con las mismas. Las leyes estatales no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la Federación, de las entidades federativas o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 Párrafo reformado DOF 23-12-1999, 29-01-2016
@@ -3354,49 +3356,49 @@ Párrafo adicionado DOF 23-12-1999. Reformado DOF 24-08-2009
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o bien, por quien ellos autoricen, conforme a la ley;
 Párrafo adicionado DOF 23-12-1999
 
-V. 	Los Municipios, en los términos de las leyes federales y Estatales relativas, estarán facultados para:
+V.   Los Municipios, en los términos de las leyes federales y Estatales relativas, estarán facultados para:
 
-a) 	Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como los planes en materia de movilidad y seguridad vial;
+a)   Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como los planes en materia de movilidad y seguridad vial;
 Inciso reformado DOF 18-12-2020
 
-b) 	Participar en la creación y administración de sus reservas territoriales;
+b)   Participar en la creación y administración de sus reservas territoriales;
 
-c) 	Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando la Federación o los Estados elaboren proyectos de desarrollo regional deberán asegurar la participación de los municipios;
+c)   Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando la Federación o los Estados elaboren proyectos de desarrollo regional deberán asegurar la participación de los municipios;
 
-d) 	Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales;
+d)   Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales;
 
-e) 	Intervenir en la regularización de la tenencia de la tierra urbana;
+e)   Intervenir en la regularización de la tenencia de la tierra urbana;
 
-f) 	Otorgar licencias y permisos para construcciones;
+f)   Otorgar licencias y permisos para construcciones;
 
-g) 	Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
+g)   Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
 
-h) 	Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial; e
+h)   Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial; e
 
-i) 	Celebrar convenios para la administración y custodia de las zonas federales.
+i)   Celebrar convenios para la administración y custodia de las zonas federales.
 
 En lo conducente y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de esta Constitución, expedirán los reglamentos y disposiciones administrativas que fueren necesarios. Los bienes inmuebles de la Federación ubicados en los Municipios estarán exclusivamente bajo la jurisdicción de los poderes federales, sin perjuicio de los convenios que puedan celebrar en términos del inciso i) de esta fracción;
 Párrafo reformado DOF 29-01-2016
 Fracción reformada DOF 23-12-1999
 
-VI. 	Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas formen o tiendan a formar una continuidad demográfica, la Federación, las entidades federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros, incluyendo criterios para la movilidad y seguridad vial, con apego a las leyes federales de la materia.
+VI.   Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas formen o tiendan a formar una continuidad demográfica, la Federación, las entidades federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros, incluyendo criterios para la movilidad y seguridad vial, con apego a las leyes federales de la materia.
 Fracción reformada DOF 18-12-2020
 
-VII. 	La policía preventiva estará al mando del presidente municipal en los términos de la Ley de Seguridad Pública del Estado. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
+VII.   La policía preventiva estará al mando del presidente municipal en los términos de la Ley de Seguridad Pública del Estado. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 Párrafo reformado DOF 18-06-2008
 
 El Ejecutivo Federal tendrá el mando de la fuerza pública en los lugares donde resida habitual o transitoriamente;
 Fracción reformada DOF 23-12-1999
 
-VIII. 	Las leyes de los estados introducirán el principio de la representación proporcional en la elección de los ayuntamientos de todos los municipios.
+VIII.   Las leyes de los estados introducirán el principio de la representación proporcional en la elección de los ayuntamientos de todos los municipios.
 
 Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán por las leyes que expidan las legislaturas de los estados con base en lo dispuesto en el Artículo 123 de esta Constitución, y sus disposiciones reglamentarias.
 Fracción reformada DOF 17-03-1987
 
-IX. 	Derogada.
+IX.   Derogada.
 Fracción derogada DOF 17-03-1987
 
-X. 	Derogada.
+X.   Derogada.
 Fracción derogada DOF 17-03-1987
 Artículo reformado DOF 20-08-1928, 29-04-1933, 08-01-1943, 12-02-1947, 17-10-1953, 06-02-1976, 06-12-1977, 03-02-1983
 
@@ -3404,7 +3406,7 @@ Artículo 116. El poder público de los estados se dividirá, para su ejercicio,
 
 Los poderes de los Estados se organizarán conforme a la Constitución de cada uno de ellos, con sujeción a las siguientes normas:
 
-I.	Los gobernadores de los Estados no podrán durar en su encargo más de seis años y su mandato podrá ser revocado. Las Constituciones de los Estados establecerán las normas relativas a los procesos de revocación de mandato del gobernador de la entidad.
+I.  Los gobernadores de los Estados no podrán durar en su encargo más de seis años y su mandato podrá ser revocado. Las Constituciones de los Estados establecerán las normas relativas a los procesos de revocación de mandato del gobernador de la entidad.
 Párrafo reformado DOF 20-12-2019
 
 La elección de los gobernadores de los Estados y de las Legislaturas Locales será directa y en los términos que dispongan las leyes electorales respectivas.
@@ -3413,15 +3415,15 @@ Los gobernadores de los Estados, cuyo origen sea la elección popular, ordinaria
 
 Nunca podrán ser electos para el período inmediato:
 
-a) 	El gobernador sustituto constitucional, o el designado para concluir el período en caso de falta absoluta del constitucional, aun cuando tenga distinta denominación;
+a)   El gobernador sustituto constitucional, o el designado para concluir el período en caso de falta absoluta del constitucional, aun cuando tenga distinta denominación;
 
-b) 	El gobernador interino, el provisional o el ciudadano que, bajo cualquier denominación, supla las faltas temporales del gobernador, siempre que desempeñe el cargo los dos últimos años del periodo.
+b)   El gobernador interino, el provisional o el ciudadano que, bajo cualquier denominación, supla las faltas temporales del gobernador, siempre que desempeñe el cargo los dos últimos años del periodo.
 Inciso reformado DOF 26-09-2008
 
 Sólo podrá ser gobernador constitucional de un Estado un ciudadano mexicano por nacimiento y nativo de él, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de los comicios, y tener 30 años cumplidos el día de la elección, o menos, si así lo establece la Constitución Política de la Entidad Federativa.
 Párrafo reformado DOF 26-09-2008
 
-II. 	El número de representantes en las legislaturas de los Estados será proporcional al de habitantes de cada uno; pero, en todo caso, no podrá ser menor de siete diputados en los Estados cuya población no llegue a 400 mil habitantes; de nueve, en aquellos cuya población exceda de este número y no llegue a 800 mil habitantes, y de 11 en los Estados cuya población sea superior a esta última cifra.
+II.   El número de representantes en las legislaturas de los Estados será proporcional al de habitantes de cada uno; pero, en todo caso, no podrá ser menor de siete diputados en los Estados cuya población no llegue a 400 mil habitantes; de nueve, en aquellos cuya población exceda de este número y no llegue a 800 mil habitantes, y de 11 en los Estados cuya población sea superior a esta última cifra.
 
 Las Constituciones estatales deberán establecer la elección consecutiva de los diputados a las legislaturas de los Estados, hasta por cuatro periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 Párrafo reformado DOF 10-02-2014
@@ -3447,7 +3449,7 @@ Párrafo adicionado DOF 27-05-2015
 Las Legislaturas de los Estados regularán los términos para que los ciudadanos puedan presentar iniciativas de ley ante el respectivo Congreso.
 Párrafo adicionado DOF 09-08-2012
 
-III. 	El Poder Judicial de los Estados se ejercerá por los tribunales que establezcan las Constituciones respectivas.
+III.   El Poder Judicial de los Estados se ejercerá por los tribunales que establezcan las Constituciones respectivas.
 
 La independencia de las magistradas y los magistrados y juezas y jueces en el ejercicio de sus funciones deberá estar garantizada por las Constituciones y las Leyes Orgánicas de los Estados, las cuales establecerán las condiciones para su elección por voto directo y secreto de la ciudadanía; la creación de un Tribunal de Disciplina Judicial y de un órgano de administración judicial con independencia técnica, de gestión y para emitir sus resoluciones, conforme a las bases establecidas en esta Constitución para el Poder Judicial de la Federación; así como del ingreso, formación y permanencia de quienes sirvan a los Poderes Judiciales de los Estados.
 Párrafo reformado DOF 15-09-2024
@@ -3465,92 +3467,92 @@ Las magistradas y los magistrados y las juezas y los jueces percibirán una remu
 Párrafo reformado DOF 15-09-2024
 Reforma DOF 31-12-1994: Derogó de la fracción el entonces párrafo quinto
 
-IV. 	De conformidad con las bases establecidas en esta Constitución y las leyes generales en la materia, las Constituciones y leyes de los Estados en materia electoral, garantizarán que:
+IV.   De conformidad con las bases establecidas en esta Constitución y las leyes generales en la materia, las Constituciones y leyes de los Estados en materia electoral, garantizarán que:
 Párrafo reformado DOF 10-02-2014
 
-a)	Las elecciones de los gobernadores, de los miembros de las legislaturas locales y de los integrantes de los ayuntamientos se realicen mediante sufragio universal, libre, secreto y directo; y que la jornada comicial tenga lugar el primer domingo de junio del año que corresponda. Los Estados cuyas jornadas electorales se celebren en el año de los comicios federales y no coincidan en la misma fecha de la jornada federal, no estarán obligados por esta última disposición;
+a)  Las elecciones de los gobernadores, de los miembros de las legislaturas locales y de los integrantes de los ayuntamientos se realicen mediante sufragio universal, libre, secreto y directo; y que la jornada comicial tenga lugar el primer domingo de junio del año que corresponda. Los Estados cuyas jornadas electorales se celebren en el año de los comicios federales y no coincidan en la misma fecha de la jornada federal, no estarán obligados por esta última disposición;
 Inciso reformado DOF 10-02-2014
 
-b)	En el ejercicio de la función electoral, a cargo de las autoridades electorales, sean principios rectores los de certeza, imparcialidad, independencia, legalidad, máxima publicidad y objetividad;
+b)  En el ejercicio de la función electoral, a cargo de las autoridades electorales, sean principios rectores los de certeza, imparcialidad, independencia, legalidad, máxima publicidad y objetividad;
 Inciso reformado DOF 10-02-2014
 
-c)	Las autoridades que tengan a su cargo la organización de las elecciones y las jurisdiccionales que resuelvan las controversias en la materia, gocen de autonomía en su funcionamiento, e independencia en sus decisiones, conforme a lo siguiente y lo que determinen las leyes:
+c)  Las autoridades que tengan a su cargo la organización de las elecciones y las jurisdiccionales que resuelvan las controversias en la materia, gocen de autonomía en su funcionamiento, e independencia en sus decisiones, conforme a lo siguiente y lo que determinen las leyes:
 
-1o.	Los organismos públicos locales electorales contarán con un órgano de dirección superior integrado por un consejero Presidente y seis consejeros electorales, con derecho a voz y voto; el Secretario Ejecutivo y los representantes de los partidos políticos concurrirán a las sesiones sólo con derecho a voz; cada partido político contará con un representante en dicho órgano.
+1o.  Los organismos públicos locales electorales contarán con un órgano de dirección superior integrado por un consejero Presidente y seis consejeros electorales, con derecho a voz y voto; el Secretario Ejecutivo y los representantes de los partidos políticos concurrirán a las sesiones sólo con derecho a voz; cada partido político contará con un representante en dicho órgano.
 
-2o.	El consejero Presidente y los consejeros electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la ley. Los consejeros electorales estatales deberán ser originarios de la entidad federativa correspondiente o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la ley. En caso de que ocurra una vacante de consejero electoral estatal, el Consejo General del Instituto Nacional Electoral hará la designación correspondiente en términos de este artículo y la ley. Si la vacante se verifica durante los primeros cuatro años de su encargo, se elegirá un sustituto para concluir el período. Si la falta ocurriese dentro de los últimos tres años, se elegirá a un consejero para un nuevo periodo.
+2o.  El consejero Presidente y los consejeros electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la ley. Los consejeros electorales estatales deberán ser originarios de la entidad federativa correspondiente o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la ley. En caso de que ocurra una vacante de consejero electoral estatal, el Consejo General del Instituto Nacional Electoral hará la designación correspondiente en términos de este artículo y la ley. Si la vacante se verifica durante los primeros cuatro años de su encargo, se elegirá un sustituto para concluir el período. Si la falta ocurriese dentro de los últimos tres años, se elegirá a un consejero para un nuevo periodo.
 
-3o.	Los consejeros electorales estatales tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley.
+3o.  Los consejeros electorales estatales tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley.
 
-4o.	Los consejeros electorales estatales y demás servidores públicos que establezca la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+4o.  Los consejeros electorales estatales y demás servidores públicos que establezca la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
-5o.	Las autoridades electorales jurisdiccionales se integrarán por un número impar de magistrados, quienes serán electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública, en los términos que determine la ley.
+5o.  Las autoridades electorales jurisdiccionales se integrarán por un número impar de magistrados, quienes serán electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública, en los términos que determine la ley.
 
-6o.	Los organismos públicos locales electorales contarán con servidores públicos investidos de fé pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
+6o.  Los organismos públicos locales electorales contarán con servidores públicos investidos de fé pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
 
-7o.	Las impugnaciones en contra de los actos que, conforme a la base V del artículo 41 de esta Constitución, realice el Instituto Nacional Electoral con motivo de los procesos electorales locales, serán resueltas por el Tribunal Electoral del Poder Judicial de la Federación, conforme lo determine la ley.
+7o.  Las impugnaciones en contra de los actos que, conforme a la base V del artículo 41 de esta Constitución, realice el Instituto Nacional Electoral con motivo de los procesos electorales locales, serán resueltas por el Tribunal Electoral del Poder Judicial de la Federación, conforme lo determine la ley.
 Inciso reformado DOF 10-02-2014
 
-d)	Las autoridades electorales competentes de carácter administrativo puedan convenir con el Instituto Nacional Electoral se haga cargo de la organización de los procesos electorales locales;
+d)  Las autoridades electorales competentes de carácter administrativo puedan convenir con el Instituto Nacional Electoral se haga cargo de la organización de los procesos electorales locales;
 Inciso reformado DOF 10-02-2014
 
-e) 	Los partidos políticos sólo se constituyan por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. Asimismo tengan reconocido el derecho para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en el artículo 2°., apartado A, fracciones III y VII, de esta Constitución.
+e)   Los partidos políticos sólo se constituyan por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. Asimismo tengan reconocido el derecho para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en el artículo 2°., apartado A, fracciones III y VII, de esta Constitución.
 Inciso reformado DOF 27-12-2013
 
-f) 	Las autoridades electorales solamente puedan intervenir en los asuntos internos de los partidos en los términos que expresamente señalen;
+f)   Las autoridades electorales solamente puedan intervenir en los asuntos internos de los partidos en los términos que expresamente señalen;
 
 El partido político local que no obtenga, al menos, el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo locales, le será cancelado el registro. Esta disposición no será aplicable para los partidos políticos nacionales que participen en las elecciones locales;
 Párrafo adicionado DOF 10-02-2014
 
-g) 	Los partidos políticos reciban, en forma equitativa, financiamiento público para sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales. Del mismo modo se establezca el procedimiento para la liquidación de los partidos que pierdan su registro y el destino de sus bienes y remanentes;
+g)   Los partidos políticos reciban, en forma equitativa, financiamiento público para sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales. Del mismo modo se establezca el procedimiento para la liquidación de los partidos que pierdan su registro y el destino de sus bienes y remanentes;
 
-h)	Se fijen los criterios para establecer los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones de sus militantes y simpatizantes;
+h)  Se fijen los criterios para establecer los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones de sus militantes y simpatizantes;
 Inciso reformado DOF 10-02-2014
 
-i) 	Los partidos políticos accedan a la radio y la televisión, conforme a las normas establecidas por el apartado B de la base III del artículo 41 de esta Constitución;
+i)   Los partidos políticos accedan a la radio y la televisión, conforme a las normas establecidas por el apartado B de la base III del artículo 41 de esta Constitución;
 
-j)	Se fijen las reglas para las precampañas y las campañas electorales de los partidos políticos, así como las sanciones para quienes las infrinjan. En todo caso, la duración de las campañas será de sesenta a noventa días para la elección de gobernador y de treinta a sesenta días cuando sólo se elijan diputados locales o ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales;
+j)  Se fijen las reglas para las precampañas y las campañas electorales de los partidos políticos, así como las sanciones para quienes las infrinjan. En todo caso, la duración de las campañas será de sesenta a noventa días para la elección de gobernador y de treinta a sesenta días cuando sólo se elijan diputados locales o ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales;
 Inciso reformado DOF 10-02-2014
 
-k)	Se regule el régimen aplicable a la postulación, registro, derechos y obligaciones de los candidatos independientes, garantizando su derecho al financiamiento público y al acceso a la radio y la televisión en los términos establecidos en esta Constitución y en las leyes correspondientes;
+k)  Se regule el régimen aplicable a la postulación, registro, derechos y obligaciones de los candidatos independientes, garantizando su derecho al financiamiento público y al acceso a la radio y la televisión en los términos establecidos en esta Constitución y en las leyes correspondientes;
 Inciso reformado DOF 10-02-2014
 
-l) 	Se establezca un sistema de medios de impugnación para que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad. Igualmente, que se señalen los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación;
+l)   Se establezca un sistema de medios de impugnación para que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad. Igualmente, que se señalen los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación;
 
-m) 	Se fijen las causales de nulidad de las elecciones de gobernador, diputados locales y ayuntamientos, así como los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales, y
+m)   Se fijen las causales de nulidad de las elecciones de gobernador, diputados locales y ayuntamientos, así como los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales, y
 
-n)	Se verifique, al menos, una elección local en la misma fecha en que tenga lugar alguna de las elecciones federales;
+n)  Se verifique, al menos, una elección local en la misma fecha en que tenga lugar alguna de las elecciones federales;
 Inciso adicionado DOF 10-02-2014
 
-o) 	Se tipifiquen los delitos y determinen las faltas en materia electoral, así como las sanciones que por ellos deban imponerse.
+o)   Se tipifiquen los delitos y determinen las faltas en materia electoral, así como las sanciones que por ellos deban imponerse.
 Inciso recorrido DOF 10-02-2014
 
-p) 	Se fijen las bases y requisitos para que en las elecciones los ciudadanos soliciten su registro como candidatos para poder ser votados en forma independiente a todos los cargos de elección popular, en los términos del artículo 35 de esta Constitución.
+p)   Se fijen las bases y requisitos para que en las elecciones los ciudadanos soliciten su registro como candidatos para poder ser votados en forma independiente a todos los cargos de elección popular, en los términos del artículo 35 de esta Constitución.
 Inciso adicionado DOF 27-12-2013. Recorrido DOF 10-02-2014
 Fracción adicionada DOF 22-08-1996. Reformada DOF 13-11-2007
 
-V. 	Las Constituciones y leyes de los Estados deberán instituir Tribunales de Justicia Administrativa, dotados de plena autonomía para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones. Los Tribunales tendrán a su cargo dirimir las controversias que se susciten entre la administración pública local y municipal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos locales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos locales o municipales.
+V.   Las Constituciones y leyes de los Estados deberán instituir Tribunales de Justicia Administrativa, dotados de plena autonomía para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones. Los Tribunales tendrán a su cargo dirimir las controversias que se susciten entre la administración pública local y municipal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos locales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos locales o municipales.
 
 Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial de los Estados, se observará lo previsto en las Constituciones respectivas, sin perjuicio de las atribuciones de las entidades de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos;
 Fracción recorrida y reformada DOF 22-08-1996. Reformada DOF 27-05-2015
 
-VI. 	Las relaciones de trabajo entre los estados y sus trabajadores, se regirán por las leyes que expidan las legislaturas de los estados con base en lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias; y
+VI.   Las relaciones de trabajo entre los estados y sus trabajadores, se regirán por las leyes que expidan las legislaturas de los estados con base en lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias; y
 Fracción recorrida y reformada DOF 22-08-1996
 
-VII. 	La Federación y los Estados, en los términos de ley, podrán convenir la asunción por parte de éstos del ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
+VII.   La Federación y los Estados, en los términos de ley, podrán convenir la asunción por parte de éstos del ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
 
 Los Estados estarán facultados para celebrar esos convenios con sus Municipios, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a las que se refiere el párrafo anterior.
 Fracción recorrida DOF 22-08-1996
 
-VIII.	Las Constituciones de los Estados en términos de la ley general, definirán la competencia de los órganos encargados de la contraloría u homólogos de los poderes ejecutivo, legislativo y judicial y demás sujetos obligados responsables de garantizar el derecho de acceso a la información pública y de protección de datos personales en posesión de los sujetos obligados, conforme a los principios y bases establecidos por el artículo 6o. de esta Constitución y la ley general que emita el Congreso de la Unión para establecer las bases, principios generales y procedimientos del ejercicio de este derecho.
+VIII.  Las Constituciones de los Estados en términos de la ley general, definirán la competencia de los órganos encargados de la contraloría u homólogos de los poderes ejecutivo, legislativo y judicial y demás sujetos obligados responsables de garantizar el derecho de acceso a la información pública y de protección de datos personales en posesión de los sujetos obligados, conforme a los principios y bases establecidos por el artículo 6o. de esta Constitución y la ley general que emita el Congreso de la Unión para establecer las bases, principios generales y procedimientos del ejercicio de este derecho.
 Fracción adicionada DOF 07-02-2014. Reformada DOF 20-12-2024
 
-IX. 	Las Constituciones de los Estados garantizarán que las funciones de procuración de justicia se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo y responsabilidad, así como con perspectiva de género y respeto a los derechos humanos.
+IX.   Las Constituciones de los Estados garantizarán que las funciones de procuración de justicia se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo y responsabilidad, así como con perspectiva de género y respeto a los derechos humanos.
 
 Para proteger el derecho de las mujeres a una vida libre de violencias, las instituciones de procuración de justicia deberán contar con fiscalías especializadas de investigación de delitos relacionados con las violencias de género contra las mujeres.
 Fracción adicionada DOF 10-02-2014. Reformada DOF 15-11-2024
 
-X. 	Las Legislaturas de las entidades federativas, observando en todo momento la supremacía de los símbolos patrios, podrán legislar en materia de símbolos estatales, como son: himno, escudo y bandera, a fin de fomentar el patrimonio cultural, la historia y la identidad local.
+X.   Las Legislaturas de las entidades federativas, observando en todo momento la supremacía de los símbolos patrios, podrán legislar en materia de símbolos estatales, como son: himno, escudo y bandera, a fin de fomentar el patrimonio cultural, la historia y la identidad local.
 Fracción adicionada DOF 08-05-2023
 
 En el ámbito de los Poderes Judiciales de los Estados, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley.
@@ -3559,22 +3561,22 @@ Artículo reformado DOF 17-03-1987
 
 Artículo 117. Los Estados no pueden, en ningún caso:
 
-I. 	Celebrar alianza, tratado o coalición con otro Estado ni con las Potencias extranjeras.
+I.   Celebrar alianza, tratado o coalición con otro Estado ni con las Potencias extranjeras.
 
-II. 	Derogada.
+II.   Derogada.
 Fracción derogada DOF 21-10-1966
 
-III. 	Acuñar moneda, emitir papel moneda, estampillas ni papel sellado.
+III.   Acuñar moneda, emitir papel moneda, estampillas ni papel sellado.
 
-IV. 	Gravar el tránsito de personas o cosas que atraviesen su territorio.
+IV.   Gravar el tránsito de personas o cosas que atraviesen su territorio.
 
-V. 	Prohibir ni gravar directa ni indirectamente la entrada a su territorio, ni la salida de él, a ninguna mercancía nacional o extranjera.
+V.   Prohibir ni gravar directa ni indirectamente la entrada a su territorio, ni la salida de él, a ninguna mercancía nacional o extranjera.
 
-VI. 	Gravar la circulación ni el consumo de efectos nacionales o extranjeros, con impuestos o derechos cuya exención se efectúe por aduanas locales, requiera inspección o registro de bultos o exija documentación que acompañe la mercancía.
+VI.   Gravar la circulación ni el consumo de efectos nacionales o extranjeros, con impuestos o derechos cuya exención se efectúe por aduanas locales, requiera inspección o registro de bultos o exija documentación que acompañe la mercancía.
 
-VII. 	Expedir ni mantener en vigor leyes o disposiciones fiscales que importen diferencias de impues (sic DOF 05-02-1917) o requisitos por razón de la procedencia de mercancías nacionales o extranjeras, ya sea que esta diferencia se establezca respecto de la producción similar de la localidad, o ya entre producciones semejantes de distinta procedencia.
+VII.   Expedir ni mantener en vigor leyes o disposiciones fiscales que importen diferencias de impues (sic DOF 05-02-1917) o requisitos por razón de la procedencia de mercancías nacionales o extranjeras, ya sea que esta diferencia se establezca respecto de la producción similar de la localidad, o ya entre producciones semejantes de distinta procedencia.
 
-VIII. 	Contraer directa o indirectamente obligaciones o empréstitos con gobiernos de otras naciones, con sociedades o particulares extranjeros, o cuando deban pagarse en moneda extranjera o fuera del territorio nacional.
+VIII.   Contraer directa o indirectamente obligaciones o empréstitos con gobiernos de otras naciones, con sociedades o particulares extranjeros, o cuando deban pagarse en moneda extranjera o fuera del territorio nacional.
 
 Los Estados y los Municipios no podrán contraer obligaciones o empréstitos sino cuando se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, mismas que deberán realizarse bajo las mejores condiciones del mercado, inclusive los que contraigan organismos descentralizados, empresas públicas y fideicomisos y, en el caso de los Estados, adicionalmente para otorgar garantías respecto al endeudamiento de los Municipios. Lo anterior, conforme a las bases que establezcan las legislaturas en la ley correspondiente, en el marco de lo previsto en esta Constitución, y por los conceptos y hasta por los montos que las mismas aprueben. Los ejecutivos informarán de su ejercicio al rendir la cuenta pública. En ningún caso podrán destinar empréstitos para cubrir gasto corriente.
 Párrafo reformado DOF 26-05-2015
@@ -3586,7 +3588,7 @@ Sin perjuicio de lo anterior, los Estados y Municipios podrán contratar obligac
 Párrafo adicionado DOF 26-05-2015
 Fracción reformada DOF 24-10-1942, 30-12-1946, 21-04-1981
 
-IX. 	Gravar la producción, el acopio o la venta del tabaco en rama, en forma distinta o con cuotas mayores de las que el Congreso de la Unión autorice.
+IX.   Gravar la producción, el acopio o la venta del tabaco en rama, en forma distinta o con cuotas mayores de las que el Congreso de la Unión autorice.
 
 El Congreso de la Unión y las Legislaturas de las entidades federativas dictarán, desde luego, leyes encaminadas a combatir el alcoholismo.
 Párrafo reformado DOF 29-01-2016
@@ -3594,11 +3596,11 @@ Fracción adicionada DOF 24-10-1942
 
 Artículo 118. Tampoco pueden, sin consentimiento del Congreso de la Unión:
 
-I. 	Establecer derechos de tonelaje, ni otro alguno de puertos, ni imponer contribuciones o derechos sobre importaciones o exportaciones.
+I.   Establecer derechos de tonelaje, ni otro alguno de puertos, ni imponer contribuciones o derechos sobre importaciones o exportaciones.
 
-II. 	Tener, en ningún tiempo, tropa permanente ni buques de guerra.
+II.   Tener, en ningún tiempo, tropa permanente ni buques de guerra.
 
-III. 	Hacer la guerra por sí a alguna potencia extranjera, exceptuándose los casos de invasión y de peligro tan inminente, que no admita demora. En estos casos darán cuenta inmediata al Presidente de la República.
+III.   Hacer la guerra por sí a alguna potencia extranjera, exceptuándose los casos de invasión y de peligro tan inminente, que no admita demora. En estos casos darán cuenta inmediata al Presidente de la República.
 Artículo original DOF 05-02-1917
 
 Artículo 119. Los Poderes de la Unión tienen el deber de proteger a las entidades federativas contra toda invasión o violencia exterior. En cada caso de sublevación o transtorno interior, les prestarán igual protección, siempre que sean excitados por la Legislatura de la entidad federativa o por su Ejecutivo, si aquélla no estuviere reunida.
@@ -3616,31 +3618,31 @@ Artículo reformado DOF 29-01-2016
 Artículo 121. En cada entidad federativa se dará entera fe y crédito de los actos públicos, registros y procedimientos judiciales de todas las otras. El Congreso de la Unión, por medio de leyes generales, prescribirá la manera de probar dichos actos, registros y procedimientos, y el efecto de ellos, sujetándose a las bases siguientes:
 Párrafo reformado DOF 29-01-2016
 
-I. 	Las leyes de una entidad federativa sólo tendrán efecto en su propio territorio y, por consiguiente, no podrán ser obligatorias fuera de él.
+I.   Las leyes de una entidad federativa sólo tendrán efecto en su propio territorio y, por consiguiente, no podrán ser obligatorias fuera de él.
 Fracción reformada DOF 29-01-2016
 
-II. 	Los bienes muebles e inmuebles se regirán por la ley del lugar de su ubicación.
+II.   Los bienes muebles e inmuebles se regirán por la ley del lugar de su ubicación.
 
-III. 	Las sentencias pronunciadas por los tribunales de una entidad federativa sobre derechos reales o bienes inmuebles ubicados en otra entidad federativa, sólo tendrán fuerza ejecutoria en ésta, cuando así lo dispongan sus propias leyes.
+III.   Las sentencias pronunciadas por los tribunales de una entidad federativa sobre derechos reales o bienes inmuebles ubicados en otra entidad federativa, sólo tendrán fuerza ejecutoria en ésta, cuando así lo dispongan sus propias leyes.
 
 Las sentencias sobre derechos personales sólo serán ejecutadas en otra entidad federativa, cuando la persona condenada se haya sometido expresamente o por razón de domicilio, a la justicia que las pronunció, y siempre que haya sido citada personalmente para ocurrir al juicio.
 Fracción reformada DOF 29-01-2016
 
-IV. 	Los actos del estado civil ajustados a las leyes de una entidad federativa, tendrán validez en las otras.
+IV.   Los actos del estado civil ajustados a las leyes de una entidad federativa, tendrán validez en las otras.
 Fracción reformada DOF 29-01-2016
 
-V. 	Los títulos profesionales expedidos por las autoridades de una entidad federativa con sujeción a sus leyes, serán respetados en las otras.
+V.   Los títulos profesionales expedidos por las autoridades de una entidad federativa con sujeción a sus leyes, serán respetados en las otras.
 Fracción reformada DOF 29-01-2016
 
 Artículo 122. La Ciudad de México es una entidad federativa que goza de autonomía en todo lo concerniente a su régimen interior y a su organización política y administrativa.
 
-A. 	El gobierno de la Ciudad de México está a cargo de sus poderes locales, en los términos establecidos en la Constitución Política de la Ciudad de México, la cual se ajustará a lo dispuesto en la presente Constitución y a las bases siguientes:
+A.   El gobierno de la Ciudad de México está a cargo de sus poderes locales, en los términos establecidos en la Constitución Política de la Ciudad de México, la cual se ajustará a lo dispuesto en la presente Constitución y a las bases siguientes:
 
-I. 	La Ciudad de México adoptará para su régimen interior la forma de gobierno republicano, representativo, democrático y laico. El poder público de la Ciudad de México se dividirá para su ejercicio en Legislativo, Ejecutivo y Judicial. No podrán reunirse dos o más de estos poderes en una sola persona o corporación ni depositarse el Legislativo en un solo individuo.
+I.   La Ciudad de México adoptará para su régimen interior la forma de gobierno republicano, representativo, democrático y laico. El poder público de la Ciudad de México se dividirá para su ejercicio en Legislativo, Ejecutivo y Judicial. No podrán reunirse dos o más de estos poderes en una sola persona o corporación ni depositarse el Legislativo en un solo individuo.
 
 La Constitución Política de la Ciudad de México establecerá las normas y las garantías para el goce y la protección de los derechos humanos en los ámbitos de su competencia, conforme a lo dispuesto por el artículo 1o. de esta Constitución.
 
-II. 	El ejercicio del Poder Legislativo se deposita en la Legislatura de la Ciudad de México, la cual se integrará en los términos que establezca la Constitución Política de la entidad. Sus integrantes deberán cumplir los requisitos que la misma establezca y serán electos mediante sufragio universal, libre, secreto y directo, según los principios de mayoría relativa y de representación proporcional, por un periodo de tres años.
+II.   El ejercicio del Poder Legislativo se deposita en la Legislatura de la Ciudad de México, la cual se integrará en los términos que establezca la Constitución Política de la entidad. Sus integrantes deberán cumplir los requisitos que la misma establezca y serán electos mediante sufragio universal, libre, secreto y directo, según los principios de mayoría relativa y de representación proporcional, por un periodo de tres años.
 
 En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
@@ -3658,7 +3660,7 @@ Los informes de auditoría de la entidad de fiscalización de la Ciudad de Méxi
 
 El titular de la entidad de fiscalización de la Ciudad de México será electo por las dos terceras partes de los miembros presentes de la Legislatura por un periodo no menor de siete años y deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades.
 
-III.	El titular del Poder Ejecutivo se denominará Jefe de Gobierno de la Ciudad de México y tendrá a su cargo la administración pública de la entidad; será electo por votación universal, libre, secreta y directa, no podrá durar en su encargo más de seis años y su mandato podrá ser revocado. Quien haya ocupado la titularidad del Ejecutivo local designado o electo, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni con el carácter de interino, provisional, sustituto o encargado del despacho.
+III.  El titular del Poder Ejecutivo se denominará Jefe de Gobierno de la Ciudad de México y tendrá a su cargo la administración pública de la entidad; será electo por votación universal, libre, secreta y directa, no podrá durar en su encargo más de seis años y su mandato podrá ser revocado. Quien haya ocupado la titularidad del Ejecutivo local designado o electo, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni con el carácter de interino, provisional, sustituto o encargado del despacho.
 Párrafo reformado DOF 20-12-2019
 
 La Constitución Política de la Ciudad de México establecerá las facultades del Jefe de Gobierno y los requisitos que deberá reunir quien aspire a ocupar dicho encargo.
@@ -3666,7 +3668,7 @@ La Constitución Política de la Ciudad de México establecerá las facultades d
 La Constitución Política de la Ciudad de México establecerá las normas relativas al proceso para la revocación de mandato del Jefe de Gobierno.
 Párrafo adicionado DOF 20-12-2019
 
-IV. 	El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia, el Tribunal de Disciplina Judicial local, el órgano de administración judicial y los juzgados y tribunales que establezca la Constitución Política de la Ciudad de México, la que garantizará la independencia de los magistrados y jueces en el ejercicio de sus funciones. Las leyes locales establecerán las condiciones para su elección por voto libre, directo y secreto de la ciudadanía conforme a las bases, procedimientos, términos, modalidades y requisitos que señala esta Constitución para el Poder Judicial de la Federación en lo que resulte aplicable y los demás que establezca la Constitución Política de la Ciudad de México y las leyes correspondientes, estableciendo mediante mecanismos públicos, abiertos, transparentes, inclusivos, accesibles y paritarios de evaluación y selección que garanticen la participación de personas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes profesionales y académicos en el ejercicio de la actividad jurídica. Las leyes también establecerán las condiciones para el funcionamiento de órganos de administración y disciplina con independencia técnica, de gestión y para emitir sus resoluciones, conforme a las bases establecidas en esta Constitución para el Poder Judicial de la Federación; así como del ingreso, formación, permanencia y especialización de quienes integren el poder Judicial.
+IV.   El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia, el Tribunal de Disciplina Judicial local, el órgano de administración judicial y los juzgados y tribunales que establezca la Constitución Política de la Ciudad de México, la que garantizará la independencia de los magistrados y jueces en el ejercicio de sus funciones. Las leyes locales establecerán las condiciones para su elección por voto libre, directo y secreto de la ciudadanía conforme a las bases, procedimientos, términos, modalidades y requisitos que señala esta Constitución para el Poder Judicial de la Federación en lo que resulte aplicable y los demás que establezca la Constitución Política de la Ciudad de México y las leyes correspondientes, estableciendo mediante mecanismos públicos, abiertos, transparentes, inclusivos, accesibles y paritarios de evaluación y selección que garanticen la participación de personas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes profesionales y académicos en el ejercicio de la actividad jurídica. Las leyes también establecerán las condiciones para el funcionamiento de órganos de administración y disciplina con independencia técnica, de gestión y para emitir sus resoluciones, conforme a las bases establecidas en esta Constitución para el Poder Judicial de la Federación; así como del ingreso, formación, permanencia y especialización de quienes integren el poder Judicial.
 Párrafo reformado DOF 15-09-2024
 
 Los magistrados integrantes del Tribunal Superior de Justicia de la Ciudad de México deberán reunir como mínimo los requisitos establecidos en las fracciones I a V del artículo 95 de esta Constitución. No podrán ser magistrados las personas que hayan ocupado en el Gobierno de la Ciudad de México el cargo de Secretario o equivalente o de Procurador General de Justicia, o de integrante del Poder Legislativo local, durante el año previo al día de la designación.
@@ -3674,7 +3676,7 @@ Los magistrados integrantes del Tribunal Superior de Justicia de la Ciudad de M�
 Las y los magistrados y las y los jueces durarán en el ejercicio de su encargo nueve años; podrán ser reelectas y reelectos y, si lo fueren, sólo podrán ser privados de sus puestos en los términos que establecen esta Constitución, así como la Constitución y las leyes de la Ciudad de México. Las magistradas y los magistrados y las juezas y jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser mayor a la establecida para la persona titular de la Presidencia de la República en el presupuesto correspondiente y no será disminuida durante su encargo. En el ámbito del Poder Judicial, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley.
 Párrafo reformado DOF 15-09-2024
 
-V. 	La Administración Pública de la Ciudad de México será centralizada y paraestatal. La hacienda pública de la Ciudad y su administración serán unitarias, incluyendo los tabuladores de remuneraciones y percepciones de los servidores públicos. El régimen patrimonial de la Administración Pública Centralizada también tendrá carácter unitario.
+V.   La Administración Pública de la Ciudad de México será centralizada y paraestatal. La hacienda pública de la Ciudad y su administración serán unitarias, incluyendo los tabuladores de remuneraciones y percepciones de los servidores públicos. El régimen patrimonial de la Administración Pública Centralizada también tendrá carácter unitario.
 
 La hacienda pública de la Ciudad de México se organizará conforme a criterios de unidad presupuestaria y financiera.
 
@@ -3686,17 +3688,17 @@ Las leyes federales no limitarán la facultad de la Ciudad de México para estab
 
 Corresponde al Jefe de Gobierno de la Ciudad de México proponer al Poder Legislativo local las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
-VI. 	La división territorial de la Ciudad de México para efectos de su organización político administrativa, así como el número, la denominación y los límites de sus demarcaciones territoriales, serán definidos con lo dispuesto en la Constitución Política local.
+VI.   La división territorial de la Ciudad de México para efectos de su organización político administrativa, así como el número, la denominación y los límites de sus demarcaciones territoriales, serán definidos con lo dispuesto en la Constitución Política local.
 
 El gobierno de las demarcaciones territoriales de la Ciudad de México estará a cargo de las Alcaldías. Sujeto a las previsiones de ingresos de la hacienda pública de la Ciudad de México, la Legislatura aprobará el presupuesto de las Alcaldías, las cuales lo ejercerán de manera autónoma en los supuestos y términos que establezca la Constitución Política local.
 
 La integración, organización administrativa y facultades de las Alcaldías se establecerán en la Constitución Política y leyes locales, las que se sujetarán a los principios siguientes:
 
-a) 	Las Alcaldías son órganos político administrativos que se integran por un Alcalde y por un Concejo electos por votación universal, libre, secreta y directa, para un periodo de tres años. Los integrantes de la Alcaldía se elegirán por planillas de entre siete y diez candidatos, según corresponda, ordenadas en forma progresiva, iniciando con el candidato a Alcalde y después los Concejales con sus respectivos suplentes, en el número que para cada demarcación territorial determine la Constitución Política de la Ciudad de México. En ningún caso el número de Concejales podrá ser menor de diez ni mayor de quince. Los integrantes de los Concejos serán electos según los principios de mayoría relativa y de representación proporcional, en la proporción de sesenta por ciento por el primer principio y cuarenta por ciento por el segundo. Ningún partido político o coalición electoral podrá contar con más del sesenta por ciento de los concejales.
+a)   Las Alcaldías son órganos político administrativos que se integran por un Alcalde y por un Concejo electos por votación universal, libre, secreta y directa, para un periodo de tres años. Los integrantes de la Alcaldía se elegirán por planillas de entre siete y diez candidatos, según corresponda, ordenadas en forma progresiva, iniciando con el candidato a Alcalde y después los Concejales con sus respectivos suplentes, en el número que para cada demarcación territorial determine la Constitución Política de la Ciudad de México. En ningún caso el número de Concejales podrá ser menor de diez ni mayor de quince. Los integrantes de los Concejos serán electos según los principios de mayoría relativa y de representación proporcional, en la proporción de sesenta por ciento por el primer principio y cuarenta por ciento por el segundo. Ningún partido político o coalición electoral podrá contar con más del sesenta por ciento de los concejales.
 
-b) 	La Constitución Política de la Ciudad de México deberá establecer la elección consecutiva para el mismo cargo de Alcalde y Concejales por un periodo adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+b)   La Constitución Política de la Ciudad de México deberá establecer la elección consecutiva para el mismo cargo de Alcalde y Concejales por un periodo adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-c) 	La administración pública de las demarcaciones territoriales corresponde a los Alcaldes.
+c)   La administración pública de las demarcaciones territoriales corresponde a los Alcaldes.
 
 La Constitución Política de la Ciudad de México establecerá la competencia de las Alcaldías, dentro de sus respectivas jurisdicciones.
 
@@ -3704,15 +3706,15 @@ Sujeto a las previsiones de ingresos de la hacienda pública de la Ciudad de Mé
 
 Al aprobar el proyecto de presupuesto de egresos, los Concejos de las Alcaldías deberán garantizar el gasto de operación de la demarcación territorial y ajustar su gasto corriente a las normas y montos máximos, así como a los tabuladores desglosados de remuneraciones de los servidores públicos que establezca previamente la Legislatura, sujetándose a lo establecido por el artículo 127 de esta Constitución.
 
-d) 	La Constitución Política de la Ciudad de México establecerá las bases para que la ley correspondiente prevea los criterios o fórmulas para la asignación del presupuesto de las demarcaciones territoriales, el cual se compondrá, al menos, de los montos que conforme a la ley les correspondan por concepto de participaciones federales, impuestos locales que recaude la hacienda de la Ciudad de México e ingresos derivados de la prestación de servicios a su cargo.
+d)   La Constitución Política de la Ciudad de México establecerá las bases para que la ley correspondiente prevea los criterios o fórmulas para la asignación del presupuesto de las demarcaciones territoriales, el cual se compondrá, al menos, de los montos que conforme a la ley les correspondan por concepto de participaciones federales, impuestos locales que recaude la hacienda de la Ciudad de México e ingresos derivados de la prestación de servicios a su cargo.
 
-e) 	Las demarcaciones territoriales no podrán, en ningún caso, contraer directa o indirectamente obligaciones o empréstitos.
+e)   Las demarcaciones territoriales no podrán, en ningún caso, contraer directa o indirectamente obligaciones o empréstitos.
 
-f) 	Los Alcaldes y Concejales deberán reunir los requisitos que establezca la Constitución Política de la Ciudad de México.
+f)   Los Alcaldes y Concejales deberán reunir los requisitos que establezca la Constitución Política de la Ciudad de México.
 
-VII. 	La Ciudad de México contará con los organismos constitucionales autónomos que esta Constitución prevé para las entidades federativas.
+VII.   La Ciudad de México contará con los organismos constitucionales autónomos que esta Constitución prevé para las entidades federativas.
 
-VIII. 	La Constitución Política de la Ciudad de México establecerá las normas para la organización y funcionamiento, así como las facultades del Tribunal de Justicia Administrativa, dotado de plena autonomía para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones.
+VIII.   La Constitución Política de la Ciudad de México establecerá las normas para la organización y funcionamiento, así como las facultades del Tribunal de Justicia Administrativa, dotado de plena autonomía para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones.
 
 El Tribunal tendrá a su cargo dirimir las controversias que se susciten entre la Administración Pública local y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos por responsabilidad administrativa grave y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública de la Ciudad de México o al patrimonio de sus entes públicos.
 
@@ -3721,14 +3723,14 @@ La ley establecerá las normas para garantizar la transparencia del proceso de n
 La investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Tribunal Superior de Justicia, corresponderá al Tribunal de Disciplina Judicial local, sin perjuicio de las atribuciones de la entidad de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 Párrafo reformado DOF 15-09-2024
 
-IX. 	La Constitución y las leyes de la Ciudad de México deberán ajustarse a las reglas que en materia electoral establece la fracción IV del artículo 116 de esta Constitución y las leyes generales correspondientes.
+IX.   La Constitución y las leyes de la Ciudad de México deberán ajustarse a las reglas que en materia electoral establece la fracción IV del artículo 116 de esta Constitución y las leyes generales correspondientes.
 
-X. 	La Constitución Política local garantizará que las funciones de procuración de justicia en la Ciudad de México se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad, perspectiva de género y respeto a los derechos humanos.
+X.   La Constitución Política local garantizará que las funciones de procuración de justicia en la Ciudad de México se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad, perspectiva de género y respeto a los derechos humanos.
 Fracción reformada DOF 15-11-2024
 
-XI. 	Las relaciones de trabajo entre la Ciudad de México y sus trabajadores se regirán por la ley que expida la Legislatura local, con base en lo dispuesto por el artículo 123 de esta Constitución y sus leyes reglamentarias.
+XI.   Las relaciones de trabajo entre la Ciudad de México y sus trabajadores se regirán por la ley que expida la Legislatura local, con base en lo dispuesto por el artículo 123 de esta Constitución y sus leyes reglamentarias.
 
-B. 	Los poderes federales tendrán respecto de la Ciudad de México, exclusivamente las facultades que expresamente les confiere esta Constitución.
+B.   Los poderes federales tendrán respecto de la Ciudad de México, exclusivamente las facultades que expresamente les confiere esta Constitución.
 
 El Gobierno de la Ciudad de México, dado su carácter de Capital de los Estados Unidos Mexicanos y sede de los Poderes de la Unión, garantizará, en todo tiempo y en los términos de este artículo, las condiciones necesarias para el ejercicio de las facultades constitucionales de los poderes federales.
 
@@ -3742,20 +3744,20 @@ En la Ciudad de México será aplicable respecto del Presidente de los Estados U
 
 Los bienes inmuebles de la Federación ubicados en la Ciudad de México estarán exclusivamente bajo la jurisdicción de los poderes federales.
 
-C. 	La Federación, la Ciudad de México, así como sus demarcaciones territoriales, y los Estados y Municipios conurbados en la Zona Metropolitana, establecerán mecanismos de coordinación administrativa en materia de planeación del desarrollo y ejecución de acciones regionales para la prestación de servicios públicos, en términos de la ley que emita el Congreso de la Unión.
+C.   La Federación, la Ciudad de México, así como sus demarcaciones territoriales, y los Estados y Municipios conurbados en la Zona Metropolitana, establecerán mecanismos de coordinación administrativa en materia de planeación del desarrollo y ejecución de acciones regionales para la prestación de servicios públicos, en términos de la ley que emita el Congreso de la Unión.
 
 Para la eficaz coordinación a que se refiere el párrafo anterior, dicha ley establecerá las bases para la organización y funcionamiento del Consejo de Desarrollo Metropolitano, al que corresponderá acordar las acciones en materia de asentamientos humanos; movilidad y seguridad vial; protección al ambiente; preservación y restauración del equilibrio ecológico; transporte; tránsito; agua potable y drenaje; recolección, tratamiento y disposición de desechos sólidos, y seguridad pública.
 Párrafo reformado DOF 18-12-2020
 
 La ley que emita el Congreso de la Unión establecerá la forma en la que se tomarán las determinaciones del Consejo de Desarrollo Metropolitano, mismas que podrán comprender:
 
-a) 	La delimitación de los ámbitos territoriales y las acciones de coordinación para la operación y funcionamiento de obras y servicios públicos de alcance metropolitano;
+a)   La delimitación de los ámbitos territoriales y las acciones de coordinación para la operación y funcionamiento de obras y servicios públicos de alcance metropolitano;
 
-b) 	Los compromisos que asuma cada una de las partes para la asignación de recursos a los proyectos metropolitanos; y
+b)   Los compromisos que asuma cada una de las partes para la asignación de recursos a los proyectos metropolitanos; y
 
-c) 	La proyección conjunta y coordinada del desarrollo de las zonas conurbadas y de prestación de servicios públicos.
+c)   La proyección conjunta y coordinada del desarrollo de las zonas conurbadas y de prestación de servicios públicos.
 
-D. 	Las prohibiciones y limitaciones que esta Constitución establece para los Estados aplicarán a la Ciudad de México.
+D.   Las prohibiciones y limitaciones que esta Constitución establece para los Estados aplicarán a la Ciudad de México.
 Artículo reformado DOF 25-10-1993, 31-12-1994. Fe de erratas DOF 03-01-1995. Reformado DOF 22-08-1996, 13-11-2007, 07-05-2008, 24-08-2009, 27-04-2010, 09-08-2012, 27-12-2013, 07-02-2014, 10-02-2014, 27-05-2015, 29-01-2016
 
 Título Sexto
@@ -3767,23 +3769,23 @@ Párrafo adicionado DOF 19-12-1978. Reformado DOF 18-06-2008
 El Congreso de la Unión, sin contravenir a las bases siguientes deberá expedir leyes sobre el trabajo, las cuales regirán:
 Párrafo reformado DOF 06-09-1929, 05-12-1960. Reformado y reubicado DOF 19-12-1978. Reformado DOF 18-06-2008
 
-A. 	Entre los obreros, jornaleros, empleados domésticos, artesanos y de una manera general, todo contrato de trabajo:
+A.   Entre los obreros, jornaleros, empleados domésticos, artesanos y de una manera general, todo contrato de trabajo:
 Párrafo adicionado (como encabezado de Apartado A) DOF 05-12-1960
 
-I. 	La duración de la jornada máxima será de ocho horas.
+I.   La duración de la jornada máxima será de ocho horas.
 
-II. 	La jornada máxima de trabajo nocturno será de 7 horas. Quedan prohibidas: las labores insalubres o peligrosas, el trabajo nocturno industrial y todo otro trabajo después de las diez de la noche, de los menores de dieciséis años;
+II.   La jornada máxima de trabajo nocturno será de 7 horas. Quedan prohibidas: las labores insalubres o peligrosas, el trabajo nocturno industrial y todo otro trabajo después de las diez de la noche, de los menores de dieciséis años;
 Fracción reformada DOF 21-11-1962, 31-12-1974
 
-III. 	Queda prohibida la utilización del trabajo de los menores de quince años. Los mayores de esta edad y menores de dieciséis tendrán como jornada máxima la de seis horas.
+III.   Queda prohibida la utilización del trabajo de los menores de quince años. Los mayores de esta edad y menores de dieciséis tendrán como jornada máxima la de seis horas.
 Fracción reformada DOF 21-11-1962, 17-06-2014
 
-IV. 	Por cada seis días de trabajo deberá disfrutar el operario de un día de descanso, cuando menos.
+IV.   Por cada seis días de trabajo deberá disfrutar el operario de un día de descanso, cuando menos.
 
-V. 	Las mujeres durante el embarazo no realizarán trabajos que exijan un esfuerzo considerable y signifiquen un peligro para su salud en relación con la gestación; gozarán forzosamente de un descanso de seis semanas anteriores a la fecha fijada aproximadamente para el parto y seis semanas posteriores al mismo, debiendo percibir su salario íntegro y conservar su empleo y los derechos que hubieren adquirido por la relación de trabajo. En el período de lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos;
+V.   Las mujeres durante el embarazo no realizarán trabajos que exijan un esfuerzo considerable y signifiquen un peligro para su salud en relación con la gestación; gozarán forzosamente de un descanso de seis semanas anteriores a la fecha fijada aproximadamente para el parto y seis semanas posteriores al mismo, debiendo percibir su salario íntegro y conservar su empleo y los derechos que hubieren adquirido por la relación de trabajo. En el período de lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos;
 Fracción reformada DOF 31-12-1974
 
-VI.	Los salarios mínimos que deberán disfrutar los trabajadores serán generales o profesionales. Los primeros regirán en las áreas geográficas que se determinen; los segundos se aplicarán en ramas determinadas de la actividad económica o en profesiones, oficios o trabajos especiales. El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+VI.  Los salarios mínimos que deberán disfrutar los trabajadores serán generales o profesionales. Los primeros regirán en las áreas geográficas que se determinen; los segundos se aplicarán en ramas determinadas de la actividad económica o en profesiones, oficios o trabajos especiales. El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
 Párrafo reformado DOF 27-01-2016
 
 Los salarios mínimos generales deberán ser suficientes para satisfacer las necesidades normales de un jefe de familia, en el orden material, social y cultural, y para proveer a la educación obligatoria de los hijos. Los salarios mínimos profesionales se fijarán considerando, además, las condiciones de las distintas actividades económicas.
@@ -3791,32 +3793,32 @@ Los salarios mínimos generales deberán ser suficientes para satisfacer las nec
 Los salarios mínimos se fijarán por una comisión nacional integrada por representantes de los trabajadores, de los patrones y del gobierno, la que podrá auxiliarse de las comisiones especiales de carácter consultivo que considere indispensables para el mejor desempeño de sus funciones.
 Fracción reformada DOF 21-11-1962, 23-12-1986
 
-VII.	A trabajo igual corresponderá salario igual, sin tener en cuenta sexo, género ni nacionalidad. Las leyes establecerán los mecanismos tendientes a reducir y erradicar la brecha salarial de género.
+VII.  A trabajo igual corresponderá salario igual, sin tener en cuenta sexo, género ni nacionalidad. Las leyes establecerán los mecanismos tendientes a reducir y erradicar la brecha salarial de género.
 Fracción reformada DOF 15-11-2024
 
-VIII. 	El salario mínimo quedará exceptuado de embargo, compensación o descuento.
+VIII.   El salario mínimo quedará exceptuado de embargo, compensación o descuento.
 
-IX. 	Los trabajadores tendrán derecho a una participación en las utilidades de las empresas, regulada de conformidad con las siguientes normas:
+IX.   Los trabajadores tendrán derecho a una participación en las utilidades de las empresas, regulada de conformidad con las siguientes normas:
 
-a) 	Una Comisión Nacional, integrada con representantes de los trabajadores, de los patronos y del Gobierno, fijará el porcentaje de utilidades que deba repartirse entre los trabajadores;
+a)   Una Comisión Nacional, integrada con representantes de los trabajadores, de los patronos y del Gobierno, fijará el porcentaje de utilidades que deba repartirse entre los trabajadores;
 
-b) 	La Comisión Nacional practicará las investigaciones y realizará los estudios necesarios y apropiados para conocer las condiciones generales de la economía nacional. Tomará asimismo en consideración la necesidad de fomentar el desarrollo industrial del País, el interés razonable que debe percibir el capital y la necesaria reinversión de capitales;
+b)   La Comisión Nacional practicará las investigaciones y realizará los estudios necesarios y apropiados para conocer las condiciones generales de la economía nacional. Tomará asimismo en consideración la necesidad de fomentar el desarrollo industrial del País, el interés razonable que debe percibir el capital y la necesaria reinversión de capitales;
 
-c) 	La misma Comisión podrá revisar el porcentaje fijado cuando existan nuevos estudios e investigaciones que los justifiquen.
+c)   La misma Comisión podrá revisar el porcentaje fijado cuando existan nuevos estudios e investigaciones que los justifiquen.
 
-d) 	La Ley podrá exceptuar de la obligación de repartir utilidades a las empresas de nueva creación durante un número determinado y limitado de años, a los trabajos de exploración y a otras actividades cuando lo justifique su naturaleza y condiciones particulares;
+d)   La Ley podrá exceptuar de la obligación de repartir utilidades a las empresas de nueva creación durante un número determinado y limitado de años, a los trabajos de exploración y a otras actividades cuando lo justifique su naturaleza y condiciones particulares;
 
-e) 	Para determinar el monto de las utilidades de cada empresa se tomará como base la renta gravable de conformidad con las disposiciones de la Ley del Impuesto sobre la Renta. Los trabajadores podrán formular ante la Oficina correspondiente de la Secretaría de Hacienda y Crédito Público las objeciones que juzguen convenientes, ajustándose al procedimiento que determine la ley;
+e)   Para determinar el monto de las utilidades de cada empresa se tomará como base la renta gravable de conformidad con las disposiciones de la Ley del Impuesto sobre la Renta. Los trabajadores podrán formular ante la Oficina correspondiente de la Secretaría de Hacienda y Crédito Público las objeciones que juzguen convenientes, ajustándose al procedimiento que determine la ley;
 
-f) 	El derecho de los trabajadores a participar en las utilidades no implica la facultad de intervenir en la dirección o administración de las empresas.
+f)   El derecho de los trabajadores a participar en las utilidades no implica la facultad de intervenir en la dirección o administración de las empresas.
 Fracción reformada DOF 04-11-1933, 21-11-1962
 
-X. 	El salario deberá pagarse precisamente en moneda de curso legal, no siendo permitido hacerlo efectivo con mercancías, ni con vales, fichas o cualquier otro signo representativo con que se pretenda substituir la moneda.
+X.   El salario deberá pagarse precisamente en moneda de curso legal, no siendo permitido hacerlo efectivo con mercancías, ni con vales, fichas o cualquier otro signo representativo con que se pretenda substituir la moneda.
 
-XI. 	Cuando, por circunstancias extraordinarias deban aumentarse las horas de jornada, se abonará como salario por el tiempo excedente un 100% más de lo fijado para las horas normales. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias, ni de tres veces consecutivas. Los menores de dieciséis años no serán admitidos en esta clase de trabajos.
+XI.   Cuando, por circunstancias extraordinarias deban aumentarse las horas de jornada, se abonará como salario por el tiempo excedente un 100% más de lo fijado para las horas normales. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias, ni de tres veces consecutivas. Los menores de dieciséis años no serán admitidos en esta clase de trabajos.
 Fracción reformada DOF 31-12-1974
 
-XII.	Toda empresa agrícola, industrial, minera o de cualquier otra clase de trabajo, estará obligada, según lo determinen las leyes reglamentarias a proporcionar a sus personas trabajadoras viviendas adecuadas. Esta obligación se cumplirá mediante las aportaciones que las empresas hagan a un fondo nacional de la vivienda a fin de constituir depósitos en favor de sus personas trabajadoras.
+XII.  Toda empresa agrícola, industrial, minera o de cualquier otra clase de trabajo, estará obligada, según lo determinen las leyes reglamentarias a proporcionar a sus personas trabajadoras viviendas adecuadas. Esta obligación se cumplirá mediante las aportaciones que las empresas hagan a un fondo nacional de la vivienda a fin de constituir depósitos en favor de sus personas trabajadoras.
 Párrafo reformado DOF 02-12-2024
 
 El fondo establecerá un sistema de vivienda con orientación social para las personas trabajadoras derechohabientes que permita obtener crédito barato y suficiente para su adquisición o mejora; también podrá adquirir suelo y construir vivienda, en los términos que fije la ley.
@@ -3840,27 +3842,27 @@ Queda prohibido en todo centro de trabajo, el establecimiento de expendios de be
 Párrafo adicionado DOF 09-01-1978
 Fracción reformada DOF 14-02-1972
 
-XIII. 	Las empresas, cualquiera que sea su actividad, estarán obligadas a proporcionar a sus trabajadores, capacitación o adiestramiento para el trabajo. La ley reglamentaria determinará los sistemas, métodos y procedimientos conforme a los cuales los patrones deberán cumplir con dicha obligación.
+XIII.   Las empresas, cualquiera que sea su actividad, estarán obligadas a proporcionar a sus trabajadores, capacitación o adiestramiento para el trabajo. La ley reglamentaria determinará los sistemas, métodos y procedimientos conforme a los cuales los patrones deberán cumplir con dicha obligación.
 Fracción reformada DOF 09-01-1978
 
-XIV. 	Los empresarios serán responsables de los accidentes del trabajo y de las enfermedades profesionales de los trabajadores, sufridas con motivo o en ejercicio de la profesión o trabajo que ejecuten; por lo tanto, los patronos deberán pagar la indemnización correspondiente, según que haya traído como consecuencia la muerte o simplemente incapacidad temporal o permanente para trabajar, de acuerdo con lo que las leyes determinen. Esta responsabilidad subsistirá aún en el caso de que el patrono contrate el trabajo por un intermediario.
+XIV.   Los empresarios serán responsables de los accidentes del trabajo y de las enfermedades profesionales de los trabajadores, sufridas con motivo o en ejercicio de la profesión o trabajo que ejecuten; por lo tanto, los patronos deberán pagar la indemnización correspondiente, según que haya traído como consecuencia la muerte o simplemente incapacidad temporal o permanente para trabajar, de acuerdo con lo que las leyes determinen. Esta responsabilidad subsistirá aún en el caso de que el patrono contrate el trabajo por un intermediario.
 
-XV. 	El patrón estará obligado a observar, de acuerdo con la naturaleza de su negociación, los preceptos legales sobre higiene y seguridad en las instalaciones de su establecimiento, y a adoptar las medidas adecuadas para prevenir accidentes en el uso de las máquinas, instrumentos y materiales de trabajo, así como a organizar de tal manera éste, que resulte la mayor garantía para la salud y la vida de los trabajadores, y del producto de la concepción, cuando se trate de mujeres embarazadas. Las leyes contendrán, al efecto, las sanciones procedentes en cada caso;
+XV.   El patrón estará obligado a observar, de acuerdo con la naturaleza de su negociación, los preceptos legales sobre higiene y seguridad en las instalaciones de su establecimiento, y a adoptar las medidas adecuadas para prevenir accidentes en el uso de las máquinas, instrumentos y materiales de trabajo, así como a organizar de tal manera éste, que resulte la mayor garantía para la salud y la vida de los trabajadores, y del producto de la concepción, cuando se trate de mujeres embarazadas. Las leyes contendrán, al efecto, las sanciones procedentes en cada caso;
 Fracción reformada DOF 31-12-1974
 
-XVI. 	Tanto los obreros como los empresarios tendrán derecho para coaligarse en defensa de sus respectivos intereses, formando sindicatos, asociaciones profesionales, etc.
+XVI.   Tanto los obreros como los empresarios tendrán derecho para coaligarse en defensa de sus respectivos intereses, formando sindicatos, asociaciones profesionales, etc.
 
-XVII. 	Las leyes reconocerán como un derecho de los obreros y de los patronos, las huelgas y los paros.
+XVII.   Las leyes reconocerán como un derecho de los obreros y de los patronos, las huelgas y los paros.
 
-XVIII. 	Las huelgas serán lícitas cuando tengan por objeto conseguir el equilibrio entre los diversos factores de la producción, armonizando los derechos del trabajo con los del capital. En los servicios públicos será obligatorio para los trabajadores dar aviso, con diez días de anticipación, a los tribunales laborales, de la fecha señalada para la suspensión del trabajo. Las huelgas serán consideradas como ilícitas únicamente cuando la mayoría de los huelguistas ejerciera actos violentos contra las personas o las propiedades, o en caso de guerra, cuando aquéllos pertenezcan a los establecimientos y servicios que dependan del Gobierno.
+XVIII.   Las huelgas serán lícitas cuando tengan por objeto conseguir el equilibrio entre los diversos factores de la producción, armonizando los derechos del trabajo con los del capital. En los servicios públicos será obligatorio para los trabajadores dar aviso, con diez días de anticipación, a los tribunales laborales, de la fecha señalada para la suspensión del trabajo. Las huelgas serán consideradas como ilícitas únicamente cuando la mayoría de los huelguistas ejerciera actos violentos contra las personas o las propiedades, o en caso de guerra, cuando aquéllos pertenezcan a los establecimientos y servicios que dependan del Gobierno.
 
 Cuando se trate de obtener la celebración de un contrato colectivo de trabajo se deberá acreditar que se cuenta con la representación de los trabajadores.
 Fracción reformada DOF 31-12-1938, 24-02-2017
 
-XIX. 	Los paros serán lícitos únicamente cuando el exceso de producción haga necesario suspender el trabajo para mantener los precios en un límite costeable, previa aprobación de los tribunales laborales.
+XIX.   Los paros serán lícitos únicamente cuando el exceso de producción haga necesario suspender el trabajo para mantener los precios en un límite costeable, previa aprobación de los tribunales laborales.
 Fracción reformada DOF 24-02-2017
 
-XX. 	La resolución de las diferencias o los conflictos entre trabajadores y patrones estará a cargo de los tribunales laborales del Poder Judicial de la Federación o de las entidades federativas, cuyos integrantes serán designados atendiendo a lo dispuesto en los artículos 94, 97, 116 fracción III, y 122 Apartado A, fracción IV de esta Constitución, según corresponda, y deberán contar con capacidad y experiencia en materia laboral. Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
+XX.   La resolución de las diferencias o los conflictos entre trabajadores y patrones estará a cargo de los tribunales laborales del Poder Judicial de la Federación o de las entidades federativas, cuyos integrantes serán designados atendiendo a lo dispuesto en los artículos 94, 97, 116 fracción III, y 122 Apartado A, fracción IV de esta Constitución, según corresponda, y deberán contar con capacidad y experiencia en materia laboral. Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
 
 Antes de acudir a los tribunales laborales, los trabajadores y patrones deberán asistir a la instancia conciliatoria correspondiente. En el orden local, la función conciliatoria estará a cargo de los Centros de Conciliación, especializados e imparciales que se instituyan en las entidades federativas. Dichos centros tendrán personalidad jurídica y patrimonio propios. Contarán con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirán por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se determinará en las leyes locales.
 
@@ -3880,190 +3882,190 @@ En caso de que la Cámara de Senadores rechace la totalidad de la terna propuest
 El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del organismo descentralizado; que no haya ocupado un cargo en algún partido político, ni haya sido candidato a ocupar un cargo público de elección popular en los tres años anteriores a la designación; y que goce de buena reputación y no haya sido condenado por delito doloso. Asimismo, deberá cumplir los requisitos que establezca la ley. Desempeñará su encargo por períodos de seis años y podrá ser reelecto por una sola ocasión. En caso de falta absoluta, el sustituto será nombrado para concluir el periodo respectivo. Sólo podrá ser removido por causa grave en los términos del Título IV de esta Constitución y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia.
 Fracción reformada DOF 24-02-2017
 
-XXI. 	Si el patrono se negare a someter sus diferencias al arbitraje o a cumplir con la resolución, se dará por terminado el contrato de trabajo y quedará obligado a indemnizar al obrero con el importe de tres meses de salario, además de la responsabilidad que le resulte del conflicto. Esta disposición no será aplicable en los casos de las acciones consignadas en la fracción siguiente. Si la negativa fuere de los trabajadores, se dará por terminado el contrato de trabajo.
+XXI.   Si el patrono se negare a someter sus diferencias al arbitraje o a cumplir con la resolución, se dará por terminado el contrato de trabajo y quedará obligado a indemnizar al obrero con el importe de tres meses de salario, además de la responsabilidad que le resulte del conflicto. Esta disposición no será aplicable en los casos de las acciones consignadas en la fracción siguiente. Si la negativa fuere de los trabajadores, se dará por terminado el contrato de trabajo.
 Fracción reformada DOF 21-11-1962, 24-02-2017
 
-XXII. 	El patrono que despida a un obrero sin causa justificada o por haber ingresado a una asociación o sindicato, o por haber tomado parte en una huelga lícita, estará obligado, a elección del trabajador, a cumplir el contrato o a indemnizarlo con el importe de tres meses de salario. La Ley determinará los casos en que el patrono podrá ser eximido de la obligación de cumplir el contrato, mediante el pago de una indemnización. Igualmente tendrá la obligación de indemnizar al trabajador con el importe de tres meses de salario, cuando se retire del servicio por falta de probidad del patrono o por recibir de él malos tratamientos, ya sea en su persona o en la de su cónyuge, padres, hijos o hermanos. El patrono no podrá eximirse de esta responsabilidad, cuando los malos tratamientos provengan de dependientes o familiares que obren con el consentimieto (sic DOF 21-11-1962) o tolerancia de él.
+XXII.   El patrono que despida a un obrero sin causa justificada o por haber ingresado a una asociación o sindicato, o por haber tomado parte en una huelga lícita, estará obligado, a elección del trabajador, a cumplir el contrato o a indemnizarlo con el importe de tres meses de salario. La Ley determinará los casos en que el patrono podrá ser eximido de la obligación de cumplir el contrato, mediante el pago de una indemnización. Igualmente tendrá la obligación de indemnizar al trabajador con el importe de tres meses de salario, cuando se retire del servicio por falta de probidad del patrono o por recibir de él malos tratamientos, ya sea en su persona o en la de su cónyuge, padres, hijos o hermanos. El patrono no podrá eximirse de esta responsabilidad, cuando los malos tratamientos provengan de dependientes o familiares que obren con el consentimieto (sic DOF 21-11-1962) o tolerancia de él.
 Fracción reformada DOF 21-11-1962
 
 XXII Bis. Los procedimientos y requisitos que establezca la ley para asegurar la libertad de negociación colectiva y los legítimos intereses de trabajadores y patrones, deberán garantizar, entre otros, los siguientes principios:
 
-a)	Representatividad de las organizaciones sindicales, y
+a)  Representatividad de las organizaciones sindicales, y
 
-b)	Certeza en la firma, registro y depósito de los contratos colectivos de trabajo.
+b)  Certeza en la firma, registro y depósito de los contratos colectivos de trabajo.
 
 Para la resolución de conflictos entre sindicatos, la solicitud de celebración de un contrato colectivo de trabajo y la elección de dirigentes, el voto de los trabajadores será personal, libre y secreto. La ley garantizará el cumplimiento de estos principios. Con base en lo anterior, para la elección de dirigentes, los estatutos sindicales podrán, de conformidad con lo dispuesto en la ley, fijar modalidades procedimentales aplicables a los respectivos procesos.
 Fracción adicionada DOF 24-02-2017
 
-XXIII. 	Los créditos en favor de los trabajadores por salario o sueldos devengados en el último año, y por indemnizaciones, tendrán preferencia sobre cualquiera otros en los casos de concurso o de quiebra.
+XXIII.   Los créditos en favor de los trabajadores por salario o sueldos devengados en el último año, y por indemnizaciones, tendrán preferencia sobre cualquiera otros en los casos de concurso o de quiebra.
 
-XXIV. 	De las deudas contraídas por los trabajadores a favor de sus patronos, de sus asociados, familiares o dependientes, sólo será responsable el mismo trabajador, y en ningún caso y por ningún motivo se podrá exigir a los miembros de su familia, ni serán exigibles dichas deudas por la cantidad excedente del sueldo del trabajador en un mes.
+XXIV.   De las deudas contraídas por los trabajadores a favor de sus patronos, de sus asociados, familiares o dependientes, sólo será responsable el mismo trabajador, y en ningún caso y por ningún motivo se podrá exigir a los miembros de su familia, ni serán exigibles dichas deudas por la cantidad excedente del sueldo del trabajador en un mes.
 
-XXV. 	El servicio para la colocación de los trabajadores será gratuito para éstos, ya se efectúe por oficinas municipales, bolsas de trabajo o por cualquier otra institución oficial o particular.
+XXV.   El servicio para la colocación de los trabajadores será gratuito para éstos, ya se efectúe por oficinas municipales, bolsas de trabajo o por cualquier otra institución oficial o particular.
 
 En la prestación de este servicio se tomará en cuenta la demanda de trabajo y, en igualdad de condiciones, tendrán prioridad quienes representen la única fuente de ingresos en su familia.
 Fracción reformada DOF 31-12-1974
 
-XXVI. 	Todo contrato de trabajo celebrado entre un mexicano y un empresario extranjero, deberá ser legalizado por la autoridad municipal competente y visado por el Cónsul de la Nación a donde el trabajador tenga que ir, en el concepto de que además de las cláusulas ordinarias, se especificará claramente que los gastos de repatriación quedan a cargo del empresario contratante.
+XXVI.   Todo contrato de trabajo celebrado entre un mexicano y un empresario extranjero, deberá ser legalizado por la autoridad municipal competente y visado por el Cónsul de la Nación a donde el trabajador tenga que ir, en el concepto de que además de las cláusulas ordinarias, se especificará claramente que los gastos de repatriación quedan a cargo del empresario contratante.
 
-XXVII. 	Serán condiciones nulas y no obligarán a los contrayentes, aunque se expresen en el contrato:
+XXVII.   Serán condiciones nulas y no obligarán a los contrayentes, aunque se expresen en el contrato:
 
-a) 	Las que estipulen una jornada inhumana por lo notoriamente excesiva, dada la índole del trabajo.
+a)   Las que estipulen una jornada inhumana por lo notoriamente excesiva, dada la índole del trabajo.
 
-b)	Las que fijen un salario que no sea remunerador a juicio de los tribunales laborales.
+b)  Las que fijen un salario que no sea remunerador a juicio de los tribunales laborales.
 Inciso reformado DOF 24-02-2017
 
-c) 	Las que estipulen un plazo mayor de una semana para la percepción del jornal.
+c)   Las que estipulen un plazo mayor de una semana para la percepción del jornal.
 
-d) 	Las que señalen un lugar de recreo, fonda, café, taberna, cantina o tienda para efectuar el pago del salario, cuando no se trate de empleados en esos establecimientos.
+d)   Las que señalen un lugar de recreo, fonda, café, taberna, cantina o tienda para efectuar el pago del salario, cuando no se trate de empleados en esos establecimientos.
 
-e) 	Las que entrañen obligación directa o indirecta de adquirir los artículos de consumo en tiendas o lugares determinados.
+e)   Las que entrañen obligación directa o indirecta de adquirir los artículos de consumo en tiendas o lugares determinados.
 
-f) 	Las que permitan retener el salario en concepto de multa.
+f)   Las que permitan retener el salario en concepto de multa.
 
-g) 	Las que constituyan renuncia hecha por el obrero de las indemnizaciones a que tenga derecho por accidente del trabajo, y enfermedades profesionales, perjuicios ocasionados por el incumplimiento del contrato o despedírsele de la obra.
+g)   Las que constituyan renuncia hecha por el obrero de las indemnizaciones a que tenga derecho por accidente del trabajo, y enfermedades profesionales, perjuicios ocasionados por el incumplimiento del contrato o despedírsele de la obra.
 
-h) 	Todas las demás estipulaciones que impliquen renuncia de algún derecho consagrado a favor del obrero en las leyes de protección y auxilio a los trabajadores.
+h)   Todas las demás estipulaciones que impliquen renuncia de algún derecho consagrado a favor del obrero en las leyes de protección y auxilio a los trabajadores.
 
-XXVIII. 	Las leyes determinarán los bienes que constituyan el patrimonio de la familia, bienes que serán inalienables, no podrán sujetarse a gravámenes reales ni embargos, y serán transmisibles a título de herencia con simplificación de las formalidades de los juicios sucesorios.
+XXVIII.   Las leyes determinarán los bienes que constituyan el patrimonio de la familia, bienes que serán inalienables, no podrán sujetarse a gravámenes reales ni embargos, y serán transmisibles a título de herencia con simplificación de las formalidades de los juicios sucesorios.
 
-XXIX. 	Es de utilidad pública la Ley del Seguro Social, y ella comprenderá seguros de invalidez, de vejez, de vida, de cesación involuntaria del trabajo, de enfermedades y accidentes, de servicios de guardería y cualquier otro encaminado a la protección y bienestar de los trabajadores, campesinos, no asalariados y otros sectores sociales y sus familiares.
+XXIX.   Es de utilidad pública la Ley del Seguro Social, y ella comprenderá seguros de invalidez, de vejez, de vida, de cesación involuntaria del trabajo, de enfermedades y accidentes, de servicios de guardería y cualquier otro encaminado a la protección y bienestar de los trabajadores, campesinos, no asalariados y otros sectores sociales y sus familiares.
 Fracción reformada DOF 06-09-1929, 31-12-1974
 
-XXX. 	Asimismo serán consideradas de utilidad social, las sociedades cooperativas para la construcción de casas baratas e higiénicas, destinadas a ser adquiridas en propiedad, por los trabajadores en plazos determinados.
+XXX.   Asimismo serán consideradas de utilidad social, las sociedades cooperativas para la construcción de casas baratas e higiénicas, destinadas a ser adquiridas en propiedad, por los trabajadores en plazos determinados.
 
-XXXI. 	La aplicación de las leyes del trabajo corresponde a las autoridades de las entidades federativas, de sus respectivas jurisdicciones, pero es de la competencia exclusiva de las autoridades federales en los asuntos relativos a:
+XXXI.   La aplicación de las leyes del trabajo corresponde a las autoridades de las entidades federativas, de sus respectivas jurisdicciones, pero es de la competencia exclusiva de las autoridades federales en los asuntos relativos a:
 Párrafo reformado DOF 29-01-2016
 
-a) 	Ramas industriales y servicios.
+a)   Ramas industriales y servicios.
 Encabezado de inciso reformado DOF 27-06-1990
 
-1. 	Textil;
+1.   Textil;
 
-2. 	Eléctrica;
+2.   Eléctrica;
 
-3. 	Cinematográfica;
+3.   Cinematográfica;
 
-4. 	Hulera;
+4.   Hulera;
 
-5. 	Azucarera;
+5.   Azucarera;
 
-6. 	Minera;
+6.   Minera;
 
-7. 	Metalúrgica y siderúrgica, abarcando la explotación de los minerales básicos, el beneficio y la fundición de los mismos, así como la obtención de hierro metálico y acero a todas sus formas y ligas y los productos laminados de los mismos;
+7.   Metalúrgica y siderúrgica, abarcando la explotación de los minerales básicos, el beneficio y la fundición de los mismos, así como la obtención de hierro metálico y acero a todas sus formas y ligas y los productos laminados de los mismos;
 
-8. 	De hidrocarburos;
+8.   De hidrocarburos;
 
-9. 	Petroquímica;
+9.   Petroquímica;
 
-10. 	Cementera;
+10.   Cementera;
 
-11. 	Calera;
+11.   Calera;
 
-12. 	Automotriz, incluyendo autopartes mecánicas o eléctricas;
+12.   Automotriz, incluyendo autopartes mecánicas o eléctricas;
 
-13. 	Química, incluyendo la química farmacéutica y medicamentos;
+13.   Química, incluyendo la química farmacéutica y medicamentos;
 
-14. 	De celulosa y papel;
+14.   De celulosa y papel;
 
-15. 	De aceites y grasas vegetales;
+15.   De aceites y grasas vegetales;
 
-16. 	Productora de alimentos, abarcando exclusivamente la fabricación de los que sean empacados, enlatados o envasados o que se destinen a ello;
+16.   Productora de alimentos, abarcando exclusivamente la fabricación de los que sean empacados, enlatados o envasados o que se destinen a ello;
 
-17. 	Elaboradora de bebidas que sean envasadas o enlatadas o que se destinen a ello;
+17.   Elaboradora de bebidas que sean envasadas o enlatadas o que se destinen a ello;
 
-18. 	Ferrocarrilera;
+18.   Ferrocarrilera;
 
-19. 	Maderera básica, que comprende la producción de aserradero y la fabricación de triplay o aglutinados de madera;
+19.   Maderera básica, que comprende la producción de aserradero y la fabricación de triplay o aglutinados de madera;
 Fe de erratas al numeral DOF 13-01-1978
 
-20. 	Vidriera, exclusivamente por lo que toca a la fabricación de vidrio plano, liso o labrado, o de envases de vidrio; y
+20.   Vidriera, exclusivamente por lo que toca a la fabricación de vidrio plano, liso o labrado, o de envases de vidrio; y
 
-21. 	Tabacalera, que comprende el beneficio o fabricación de productos de tabaco;
+21.   Tabacalera, que comprende el beneficio o fabricación de productos de tabaco;
 
-22. 	Servicios de banca y crédito.
+22.   Servicios de banca y crédito.
 Numeral adicionado DOF 27-06-1990
 
-b) 	Empresas:
+b)   Empresas:
 
-1. 	Aquéllas que sean administradas en forma directa o descentralizada por el Gobierno Federal;
+1.   Aquéllas que sean administradas en forma directa o descentralizada por el Gobierno Federal;
 
-2. 	Aquéllas que actúen en virtud de un contrato o concesión federal y las industrias que les sean conexas; y
+2.   Aquéllas que actúen en virtud de un contrato o concesión federal y las industrias que les sean conexas; y
 
-3. 	Aquéllas que ejecuten trabajos en zonas federales o que se encuentren bajo jurisdicción federal, en las aguas territoriales o en las comprendidas en la zona económica exclusiva de la Nación.
+3.   Aquéllas que ejecuten trabajos en zonas federales o que se encuentren bajo jurisdicción federal, en las aguas territoriales o en las comprendidas en la zona económica exclusiva de la Nación.
 
-c)	Materias:
+c)  Materias:
 
-1.	El registro de todos los contratos colectivos de trabajo y las organizaciones sindicales, así como todos los procesos administrativos relacionados;
+1.  El registro de todos los contratos colectivos de trabajo y las organizaciones sindicales, así como todos los procesos administrativos relacionados;
 
-2.	La aplicación de las disposiciones de trabajo en los asuntos relativos a conflictos que afecten a dos o más entidades federativas;
+2.  La aplicación de las disposiciones de trabajo en los asuntos relativos a conflictos que afecten a dos o más entidades federativas;
 
-3.	Contratos colectivos que hayan sido declarados obligatorios en más de una entidad federativa;
+3.  Contratos colectivos que hayan sido declarados obligatorios en más de una entidad federativa;
 
-4.	Obligaciones patronales en materia educativa, en los términos de ley, y
+4.  Obligaciones patronales en materia educativa, en los términos de ley, y
 
-5.	Obligaciones de los patrones en materia de capacitación y adiestramiento de sus trabajadores, así como de seguridad e higiene en los centros de trabajo, para lo cual, las autoridades federales contarán con el auxilio de las estatales, cuando se trate de ramas o actividades de jurisdicción local, en los términos de la ley correspondiente.
+5.  Obligaciones de los patrones en materia de capacitación y adiestramiento de sus trabajadores, así como de seguridad e higiene en los centros de trabajo, para lo cual, las autoridades federales contarán con el auxilio de las estatales, cuando se trate de ramas o actividades de jurisdicción local, en los términos de la ley correspondiente.
 Inciso adicionado DOF 24-02-2017
 Reforma DOF 24-02-2017: Derogó de la fracción el entonces párrafo segundo
 Fracción adicionada DOF 18-11-1942. Reformada DOF 21-11-1962, 06-02-1975. Fe de erratas DOF 17-03-1975. Reformada DOF 09-01-1978
 
-B. 	Entre los Poderes de la Unión y sus trabajadores:
+B.   Entre los Poderes de la Unión y sus trabajadores:
 Párrafo reformado DOF 08-10-1974, 29-01-2016
 
-I. 	La jornada diaria máxima de trabajo diurna y nocturna será de ocho y siete horas respectivamente. Las que excedan serán extraordinarias y se pagarán con un ciento por ciento más de la remuneración fijada para el servicio ordinario. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias ni de tres veces consecutivas;
+I.   La jornada diaria máxima de trabajo diurna y nocturna será de ocho y siete horas respectivamente. Las que excedan serán extraordinarias y se pagarán con un ciento por ciento más de la remuneración fijada para el servicio ordinario. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias ni de tres veces consecutivas;
 
-II. 	Por cada seis días de trabajo, disfrutará el trabajador de un día de descanso, cuando menos, con goce de salario íntegro;
+II.   Por cada seis días de trabajo, disfrutará el trabajador de un día de descanso, cuando menos, con goce de salario íntegro;
 
-III. 	Los trabajadores gozarán de vacaciones que nunca serán menores de veinte días al año;
+III.   Los trabajadores gozarán de vacaciones que nunca serán menores de veinte días al año;
 
-IV. 	Los salarios serán fijados en los presupuestos respectivos sin que su cuantía pueda ser disminuida durante la vigencia de éstos, sujetándose a lo dispuesto en el artículo 127 de esta Constitución y en la ley.
+IV.   Los salarios serán fijados en los presupuestos respectivos sin que su cuantía pueda ser disminuida durante la vigencia de éstos, sujetándose a lo dispuesto en el artículo 127 de esta Constitución y en la ley.
 Párrafo reformado DOF 24-08-2009
 
 En ningún caso los salarios podrán ser inferiores al mínimo para los trabajadores en general en las entidades federativas.
 Párrafo reformado DOF 29-01-2016
 Fracción reformada DOF 27-11-1961
 
-V. 	A trabajo igual corresponderá salario igual, sin tener en cuenta el sexo ni género. Las leyes establecerán los mecanismos tendientes a reducir y erradicar la brecha salarial de género;
+V.   A trabajo igual corresponderá salario igual, sin tener en cuenta el sexo ni género. Las leyes establecerán los mecanismos tendientes a reducir y erradicar la brecha salarial de género;
 Fracción reformada DOF 15-11-2024
 
-VI. 	Sólo podrán hacerse retenciones, descuentos, deducciones o embargos al salario, en los casos previstos en las leyes;
+VI.   Sólo podrán hacerse retenciones, descuentos, deducciones o embargos al salario, en los casos previstos en las leyes;
 
-VII. 	La designación del personal se hará mediante sistemas que permitan apreciar los conocimientos y aptitudes de los aspirantes. El Estado organizará escuelas de Administración Pública;
+VII.   La designación del personal se hará mediante sistemas que permitan apreciar los conocimientos y aptitudes de los aspirantes. El Estado organizará escuelas de Administración Pública;
 
-VIII. 	Los trabajadores gozarán de derechos de escalafón a fin de que los ascensos se otorguen en función de los conocimientos, aptitudes y antigüedad. En igualdad de condiciones, tendrá prioridad quien represente la única fuente de ingreso en su familia;
+VIII.   Los trabajadores gozarán de derechos de escalafón a fin de que los ascensos se otorguen en función de los conocimientos, aptitudes y antigüedad. En igualdad de condiciones, tendrá prioridad quien represente la única fuente de ingreso en su familia;
 Fracción reformada DOF 31-12-1974
 
 XI (sic 05-12-1960). Los trabajadores sólo podrán ser suspendidos o cesados por causa justificada, en los términos que fije la ley.
 
 En caso de separación injustificada tendrá derecho a optar por la reinstalación en su trabajo o por la indemnización correspondiente, previo el procedimiento legal. En los casos de supresión de plazas, los trabajadores afectados tendrán derecho a que se les otorgue otra equivalente a la suprimida o a la indemnización de ley;
 
-X. 	Los trabajadores tendrán el derecho de asociarse para la defensa de sus intereses comunes. Podrán, asimismo, hacer uso del derecho de huelga previo el cumplimiento de los requisitos que determine la ley, respecto de una o varias dependencias de los Poderes Públicos, cuando se violen de manera general y sistemática los derechos que este artículo les consagra;
+X.   Los trabajadores tendrán el derecho de asociarse para la defensa de sus intereses comunes. Podrán, asimismo, hacer uso del derecho de huelga previo el cumplimiento de los requisitos que determine la ley, respecto de una o varias dependencias de los Poderes Públicos, cuando se violen de manera general y sistemática los derechos que este artículo les consagra;
 
-XI. 	La seguridad social se organizará conforme a las siguientes bases mínimas:
+XI.   La seguridad social se organizará conforme a las siguientes bases mínimas:
 
-a) 	Cubrirá los accidentes y enfermedades profesionales; las enfermedades no profesionales y maternidad; y la jubilación, la invalidez, vejez y muerte.
+a)   Cubrirá los accidentes y enfermedades profesionales; las enfermedades no profesionales y maternidad; y la jubilación, la invalidez, vejez y muerte.
 
-b) 	En caso de accidente o enfermedad, se conservará el derecho al trabajo por el tiempo que determine la ley.
+b)   En caso de accidente o enfermedad, se conservará el derecho al trabajo por el tiempo que determine la ley.
 
-c) 	Las mujeres durante el embarazo no realizarán trabajos que exijan un esfuerzo considerable y signifiquen un peligro para su salud en relación con la gestación; gozarán forzosamente de un mes de descanso antes de la fecha fijada aproximadamente para el parto y de otros dos después del mismo, debiendo percibir su salario íntegro y conservar su empleo y los derechos que hubieren adquirido por la relación de trabajo. En el período de lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos. Además, disfrutarán de asistencia médica y obstétrica, de medicinas, de ayudas para la lactancia y del servicio de guarderías infantiles.
+c)   Las mujeres durante el embarazo no realizarán trabajos que exijan un esfuerzo considerable y signifiquen un peligro para su salud en relación con la gestación; gozarán forzosamente de un mes de descanso antes de la fecha fijada aproximadamente para el parto y de otros dos después del mismo, debiendo percibir su salario íntegro y conservar su empleo y los derechos que hubieren adquirido por la relación de trabajo. En el período de lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos. Además, disfrutarán de asistencia médica y obstétrica, de medicinas, de ayudas para la lactancia y del servicio de guarderías infantiles.
 Inciso reformado DOF 31-12-1974
 
-d) 	Los familiares de los trabajadores tendrán derecho a asistencia médica y medicinas, en los casos y en la proporción que determine la ley.
+d)   Los familiares de los trabajadores tendrán derecho a asistencia médica y medicinas, en los casos y en la proporción que determine la ley.
 
-e) 	Se establecerán centros para vacaciones y para recuperación, así como tiendas económicas para beneficio de los trabajadores y sus familiares.
+e)   Se establecerán centros para vacaciones y para recuperación, así como tiendas económicas para beneficio de los trabajadores y sus familiares.
 
-f) 	Se proporcionarán a los trabajadores habitaciones baratas, en arrendamiento o venta, conforme a los programas previamente aprobados. Además, el Estado mediante las aportaciones que haga, establecerá un fondo nacional de la vivienda a fin de constituir depósitos en favor de dichos trabajadores y establecer un sistema de financiamiento que permita otorgar a éstos crédito barato y suficiente para que adquieran en propiedad habitaciones cómodas e higiénicas, o bien para construirlas, repararlas, mejorarlas o pagar pasivos adquiridos por estos conceptos.
+f)   Se proporcionarán a los trabajadores habitaciones baratas, en arrendamiento o venta, conforme a los programas previamente aprobados. Además, el Estado mediante las aportaciones que haga, establecerá un fondo nacional de la vivienda a fin de constituir depósitos en favor de dichos trabajadores y establecer un sistema de financiamiento que permita otorgar a éstos crédito barato y suficiente para que adquieran en propiedad habitaciones cómodas e higiénicas, o bien para construirlas, repararlas, mejorarlas o pagar pasivos adquiridos por estos conceptos.
 
 Las aportaciones que se hagan a dicho fondo serán enteradas al organismo encargado de la seguridad social regulándose en su Ley y en las que corresponda, la forma y el procedimiento conforme a los cuales se administrará el citado fondo y se otorgarán y adjudicarán los créditos respectivos.
 Inciso reformado DOF 10-11-1972
 
-XII. 	Los conflictos individuales, colectivos o intersindicales serán sometidos a un Tribunal Federal de Conciliación y Arbitraje integrado según lo prevenido en la ley reglamentaria. Asimismo, conocerá de los asuntos relacionados con el acceso a la información pública de los sindicatos de los trabajadores al servicio del Estado y de los recursos de revisión que interpongan los particulares respecto de las resoluciones de los mismos.
+XII.   Los conflictos individuales, colectivos o intersindicales serán sometidos a un Tribunal Federal de Conciliación y Arbitraje integrado según lo prevenido en la ley reglamentaria. Asimismo, conocerá de los asuntos relacionados con el acceso a la información pública de los sindicatos de los trabajadores al servicio del Estado y de los recursos de revisión que interpongan los particulares respecto de las resoluciones de los mismos.
 Párrafo reformado DOF 20-12-2024
 
 Los conflictos entre el Poder Judicial de la Federación y sus servidores, así como los que se susciten entre la Suprema Corte de Justicia y sus empleados, serán resueltos por el Tribunal de Disciplina Judicial.
 Párrafo reformado DOF 31-12-1994, 15-09-2024. Publicado sin cambios DOF 20-12-2024
 
-XIII. 	Los militares, marinos, integrantes de la Guardia Nacional, personal del servicio exterior, agentes del Ministerio Público, peritos y los miembros de las instituciones policiales, se regirán por sus propias leyes.
+XIII.   Los militares, marinos, integrantes de la Guardia Nacional, personal del servicio exterior, agentes del Ministerio Público, peritos y los miembros de las instituciones policiales, se regirán por sus propias leyes.
 Párrafo reformado DOF 30-09-2024
 
 Los agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales de la Federación, las entidades federativas y los Municipios, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dichas instituciones, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
@@ -4079,7 +4081,7 @@ Fracción reformada DOF 10-11-1972, 08-03-1999, 18-06-2008
 XIII bis. El banco central y las entidades de la Administración Pública Federal que formen parte del sistema bancario mexicano regirán sus relaciones laborales con sus trabajadores por lo dispuesto en el presente Apartado.
 Fracción adicionada DOF 17-11-1982. Reformada DOF 27-06-1990, 20-08-1993
 
-XIV. 	La ley determinará los cargos que serán considerados de confianza. Las personas que los desempeñen disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social.
+XIV.   La ley determinará los cargos que serán considerados de confianza. Las personas que los desempeñen disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social.
 Apartado B con fracciones adicionado DOF 05-12-1960
 
 Título Séptimo
@@ -4099,17 +4101,17 @@ Párrafo reformado DOF 29-01-2016
 
 Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
 
-I. 	Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+I.   Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
 
-II. 	Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Presidente de la República en el presupuesto correspondiente.
+II.   Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Presidente de la República en el presupuesto correspondiente.
 
-III. 	Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República en el presupuesto correspondiente.
+III.   Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República en el presupuesto correspondiente.
 
-IV. 	No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+IV.   No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
 
-V. 	Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
+V.   Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
-VI. 	El Congreso de la Unión y las Legislaturas de las entidades federativas, en el ámbito de sus competencias, expedirán las leyes para hacer efectivo el contenido del presente artículo y las disposiciones constitucionales relativas, y para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este artículo.
+VI.   El Congreso de la Unión y las Legislaturas de las entidades federativas, en el ámbito de sus competencias, expedirán las leyes para hacer efectivo el contenido del presente artículo y las disposiciones constitucionales relativas, y para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este artículo.
 Fracción reformada DOF 29-01-2016
 Artículo reformado DOF 28-12-1982, 10-08-1987, 24-08-2009
 
@@ -5438,13 +5440,13 @@ Artículo Tercero. El Congreso de la Unión deberá realizar las adecuaciones qu
 
 Artículo Cuarto. Para los efectos de lo establecido en el tercer párrafo de la base V del artículo 41 de esta Constitución, en un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor del presente Decreto, la Cámara de Diputados procederá a integrar el Consejo General del Instituto Federal Electoral conforme a las siguientes bases:
 
-a)	Elegirá a un nuevo consejero Presidente, cuyo mandato concluirá el 30 de octubre de 2013; llegado el caso, el así nombrado podrá ser reelecto por una sola vez, en los términos de lo establecido en el citado párrafo tercero del artículo 41 de esta Constitución;
+a)  Elegirá a un nuevo consejero Presidente, cuyo mandato concluirá el 30 de octubre de 2013; llegado el caso, el así nombrado podrá ser reelecto por una sola vez, en los términos de lo establecido en el citado párrafo tercero del artículo 41 de esta Constitución;
 
-b)	Elegirá, dos nuevos consejeros electorales, cuyo mandato concluirá el 30 de octubre de 2016.
+b)  Elegirá, dos nuevos consejeros electorales, cuyo mandato concluirá el 30 de octubre de 2016.
 
-c)	Elegirá, de entre los ocho consejeros electorales en funciones a la entrada en vigor de este Decreto, a tres que concluirán su mandato el 15 de agosto de 2008 y a tres que continuarán en su encargo hasta el 30 de octubre de 2010;
+c)  Elegirá, de entre los ocho consejeros electorales en funciones a la entrada en vigor de este Decreto, a tres que concluirán su mandato el 15 de agosto de 2008 y a tres que continuarán en su encargo hasta el 30 de octubre de 2010;
 
-d)	A más tardar el 15 de agosto de 2008, elegirá a tres nuevos consejeros electorales que concluirán su mandato el 30 de octubre de 2013.
+d)  A más tardar el 15 de agosto de 2008, elegirá a tres nuevos consejeros electorales que concluirán su mandato el 30 de octubre de 2013.
 
 Los consejeros electorales y el consejero Presidente del Consejo General del Instituto Federal Electoral, en funciones a la entrada en vigor del presente Decreto, continuarán en sus cargos hasta en tanto la Cámara de Diputados da cumplimiento a lo dispuesto en el presente artículo. Queda sin efectos el nombramiento de consejeros electorales suplentes del Consejo General del Instituto Federal Electoral establecido por el Decreto publicado en el Diario Oficial de la Federación de fecha 31 de octubre de 2003.
 
@@ -5688,11 +5690,11 @@ Segundo. Las remuneraciones que en el actual ejercicio sean superiores a la máx
 
 Tercero. A partir del ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto las percepciones de los ministros de la Suprema Corte de Justicia de la Nación, los magistrados del Tribunal Electoral del Poder Judicial de la Federación, los magistrados de Circuito, los jueces de Distrito, los consejeros de la Judicatura Federal, los integrantes del Consejo General del Instituto Federal Electoral y los magistrados y jueces de los Poderes Judiciales Estatales, que actualmente estén en funciones, se sujetarán a lo siguiente:
 
-a)	Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en la base II del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, se mantendrán durante el tiempo que dure su encargo.
+a)  Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en la base II del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, se mantendrán durante el tiempo que dure su encargo.
 
-b)	Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier remuneración en dinero o especie, sólo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en la base II del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+b)  Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier remuneración en dinero o especie, sólo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en la base II del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
 
-c)	Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
+c)  Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
 
 Cuarto. El Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de su competencia, deberán expedir o adecuar la legislación, de conformidad con los términos del presente Decreto, dentro de un plazo de 180 días naturales siguientes a su entrada en vigor.
 
@@ -6017,11 +6019,11 @@ Segundo. El Ejecutivo Federal someterá a la Cámara de Senadores las ternas par
 
 Para asegurar la renovación escalonada de los integrantes, los primeros nombramientos se realizarán por los periodos siguientes:
 
-I.	Dos nombramientos por un periodo de cinco años;
+I.  Dos nombramientos por un periodo de cinco años;
 
-II.	Dos nombramientos por un periodo de seis años, y
+II.  Dos nombramientos por un periodo de seis años, y
 
-III.	Un nombramiento por un periodo de siete.
+III.  Un nombramiento por un periodo de siete.
 
 El Ejecutivo Federal deberá determinar el periodo que corresponda a cada uno de los miembros, al someter su designación a la aprobación de la Cámara de Senadores.
 
@@ -6327,9 +6329,9 @@ El organismo deberá someter a consideración de la Secretaría del ramo en mate
 
 La Secretaría del ramo en materia de Energía revisará la solicitud, con la asistencia técnica de la Comisión Nacional de Hidrocarburos, y emitirá la resolución correspondiente dentro del plazo de ciento ochenta días naturales posteriores a la fecha de la solicitud de Petróleos Mexicanos, estableciendo en la misma la superficie, profundidad y vigencia de las asignaciones procedentes. Lo anterior tomando en cuenta, entre otros, los siguientes aspectos:
 
-a)	Para asignaciones de exploración de hidrocarburos: en las áreas en las que, a la fecha de entrada en vigor del presente Decreto, Petróleos Mexicanos haya realizado descubrimientos comerciales o inversiones en exploración, será posible que, con base en su capacidad de inversión y sujeto a un plan claramente establecido de exploración de cada área asignada, continúe con los trabajos en un plazo de tres años, prorrogables por un período máximo de dos años en función de las características técnicas del campo de que se trate y del cumplimiento de dicho plan de exploración, y en caso de éxito, que continúe con las actividades de extracción. De no cumplirse con el plan de exploración, el área en cuestión deberá revertirse al Estado.
+a)  Para asignaciones de exploración de hidrocarburos: en las áreas en las que, a la fecha de entrada en vigor del presente Decreto, Petróleos Mexicanos haya realizado descubrimientos comerciales o inversiones en exploración, será posible que, con base en su capacidad de inversión y sujeto a un plan claramente establecido de exploración de cada área asignada, continúe con los trabajos en un plazo de tres años, prorrogables por un período máximo de dos años en función de las características técnicas del campo de que se trate y del cumplimiento de dicho plan de exploración, y en caso de éxito, que continúe con las actividades de extracción. De no cumplirse con el plan de exploración, el área en cuestión deberá revertirse al Estado.
 
-b)	Para asignaciones de extracción de hidrocarburos: Petróleos Mexicanos mantendrá sus derechos en cada uno de los campos que se encuentren en producción a la fecha de entrada en vigor del presente Decreto. Deberá presentar un plan de desarrollo de dichos campos que incluya descripciones de los trabajos e inversiones a realizar, justificando su adecuado aprovechamiento y una producción eficiente y competitiva.
+b)  Para asignaciones de extracción de hidrocarburos: Petróleos Mexicanos mantendrá sus derechos en cada uno de los campos que se encuentren en producción a la fecha de entrada en vigor del presente Decreto. Deberá presentar un plan de desarrollo de dichos campos que incluya descripciones de los trabajos e inversiones a realizar, justificando su adecuado aprovechamiento y una producción eficiente y competitiva.
 
 Para la determinación de las características establecidas en cada asignación de extracción de hidrocarburos se considerará la coexistencia de distintos campos en un área determinada. Con base en lo anterior, se podrá establecer la profundidad específica para cada asignación, de forma que las actividades extractivas puedan ser realizadas, por separado, en aquellos campos que se ubiquen en una misma área pero a diferente profundidad, con el fin de maximizar el desarrollo de recursos prospectivos en beneficio de la Nación.
 
@@ -6357,21 +6359,21 @@ Noveno. Dentro del plazo previsto en el transitorio cuarto del presente Decreto,
 
 Asimismo, la ley preverá y regulará:
 
-a)	Que los contratos cuenten con cláusulas de transparencia, que posibiliten que cualquier interesado los pueda consultar;
+a)  Que los contratos cuenten con cláusulas de transparencia, que posibiliten que cualquier interesado los pueda consultar;
 
-b)	Un sistema de auditorías externas para supervisar la efectiva recuperación, en su caso, de los costos incurridos y demás contabilidad involucrada en la operación de los contratos, y
+b)  Un sistema de auditorías externas para supervisar la efectiva recuperación, en su caso, de los costos incurridos y demás contabilidad involucrada en la operación de los contratos, y
 
-c)	La divulgación de las contraprestaciones, contribuciones y pagos previstos en los contratos.
+c)  La divulgación de las contraprestaciones, contribuciones y pagos previstos en los contratos.
 
 Décimo. Dentro del plazo previsto en el transitorio cuarto del presente Decreto, el Congreso de la Unión realizará las adecuaciones que resulten necesarias al marco jurídico a fin de establecer, entre otras, las siguientes atribuciones de las dependencias y órganos de la Administración Pública Federal:
 
-a)	A la Secretaría del ramo en materia de Energía: establecer, conducir y coordinar la política energética, la adjudicación de asignaciones y la selección de áreas que podrán ser objeto de los contratos a que se refiere el párrafo séptimo del artículo 27 de esta Constitución, con la asistencia técnica de la Comisión Nacional de Hidrocarburos; el diseño técnico de dichos contratos y los lineamientos técnicos que deberán observarse en el proceso de licitación; así como el otorgamiento de permisos para el tratamiento y refinación del petróleo, y procesamiento de gas natural. En materia de electricidad, establecerá los términos de estricta separación legal que se requieren para fomentar el acceso abierto y la operación eficiente del sector eléctrico y vigilará su cumplimiento.
+a)  A la Secretaría del ramo en materia de Energía: establecer, conducir y coordinar la política energética, la adjudicación de asignaciones y la selección de áreas que podrán ser objeto de los contratos a que se refiere el párrafo séptimo del artículo 27 de esta Constitución, con la asistencia técnica de la Comisión Nacional de Hidrocarburos; el diseño técnico de dichos contratos y los lineamientos técnicos que deberán observarse en el proceso de licitación; así como el otorgamiento de permisos para el tratamiento y refinación del petróleo, y procesamiento de gas natural. En materia de electricidad, establecerá los términos de estricta separación legal que se requieren para fomentar el acceso abierto y la operación eficiente del sector eléctrico y vigilará su cumplimiento.
 
-b)	A la Comisión Nacional de Hidrocarburos: la prestación de asesoría técnica a la Secretaría del ramo en materia de Energía; la recopilación de información geológica y operativa; la autorización de servicios de reconocimiento y exploración superficial; la realización de las licitaciones, asignación de ganadores y suscripción de los contratos para las actividades de exploración y extracción de hidrocarburos sólidos, líquidos o gaseosos; la administración en materia técnica de asignaciones y contratos; la supervisión de los planes de extracción que maximicen la productividad del campo en el tiempo, y la regulación en materia de exploración y extracción de hidrocarburos.
+b)  A la Comisión Nacional de Hidrocarburos: la prestación de asesoría técnica a la Secretaría del ramo en materia de Energía; la recopilación de información geológica y operativa; la autorización de servicios de reconocimiento y exploración superficial; la realización de las licitaciones, asignación de ganadores y suscripción de los contratos para las actividades de exploración y extracción de hidrocarburos sólidos, líquidos o gaseosos; la administración en materia técnica de asignaciones y contratos; la supervisión de los planes de extracción que maximicen la productividad del campo en el tiempo, y la regulación en materia de exploración y extracción de hidrocarburos.
 
-c)	A la Comisión Reguladora de Energía: en materia de hidrocarburos, la regulación y el otorgamiento de permisos para el almacenamiento, el transporte y la distribución por ductos de petróleo, gas, petrolíferos y petroquímicos; la regulación de acceso de terceros a los ductos de transporte y al almacenamiento de hidrocarburos y sus derivados, y la regulación de las ventas de primera mano de dichos productos. En materia de electricidad, la regulación y el otorgamiento de permisos para la generación, así como las tarifas de porteo para transmisión y distribución.
+c)  A la Comisión Reguladora de Energía: en materia de hidrocarburos, la regulación y el otorgamiento de permisos para el almacenamiento, el transporte y la distribución por ductos de petróleo, gas, petrolíferos y petroquímicos; la regulación de acceso de terceros a los ductos de transporte y al almacenamiento de hidrocarburos y sus derivados, y la regulación de las ventas de primera mano de dichos productos. En materia de electricidad, la regulación y el otorgamiento de permisos para la generación, así como las tarifas de porteo para transmisión y distribución.
 
-d)	A la Secretaría del ramo en materia de Hacienda, entre otras, el establecimiento de las condiciones económicas de las licitaciones y de los contratos a que se refiere el presente Decreto relativas a los términos fiscales que permitan a la Nación obtener en el tiempo ingresos que contribuyan a su desarrollo de largo plazo.
+d)  A la Secretaría del ramo en materia de Hacienda, entre otras, el establecimiento de las condiciones económicas de las licitaciones y de los contratos a que se refiere el presente Decreto relativas a los términos fiscales que permitan a la Nación obtener en el tiempo ingresos que contribuyan a su desarrollo de largo plazo.
 
 La ley establecerá los actos u omisiones que den lugar a la imposición de sanciones, el procedimiento para ello, así como las atribuciones de cada dependencia u órgano para imponerlas y ejecutarlas.
 
@@ -6383,11 +6385,11 @@ Décimo Primero. Dentro del plazo previsto en el transitorio cuarto del presente
 
 Décimo Segundo. Dentro del mismo plazo previsto en el transitorio cuarto del presente Decreto, el Congreso de la Unión realizará las adecuaciones al marco jurídico para que la Comisión Nacional de Hidrocarburos y la Comisión Reguladora de Energía, se conviertan en órganos reguladores coordinados en la materia, con personalidad jurídica propia, autonomía técnica y de gestión; asimismo, podrán disponer de los ingresos derivados de las contribuciones y aprovechamientos que la ley establezca por sus servicios en la emisión y administración de los permisos, autorizaciones, asignaciones y contratos, así como por los servicios relacionados con el Centro Nacional de Información de Hidrocarburos, que correspondan conforme a sus atribuciones, para financiar un presupuesto total que les permita cumplir con sus atribuciones. Para lo anterior, las leyes preverán, al menos:
 
-a)	Que si al finalizar el ejercicio presupuestario, existiera saldo remanente de ingresos propios excedentes, la comisión respectiva instruirá su transferencia a un fideicomiso constituido para cada una de éstas por la Secretaría del ramo en materia de Energía, donde una institución de la banca de desarrollo operará como fiduciario.
+a)  Que si al finalizar el ejercicio presupuestario, existiera saldo remanente de ingresos propios excedentes, la comisión respectiva instruirá su transferencia a un fideicomiso constituido para cada una de éstas por la Secretaría del ramo en materia de Energía, donde una institución de la banca de desarrollo operará como fiduciario.
 
-b)	Que las comisiones respectivas instruirán al fiduciario la aplicación de los recursos de estos fideicomisos a la cobertura de gastos necesarios para cumplir con sus funciones en posteriores ejercicios respetando los principios a los que hace referencia el artículo 134 de esta Constitución y estando sujetos a la evaluación y el control de los entes fiscalizadores del Estado.
+b)  Que las comisiones respectivas instruirán al fiduciario la aplicación de los recursos de estos fideicomisos a la cobertura de gastos necesarios para cumplir con sus funciones en posteriores ejercicios respetando los principios a los que hace referencia el artículo 134 de esta Constitución y estando sujetos a la evaluación y el control de los entes fiscalizadores del Estado.
 
-c)	En el caso de la Comisión Nacional de Hidrocarburos, se dará prioridad al desarrollo y mantenimiento del Centro Nacional de Información de Hidrocarburos, mismo que contendrá al menos la información de los estudios sísmicos, así como los núcleos de roca, obtenidos de los trabajos de exploración y extracción de hidrocarburos del país.
+c)  En el caso de la Comisión Nacional de Hidrocarburos, se dará prioridad al desarrollo y mantenimiento del Centro Nacional de Información de Hidrocarburos, mismo que contendrá al menos la información de los estudios sísmicos, así como los núcleos de roca, obtenidos de los trabajos de exploración y extracción de hidrocarburos del país.
 
 Los fideicomisos no podrán acumular recursos superiores al equivalente de tres veces el presupuesto anual de la Comisión de que se trate, tomando como referencia el presupuesto aprobado para el último ejercicio fiscal. En caso de que existan recursos adicionales, éstos serán transferidos a la Tesorería de la Federación.
 
@@ -6407,25 +6409,25 @@ Décimo Cuarto. El Fondo Mexicano del Petróleo para la Estabilización y el Des
 
 El Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo será el encargado de recibir todos los ingresos, con excepción de los impuestos, que correspondan al Estado Mexicano derivados de las asignaciones y contratos a que se refiere el párrafo séptimo del artículo 27 de esta Constitución. Los ingresos se administrarán y distribuirán conforme a la siguiente prelación y conforme se establezca en la ley para:
 
-1.	Realizar los pagos establecidos en dichas asignaciones y contratos.
+1.  Realizar los pagos establecidos en dichas asignaciones y contratos.
 
-2.	Realizar las transferencias a los Fondos de Estabilización de los Ingresos Petroleros y de Estabilización de los Ingresos de las Entidades Federativas. Una vez que el Fondo de Estabilización de los Ingresos Petroleros, o su equivalente, haya alcanzado su límite máximo, los recursos asignados al Fondo se destinarán al ahorro de largo plazo mencionado en el numeral 5. Dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión realizará las adecuaciones que resulten necesarias al marco jurídico en materia del límite máximo del Fondo de Estabilización de los Ingresos Petroleros y del Derecho sobre Hidrocarburos para el Fondo de Estabilización.
+2.  Realizar las transferencias a los Fondos de Estabilización de los Ingresos Petroleros y de Estabilización de los Ingresos de las Entidades Federativas. Una vez que el Fondo de Estabilización de los Ingresos Petroleros, o su equivalente, haya alcanzado su límite máximo, los recursos asignados al Fondo se destinarán al ahorro de largo plazo mencionado en el numeral 5. Dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión realizará las adecuaciones que resulten necesarias al marco jurídico en materia del límite máximo del Fondo de Estabilización de los Ingresos Petroleros y del Derecho sobre Hidrocarburos para el Fondo de Estabilización.
 
-3.	Realizar las transferencias al Fondo de Extracción de Hidrocarburos; a los fondos de investigación en materia de hidrocarburos y sustentabilidad energética, y en materia de fiscalización petrolera.
+3.  Realizar las transferencias al Fondo de Extracción de Hidrocarburos; a los fondos de investigación en materia de hidrocarburos y sustentabilidad energética, y en materia de fiscalización petrolera.
 
-4.	Transferir a la Tesorería de la Federación los recursos necesarios para que los ingresos petroleros del Gobierno Federal que se destinan a cubrir el Presupuesto de Egresos de la Federación de cada año, se mantengan en el cuatro punto siete por ciento del Producto Interno Bruto, que corresponde a la razón equivalente a la observada para los ingresos petroleros del año 2013. Para lo anterior, se consideran los rubros siguientes: Derecho ordinario sobre hidrocarburos, Derecho sobre hidrocarburos para el Fondo de Estabilización, Derecho extraordinario sobre exportación de petróleo crudo, Derecho para la investigación científica y tecnológica en materia de energía, Derecho para la fiscalización petrolera, Derecho sobre extracción de hidrocarburos, Derecho para regular y supervisar la exploración y explotación de hidrocarburos, Derecho especial sobre hidrocarburos y Derecho adicional sobre hidrocarburos. Para efectos del cumplimiento del monto establecido en este numeral, se considerarán incluidos los recursos transferidos acorde a los numerales 2 y 3.
+4.  Transferir a la Tesorería de la Federación los recursos necesarios para que los ingresos petroleros del Gobierno Federal que se destinan a cubrir el Presupuesto de Egresos de la Federación de cada año, se mantengan en el cuatro punto siete por ciento del Producto Interno Bruto, que corresponde a la razón equivalente a la observada para los ingresos petroleros del año 2013. Para lo anterior, se consideran los rubros siguientes: Derecho ordinario sobre hidrocarburos, Derecho sobre hidrocarburos para el Fondo de Estabilización, Derecho extraordinario sobre exportación de petróleo crudo, Derecho para la investigación científica y tecnológica en materia de energía, Derecho para la fiscalización petrolera, Derecho sobre extracción de hidrocarburos, Derecho para regular y supervisar la exploración y explotación de hidrocarburos, Derecho especial sobre hidrocarburos y Derecho adicional sobre hidrocarburos. Para efectos del cumplimiento del monto establecido en este numeral, se considerarán incluidos los recursos transferidos acorde a los numerales 2 y 3.
 
-5.	Destinar recursos al ahorro de largo plazo, incluyendo inversión en activos financieros.
+5.  Destinar recursos al ahorro de largo plazo, incluyendo inversión en activos financieros.
 
 Únicamente cuando el saldo de las inversiones en ahorro público de largo plazo, sea igual o mayor al tres por ciento del Producto Interno Bruto del año previo al que se trate, el Comité Técnico del Fondo podrá destinar recursos del saldo acumulado del Fondo para lo siguiente:
 
-a)	Hasta por un monto equivalente a diez por ciento del incremento observado el año anterior en el saldo del ahorro de largo plazo, al Fondo para el sistema de pensión universal conforme a lo que señale su ley;
+a)  Hasta por un monto equivalente a diez por ciento del incremento observado el año anterior en el saldo del ahorro de largo plazo, al Fondo para el sistema de pensión universal conforme a lo que señale su ley;
 
-b)	Hasta por un monto equivalente a diez por ciento del incremento observado el año anterior en el saldo del ahorro de largo plazo, para financiar proyectos de inversión en ciencia, tecnología e innovación, y en energías renovables;
+b)  Hasta por un monto equivalente a diez por ciento del incremento observado el año anterior en el saldo del ahorro de largo plazo, para financiar proyectos de inversión en ciencia, tecnología e innovación, y en energías renovables;
 
-c)	Hasta por un monto equivalente a treinta por ciento del incremento observado el año anterior en el saldo del ahorro de largo plazo, en fondear un vehículo de inversión especializado en proyectos petroleros, sectorizado en la Secretaría del ramo en materia de Energía y, en su caso, en inversiones en infraestructura para el desarrollo nacional, y
+c)  Hasta por un monto equivalente a treinta por ciento del incremento observado el año anterior en el saldo del ahorro de largo plazo, en fondear un vehículo de inversión especializado en proyectos petroleros, sectorizado en la Secretaría del ramo en materia de Energía y, en su caso, en inversiones en infraestructura para el desarrollo nacional, y
 
-d)	Hasta por un monto equivalente a diez por ciento del incremento observado el año anterior en el saldo del ahorro de largo plazo; en becas para la formación de capital humano en universidades y posgrados; en proyectos de mejora a la conectividad; así como para el desarrollo regional de la industria. Con excepción del programa de becas, no podrán emplearse recursos para gasto corriente.
+d)  Hasta por un monto equivalente a diez por ciento del incremento observado el año anterior en el saldo del ahorro de largo plazo; en becas para la formación de capital humano en universidades y posgrados; en proyectos de mejora a la conectividad; así como para el desarrollo regional de la industria. Con excepción del programa de becas, no podrán emplearse recursos para gasto corriente.
 
 La asignación de recursos que corresponda a los incisos a), b), c) y d) anteriores no deberán tener como consecuencia que el saldo destinado a ahorro de largo plazo se reduzca por debajo de tres por ciento del Producto Interno Bruto del año anterior. Sujeto a lo anterior y con la aprobación de las dos terceras partes de los miembros presentes, la Cámara de Diputados podrá modificar los límites y los posibles destinos mencionados en los incisos a), b), c) y d) de este numeral. Una vez que el saldo acumulado del ahorro público de largo plazo sea equivalente o superior al diez por ciento del Producto Interno Bruto del año previo al que se trate, los rendimientos financieros reales anuales asociados a los recursos del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo destinados a ahorro de largo plazo serán transferidos a la Tesorería de la Federación. Los recursos transferidos a estos destinos serán adicionales a las transferencias que se realicen de acuerdo al numeral 4 del presente transitorio.
 
@@ -6439,29 +6441,29 @@ Décimo Quinto. El Fondo Mexicano del Petróleo para la Estabilización y el Des
 
 El Comité Técnico del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo tendrá, entre otras, las siguientes atribuciones:
 
-a)	Determinar la política de inversiones para los recursos de ahorro de largo plazo de conformidad con lo establecido en el numeral 5 del transitorio anterior.
+a)  Determinar la política de inversiones para los recursos de ahorro de largo plazo de conformidad con lo establecido en el numeral 5 del transitorio anterior.
 
-b)	Instruir a la institución fiduciaria para que realice las transferencias a la Tesorería de la Federación de conformidad con lo establecido en el transitorio anterior.
+b)  Instruir a la institución fiduciaria para que realice las transferencias a la Tesorería de la Federación de conformidad con lo establecido en el transitorio anterior.
 
-c)	Recomendar a la Cámara de Diputados, a más tardar el veintiocho de febrero de cada año, la asignación de los montos correspondientes a los rubros generales establecidos en los incisos a), b), c) y d) del transitorio anterior. La Cámara de Diputados aprobará, con las modificaciones que estime convenientes, la asignación antes mencionada. En este proceso, la Cámara de Diputados no podrá asignar recursos a proyectos o programas específicos. En caso de que la Cámara de Diputados no se pronuncie acerca de la recomendación del Comité Técnico a más tardar el treinta de abril del mismo año, se considerará aprobada. Con base en la asignación aprobada por la Cámara de Diputados, el Ejecutivo Federal determinará los proyectos y programas específicos a los que se asignarán los recursos en cada rubro, para su inclusión en el Proyecto de Presupuesto de Egresos de la Federación del año de que se trate. En el proceso de aprobación de dicho Proyecto, la Cámara de Diputados podrá reasignar los recursos destinados a los proyectos específicos dentro de cada rubro, respetando la distribución de recursos en rubros generales que ya se hayan aprobado.
+c)  Recomendar a la Cámara de Diputados, a más tardar el veintiocho de febrero de cada año, la asignación de los montos correspondientes a los rubros generales establecidos en los incisos a), b), c) y d) del transitorio anterior. La Cámara de Diputados aprobará, con las modificaciones que estime convenientes, la asignación antes mencionada. En este proceso, la Cámara de Diputados no podrá asignar recursos a proyectos o programas específicos. En caso de que la Cámara de Diputados no se pronuncie acerca de la recomendación del Comité Técnico a más tardar el treinta de abril del mismo año, se considerará aprobada. Con base en la asignación aprobada por la Cámara de Diputados, el Ejecutivo Federal determinará los proyectos y programas específicos a los que se asignarán los recursos en cada rubro, para su inclusión en el Proyecto de Presupuesto de Egresos de la Federación del año de que se trate. En el proceso de aprobación de dicho Proyecto, la Cámara de Diputados podrá reasignar los recursos destinados a los proyectos específicos dentro de cada rubro, respetando la distribución de recursos en rubros generales que ya se hayan aprobado.
 
-	Lo anterior sin perjuicio de otros recursos que se establezcan en el Presupuesto de Egresos de la Federación para proyectos y programas de inversión.
+  Lo anterior sin perjuicio de otros recursos que se establezcan en el Presupuesto de Egresos de la Federación para proyectos y programas de inversión.
 
 Décimo Sexto. Dentro de los plazos que se señalan a continuación, el Poder Ejecutivo Federal deberá proveer los siguientes decretos:
 
-a)	A más tardar dentro de los doce meses siguientes a la entrada en vigor de la Ley Reglamentaria del artículo 27 Constitucional en el Ramo del Petróleo, emitirá el Decreto de creación del organismo público descentralizado denominado Centro Nacional de Control del Gas Natural, encargado de la operación del sistema nacional de ductos de transporte y almacenamiento. En dicho Decreto se establecerá la organización, funcionamiento y facultades del citado Centro.
+a)  A más tardar dentro de los doce meses siguientes a la entrada en vigor de la Ley Reglamentaria del artículo 27 Constitucional en el Ramo del Petróleo, emitirá el Decreto de creación del organismo público descentralizado denominado Centro Nacional de Control del Gas Natural, encargado de la operación del sistema nacional de ductos de transporte y almacenamiento. En dicho Decreto se establecerá la organización, funcionamiento y facultades del citado Centro.
 
-	El Decreto proveerá lo necesario para que Petróleos Mexicanos y sus organismos subsidiarios o divisiones transfieran los recursos necesarios para que el Centro Nacional de Control del Gas Natural adquiera y administre la infraestructura para el transporte por ducto y almacenamiento de gas natural que tengan en propiedad para dar el servicio a los usuarios correspondientes.
+  El Decreto proveerá lo necesario para que Petróleos Mexicanos y sus organismos subsidiarios o divisiones transfieran los recursos necesarios para que el Centro Nacional de Control del Gas Natural adquiera y administre la infraestructura para el transporte por ducto y almacenamiento de gas natural que tengan en propiedad para dar el servicio a los usuarios correspondientes.
 
-	El Decreto también preverá que Petróleos Mexicanos y sus organismos subsidiarios, transfieran de forma inmediata al Centro Nacional de Control del Gas Natural los contratos que tengan suscritos, a efecto de que el Centro sea quien los administre.
+  El Decreto también preverá que Petróleos Mexicanos y sus organismos subsidiarios, transfieran de forma inmediata al Centro Nacional de Control del Gas Natural los contratos que tengan suscritos, a efecto de que el Centro sea quien los administre.
 
-	El Centro Nacional de Control del Gas Natural dará a Petróleos Mexicanos el apoyo necesario, hasta por doce meses posteriores a su creación, para que continúe operando la infraestructura para el transporte por ducto y almacenamiento de gas natural que le brinde servicio en condiciones de continuidad, eficiencia y seguridad.
+  El Centro Nacional de Control del Gas Natural dará a Petróleos Mexicanos el apoyo necesario, hasta por doce meses posteriores a su creación, para que continúe operando la infraestructura para el transporte por ducto y almacenamiento de gas natural que le brinde servicio en condiciones de continuidad, eficiencia y seguridad.
 
-b)	A más tardar dentro de los doce meses siguientes a la entrada en vigor de la ley reglamentaria de la industria eléctrica, emitirá el Decreto por el que se crea el Centro Nacional de Control de Energía como organismo público descentralizado, encargado del control operativo del sistema eléctrico nacional; de operar el mercado eléctrico mayorista; del acceso abierto y no indebidamente discriminatorio a la red nacional de transmisión y las redes generales de distribución, y las demás facultades que se determinen en la ley y en su Decreto de creación. En dicho Decreto se establecerá la organización, funcionamiento y facultades del citado Centro.
+b)  A más tardar dentro de los doce meses siguientes a la entrada en vigor de la ley reglamentaria de la industria eléctrica, emitirá el Decreto por el que se crea el Centro Nacional de Control de Energía como organismo público descentralizado, encargado del control operativo del sistema eléctrico nacional; de operar el mercado eléctrico mayorista; del acceso abierto y no indebidamente discriminatorio a la red nacional de transmisión y las redes generales de distribución, y las demás facultades que se determinen en la ley y en su Decreto de creación. En dicho Decreto se establecerá la organización, funcionamiento y facultades del citado Centro.
 
-	El Decreto proveerá lo conducente para que la Comisión Federal de Electricidad transfiera los recursos que el Centro Nacional de Control de Energía requiera para el cumplimiento de sus facultades.
+  El Decreto proveerá lo conducente para que la Comisión Federal de Electricidad transfiera los recursos que el Centro Nacional de Control de Energía requiera para el cumplimiento de sus facultades.
 
-	El Centro Nacional de Control de Energía dará a la Comisión Federal de Electricidad el apoyo necesario, hasta por doce meses posteriores a su creación, para que continúe operando sus redes del servicio público de transmisión y distribución en condiciones de continuidad, eficiencia y seguridad.
+  El Centro Nacional de Control de Energía dará a la Comisión Federal de Electricidad el apoyo necesario, hasta por doce meses posteriores a su creación, para que continúe operando sus redes del servicio público de transmisión y distribución en condiciones de continuidad, eficiencia y seguridad.
 
 Décimo Séptimo. Dentro de los trescientos sesenta y cinco días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión realizará las adecuaciones al marco jurídico, para establecer las bases en las que el Estado procurará la protección y cuidado del medio ambiente, en todos los procesos relacionados con la materia del presente Decreto en los que intervengan empresas productivas del Estado, los particulares o ambos, mediante la incorporación de criterios y mejores prácticas en los temas de eficiencia en el uso de energía, disminución en la generación de gases y compuestos de efecto invernadero, eficiencia en el uso de recursos naturales, baja generación de residuos y emisiones, así como la menor huella de carbono en todos sus procesos.
 
@@ -6475,9 +6477,9 @@ Décimo Noveno. Dentro del plazo previsto en el transitorio cuarto del presente 
 
 La Agencia tendrá dentro de sus atribuciones regular y supervisar, en materia de seguridad industrial, operativa y protección al medio ambiente, las instalaciones y actividades del sector hidrocarburos, incluyendo las actividades de desmantelamiento y abandono de instalaciones, así como el control integral de residuos. En la organización, funcionamiento y facultades de la Agencia, se deberá prever al menos:
 
-a)	Que si al finalizar el ejercicio presupuestario, existiera saldo remanente de ingresos propios excedentes, la Agencia instruirá su transferencia a un fideicomiso constituido por la Secretaría del ramo en materia de Medio Ambiente, donde una institución de la banca de desarrollo operará como fiduciario.
+a)  Que si al finalizar el ejercicio presupuestario, existiera saldo remanente de ingresos propios excedentes, la Agencia instruirá su transferencia a un fideicomiso constituido por la Secretaría del ramo en materia de Medio Ambiente, donde una institución de la banca de desarrollo operará como fiduciario.
 
-b)	Que la Agencia instruirá al fiduciario la aplicación de los recursos de este fideicomiso a la cobertura de gastos necesarios para cumplir con sus funciones en posteriores ejercicios respetando los principios a los que hace referencia el artículo 134 de esta Constitución y estando sujeta a la evaluación y el control de los entes fiscalizadores del Estado.
+b)  Que la Agencia instruirá al fiduciario la aplicación de los recursos de este fideicomiso a la cobertura de gastos necesarios para cumplir con sus funciones en posteriores ejercicios respetando los principios a los que hace referencia el artículo 134 de esta Constitución y estando sujeta a la evaluación y el control de los entes fiscalizadores del Estado.
 
 El fideicomiso no podrá acumular recursos superiores al equivalente de tres veces el presupuesto anual de la Agencia, tomando como referencia el presupuesto aprobado para el último ejercicio fiscal. En caso de que existan recursos adicionales, éstos serán transferidos a la Tesorería de la Federación.
 
@@ -6487,17 +6489,17 @@ La Cámara de Diputados realizará las acciones necesarias para proveer de recur
 
 Vigésimo. Dentro del plazo previsto en el transitorio cuarto de este Decreto, el Congreso de la Unión realizará las adecuaciones al marco jurídico para regular a las empresas productivas del Estado, y establecerá al menos que:
 
-I.	Su objeto sea la creación de valor económico e incrementar los ingresos de la Nación, con sentido de equidad y responsabilidad social y ambiental.
+I.  Su objeto sea la creación de valor económico e incrementar los ingresos de la Nación, con sentido de equidad y responsabilidad social y ambiental.
 
-II.	Cuenten con autonomía presupuestal y estén sujetas sólo al balance financiero y al techo de servicios personales que, a propuesta de la Secretaría del ramo en materia de Hacienda, apruebe el Congreso de la Unión. Su régimen de remuneraciones será distinto del previsto en el artículo 127 de esta Constitución.
+II.  Cuenten con autonomía presupuestal y estén sujetas sólo al balance financiero y al techo de servicios personales que, a propuesta de la Secretaría del ramo en materia de Hacienda, apruebe el Congreso de la Unión. Su régimen de remuneraciones será distinto del previsto en el artículo 127 de esta Constitución.
 
-III.	Su organización, administración y estructura corporativa sean acordes con las mejores prácticas a nivel internacional, asegurando su autonomía técnica y de gestión, así como un régimen especial de contratación para la obtención de los mejores resultados de sus actividades, de forma que sus órganos de gobierno cuenten con las facultades necesarias para determinar su arreglo institucional.
+III.  Su organización, administración y estructura corporativa sean acordes con las mejores prácticas a nivel internacional, asegurando su autonomía técnica y de gestión, así como un régimen especial de contratación para la obtención de los mejores resultados de sus actividades, de forma que sus órganos de gobierno cuenten con las facultades necesarias para determinar su arreglo institucional.
 
-IV.	Sus órganos de gobierno se ajusten a lo que disponga la ley y sus directores sean nombrados y removidos libremente por el Titular del Ejecutivo Federal o, en su caso, removidos por el Consejo de Administración. Para el caso de empresas productivas del Estado que realicen las actividades de exploración y extracción de petróleo y demás hidrocarburos sólidos, líquidos o gaseosos en términos de lo previsto por el párrafo séptimo del artículo 27 de esta Constitución, la ley deberá establecer, entre otras disposiciones, que su Consejo de Administración se conforme de la siguiente manera: cinco consejeros del Gobierno Federal, incluyendo el Secretario del Ramo en materia de Energía quien lo presidirá y tendrá voto de calidad, y cinco consejeros independientes.
+IV.  Sus órganos de gobierno se ajusten a lo que disponga la ley y sus directores sean nombrados y removidos libremente por el Titular del Ejecutivo Federal o, en su caso, removidos por el Consejo de Administración. Para el caso de empresas productivas del Estado que realicen las actividades de exploración y extracción de petróleo y demás hidrocarburos sólidos, líquidos o gaseosos en términos de lo previsto por el párrafo séptimo del artículo 27 de esta Constitución, la ley deberá establecer, entre otras disposiciones, que su Consejo de Administración se conforme de la siguiente manera: cinco consejeros del Gobierno Federal, incluyendo el Secretario del Ramo en materia de Energía quien lo presidirá y tendrá voto de calidad, y cinco consejeros independientes.
 
-V.	Se coordinen con el Ejecutivo Federal, a través de la dependencia competente, con objeto de que sus operaciones de financiamiento no conduzcan a un incremento en el costo de financiamiento del resto del sector público o bien, contribuyan a reducir las fuentes de financiamiento del mismo.
+V.  Se coordinen con el Ejecutivo Federal, a través de la dependencia competente, con objeto de que sus operaciones de financiamiento no conduzcan a un incremento en el costo de financiamiento del resto del sector público o bien, contribuyan a reducir las fuentes de financiamiento del mismo.
 
-VI.	Cuenten, en términos de lo establecido en las leyes correspondientes, con un régimen especial en materia de adquisiciones, arrendamientos, servicios y obras públicas, presupuestaria, deuda pública, responsabilidades administrativas y demás que se requieran para la eficaz realización de su objeto, de forma que les permita competir con eficacia en la industria o actividad de que se trate.
+VI.  Cuenten, en términos de lo establecido en las leyes correspondientes, con un régimen especial en materia de adquisiciones, arrendamientos, servicios y obras públicas, presupuestaria, deuda pública, responsabilidades administrativas y demás que se requieran para la eficaz realización de su objeto, de forma que les permita competir con eficacia en la industria o actividad de que se trate.
 
 Una vez que los organismos descentralizados denominados Petróleos Mexicanos y sus organismos subsidiarios, y Comisión Federal de Electricidad, se conviertan en empresas productivas del Estado de conformidad con las leyes que se expidan para tal efecto en términos del transitorio tercero de este Decreto, no les serán aplicables las disposiciones relativas a la autonomía contenidas en las fracciones anteriores, sino hasta que conforme a las nuevas disposiciones legales se encuentren en funciones sus consejos de administración y estén en operación los mecanismos de fiscalización, transparencia y rendición de cuentas.
 
@@ -6566,45 +6568,45 @@ En tanto se integra el organismo garante que establece el artículo 6o. de esta 
 
 La designación de los comisionados del organismo garante que se crea mediante la modificación del artículo 6o. constitucional materia del presente Decreto, será realizada a más tardar 90 días después de su entrada en vigor, conforme a lo siguiente:
 
-I. 	En el supuesto de que la totalidad de los comisionados del Instituto Federal de Acceso a la Información y Protección de Datos soliciten su continuidad en el cargo y obtengan la respectiva aprobación en los términos del párrafo primero de esta disposición transitoria, formarán parte del organismo garante del derecho de acceso a la información que se crea mediante el presente Decreto, hasta la fecha de terminación del período para el que fueron originariamente designados, conforme a lo dispuesto por el siguiente artículo transitorio.
+I.   En el supuesto de que la totalidad de los comisionados del Instituto Federal de Acceso a la Información y Protección de Datos soliciten su continuidad en el cargo y obtengan la respectiva aprobación en los términos del párrafo primero de esta disposición transitoria, formarán parte del organismo garante del derecho de acceso a la información que se crea mediante el presente Decreto, hasta la fecha de terminación del período para el que fueron originariamente designados, conforme a lo dispuesto por el siguiente artículo transitorio.
 
-II. 	En el caso de que sólo alguna, alguno, algunas o algunos de los comisionados del Instituto Federal de Acceso a la Información y Protección de Datos soliciten continuar en el cargo y obtengan la aprobación a que se refiere el párrafo primero de este precepto, continuarán en el ejercicio del cargo en el nuevo organismo hasta el término de la designación que se les confirió originariamente para formar parte del Instituto que se extingue; asimismo, se designarán los comisionados a que se refieren los incisos a) y b) del siguiente artículo transitorio, quienes ejercerán el cargo en los periodos señalados en los respectivos incisos.
+II.   En el caso de que sólo alguna, alguno, algunas o algunos de los comisionados del Instituto Federal de Acceso a la Información y Protección de Datos soliciten continuar en el cargo y obtengan la aprobación a que se refiere el párrafo primero de este precepto, continuarán en el ejercicio del cargo en el nuevo organismo hasta el término de la designación que se les confirió originariamente para formar parte del Instituto que se extingue; asimismo, se designarán los comisionados a que se refieren los incisos a) y b) del siguiente artículo transitorio, quienes ejercerán el cargo en los periodos señalados en los respectivos incisos.
 
 En esta hipótesis, los comisionados que formen parte del nuevo organismo en virtud de que los comisionados del citado Instituto no soliciten o no obtengan la aprobación para continuar en esa función, tendrán los períodos de desempeño siguientes:
 
-a)	Si ha fenecido el mandato de la comisionada que concluye el encargo el 9 de enero de 2014, el nombramiento concluirá el 31 de marzo de 2018;
+a)  Si ha fenecido el mandato de la comisionada que concluye el encargo el 9 de enero de 2014, el nombramiento concluirá el 31 de marzo de 2018;
 
-b)	Si el nombramiento es en razón de la no continuación del comisionado que habría concluido el encargo el 13 de abril de 2019, el mismo se hará hasta esa fecha.
+b)  Si el nombramiento es en razón de la no continuación del comisionado que habría concluido el encargo el 13 de abril de 2019, el mismo se hará hasta esa fecha.
 
-c)	Si el nombramiento es en razón de la no continuación del comisionado que habría concluido el encargo el 17 de junio de 2016, el mismo se hará hasta esa fecha.
+c)  Si el nombramiento es en razón de la no continuación del comisionado que habría concluido el encargo el 17 de junio de 2016, el mismo se hará hasta esa fecha.
 
-d)	Si el o los nombramientos son en razón de la no continuación de una o de ambas comisionadas que habría o habrían concluido el encargo el 11 de septiembre de 2016, el o los mismos se harán hasta esa fecha.
+d)  Si el o los nombramientos son en razón de la no continuación de una o de ambas comisionadas que habría o habrían concluido el encargo el 11 de septiembre de 2016, el o los mismos se harán hasta esa fecha.
 
-III. 	En el supuesto de que ninguno de los actuales comisionados del Instituto Federal de Acceso a la Información y Protección de Datos solicite al Senado o reciba la aprobación para formar parte del organismo garante del derecho de acceso a la información que se crea por medio del presente Decreto, y para asegurar la renovación escalonada con motivo de los nombramientos que se realizarán, el Senado de la República especificará el período de ejercicio para cada comisionado, tomando en consideración lo siguiente:
+III.   En el supuesto de que ninguno de los actuales comisionados del Instituto Federal de Acceso a la Información y Protección de Datos solicite al Senado o reciba la aprobación para formar parte del organismo garante del derecho de acceso a la información que se crea por medio del presente Decreto, y para asegurar la renovación escalonada con motivo de los nombramientos que se realizarán, el Senado de la República especificará el período de ejercicio para cada comisionado, tomando en consideración lo siguiente:
 
-a)	Nombrará a dos comisionados, cuyos mandatos concluirán el 31 de marzo de 2018.
+a)  Nombrará a dos comisionados, cuyos mandatos concluirán el 31 de marzo de 2018.
 
-b)	Nombrará a dos comisionados, cuyos mandatos concluirán el 31 de marzo de 2020.
+b)  Nombrará a dos comisionados, cuyos mandatos concluirán el 31 de marzo de 2020.
 
-c)	Nombrará a dos comisionados, cuyos mandatos concluirán el 31 de marzo de 2022, y
+c)  Nombrará a dos comisionados, cuyos mandatos concluirán el 31 de marzo de 2022, y
 
-d)	Nombrará a un comisionado, cuyo mandato concluirá el 31 de marzo de 2023.
+d)  Nombrará a un comisionado, cuyo mandato concluirá el 31 de marzo de 2023.
 
 CUARTO. La designación de los dos nuevos comisionados del organismo garante que establece el artículo 6o. de esta Constitución será realizada a más tardar 90 días después de la entrada en vigor de este Decreto.
 
 Para asegurar la renovación escalonada de los comisionados en los primeros nombramientos, el Senado de la República especificará el período de ejercicio para cada comisionado tomando en consideración lo siguiente:
 
-a)	Nombrará a un comisionado, cuyo mandato concluirá el 1 de noviembre de 2017.
+a)  Nombrará a un comisionado, cuyo mandato concluirá el 1 de noviembre de 2017.
 
-b)	Nombrará a un nuevo comisionado, cuyo mandato concluirá el 31 de marzo de 2020.
+b)  Nombrará a un nuevo comisionado, cuyo mandato concluirá el 31 de marzo de 2020.
 
-c)	Quien sustituya al comisionado que deja su encargo el 9 de enero de 2014, concluirá su mandato el 31 de marzo de 2018.
+c)  Quien sustituya al comisionado que deja su encargo el 9 de enero de 2014, concluirá su mandato el 31 de marzo de 2018.
 
-d)	Quien sustituya al comisionado que deja su encargo el 13 de abril de 2019, concluirá su mandato el 31 de marzo de 2026.
+d)  Quien sustituya al comisionado que deja su encargo el 13 de abril de 2019, concluirá su mandato el 31 de marzo de 2026.
 
-e)	Quien sustituya al comisionado que deja su encargo el 17 de junio de 2016, concluirá su mandato el 1 de noviembre de 2021.
+e)  Quien sustituya al comisionado que deja su encargo el 17 de junio de 2016, concluirá su mandato el 1 de noviembre de 2021.
 
-f)	Quienes sustituyan a los comisionados que dejan su encargo el 11 de septiembre de 2016, uno concluirá su mandato el 1 de noviembre de 2022 y el otro concluirá su mandato el 1 de noviembre de 2023.
+f)  Quienes sustituyan a los comisionados que dejan su encargo el 11 de septiembre de 2016, uno concluirá su mandato el 1 de noviembre de 2022 y el otro concluirá su mandato el 1 de noviembre de 2023.
 
 QUINTO. Las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal tendrán un plazo de un año, contado a partir de su entrada en vigor, para armonizar su normatividad conforme a lo establecido en el presente Decreto.
 
@@ -6635,69 +6637,69 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- El Congreso de la Unión deberá expedir las normas previstas en el inciso a) de la fracción XXI, y en la fracción XXIX-U del artículo 73 de esta Constitución, a más tardar el 30 de abril de 2014. Dichas normas establecerán, al menos, lo siguiente:
 
-I.	La ley general que regule los partidos políticos nacionales y locales:
+I.  La ley general que regule los partidos políticos nacionales y locales:
 
-a) 	Las normas, plazos y requisitos para su registro legal y su intervención en los procesos electorales federales y locales;
+a)   Las normas, plazos y requisitos para su registro legal y su intervención en los procesos electorales federales y locales;
 
-b) 	Los derechos y obligaciones de sus militantes y la garantía de acceso a los órganos imparciales de justicia intrapartidaria;
+b)   Los derechos y obligaciones de sus militantes y la garantía de acceso a los órganos imparciales de justicia intrapartidaria;
 
-c) 	Los lineamientos básicos para la integración de sus órganos directivos; la postulación de sus candidatos y, en general, la conducción de sus actividades de forma democrática; así como la transparencia en el uso de los recursos;
+c)   Los lineamientos básicos para la integración de sus órganos directivos; la postulación de sus candidatos y, en general, la conducción de sus actividades de forma democrática; así como la transparencia en el uso de los recursos;
 
-d) 	Los contenidos mínimos de sus documentos básicos;
+d)   Los contenidos mínimos de sus documentos básicos;
 
-e) 	Los procedimientos y las sanciones aplicables al incumplimiento de sus obligaciones;
+e)   Los procedimientos y las sanciones aplicables al incumplimiento de sus obligaciones;
 
-f) 	El sistema de participación electoral de los partidos políticos a través de la figura de coaliciones, conforme a lo siguiente:
+f)   El sistema de participación electoral de los partidos políticos a través de la figura de coaliciones, conforme a lo siguiente:
 
-1.	Se establecerá un sistema uniforme de coaliciones para los procesos electorales federales y locales;
+1.  Se establecerá un sistema uniforme de coaliciones para los procesos electorales federales y locales;
 
-2.	Se podrá solicitar su registro hasta la fecha en que inicie la etapa de precampañas;
+2.  Se podrá solicitar su registro hasta la fecha en que inicie la etapa de precampañas;
 
-3.	La ley diferenciará entre coaliciones totales, parciales y flexibles. Por coalición total se entenderá la que establezcan los partidos políticos para postular a la totalidad de los candidatos en un mismo proceso electoral federal o local, bajo una misma plataforma electoral. Por coalición parcial se entenderá la que establezcan los partidos políticos para postular al menos el cincuenta por ciento de las candidaturas en un mismo proceso electoral federal o local, bajo una misma plataforma. Por coalición flexible se entenderá la que establezcan los partidos políticos para postular al menos el veinticinco por ciento de las candidaturas en un mismo proceso electoral federal o local, bajo una misma plataforma electoral;
+3.  La ley diferenciará entre coaliciones totales, parciales y flexibles. Por coalición total se entenderá la que establezcan los partidos políticos para postular a la totalidad de los candidatos en un mismo proceso electoral federal o local, bajo una misma plataforma electoral. Por coalición parcial se entenderá la que establezcan los partidos políticos para postular al menos el cincuenta por ciento de las candidaturas en un mismo proceso electoral federal o local, bajo una misma plataforma. Por coalición flexible se entenderá la que establezcan los partidos políticos para postular al menos el veinticinco por ciento de las candidaturas en un mismo proceso electoral federal o local, bajo una misma plataforma electoral;
 
-4.	Las reglas conforme a las cuales aparecerán sus emblemas en las boletas electorales y las modalidades del escrutinio y cómputo de los votos;
+4.  Las reglas conforme a las cuales aparecerán sus emblemas en las boletas electorales y las modalidades del escrutinio y cómputo de los votos;
 
-5.	En el primer proceso electoral en el que participe un partido político, no podrá coaligarse, y
+5.  En el primer proceso electoral en el que participe un partido político, no podrá coaligarse, y
 
-g) 	Un sistema de fiscalización sobre el origen y destino de los recursos con los que cuenten los partidos políticos, las coaliciones y los candidatos, que deberá contener:
+g)   Un sistema de fiscalización sobre el origen y destino de los recursos con los que cuenten los partidos políticos, las coaliciones y los candidatos, que deberá contener:
 
-1.	Las facultades y procedimientos para que la fiscalización de los ingresos y egresos de los partidos políticos, las coaliciones y los candidatos se realice de forma expedita y oportuna durante la campaña electoral;
+1.  Las facultades y procedimientos para que la fiscalización de los ingresos y egresos de los partidos políticos, las coaliciones y los candidatos se realice de forma expedita y oportuna durante la campaña electoral;
 
-2.	Los lineamientos homogéneos de contabilidad, la cual deberá ser pública y de acceso por medios electrónicos;
+2.  Los lineamientos homogéneos de contabilidad, la cual deberá ser pública y de acceso por medios electrónicos;
 
-3.	Los mecanismos por los cuales los partidos políticos, las coaliciones y las candidaturas independientes deberán notificar al órgano de fiscalización del Instituto Nacional Electoral, la información sobre los contratos que celebren durante las campañas o los procesos electorales, incluyendo la de carácter financiero y la relativa al gasto y condiciones de ejecución de los instrumentos celebrados. Tales notificaciones deberán realizarse previamente a la entrega de los bienes o la prestación de los servicios de que se trate;
+3.  Los mecanismos por los cuales los partidos políticos, las coaliciones y las candidaturas independientes deberán notificar al órgano de fiscalización del Instituto Nacional Electoral, la información sobre los contratos que celebren durante las campañas o los procesos electorales, incluyendo la de carácter financiero y la relativa al gasto y condiciones de ejecución de los instrumentos celebrados. Tales notificaciones deberán realizarse previamente a la entrega de los bienes o la prestación de los servicios de que se trate;
 
-4.	Las facultades del Instituto Nacional Electoral para comprobar el contenido de los avisos previos de contratación a los que se refiere el numeral anterior;
+4.  Las facultades del Instituto Nacional Electoral para comprobar el contenido de los avisos previos de contratación a los que se refiere el numeral anterior;
 
-5.	Los lineamientos para asegurar la máxima publicidad de los registros y movimientos contables, avisos previos de contratación y requerimientos de validación de contrataciones emitidos por la autoridad electoral;
+5.  Los lineamientos para asegurar la máxima publicidad de los registros y movimientos contables, avisos previos de contratación y requerimientos de validación de contrataciones emitidos por la autoridad electoral;
 
-6.	La facultad de los partidos políticos de optar por realizar todos los pagos relativos a sus actividades y campañas electorales, por conducto del Instituto Nacional Electoral, en los términos que el mismo Instituto establezca mediante disposiciones de carácter general;
+6.  La facultad de los partidos políticos de optar por realizar todos los pagos relativos a sus actividades y campañas electorales, por conducto del Instituto Nacional Electoral, en los términos que el mismo Instituto establezca mediante disposiciones de carácter general;
 
-7.	La facultad de los partidos políticos de optar por realizar todos los pagos relativos a la contratación de publicidad exterior, por conducto del Instituto Nacional Electoral, y
+7.  La facultad de los partidos políticos de optar por realizar todos los pagos relativos a la contratación de publicidad exterior, por conducto del Instituto Nacional Electoral, y
 
-8.	Las sanciones que deban imponerse por el incumplimiento de sus obligaciones.
+8.  Las sanciones que deban imponerse por el incumplimiento de sus obligaciones.
 
-II. 	La ley general que regule los procedimientos electorales:
+II.   La ley general que regule los procedimientos electorales:
 
-a)	La celebración de elecciones federales y locales el primer domingo de junio del año que corresponda, en los términos de esta Constitución, a partir del 2015, salvo aquellas que se verifiquen en 2018, las cuales se llevarán a cabo el primer domingo de julio;
+a)  La celebración de elecciones federales y locales el primer domingo de junio del año que corresponda, en los términos de esta Constitución, a partir del 2015, salvo aquellas que se verifiquen en 2018, las cuales se llevarán a cabo el primer domingo de julio;
 
-b)	Los mecanismos de coordinación entre los órganos del Ejecutivo Federal en materia de inteligencia financiera y el Instituto Nacional Electoral, que permitan reportar a éste las disposiciones en efectivo que realice cualquier órgano o dependencia de la Federación, de las entidades federativas y de los municipios durante cualquier proceso electoral, cuando tales operaciones se consideren relevantes o inusuales de conformidad con los ordenamientos aplicables;
+b)  Los mecanismos de coordinación entre los órganos del Ejecutivo Federal en materia de inteligencia financiera y el Instituto Nacional Electoral, que permitan reportar a éste las disposiciones en efectivo que realice cualquier órgano o dependencia de la Federación, de las entidades federativas y de los municipios durante cualquier proceso electoral, cuando tales operaciones se consideren relevantes o inusuales de conformidad con los ordenamientos aplicables;
 
-c)	Las reglas aplicables para transparentar el financiamiento, la metodología y los resultados de las encuestas que se difundan, relativas a las preferencias electorales, así como las fechas límite para llevar a cabo su difusión;
+c)  Las reglas aplicables para transparentar el financiamiento, la metodología y los resultados de las encuestas que se difundan, relativas a las preferencias electorales, así como las fechas límite para llevar a cabo su difusión;
 
-d)	Los términos en que habrán de realizarse debates de carácter obligatorio entre candidatos, organizados por las autoridades electorales; y las reglas aplicables al ejercicio de la libertad de los medios de comunicación para organizar y difundir debates entre candidatos a cualquier cargo de elección popular. La negativa a participar de cualquiera de los candidatos en ningún caso será motivo para la cancelación o prohibición del debate respectivo. La realización o difusión de debates en radio y televisión, salvo prueba en contrario, no se considerará como contratación ilegal de tiempos o como propaganda encubierta;
+d)  Los términos en que habrán de realizarse debates de carácter obligatorio entre candidatos, organizados por las autoridades electorales; y las reglas aplicables al ejercicio de la libertad de los medios de comunicación para organizar y difundir debates entre candidatos a cualquier cargo de elección popular. La negativa a participar de cualquiera de los candidatos en ningún caso será motivo para la cancelación o prohibición del debate respectivo. La realización o difusión de debates en radio y televisión, salvo prueba en contrario, no se considerará como contratación ilegal de tiempos o como propaganda encubierta;
 
-e)	Las modalidades y plazos de entrega de los materiales de propaganda electoral para efectos de su difusión en los tiempos de radio y televisión;
+e)  Las modalidades y plazos de entrega de los materiales de propaganda electoral para efectos de su difusión en los tiempos de radio y televisión;
 
-f)	Las sanciones aplicables a la promoción de denuncias frívolas. Para tales efectos se entenderá como denuncia frívola aquella que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia;
+f)  Las sanciones aplicables a la promoción de denuncias frívolas. Para tales efectos se entenderá como denuncia frívola aquella que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia;
 
-g)	La regulación de la propaganda electoral, debiendo establecer que los artículos promocionales utilitarios sólo podrán ser elaborados con material textil;
+g)  La regulación de la propaganda electoral, debiendo establecer que los artículos promocionales utilitarios sólo podrán ser elaborados con material textil;
 
-h)	Las reglas para garantizar la paridad entre géneros en candidaturas a legisladores federales y locales, e
+h)  Las reglas para garantizar la paridad entre géneros en candidaturas a legisladores federales y locales, e
 
-i)	Las reglas, plazos, instancias y etapas procesales para sancionar violaciones en los procedimientos electorales.
+i)  Las reglas, plazos, instancias y etapas procesales para sancionar violaciones en los procedimientos electorales.
 
-III. 	La ley general en materia de delitos electorales establecerá los tipos penales, sus sanciones, la distribución de competencias y las formas de coordinación entre la Federación y las entidades federativas.
+III.   La ley general en materia de delitos electorales establecerá los tipos penales, sus sanciones, la distribución de competencias y las formas de coordinación entre la Federación y las entidades federativas.
 
 TERCERO.- El Congreso de la Unión deberá expedir, durante el segundo periodo de sesiones ordinarias del segundo año de ejercicio de la LXII Legislatura, la ley que reglamente el párrafo octavo del artículo 134 de esta Constitución, la que establecerá las normas a que deberán sujetarse los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y de cualquier otro ente de los tres órdenes de gobierno, y que garantizará que el gasto en comunicación social cumpla con los criterios de eficiencia, eficacia, economía, transparencia y honradez, así como que respete los topes presupuestales, límites y condiciones de ejercicio que establezcan los presupuestos de egresos respectivos.
 
@@ -6711,13 +6713,13 @@ QUINTO.- El Instituto Nacional Electoral deberá integrarse dentro de los ciento
 
 Con el objeto de asegurar el escalonamiento en el cargo de los integrantes del Consejo General del Instituto Nacional Electoral, el comité de evaluación a que se refiere el inciso a) del párrafo quinto del Apartado A de la Base V del artículo 41, que se reforma por virtud del presente Decreto, deberá remitir a la Cámara de Diputados para su trámite en procesos separados, conforme a lo previsto en el referido párrafo:
 
-a) 	Tres listas para cubrir la elección de cada uno de los tres consejeros que durarán en su encargo tres años;
+a)   Tres listas para cubrir la elección de cada uno de los tres consejeros que durarán en su encargo tres años;
 
-b) 	Cuatro listas para cubrir la elección de cada uno de los cuatro consejeros que durarán en su encargo seis años;
+b)   Cuatro listas para cubrir la elección de cada uno de los cuatro consejeros que durarán en su encargo seis años;
 
-c) 	Tres listas para cubrir la elección de cada uno de los tres consejeros que durarán en su encargo nueve años, y
+c)   Tres listas para cubrir la elección de cada uno de los tres consejeros que durarán en su encargo nueve años, y
 
-d) 	Una lista para cubrir la elección del Presidente que durará en su encargo nueve años.
+d)   Una lista para cubrir la elección del Presidente que durará en su encargo nueve años.
 
 Los consejeros del Instituto Federal Electoral que se encuentren en funciones al inicio del procedimiento de selección para la integración del Instituto Nacional Electoral, podrán participar en dicho proceso.
 
@@ -6757,11 +6759,11 @@ Párrafo reformado DOF 27-08-2018
 
 DÉCIMO SÉPTIMO.- Una vez que entren en vigor las disposiciones de este Decreto referidas en el Transitorio anterior, se procederá de la siguiente forma:
 
-I.- 	Los asuntos en los que la Procuraduría General de la República ejerza la representación de la Federación, así como aquellos en que haya ejercitado acciones de inconstitucionalidad en casos distintos a los previstos en el inciso i) de la fracción II, del artículo 105 de esta Constitución que se adiciona por virtud de este Decreto, que se encuentren en trámite a la entrada en vigor de las disposiciones a que se refiere el Transitorio anterior, deberán remitirse dentro de los veinte días hábiles siguientes a la dependencia del Ejecutivo Federal que realiza la función de Consejero Jurídico del Gobierno.
+I.-   Los asuntos en los que la Procuraduría General de la República ejerza la representación de la Federación, así como aquellos en que haya ejercitado acciones de inconstitucionalidad en casos distintos a los previstos en el inciso i) de la fracción II, del artículo 105 de esta Constitución que se adiciona por virtud de este Decreto, que se encuentren en trámite a la entrada en vigor de las disposiciones a que se refiere el Transitorio anterior, deberán remitirse dentro de los veinte días hábiles siguientes a la dependencia del Ejecutivo Federal que realiza la función de Consejero Jurídico del Gobierno.
 
 Los procedimientos señalados en el párrafo que antecede se suspenderán por un plazo de sesenta días hábiles, contados a partir de la entrada en vigor de las disposiciones a que se refiere el Transitorio anterior; en cada caso, la suspensión será decretada de oficio por los órganos jurisdiccionales ante los cuales se desahoguen dichos procedimientos, y
 
-II.- 	Los recursos humanos, financieros y materiales que la Procuraduría General de la República destine para la atención y desahogo de los procedimientos a que se refiere la fracción anterior, serán transferidos a la dependencia que realice las funciones de Consejero Jurídico del Gobierno. Los titulares de ambos órganos realizarán las previsiones necesarias para que dichos recursos queden transferidos el mismo día en que entren en vigor las disposiciones señaladas en el Transitorio anterior.
+II.-   Los recursos humanos, financieros y materiales que la Procuraduría General de la República destine para la atención y desahogo de los procedimientos a que se refiere la fracción anterior, serán transferidos a la dependencia que realice las funciones de Consejero Jurídico del Gobierno. Los titulares de ambos órganos realizarán las previsiones necesarias para que dichos recursos queden transferidos el mismo día en que entren en vigor las disposiciones señaladas en el Transitorio anterior.
 
 DÉCIMO OCTAVO.- A partir de la entrada en vigor del presente Decreto el Senado nombrará por dos terceras partes de sus miembros presentes al titular de la Fiscalía Especializada en Atención de Delitos Electorales de la Procuraduría General de la República. El Ejecutivo Federal podrá objetar dicho nombramiento, en cuyo caso se procederá a un nuevo nombramiento en los términos de este párrafo.
 
@@ -6922,15 +6924,15 @@ Segundo. El Congreso de la Unión, dentro del plazo de un año contado a partir 
 
 Tercero. La ley a que se refiere la fracción XXIX-H del artículo 73 de la Constitución, establecerá que, observando lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el Tribunal Federal de Justicia Administrativa:
 
-a)	Aprobará su proyecto de presupuesto, con sujeción a los criterios generales de política económica y los techos globales de gasto establecidos por el Ejecutivo Federal;
+a)  Aprobará su proyecto de presupuesto, con sujeción a los criterios generales de política económica y los techos globales de gasto establecidos por el Ejecutivo Federal;
 
-b)	Ejercerá directamente su presupuesto aprobado por la Cámara de Diputados, sin sujetarse a las disposiciones emitidas por las secretarías de Hacienda y Crédito Público y de la Función Pública;
+b)  Ejercerá directamente su presupuesto aprobado por la Cámara de Diputados, sin sujetarse a las disposiciones emitidas por las secretarías de Hacienda y Crédito Público y de la Función Pública;
 
-c)	Autorizará las adecuaciones presupuestarias sin requerir la autorización de la Secretaría de Hacienda y Crédito Público, siempre y cuando no rebase su techo global aprobado por la Cámara de Diputados;
+c)  Autorizará las adecuaciones presupuestarias sin requerir la autorización de la Secretaría de Hacienda y Crédito Público, siempre y cuando no rebase su techo global aprobado por la Cámara de Diputados;
 
-d)	Determinará los ajustes que correspondan a su presupuesto en caso de disminución de ingresos durante el ejercicio fiscal, y
+d)  Determinará los ajustes que correspondan a su presupuesto en caso de disminución de ingresos durante el ejercicio fiscal, y
 
-e)	Realizará los pagos, llevará la contabilidad y elaborará sus informes, a través de su propia tesorería, en los términos de las leyes aplicables.
+e)  Realizará los pagos, llevará la contabilidad y elaborará sus informes, a través de su propia tesorería, en los términos de las leyes aplicables.
 
 Cuarto. El Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, deberán, en el ámbito de sus respectivas competencias, expedir las leyes y realizar las adecuaciones normativas correspondientes, dentro de los ciento ochenta días siguientes a la entrada en vigor de las leyes generales a que se refiere el Segundo Transitorio del presente Decreto.
 
@@ -7299,19 +7301,19 @@ Quinto.- La legislación en materia de mecanismos alternativos de solución de c
 
 Sexto.- La ley general en materia de mejora regulatoria a que se refiere el artículo 73, fracción XXIX-Y de esta Constitución deberá considerar al menos, lo siguiente:
 
-a)	Un catálogo nacional de regulaciones, trámites y servicios federales, locales y municipales con el objetivo de generar seguridad jurídica a los particulares.
+a)  Un catálogo nacional de regulaciones, trámites y servicios federales, locales y municipales con el objetivo de generar seguridad jurídica a los particulares.
 
-b)	Establecer la obligación para las autoridades de facilitar los trámites y la obtención de servicios mediante el uso de las tecnologías de la información, de conformidad con su disponibilidad presupuestaria.
+b)  Establecer la obligación para las autoridades de facilitar los trámites y la obtención de servicios mediante el uso de las tecnologías de la información, de conformidad con su disponibilidad presupuestaria.
 
-c)	La inscripción en el catálogo será obligatoria para todas las autoridades en los términos en que la misma disponga.
+c)  La inscripción en el catálogo será obligatoria para todas las autoridades en los términos en que la misma disponga.
 
 Séptimo.- La ley general en materia de justicia cívica e itinerante a que se refiere el artículo 73, fracción XXIX-Z de esta Constitución deberá considerar, al menos lo siguiente:
 
-a)	Los principios a los que deberán sujetarse las autoridades para que la justicia itinerante sea accesible y disponible a los ciudadanos;
+a)  Los principios a los que deberán sujetarse las autoridades para que la justicia itinerante sea accesible y disponible a los ciudadanos;
 
-b)	Las bases para la organización y funcionamiento de la justicia cívica en las entidades federativas, y
+b)  Las bases para la organización y funcionamiento de la justicia cívica en las entidades federativas, y
 
-c)	Los mecanismos de acceso a la justicia cívica e itinerante y la obligación de las autoridades de cumplir con los principios previstos por la ley.
+c)  Los mecanismos de acceso a la justicia cívica e itinerante y la obligación de las autoridades de cumplir con los principios previstos por la ley.
 
 Las legislaturas de las entidades federativas proveerán de los recursos necesarios para cumplir con lo dispuesto en el presente artículo transitorio.
 
@@ -7432,76 +7434,76 @@ Cuarto. Al expedir las leyes a que se refiere la fracción XXIII del artículo 7
 
 I. Las reformas a la Ley General del Sistema Nacional de Seguridad Pública deberán contemplar, al menos, los siguientes elementos:
 
-1.	La normativa sobre la formación y actuación de las instituciones de policía encargadas de la seguridad pública en términos de la doctrina policial civil establecida en el artículo 21 de esta Constitución, y
+1.  La normativa sobre la formación y actuación de las instituciones de policía encargadas de la seguridad pública en términos de la doctrina policial civil establecida en el artículo 21 de esta Constitución, y
 
-2.	La regulación del sistema nacional de información en seguridad pública a que se refiere el inciso b) del párrafo décimo del artículo 21 constitucional.
+2.  La regulación del sistema nacional de información en seguridad pública a que se refiere el inciso b) del párrafo décimo del artículo 21 constitucional.
 
 II. La Ley de la Guardia Nacional contendrá, al menos, los siguientes elementos:
 
-1.	Los supuestos para la coordinación y colaboración de la Guardia Nacional con las instituciones de seguridad pública de las entidades federativas y de los Municipios;
+1.  Los supuestos para la coordinación y colaboración de la Guardia Nacional con las instituciones de seguridad pública de las entidades federativas y de los Municipios;
 
-2.	Las reglas para determinar las aportaciones de las entidades federativas y Municipios cuando soliciten la colaboración de la Guardia Nacional para la atención de tareas de seguridad pública de competencia local;
+2.  Las reglas para determinar las aportaciones de las entidades federativas y Municipios cuando soliciten la colaboración de la Guardia Nacional para la atención de tareas de seguridad pública de competencia local;
 
-3.	Lo relativo a la estructura jerárquica, regímenes de disciplina que incluya faltas, delitos y sanciones a la disciplina policial, responsabilidades y servicios, ascensos, prestaciones, ingreso, educación, capacitación, profesionalización y el cumplimiento de las responsabilidades y tareas que puedan homologarse, en lo conducente a las disposiciones aplicables en el ámbito de la Fuerza Armada permanente;
+3.  Lo relativo a la estructura jerárquica, regímenes de disciplina que incluya faltas, delitos y sanciones a la disciplina policial, responsabilidades y servicios, ascensos, prestaciones, ingreso, educación, capacitación, profesionalización y el cumplimiento de las responsabilidades y tareas que puedan homologarse, en lo conducente a las disposiciones aplicables en el ámbito de la Fuerza Armada permanente;
 
-4.	Los criterios de evaluación del desempeño de sus integrantes;
+4.  Los criterios de evaluación del desempeño de sus integrantes;
 
-5.	La regulación sobre la disposición, posesión, portación y uso de armas de fuego, atendiendo los estándares y mejores prácticas internacionales;
+5.  La regulación sobre la disposición, posesión, portación y uso de armas de fuego, atendiendo los estándares y mejores prácticas internacionales;
 
-6.	Las hipótesis para la delimitación de la actuación de sus integrantes;
+6.  Las hipótesis para la delimitación de la actuación de sus integrantes;
 
-7.	Los requisitos que deberán cumplir sus integrantes, conforme a las leyes aplicables, y
+7.  Los requisitos que deberán cumplir sus integrantes, conforme a las leyes aplicables, y
 
-8.	Los componentes mínimos del informe anual a que se refiere la fracción IV del artículo 76 de esta Constitución.
+8.  Los componentes mínimos del informe anual a que se refiere la fracción IV del artículo 76 de esta Constitución.
 
 III. La Ley Nacional sobre el Uso de la Fuerza establecerá, por lo menos, las siguientes previsiones:
 
-1.	La finalidad, alcance y definición del uso de la fuerza pública;
+1.  La finalidad, alcance y definición del uso de la fuerza pública;
 
-2.	Los sujetos obligados al cumplimiento del ordenamiento y los derechos y obligaciones de los integrantes de instituciones con atribuciones para llevar a cabo el ejercicio de la fuerza pública;
+2.  Los sujetos obligados al cumplimiento del ordenamiento y los derechos y obligaciones de los integrantes de instituciones con atribuciones para llevar a cabo el ejercicio de la fuerza pública;
 
-3.	La sujeción del uso de la fuerza a los principios de legalidad, necesidad, proporcionalidad, racionalidad y oportunidad;
+3.  La sujeción del uso de la fuerza a los principios de legalidad, necesidad, proporcionalidad, racionalidad y oportunidad;
 
-4.	La previsión del adiestramiento en medios, métodos, técnicas y tácticas del uso de la fuerza mediante el control físico, el empleo de armas incapacitantes, no letales y de armas letales;
+4.  La previsión del adiestramiento en medios, métodos, técnicas y tácticas del uso de la fuerza mediante el control físico, el empleo de armas incapacitantes, no letales y de armas letales;
 
-5.	Los niveles para el uso de la fuerza pública por los servidores públicos en el ejercicio de sus atribuciones para hacer cumplir la ley;
+5.  Los niveles para el uso de la fuerza pública por los servidores públicos en el ejercicio de sus atribuciones para hacer cumplir la ley;
 
-6.	La distinción y regulación de las armas e instrumentos incapacitantes, no letales y letales;
+6.  La distinción y regulación de las armas e instrumentos incapacitantes, no letales y letales;
 
-7.	Las reglas sobre la portación y uso de armas de fuego entre los integrantes de instituciones con atribuciones para llevar a cabo el ejercicio de la fuerza pública, así como sus responsabilidades
+7.  Las reglas sobre la portación y uso de armas de fuego entre los integrantes de instituciones con atribuciones para llevar a cabo el ejercicio de la fuerza pública, así como sus responsabilidades
 y sanciones;
 
-8.	Las previsiones de actuación de los integrantes de instituciones con atribuciones para llevar a cabo el ejercicio de la fuerza pública, con relación a personas detenidas, bajo su custodia o en manifestaciones públicas;
+8.  Las previsiones de actuación de los integrantes de instituciones con atribuciones para llevar a cabo el ejercicio de la fuerza pública, con relación a personas detenidas, bajo su custodia o en manifestaciones públicas;
 
-9.	Las normas para la presentación de informes de los servidores públicos que hagan uso de armas de fuego en el desempeño de sus funciones, así como para su sistematización y archivo, y
+9.  Las normas para la presentación de informes de los servidores públicos que hagan uso de armas de fuego en el desempeño de sus funciones, así como para su sistematización y archivo, y
 
-10.	Las reglas básicas de adiestramiento y gestión profesional del uso de la fuerza pública.
+10.  Las reglas básicas de adiestramiento y gestión profesional del uso de la fuerza pública.
 
 IV. La Ley Nacional del Registro de Detenciones incorporará, al menos, las siguientes previsiones:
 
-1.	Las características del Registro y los principios que rigen su conformación, uso y conservación;
+1.  Las características del Registro y los principios que rigen su conformación, uso y conservación;
 
-2.	El momento de realizar el registro de la persona dentro del procedimiento de detención;
+2.  El momento de realizar el registro de la persona dentro del procedimiento de detención;
 
-3.	El tratamiento de los datos personales de la persona detenida, en términos de las leyes en la materia;
+3.  El tratamiento de los datos personales de la persona detenida, en términos de las leyes en la materia;
 
-4.	Los criterios para clasificar la información como reservada o confidencial;
+4.  Los criterios para clasificar la información como reservada o confidencial;
 
-5.	Las personas autorizadas para acceder a la base de datos del Registro y los niveles de acceso;
+5.  Las personas autorizadas para acceder a la base de datos del Registro y los niveles de acceso;
 
-6.	Las atribuciones de los servidores públicos que desempeñen funciones en el Registro y sus responsabilidades en la recepción, administración y seguridad de la información, y
+6.  Las atribuciones de los servidores públicos que desempeñen funciones en el Registro y sus responsabilidades en la recepción, administración y seguridad de la información, y
 
-7.	La actuación que deberá desplegar el Registro y su personal en caso de ocurrir hechos que pongan en riesgo o vulneren su base de datos.
+7.  La actuación que deberá desplegar el Registro y su personal en caso de ocurrir hechos que pongan en riesgo o vulneren su base de datos.
 
 Quinto. Durante los nueve años siguientes a la entrada en vigor del presente Decreto, en tanto la Guardia Nacional desarrolla su estructura, capacidades e implantación territorial, el Presidente de la República podrá disponer de la Fuerza Armada permanente en tareas de seguridad pública. Conforme a los términos planteados por la Suprema Corte de Justicia de la Nación, esa participación deberá ser:
 
-I.	Extraordinaria, de tal manera que se acredite la absoluta necesidad, que sea temporal y solicitada de forma expresa y justificada por la autoridad civil;
+I.  Extraordinaria, de tal manera que se acredite la absoluta necesidad, que sea temporal y solicitada de forma expresa y justificada por la autoridad civil;
 
-II.	Regulada, para que cumpla con un estricto apego al orden jurídico previsto en esta Constitución, en las leyes que de ella emanen y los tratados internacionales que estén de acuerdo con la misma;
+II.  Regulada, para que cumpla con un estricto apego al orden jurídico previsto en esta Constitución, en las leyes que de ella emanen y los tratados internacionales que estén de acuerdo con la misma;
 
-III.	Fiscalizada, de manera que exista la constante revisión o supervisión del funcionamiento institucional a través de la rendición de cuentas, y
+III.  Fiscalizada, de manera que exista la constante revisión o supervisión del funcionamiento institucional a través de la rendición de cuentas, y
 
-IV.	Subordinada y complementaria, de forma tal que las labores de apoyo que la Fuerza Armada preste a las instituciones de seguridad pública solo puedan realizarse en su auxilio o complemento, y se encuentren fundadas y motivadas.
+IV.  Subordinada y complementaria, de forma tal que las labores de apoyo que la Fuerza Armada preste a las instituciones de seguridad pública solo puedan realizarse en su auxilio o complemento, y se encuentren fundadas y motivadas.
 
 La Fuerza Armada permanente realizará las tareas de seguridad pública con su organización y medios, y deberá capacitarse en la doctrina policial civil establecida en el artículo 21 de esta Constitución.
 
@@ -7551,17 +7553,17 @@ Cuarto. La prisión preventiva oficiosa, deberá evaluarse para determinar la co
 
 En el lapso señalado en el párrafo anterior, se deberá evaluar conforme a los criterios del Sistema Nacional de Seguridad Pública, la eficacia de esta medida cautelar, y la eficiencia del sistema penal acusatorio, mediante informes emitidos, por el gobierno federal y los gobiernos de las entidades federativas, tomando en cuenta a los poderes judiciales respectivos, así como a las fiscalías o procuradurías correspondientes, y organismos de protección de los derechos humanos, y que deberá contener, al menos, los siguientes elementos:
 
-1.	Desempeño eficaz de las Unidades Estatales de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso;
+1.  Desempeño eficaz de las Unidades Estatales de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso;
 
-2.	Eficacia de las medidas cautelares aplicadas;
+2.  Eficacia de las medidas cautelares aplicadas;
 
-3.	Creación y desempeño de instancias de atención integral de víctimas;
+3.  Creación y desempeño de instancias de atención integral de víctimas;
 
-4.	Implementación de sistemas de información criminal y de judicialización;
+4.  Implementación de sistemas de información criminal y de judicialización;
 
-5.	Resultado de la aplicación de Mecanismos Alternativos de Solución de Controversias en Materia Penal, y
+5.  Resultado de la aplicación de Mecanismos Alternativos de Solución de Controversias en Materia Penal, y
 
-6.	Los avances de la implementación de elementos críticos como la capacitación de los operadores de los poderes judiciales y del Ministerio Público, policía de investigación, policía preventiva, peritos, entre otros.
+6.  Los avances de la implementación de elementos críticos como la capacitación de los operadores de los poderes judiciales y del Ministerio Público, policía de investigación, policía preventiva, peritos, entre otros.
 
 Los parámetros para la medición de la eficacia en la implementación de los elementos críticos serán dispuestos por la ley correspondiente.
 
@@ -7604,21 +7606,21 @@ Noveno. Para la integración de la primera Junta Directiva del organismo al que 
 
 Con el fin de asegurar la renovación escalonada con motivo de los nombramientos que se realizarán, éstos se harán por los periodos siguientes:
 
-1)	Dos nombramientos por un periodo de cinco años;
+1)  Dos nombramientos por un periodo de cinco años;
 
-2)	Dos nombramientos por un periodo de seis años, y
+2)  Dos nombramientos por un periodo de seis años, y
 
-3)	Un nombramiento por un periodo de siete años.
+3)  Un nombramiento por un periodo de siete años.
 
 En la integración del Consejo Técnico de Educación, la Cámara de Senadores designará a sus siete miembros en un plazo máximo de 60 días naturales contados a partir de la entrada en vigor de este Decreto. Cuatro de ellos deberán ser representantes de los diversos tipos y modalidades de la educación.
 
 Para asegurar la renovación escalonada con motivo de los nombramientos que se realizarán, éstos se harán por los periodos siguientes:
 
-1)	Tres nombramientos por un periodo de tres años;
+1)  Tres nombramientos por un periodo de tres años;
 
-2)	Tres nombramientos por un periodo de cuatro años, y
+2)  Tres nombramientos por un periodo de cuatro años, y
 
-3)	Un nombramiento por un periodo de cinco años.
+3)  Un nombramiento por un periodo de cinco años.
 
 Para la designación de los integrantes de la Junta Directiva y del Consejo Técnico, el Senado de la República emitirá convocatoria pública a fin de que las instituciones educativas, organismos de la sociedad civil organizada y sociedad en general presenten propuestas. La Junta de Coordinación Política acordará los procedimientos para su elección.
 
@@ -7630,23 +7632,23 @@ Una vez constituida la Junta Directiva, será la encargada de dar cumplimiento a
 
 Hasta la designación de la Junta Directiva que realice la Cámara de Senadores en los términos del Artículo Noveno Transitorio, se nombrará como Coordinador de Administración a quien fungía como titular de la Unidad de Administración del Instituto Nacional para la Evaluación de la Educación, quien dispondrá las medidas administrativas y financieras para el funcionamiento del mismo, para lo cual tendrá las siguientes atribuciones:
 
-I.	Administrar y controlar los recursos humanos, presupuesto, recursos financieros, bienes y servicios, servicios tecnológicos, asuntos jurídicos y mejora de la gestión del organismo;
+I.  Administrar y controlar los recursos humanos, presupuesto, recursos financieros, bienes y servicios, servicios tecnológicos, asuntos jurídicos y mejora de la gestión del organismo;
 
-II.	Dar seguimiento a los procesos de planeación y programación, así como su implementación, con la participación de las unidades administrativas;
+II.  Dar seguimiento a los procesos de planeación y programación, así como su implementación, con la participación de las unidades administrativas;
 
-III.	Dar continuidad a las disposiciones que rijan las relaciones laborales y llevar a cabo los procesos de reclutamiento, selección, nómina y remuneraciones, servicios y capacitación al personal;
+III.  Dar continuidad a las disposiciones que rijan las relaciones laborales y llevar a cabo los procesos de reclutamiento, selección, nómina y remuneraciones, servicios y capacitación al personal;
 
-IV.	Supervisar las acciones para el desarrollo y seguimiento de los procesos de adquisición, almacenamiento, distribución, control y mantenimiento de los recursos materiales, así como de los servicios generales del Instituto;
+IV.  Supervisar las acciones para el desarrollo y seguimiento de los procesos de adquisición, almacenamiento, distribución, control y mantenimiento de los recursos materiales, así como de los servicios generales del Instituto;
 
-V.	Suscribir los instrumentos jurídicos en materia de administración del Instituto;
+V.  Suscribir los instrumentos jurídicos en materia de administración del Instituto;
 
-VI.	Dirigir las estrategias de tecnologías de la información del organismo y el desarrollo de herramientas informáticas y sistemas de comunicación y tecnológicos, así como la prestación de servicios informáticos y de soporte técnico, con la participación de las unidades administrativas;
+VI.  Dirigir las estrategias de tecnologías de la información del organismo y el desarrollo de herramientas informáticas y sistemas de comunicación y tecnológicos, así como la prestación de servicios informáticos y de soporte técnico, con la participación de las unidades administrativas;
 
-VII.	Establecer las estrategias para representar legalmente al organismo en toda clase de juicios, procedimientos administrativos e investigaciones ante los tribunales y otras autoridades;
+VII.  Establecer las estrategias para representar legalmente al organismo en toda clase de juicios, procedimientos administrativos e investigaciones ante los tribunales y otras autoridades;
 
-VIII.	Coordinar la atención y vigilancia del cumplimiento de las disposiciones en materia de transparencia y acceso a la información pública, y
+VIII.  Coordinar la atención y vigilancia del cumplimiento de las disposiciones en materia de transparencia y acceso a la información pública, y
 
-IX.	Determinar las acciones para atender las auditorías de las instancias fiscalizadoras, en coordinación con las unidades administrativas.
+IX.  Determinar las acciones para atender las auditorías de las instancias fiscalizadoras, en coordinación con las unidades administrativas.
 
 En un plazo de 15 días a partir de la vigencia de este Decreto, el Coordinador de Administración deberá publicar en el Diario Oficial de la Federación un informe acerca de la situación del Instituto que incluya el balance financiero correspondiente.
 
@@ -7855,9 +7857,9 @@ Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del pre
 
 Quinto. En ejercicio de sus facultades regulatorias, el Consejo de la Judicatura Federal adoptará las medidas necesarias para convertir los Tribunales Unitarios de Circuito en Tribunales Colegiados de Apelación, y los Plenos de Circuito en Plenos Regionales, considerando los siguientes lineamientos:
 
-a)	En cada entidad federativa habrá, al menos, un Tribunal Colegiado de Apelación.
+a)  En cada entidad federativa habrá, al menos, un Tribunal Colegiado de Apelación.
 
-b)	El establecimiento de los Plenos Regionales partirá de la agrupación de Circuitos según las cargas de trabajo y las estadísticas de asuntos planteados y resueltos.
+b)  El establecimiento de los Plenos Regionales partirá de la agrupación de Circuitos según las cargas de trabajo y las estadísticas de asuntos planteados y resueltos.
 
 Sexto. El sistema de creación de jurisprudencia por precedentes, que se incorpora como párrafo décimo segundo al artículo 94 constitucional, entrará en vigor cuando la Suprema Corte de Justicia de la Nación emita el Acuerdo General respectivo, de conformidad con su facultad autorregulatoria prevista en dicho precepto.
 
@@ -8054,7 +8056,7 @@ Publicado en el Diario Oficial de la Federación el 22 de marzo de 2024
 
 Artículo Único.- La interpretación auténtica respecto de los alcances de lo dispuesto en el Artículo Tercero Transitorio del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional", publicado en el Diario Oficial de la Federación el 26 de marzo del año 2019, deberá ser en el sentido de garantizar los derechos, prestaciones, pertenencia, rango, servicio y antigüedad del personal de las policías Militar y Naval asignado a la Guardia Nacional por acuerdos de carácter general emitidos por el Presidente de la República, acorde con lo siguiente:
 
-A.	La frase: "Los elementos de las policías Militar y Naval, así como otros elementos de mando y servicios de apoyo de la Fuerza Armada permanente, que sean asignados a la Guardia Nacional, conservarán su rango y prestaciones".
+A.  La frase: "Los elementos de las policías Militar y Naval, así como otros elementos de mando y servicios de apoyo de la Fuerza Armada permanente, que sean asignados a la Guardia Nacional, conservarán su rango y prestaciones".
 
 Toda vez que el citado precepto no prevé lo que para efectos del mismo debe entenderse por "asignados", los alcances del mismo se interpretarán conforme a la semántica, teniéndose así que el Diccionario de la Real Academia Española establece que el término "asignar" significa "nombrar" o "designar", permitiendo establecer que, en el presente caso, la asignación tuvo por objeto que el personal fuera separado funcionalmente de las fuerzas armadas para desempeñar funciones de seguridad pública en la Guardia Nacional sin perder sus derechos y prestaciones.
 
@@ -8064,13 +8066,13 @@ El "grado" tiene por objeto el ejercicio de la autoridad, de mando militar, de a
 
 Lo anterior, implica conservar sus prestaciones íntegras, toda vez que se encuentra en una asignación temporal derivada del artículo transitorio de la reforma constitucional por el que se crea la Guardia Nacional, motivo que no deberá, en ningún caso, implicar una afectación a sus derechos laborales, prestaciones inherentes, así como la salvaguarda de ser reasignado a su fuerza armada de origen.
 
-B.	La frase: "la ley garantizará que cuando un elemento sea reasignado a su cuerpo de origen, ello se realice respetando los derechos con que contaba al momento de ser asignado a aquélla".
+B.  La frase: "la ley garantizará que cuando un elemento sea reasignado a su cuerpo de origen, ello se realice respetando los derechos con que contaba al momento de ser asignado a aquélla".
 
 El referido mandato constitucional prevé que el personal asignado a la Guardia Nacional no pierde sus derechos y prestaciones. En consecuencia, la "reasignación" implica que el elemento militar o naval deje de realizar sus funciones en Seguridad Pública y sea reintegrado a su fuerza armada para continuar realizando sus actividades de índole netamente castrense con la suma de derechos y prestaciones adquiridos en dicha institución de seguridad pública.
 
 Lo anterior, genera la certeza jurídica de que la asignación tiene un carácter temporal, ya que esta situación podría concluir una vez que la mencionada institución de seguridad pública se consolide.
 
-C.	La frase: "reconocimiento del tiempo de servicios de la Guardia Nacional para efectos de su antigüedad".
+C.  La frase: "reconocimiento del tiempo de servicios de la Guardia Nacional para efectos de su antigüedad".
 
 El Constituyente Permanente previó proteger los derechos, estímulos y prestaciones de los elementos militares asignados a la Guardia Nacional, a fin de que se les reconozca y se les compute todo el tiempo de servicios que presten en la misma al momento de su reasignación, para los efectos de sumarlo a su antigüedad en las Fuerzas Armadas, lo que redunda en el derecho de participar en promoción para el ascenso al grado inmediato durante el tiempo que estén asignados y en su reasignación, así como de los demás beneficios y prestaciones antes señalados.
 
@@ -8101,23 +8103,23 @@ El Senado de la República tendrá un plazo de treinta días naturales posterior
 
 Para el caso de Magistradas y Magistrados de Circuito y Juezas y Jueces de Distrito, la elección será escalonada, renovándose la mitad de los cargos correspondientes a cada circuito judicial en la elección extraordinaria del año 2025 y la parte restante en la elección federal ordinaria del año 2027, conforme a lo siguiente:
 
-a)	Para seleccionar los cargos a renovar en la elección extraordinaria del año 2025, el Consejo de la Judicatura Federal entregará al Senado de la República un listado con la totalidad de cargos de personas juzgadoras, indicando su circuito judicial, especialización por materia, género, vacancias, renuncias y retiros programados, y la demás información que se le requiera, y
+a)  Para seleccionar los cargos a renovar en la elección extraordinaria del año 2025, el Consejo de la Judicatura Federal entregará al Senado de la República un listado con la totalidad de cargos de personas juzgadoras, indicando su circuito judicial, especialización por materia, género, vacancias, renuncias y retiros programados, y la demás información que se le requiera, y
 
-b)	El órgano legislativo determinará la porción de cargos a elegir en cada circuito judicial considerando en primer término las vacancias, renuncias y retiros programados. Los cargos restantes serán seleccionados mediante insaculación pública, tomando como base la renovación de la mitad de los cargos que correspondan a cada especialización por materia.
+b)  El órgano legislativo determinará la porción de cargos a elegir en cada circuito judicial considerando en primer término las vacancias, renuncias y retiros programados. Los cargos restantes serán seleccionados mediante insaculación pública, tomando como base la renovación de la mitad de los cargos que correspondan a cada especialización por materia.
 
 El Consejo General del Instituto Nacional Electoral podrá emitir los acuerdos que estime necesarios para la organización, desarrollo, cómputo, vigilancia y fiscalización del proceso electoral extraordinario del año 2025 y para garantizar el cumplimiento de las disposiciones constitucionales y legales aplicables para los procesos electorales federales, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género. Las y los consejeros del Poder Legislativo y las y los representantes de los partidos políticos ante el Consejo General no podrán participar en las acciones, actividades y sesiones relacionadas a este proceso.
 
 Las boletas electorales contendrán, entre otros datos, el cargo, la entidad federativa y, en su caso, el circuito judicial que corresponda a cada tipo de elección. Llevarán impresos los nombres completos numerados de las personas candidatas distribuidos por orden alfabético y progresivo iniciando por el apellido paterno, e indicando la especialización por materia cuando corresponda. El listado de personas candidatas distinguirá la autoridad postulante y las candidaturas de las personas juzgadoras que estén en funciones en los cargos a renovar y deseen participar en la elección. La boleta garantizará que las y los votantes asienten la candidatura de su elección conforme a lo siguiente:
 
-a)	Para Ministras y Ministros de la Suprema Corte de Justicia de la Nación podrán elegir hasta cinco mujeres y hasta cuatro hombres;
+a)  Para Ministras y Ministros de la Suprema Corte de Justicia de la Nación podrán elegir hasta cinco mujeres y hasta cuatro hombres;
 
-b)	Para Magistradas y Magistrados del Tribunal de Disciplina Judicial podrán elegir hasta tres mujeres y hasta dos hombres;
+b)  Para Magistradas y Magistrados del Tribunal de Disciplina Judicial podrán elegir hasta tres mujeres y hasta dos hombres;
 
-c)	Para Magistradas y Magistrados de Sala Superior del Tribunal Electoral del Poder Judicial de la Federación podrán elegir hasta dos mujeres y hasta dos hombres;
+c)  Para Magistradas y Magistrados de Sala Superior del Tribunal Electoral del Poder Judicial de la Federación podrán elegir hasta dos mujeres y hasta dos hombres;
 
-d)	Para Magistradas y Magistrados de salas regionales del Tribunal Electoral del Poder Judicial de la Federación podrán elegir hasta dos mujeres y un hombre por cada sala;
+d)  Para Magistradas y Magistrados de salas regionales del Tribunal Electoral del Poder Judicial de la Federación podrán elegir hasta dos mujeres y un hombre por cada sala;
 
-e)	Para Magistradas y Magistrados de Circuito y Juezas y Jueces de Distrito podrán elegir hasta cinco mujeres y hasta cinco hombres.
+e)  Para Magistradas y Magistrados de Circuito y Juezas y Jueces de Distrito podrán elegir hasta cinco mujeres y hasta cinco hombres.
 
 La etapa de preparación de la elección extraordinaria del año 2025 iniciará con la primera sesión que el Consejo General del Instituto Nacional Electoral celebre dentro de los siete días posteriores a la entrada en vigor del presente Decreto.
 
@@ -8131,9 +8133,9 @@ Tercero.- El periodo de las Ministras y Ministros de la Suprema Corte de Justici
 
 Lo anterior no será aplicable a las Ministras y Ministros en funciones que sean electos en la elección extraordinaria del año 2025, quienes ejercerán el cargo por el periodo que reste a su nombramiento original, observando lo siguiente:
 
-a)	Cuando el periodo del nombramiento concluya el mismo año en que se realice la elección federal ordinaria que corresponda, el cargo se renovará en esa elección, tomando protesta la persona que resulte electa el día en que concluya el nombramiento respectivo, y
+a)  Cuando el periodo del nombramiento concluya el mismo año en que se realice la elección federal ordinaria que corresponda, el cargo se renovará en esa elección, tomando protesta la persona que resulte electa el día en que concluya el nombramiento respectivo, y
 
-b)	Cuando el periodo del nombramiento no concluya el mismo año en que se realice la elección federal ordinaria que corresponda, el periodo del nombramiento se prorrogará por el tiempo adicional hasta la próxima elección.
+b)  Cuando el periodo del nombramiento no concluya el mismo año en que se realice la elección federal ordinaria que corresponda, el periodo del nombramiento se prorrogará por el tiempo adicional hasta la próxima elección.
 
 Las y los Ministros en funciones cuyos nombramientos concluyan antes de la fecha de cierre de la convocatoria señalada en la fracción I del artículo 96 de este Decreto dejarán el cargo al término de su nombramiento original y les serán aplicables las disposiciones previstas en los artículos 94 y 101 de este Decreto.
 
@@ -8220,13 +8222,13 @@ Quinto.- Los asuntos que se encuentren en trámite a la entrada en vigor del pre
 
 Sexto.- El Ejecutivo Federal dispondrá lo conducente para que:
 
-I.	El personal procedente de la extinta Policía Federal cese de prestar sus servicios en la Guardia Nacional y quede adscrito a la Secretaría del ramo de Seguridad Pública, conservando sus derechos laborales adquiridos. El personal que pertenezca a los organismos especializados, podrá continuar prestando sus servicios en la Guardia Nacional de manera temporal, conforme a los convenios de colaboración que para tal efecto se formalicen entre las Secretarías de Defensa Nacional y la de Seguridad y Protección Ciudadana.
+I.  El personal procedente de la extinta Policía Federal cese de prestar sus servicios en la Guardia Nacional y quede adscrito a la Secretaría del ramo de Seguridad Pública, conservando sus derechos laborales adquiridos. El personal que pertenezca a los organismos especializados, podrá continuar prestando sus servicios en la Guardia Nacional de manera temporal, conforme a los convenios de colaboración que para tal efecto se formalicen entre las Secretarías de Defensa Nacional y la de Seguridad y Protección Ciudadana.
 
-II.	Se transfieran a la Secretaría de la Defensa Nacional, los recursos presupuestarios y financieros que correspondan para cubrir las erogaciones por concepto de servicios personales de la última plantilla general de plazas aprobada a la extinta Policía Federal y de confianza, así como los gastos de operación de la Guardia Nacional y los recursos materiales destinados a su operación, con excepción de aquellos requeridos para el personal que continuará, bajo la adscripción de la Secretaría del ramo de Seguridad Pública.
+II.  Se transfieran a la Secretaría de la Defensa Nacional, los recursos presupuestarios y financieros que correspondan para cubrir las erogaciones por concepto de servicios personales de la última plantilla general de plazas aprobada a la extinta Policía Federal y de confianza, así como los gastos de operación de la Guardia Nacional y los recursos materiales destinados a su operación, con excepción de aquellos requeridos para el personal que continuará, bajo la adscripción de la Secretaría del ramo de Seguridad Pública.
 
-	Conforme se queden vacantes las plazas de los integrantes de la extinta Policía Federal, la Secretaría del ramo de Seguridad Pública, debe transferir los recursos presupuestales a la Secretaría de la Defensa Nacional.
+  Conforme se queden vacantes las plazas de los integrantes de la extinta Policía Federal, la Secretaría del ramo de Seguridad Pública, debe transferir los recursos presupuestales a la Secretaría de la Defensa Nacional.
 
-III.	El personal naval que actualmente forma parte de la Guardia Nacional permanecerá integrado a esta, conforme a la reclasificación señalada en el Transitorio Tercero del presente Decreto. 
+III.  El personal naval que actualmente forma parte de la Guardia Nacional permanecerá integrado a esta, conforme a la reclasificación señalada en el Transitorio Tercero del presente Decreto. 
 
 Séptimo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.
 

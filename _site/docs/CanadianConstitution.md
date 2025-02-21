@@ -1,4 +1,6 @@
-FOREWORD
+_Updates in progress_
+
+FOREWORD  
 Layout
 
 The presentation of this codification and the accompanying notes follow, to the extent possible, the basic principles related to formatting legislative enactments that were put in place in January 2016. For certain elements particular to constitutional enactments that have no equivalent in other consolidated statutes, it was decided to draw upon the presentation of these enactments in their previously published form.
@@ -18,48 +20,48 @@ Amendment of the Constitution Act, 1867
 
 The law embodied in the Constitution Act, 1867 has been altered many times otherwise than by textual amendment, not only by the Parliament of the United Kingdom but also by the Parliament of Canada and the legislatures of the provinces in those cases where provisions of that Act are expressed to be subject to alteration by Parliament or the legislatures. A consolidation of the Constitution Acts including only those subsequent enactments that alter the text of the Act would therefore not produce a true statement of the law. In preparing this consolidation, an attempt has been made to reflect accurately the substance of the law contained in enactments modifying the provisions of the Constitution Act, 1867, whether by textual amendment or otherwise.
 
-The various classes of enactments modifying the Constitution Act, 1867 have been dealt with as follows:
+The various classes of enactments modifying the Constitution Act, 1867 have been dealt with as follows:  
 I. Textual Amendments
 
-    1.  Repeals
+  1.  Repeals
 
-    Repealed provisions (e.g. section 2) have been deleted from the text and quoted in an endnote.
+  Repealed provisions (e.g. section 2) have been deleted from the text and quoted in an endnote.
 
-    2.  Amendments
+  2.  Amendments
 
-    Amended provisions (e.g. section 4) are reproduced in the text in their amended form and the original provisions are quoted in an endnote.
+  Amended provisions (e.g. section 4) are reproduced in the text in their amended form and the original provisions are quoted in an endnote.
 
-    3.  Additions
+  3.  Additions
 
-    Added provisions (e.g. section 51A) are included in the text.
+  Added provisions (e.g. section 51A) are included in the text.
 
-    4.  Substitutions
+  4.  Substitutions
 
-    Substituted provisions (e.g. section 18) are included in the text and the former provision is quoted in an endnote.
+  Substituted provisions (e.g. section 18) are included in the text and the former provision is quoted in an endnote.
 
-    5.  Alterations by the Legislatures
+  5.  Alterations by the Legislatures
 
-    Provisions enacted by provincial legislatures under the unilateral amending procedure set out in section 45 of the Constitution Act, 1982, which allows a legislature to amend the constitution of its province, are italicized. The use of this character is intended to emphasize that these new provisions (e.g. section 90Q.1) are distinct from the amendments made to the Constitution of Canada (e.g. sections 51 and 93A) that were enacted under the procedures set out in sections 38 to 44 of the Constitution Act, 1982.
+  Provisions enacted by provincial legislatures under the unilateral amending procedure set out in section 45 of the Constitution Act, 1982, which allows a legislature to amend the constitution of its province, are italicized. The use of this character is intended to emphasize that these new provisions (e.g. section 90Q.1) are distinct from the amendments made to the Constitution of Canada (e.g. sections 51 and 93A) that were enacted under the procedures set out in sections 38 to 44 of the Constitution Act, 1982.
 
-    Marginal notes identifying the name of the province to which an amendment applies have been added for administrative convenience and are reflected in the table of provisions.
+  Marginal notes identifying the name of the province to which an amendment applies have been added for administrative convenience and are reflected in the table of provisions.
 
 II. Non-textual Amendments
 
-    1.  Alterations by United Kingdom Parliament
+  1.  Alterations by United Kingdom Parliament
 
-    Provisions altered by the United Kingdom Parliament otherwise than by textual amendment (e.g. section 21) are included in the text in their altered form and the original provision is quoted in an endnote.
+  Provisions altered by the United Kingdom Parliament otherwise than by textual amendment (e.g. section 21) are included in the text in their altered form and the original provision is quoted in an endnote.
 
-    2.  Additions by United Kingdom Parliament
+  2.  Additions by United Kingdom Parliament
 
-    Constitutional provisions added otherwise than by the insertion of additional provisions in the Constitution Act, 1867 (e.g. provisions of the Constitution Act, 1871 authorizing Parliament to legislate for any territory not included in a province) are not incorporated in the text but the additional provisions are quoted in an appropriate endnote.
+  Constitutional provisions added otherwise than by the insertion of additional provisions in the Constitution Act, 1867 (e.g. provisions of the Constitution Act, 1871 authorizing Parliament to legislate for any territory not included in a province) are not incorporated in the text but the additional provisions are quoted in an appropriate endnote.
 
-    3.  Alterations by Parliament of Canada
+  3.  Alterations by Parliament of Canada
 
-    Provisions subject to alteration by the Parliament of Canada (e.g. section 37) have been included in the text in their altered form, wherever possible, but where this was not feasible (e.g. section 40) the original section has been retained in the text and an endnote reference made to the Act of the Parliament of Canada effecting the alteration.
+  Provisions subject to alteration by the Parliament of Canada (e.g. section 37) have been included in the text in their altered form, wherever possible, but where this was not feasible (e.g. section 40) the original section has been retained in the text and an endnote reference made to the Act of the Parliament of Canada effecting the alteration.
 
-    4.  Alterations by the Legislatures
+  4.  Alterations by the Legislatures
 
-    Provisions subject to alteration by the legislatures of the provinces, either by virtue of specific authority (e.g. sections 83 and 84) or by virtue of former head 1 of section 92 (e.g. sections 70 and 72), have been included in the text in their original form but the endnotes refer to the provincial enactments effecting the alteration. Amendments to the provincial enactments are not noted; these may be found by consulting the provincial statutes. In addition, only the enactments of the original provinces are referred to; corresponding enactments by the provinces that were created at a later date are not noted.
+  Provisions subject to alteration by the legislatures of the provinces, either by virtue of specific authority (e.g. sections 83 and 84) or by virtue of former head 1 of section 92 (e.g. sections 70 and 72), have been included in the text in their original form but the endnotes refer to the provincial enactments effecting the alteration. Amendments to the provincial enactments are not noted; these may be found by consulting the provincial statutes. In addition, only the enactments of the original provinces are referred to; corresponding enactments by the provinces that were created at a later date are not noted.
 
 Spent Provisions
 

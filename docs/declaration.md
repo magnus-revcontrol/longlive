@@ -5,14 +5,24 @@ permalink: /declaration/
 ---
 
 > Magnus-Opus.xyz provides the following as a template for what a declaration of independence might be based upon. As seems appropriate, this document is largely based upon the US Declaration of Independence (1776). It is meant to provide a template for 'The Cascade Coalition' (or whatever it will end up being referred to as) states: California, Oregon, and Washington; however it should function as a template for all states and territories formerly of the United States of America.
+>
+> You are encouraged to send this to your state legislators as a template, and to encourage them to take action to make this happen.
 
+Table of Contents
+* TOC
+{:toc}
+---
+## The New Declaration
+## Introduction
 In State Legislative Assembly, dated:  
 
 The Declaration of the states of: California, Oregon, Washington and others which may join us, formerly of the United States of America,  
 **_When_ in the Course of human events,** it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the governance of their own citizenry, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.
 
+## Preamble
 **_We_ hold these truths to be self-evident,** -- that _all_ people are created equal, -- that they are granted by their government with certain unalienable Rights, -- that among these are Life, Liberty and the pursuit of Happiness. And _We_ hold, that to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, -- That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness. Prudence, indeed, will dictate that Governments long established should not be changed for light and transient causes; and accordingly all experience hath shewn, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed. And such suffering has been afflicted upon the people, as the Constitution was laid aside by those who would usurp the rightfully unalienable rights of the people when with a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to throw off such Government, and to provide new Guards for their future security. -- Such has been the patient sufferance of these States and such is now the necessity which constrains them to acknowledge that their former Systems of Government under the Constitution has been laid aside by despots. The history of the present ***President of the United States*** is a history of repeated injuries and usurpations, all having in direct object the establishment of an absolute Tyranny over these States. To prove this, let Facts be submitted to a candid world.
 
+## Indictments
 * ***He*** has refused his Assent to Laws, the most wholesome and necessary for the public good.
 
 * ***He*** has assumed the position of President in violation of the United States Constitution, Amendment 14.
@@ -57,10 +67,12 @@ The Declaration of the states of: California, Oregon, Washington and others whic
 
 * ***He*** has excited domestic insurrections amongst us, and has endeavored to bring on the inhabitants of our lands merciless and contrived treatment, seizing, holding captive and causing their deportation.
 
+## Denunciation of GOP and MAGA movement
 In every stage of these Oppressions We have Petitioned for Redress in the most humble terms: Our repeated Petitions have been answered only by repeated injury. A pretending Prince whose character is thus marked by every act which may define a Tyrant, _is unfit to be the ruler of a free people._
 
 Nor have We been wanting in attentions to our brethren and elected officials. We have warned them from time to time of attempts by their legislature members to extend an unwarrantable jurisdiction over us. We have reminded them of the circumstances of our emigration and settlement here. We have appealed to their native justice and magnanimity, and we have conjured them by the ties of our common kindred to disavow these usurpations, which, would inevitably interrupt our connections and correspondence. They too have been deaf to the voice of justice and of consanguinity. We must, therefore, acquiesce in the necessity, which denounces our Separation, and hold them, as we hold the rest of mankind, Enemies in War, in Peace Friends.
 
+## Conclusion
 We, therefore, the Representatives of the States of California, Oregon, Washington and others which may join us, formerly of the United States of America, in General Congress, Assembled,  do, in the Name, and by Authority of the good People of these States, solemnly publish and declare,  
 That these states united are, and of Right ought to be **Free and Independent States**; that they are Absolved from _all_ Allegiance to the Unconstitutional Trump Presidency, and that all political connection between them and the unconstitutional Trump Administration and it's puppets in the Judicial and Legislative organizations, is and ought to be totally dissolved; and that as Free and Independent States, they have full Power to levy War, conclude Peace, contract Alliances, establish Commerce, and to do all other Acts and Things which Independent States may of right do. And for the support of this Declaration, we mutually pledge to each other our Lives, our Fortunes and our sacred Honor, and to join as a reconstituted confederation of of free states holding as interim Constitution the United States Constitution and it's Twenty Eight Amendments as they stood before the Usurpation of power on Jan 20th 2025.
 
@@ -68,9 +80,14 @@ The said states hereby severally enter into a firm league of friendship with eac
 
 The better to secure and perpetuate mutual friendship and intercourse among the people of the different states in this union, the inhabitants of each of these states, fugitives from Justice excepted, shall be entitled to all privileges and immunity's of free citizens in the several states; and the people of each state shall have free ingress and regress to and from any other state, and shall enjoy therein all the privileges of trade and commerce, subject to the same duties, impositions and restrictions as the inhabitants thereof respectively, provided that such restrictions shall not extend so far as to prevent the removal of property imported into any state, to any other State of which the Owner is an inhabitant; provided also that no imposition, duties or restriction shall be laid by any state, on the property of these states, or the coalition of them nor the coalition lay impositions on the property, trade, or rights of them except as regulated under the constitution and legislated by the representative houses.
 
+## Signatories
 **_Undersigned_**
 
 _Legislatures of the States of California, Oregon, Washington_  
-_Governors of the States of California, Oregon, Washington_
+_Governors of the States of California, Oregon, Washington_  
 
-> This template is provided by magus-opus.xyz. You are encouraged to send it to your state legislators, and to encourage them to take action to make this happen.
+---
+  
+>  
+> This template Declaration of Independence is provided by magus-opus.xyz. You are encouraged to send it to your state legislators, and to encourage them to take action to make this happen.
+>  

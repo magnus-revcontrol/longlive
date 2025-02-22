@@ -15,32 +15,34 @@ Right and proper action from the citizenry is readily apparent from this nation'
 
 The mission of this project would be rendered non requisite and the project will be considered successfully completed if:  
 A.  
-  1. The US Legislature impeaches Trump, and removes him from the office of the Presidency.
-  2. The Trump second presidency is ruled unconstitutional and all actions taken since inauguration rolled back, including the termination and hiring of all positions at any level, the striking of all Executive Orders since Trump's second inauguration.
-  3. The resignation of all Trump federal and Supreme Court nominees.
+>  1. The US Legislature impeaches Trump, and removes him from the office of the Presidency.
+>  2. The Trump second presidency is ruled unconstitutional and all actions taken since inauguration rolled back, including the termination and hiring of all positions at any level, the striking of all Executive Orders since Trump's second inauguration.
+>  3. The resignation of all Trump federal and Supreme Court nominees.
 	
 -or-
 
 B.
-  1. The succession of states from the former US via declaration by state legislatures
-  2. The adoption of return to the Constitution as the law of the land.
-  3. The ratification of a new Constitution under a new federal government
-  4. The successful formation of a new federal government.
+>  1. The succession of states from the former US via declaration by state legislatures
+>  2. The adoption of return to the Constitution as the law of the land.
+>  3. The ratification of a new Constitution under a new federal government
+>  4. The successful formation of a new federal government.
 	
 Process:  
 A. preparation of:  
   1. Declaration of Independence of the Cascadian Coalition States (WA, OR, CA) based largely on US Declaration of Independence 1777.
   2. Proposed Constitution based upon US Constitution and amendments, and other such documents (Mexican and Canadian Constitutions, Iroquois League, etc)
-  3. draft motions for each required legislative vote or governor's order
-B. proposal for Cascadian Congress to be called to 
+  3. draft motions for each required legislative vote or governor's order  
+  
+B. draft proposal for Cascadian Congress (CA, OR, WA) to be called to 
   1. approve declaration of independence
   2. motions to state legislatures
-  3. proposals for other states to join
-C. States send-- 
-  * Declaration to:
+  3. proposals for other states to join  
+  
+C. States send--   
+  * Declaration to:  
   1. office of President
   2. Vice President
-  3. all members of US House and Senate.
+  3. all members of US House and Senate.  
     * Declaration and include proposals for other states to join to:
       * All US state governors
       * All state houses of legislature

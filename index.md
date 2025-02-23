@@ -4,7 +4,7 @@ title: Home
 ---
 
   | :--- | :---: |
-  |THE CONSTITUTION IS FALLEN <br> LONG LIVE THE CONSTITUTION <br> [READ THE NEW DECLARATION](/declaration) <br> <br> <br> Please start with the [Overview](/overview/)  | [![street signs in rotation](/assets/images/signloop_smaller.gif)](https://shop.magnus-opus.xyz)
+  |THE CONSTITUTION IS FALLEN <br> LONG LIVE THE CONSTITUTION <br> [READ THE NEW DECLARATION](/declaration) <br> <br> <br> Please start with the [Overview](/overview/) <br> and be sure to read [the support page](/support). | [![street signs in rotation](/assets/images/signloop_smaller.gif)](https://shop.magnus-opus.xyz)
 
 You can use this widget from https://www.votinginfoproject.org/ to look up your elected officials,  
 <link rel="stylesheet" type="text/css" href="https://votinginfotool.org/css/compiled/vit.css"/>

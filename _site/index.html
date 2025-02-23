@@ -46,7 +46,32 @@
   </tbody>
 </table>
 
-<p>You can look up your state representatives at <a href="https://www.usa.gov/elected-officials">usa.gov/elected-officials</a>. Please contact them and tell them that: it is their duty to uphold the constitution, that the federal government currently in place has failed to do so, that the executive branch has clearly and Unconscionably thrown down the rule of law under the constitution, that the judiciary is clearly compromised, and that the power of the legislative branch has been usurped by the executive branch, that the system of checks and balances provided to this consitutional democracy have been intentionally subverted, that the rule of law under the consititution is fallen, and that as demonstrated by this nation’s history that it is their duty to re-establish the rule of law under the constitution by voting to declare independence from the current administration’s rule and joining together to re-establish a constitutional democracy under the existing US Constitution.</p>
+<p>You can use this widget from https://www.votinginfoproject.org/ to look up your elected officials,</p>
+<link rel="stylesheet" type="text/css" href="https://votinginfotool.org/css/compiled/vit.css" />
+
+<script src="https://votinginfotool.org/js/compiled/app.js"></script>
+
+<div id="_vit" style="width: 640px; height: 480px;"></div>
+
+<script>
+  var config = {
+    "embedded-line1": {"en":"Lookup Elected Officials"},
+    "logo": {"type":"none"},
+    "official-only": true
+  };
+  var loadVIT = function () {
+    if (typeof vit !== 'undefined'){
+      vit.core.init("_vit", config);
+    } else {
+      setTimeout(loadVIT, 500);
+    };
+  };
+  loadVIT();
+</script>
+
+<p>You can also look up your state representatives at <a href="https://www.usa.gov/elected-officials">usa.gov/elected-officials</a> or via your state legislature’s website.</p>
+
+<p><strong>Please contact them</strong> and tell them that: it is their duty to uphold the constitution, that the federal government currently in place has failed to do so, that the executive branch has clearly and Unconscionably thrown down the rule of law under the constitution, that the judiciary is clearly compromised, and that the power of the legislative branch has been usurped by the executive branch, that the system of checks and balances provided to this consitutional democracy have been intentionally subverted, that the rule of law under the consititution is fallen, and that as demonstrated by this nation’s history that it is their duty to re-establish the rule of law under the constitution by voting to declare independence from the current administration’s rule and joining together to re-establish a constitutional democracy under the existing US Constitution.</p>
 
 <p>And consider supporting by purchasing Merch from <a href="https://shop.magnus-opus.xyz">shop.magnus-opus.xyz</a> or donating to <a href="https://gofund.me/b16a37f9">this personal GoFundMe campaign</a>. See <a href="/support">Support</a> for more ways to support.</p>
 
